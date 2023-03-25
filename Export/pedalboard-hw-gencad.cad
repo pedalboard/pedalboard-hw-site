@@ -540,7 +540,7 @@ PIN "PE1" PAD14 -0.19685 0 TOP 0 0
 PIN "PE2" PAD14 0.19685 0 TOP 0 0
 PIN "PE@" PAD24 0.0984252 0 TOP 0 0
 
-SHAPE "Rotary_Encoder:RotaryEncoder_Alps_EC11E-Switch_Vertical_H20mm_CircularMountingHoles"
+SHAPE "Pedalboard Library:RotaryEncoder_Alps_EC11E-Switch_Vertical_H20mm_CircularMountingHoles"
 INSERT TH
 LINE -0.011811 0.0629921 0.011811 0.0629921
 LINE 0 0.0511811 -0.011811 0.0629921
@@ -1248,13 +1248,13 @@ TEXT 0.075 -0.155906 0.0393701 0 0 SILKSCREEN_TOP "NEOPIX" 0 0 0.23622 0.0393701
 SHEET "RefDes: D2, Value: NEOPIX"
 
 COMPONENT "SW7"
-DEVICE "DEV_Rotary_Encoder:RotaryEncoder_Alps_EC11E-Switch_Vertical_H20mm_CircularMountingHoles"
+DEVICE "DEV_Pedalboard Library:RotaryEncoder_Alps_EC11E-Switch_Vertical_H20mm_CircularMountingHoles"
 PLACE 2.37205 -1.24016
 LAYER TOP
 ROTATION 0
-SHAPE "Rotary_Encoder:RotaryEncoder_Alps_EC11E-Switch_Vertical_H20mm_CircularMountingHoles" 0 0
-TEXT 0.59378 0.102756 0.0393701 0 0 SILKSCREEN_TOP "SW7" 0 0 0.11811 0.0393701
-TEXT 0.0688976 0.255906 0.0393701 0 0 SILKSCREEN_TOP "VOL Rotary" 0 0 0.393701 0.0393701
+SHAPE "Pedalboard Library:RotaryEncoder_Alps_EC11E-Switch_Vertical_H20mm_CircularMountingHoles" 0 0
+TEXT 0.110236 0.185039 0.0393701 0 0 SILKSCREEN_TOP "SW7" 0 0 0.11811 0.0393701
+TEXT 0.295276 -0.409449 0.0393701 0 0 SILKSCREEN_TOP "VOL Rotary" 0 0 0.393701 0.0393701
 SHEET "RefDes: SW7, Value: VOL Rotary"
 
 COMPONENT "C2"
@@ -1518,13 +1518,13 @@ TEXT 0.2 -0.0972441 0.0393701 -180 0 SILKSCREEN_TOP "1K@100MHz" 0 0 0.354331 0.0
 SHEET "RefDes: L4, Value: 1K@100MHz"
 
 COMPONENT "SW8"
-DEVICE "DEV_Rotary_Encoder:RotaryEncoder_Alps_EC11E-Switch_Vertical_H20mm_CircularMountingHoles"
+DEVICE "DEV_Pedalboard Library:RotaryEncoder_Alps_EC11E-Switch_Vertical_H20mm_CircularMountingHoles"
 PLACE 5.3248 -1.24016
 LAYER TOP
 ROTATION 0
-SHAPE "Rotary_Encoder:RotaryEncoder_Alps_EC11E-Switch_Vertical_H20mm_CircularMountingHoles" 0 0
-TEXT 0.626024 0.107756 0.0393701 0 0 SILKSCREEN_TOP "SW8" 0 0 0.11811 0.0393701
-TEXT 0.108268 0.255906 0.0393701 0 0 SILKSCREEN_TOP "GAIN Rotary" 0 0 0.433071 0.0393701
+SHAPE "Pedalboard Library:RotaryEncoder_Alps_EC11E-Switch_Vertical_H20mm_CircularMountingHoles" 0 0
+TEXT 0.110236 0.185039 0.0393701 0 0 SILKSCREEN_TOP "SW8" 0 0 0.11811 0.0393701
+TEXT 0.295276 -0.409449 0.0393701 0 0 SILKSCREEN_TOP "GAIN Rotary" 0 0 0.433071 0.0393701
 SHEET "RefDes: SW8, Value: GAIN Rotary"
 
 COMPONENT "R2"
@@ -1660,25 +1660,21 @@ $ENDCOMPONENTS
 
 $DEVICES
 
-DEVICE "DEV_Pedalboard Library:Jack_6.35mm_Horizontal_0"
-PART "Audio IN Left"
-PACKAGE "Pedalboard Library:Jack_6.35mm_Horizontal"
+DEVICE "DEV_Capacitor_THT:C_Disc_D3.0mm_W1.6mm_P2.50mm_1"
+PART "100nF"
+PACKAGE "Capacitor_THT:C_Disc_D3.0mm_W1.6mm_P2.50mm"
 
 DEVICE "DEV_Pedalboard Library:LED_D5.0mm-NeoPixel"
 PART "NEOPIX"
 PACKAGE "Pedalboard Library:LED_D5.0mm-NeoPixel"
 
-DEVICE "DEV_Pedalboard Library:Jack_6.35mm_Horizontal"
-PART "Audio OUT Left"
-PACKAGE "Pedalboard Library:Jack_6.35mm_Horizontal"
-
 DEVICE "DEV_MountingHole:MountingHole_2.7mm_M2.5_DIN965"
 PART "MountingHole"
 PACKAGE "MountingHole:MountingHole_2.7mm_M2.5_DIN965"
 
-DEVICE "DEV_Inductor_THT:L_Axial_L6.6mm_D2.7mm_P10.16mm_Horizontal_Vishay_IM-2"
-PART "1K@100MHz"
-PACKAGE "Inductor_THT:L_Axial_L6.6mm_D2.7mm_P10.16mm_Horizontal_Vishay_IM-2"
+DEVICE "DEV_Pedalboard Library:Jack_6.35mm_Horizontal"
+PART "Audio OUT Right"
+PACKAGE "Pedalboard Library:Jack_6.35mm_Horizontal"
 
 DEVICE "DEV_Pedalboard Library:Raspberry PI Compute Module CM4 Nano A"
 PART "Raspberry_pi"
@@ -1688,15 +1684,19 @@ DEVICE "DEV_Capacitor_THT:C_Disc_D3.0mm_W1.6mm_P2.50mm_0"
 PART "100nF"
 PACKAGE "Capacitor_THT:C_Disc_D3.0mm_W1.6mm_P2.50mm"
 
-DEVICE "DEV_Capacitor_THT:C_Disc_D3.0mm_W1.6mm_P2.50mm"
-PART "100nF"
-PACKAGE "Capacitor_THT:C_Disc_D3.0mm_W1.6mm_P2.50mm"
-
 DEVICE "DEV_Pedalboard Library:Jack_3.5mm_CUI_SJ1-3525N_Horizontal"
 PART "MIDI OUT J"
 PACKAGE "Pedalboard Library:Jack_3.5mm_CUI_SJ1-3525N_Horizontal"
 
-DEVICE "DEV_Capacitor_THT:C_Disc_D3.0mm_W1.6mm_P2.50mm_1"
+DEVICE "DEV_Pedalboard Library:Jack_6.35mm_Horizontal_0"
+PART "Audio IN Left"
+PACKAGE "Pedalboard Library:Jack_6.35mm_Horizontal"
+
+DEVICE "DEV_Inductor_THT:L_Axial_L6.6mm_D2.7mm_P10.16mm_Horizontal_Vishay_IM-2"
+PART "1K@100MHz"
+PACKAGE "Inductor_THT:L_Axial_L6.6mm_D2.7mm_P10.16mm_Horizontal_Vishay_IM-2"
+
+DEVICE "DEV_Capacitor_THT:C_Disc_D3.0mm_W1.6mm_P2.50mm"
 PART "100nF"
 PACKAGE "Capacitor_THT:C_Disc_D3.0mm_W1.6mm_P2.50mm"
 
@@ -1724,9 +1724,9 @@ DEVICE "DEV_Pedalboard Library:CP-2350"
 PART "MIDI_OUT"
 PACKAGE "Pedalboard Library:CP-2350"
 
-DEVICE "DEV_Rotary_Encoder:RotaryEncoder_Alps_EC11E-Switch_Vertical_H20mm_CircularMountingHoles"
+DEVICE "DEV_Pedalboard Library:RotaryEncoder_Alps_EC11E-Switch_Vertical_H20mm_CircularMountingHoles"
 PART "VOL Rotary"
-PACKAGE "Rotary_Encoder:RotaryEncoder_Alps_EC11E-Switch_Vertical_H20mm_CircularMountingHoles"
+PACKAGE "Pedalboard Library:RotaryEncoder_Alps_EC11E-Switch_Vertical_H20mm_CircularMountingHoles"
 
 DEVICE "DEV_Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal_0"
 PART "220"

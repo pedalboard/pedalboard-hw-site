@@ -1,7 +1,7 @@
 (export (version "E")
   (design
     (source "/__w/pedalboard-hw/pedalboard-hw/pedalboard-hw.kicad_sch")
-    (date "Sat Mar 25 20:44:45 2023")
+    (date "Sat Mar 25 20:52:56 2023")
     (tool "Eeschema 7.0.1.1-36-gbcf78dbe24-dirty-deb11")
     (sheet (number "1") (name "/") (tstamps "/")
       (title_block
@@ -766,7 +766,7 @@
       (tstamps "8a66db3c-d7b7-4caa-8ae7-0515d08d00f7"))
     (comp (ref "SW7")
       (value "VOL Rotary")
-      (footprint "Rotary_Encoder:RotaryEncoder_Alps_EC11E-Switch_Vertical_H20mm_CircularMountingHoles")
+      (footprint "Pedalboard Library:RotaryEncoder_Alps_EC11E-Switch_Vertical_H20mm_CircularMountingHoles")
       (datasheet "https://www.we-online.com/components/products/datasheet/482016514001.pdf")
       (fields
         (field (name "Supplier") "https://www.digikey.ch/de/products/detail/w%C3%BCrth-elektronik/482016514001/10056402"))
@@ -780,7 +780,7 @@
       (tstamps "bd29f98c-2393-406a-a7f5-1e04e30ba1fe"))
     (comp (ref "SW8")
       (value "GAIN Rotary")
-      (footprint "Rotary_Encoder:RotaryEncoder_Alps_EC11E-Switch_Vertical_H20mm_CircularMountingHoles")
+      (footprint "Pedalboard Library:RotaryEncoder_Alps_EC11E-Switch_Vertical_H20mm_CircularMountingHoles")
       (datasheet "https://www.we-online.com/components/products/datasheet/482016514001.pdf")
       (fields
         (field (name "Supplier") "https://www.digikey.ch/de/products/detail/w%C3%BCrth-elektronik/482016514001/10056402"))
