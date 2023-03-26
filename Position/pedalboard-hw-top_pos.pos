@@ -1,4 +1,4 @@
-### Module positions - created on Sun 26 Mar 2023 17:49:16  ###
+### Module positions - created on Sun 26 Mar 2023 20:44:14  ###
 ### Printed by KiBot
 ## Unit = mm, Angle = deg.
 ## Side : top
@@ -39,6 +39,7 @@ L2      1K@100MHz         L_Axial_L6.6mm_D2.7mm_P10.16mm_Horizontal_Vishay_IM-2 
 L3      1K@100MHz         L_Axial_L6.6mm_D2.7mm_P10.16mm_Horizontal_Vishay_IM-2                  39.5000    84.5550    -90.0000   top   
 L4      1K@100MHz         L_Axial_L6.6mm_D2.7mm_P10.16mm_Horizontal_Vishay_IM-2                  71.3500    59.0200    180.0000   top   
 L5      1K@100MHz         L_Axial_L6.6mm_D2.7mm_P10.16mm_Horizontal_Vishay_IM-2                  112.1600   77.9800    -90.0000   top   
+PS1     PDQE15-Q24-S5-D   CONV_PDQE15-Q24-S5-D                                                   114.9000   49.8000    -90.0000   top   
 R1      220               R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal                      58.2800    56.0200    180.0000   top   
 R2      470               R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal                      27.6950    58.9500    0.0000     top   
 R3      33                R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal                      27.6950    61.9500    0.0000     top   
