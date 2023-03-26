@@ -1660,47 +1660,47 @@ $ENDCOMPONENTS
 
 $DEVICES
 
-DEVICE "DEV_Pedalboard Library:LED_D5.0mm-NeoPixel"
-PART "NEOPIX"
-PACKAGE "Pedalboard Library:LED_D5.0mm-NeoPixel"
+DEVICE "DEV_MountingHole:MountingHole_2.7mm_M2.5_DIN965"
+PART "MountingHole"
+PACKAGE "MountingHole:MountingHole_2.7mm_M2.5_DIN965"
+
+DEVICE "DEV_Inductor_THT:L_Axial_L6.6mm_D2.7mm_P10.16mm_Horizontal_Vishay_IM-2"
+PART "1K@100MHz"
+PACKAGE "Inductor_THT:L_Axial_L6.6mm_D2.7mm_P10.16mm_Horizontal_Vishay_IM-2"
 
 DEVICE "DEV_Capacitor_THT:C_Disc_D3.0mm_W1.6mm_P2.50mm_1"
 PART "100nF"
 PACKAGE "Capacitor_THT:C_Disc_D3.0mm_W1.6mm_P2.50mm"
 
-DEVICE "DEV_Pedalboard Library:Raspberry PI Compute Module CM4 Nano A"
-PART "Raspberry_pi"
-PACKAGE "Pedalboard Library:Raspberry PI Compute Module CM4 Nano A"
+DEVICE "DEV_Capacitor_THT:C_Disc_D3.0mm_W1.6mm_P2.50mm_2"
+PART "100nF"
+PACKAGE "Capacitor_THT:C_Disc_D3.0mm_W1.6mm_P2.50mm"
 
-DEVICE "DEV_Pedalboard Library:Jack_6.35mm_Horizontal"
-PART "Audio OUT Right"
-PACKAGE "Pedalboard Library:Jack_6.35mm_Horizontal"
+DEVICE "DEV_Pedalboard Library:LED_D5.0mm-NeoPixel"
+PART "NEOPIX"
+PACKAGE "Pedalboard Library:LED_D5.0mm-NeoPixel"
 
 DEVICE "DEV_Pedalboard Library:Jack_6.35mm_Horizontal_0"
 PART "Audio IN Left"
 PACKAGE "Pedalboard Library:Jack_6.35mm_Horizontal"
 
-DEVICE "DEV_MountingHole:MountingHole_2.7mm_M2.5_DIN965"
-PART "MountingHole"
-PACKAGE "MountingHole:MountingHole_2.7mm_M2.5_DIN965"
+DEVICE "DEV_Pedalboard Library:Raspberry PI Compute Module CM4 Nano A"
+PART "Raspberry_pi"
+PACKAGE "Pedalboard Library:Raspberry PI Compute Module CM4 Nano A"
+
+DEVICE "DEV_Capacitor_THT:C_Disc_D3.0mm_W1.6mm_P2.50mm_0"
+PART "100nF"
+PACKAGE "Capacitor_THT:C_Disc_D3.0mm_W1.6mm_P2.50mm"
+
+DEVICE "DEV_Pedalboard Library:Jack_6.35mm_Horizontal"
+PART "Audio OUT Right"
+PACKAGE "Pedalboard Library:Jack_6.35mm_Horizontal"
 
 DEVICE "DEV_Pedalboard Library:Jack_3.5mm_CUI_SJ1-3525N_Horizontal"
 PART "MIDI OUT J"
 PACKAGE "Pedalboard Library:Jack_3.5mm_CUI_SJ1-3525N_Horizontal"
 
 DEVICE "DEV_Capacitor_THT:C_Disc_D3.0mm_W1.6mm_P2.50mm"
-PART "100nF"
-PACKAGE "Capacitor_THT:C_Disc_D3.0mm_W1.6mm_P2.50mm"
-
-DEVICE "DEV_Capacitor_THT:C_Disc_D3.0mm_W1.6mm_P2.50mm_0"
-PART "100nF"
-PACKAGE "Capacitor_THT:C_Disc_D3.0mm_W1.6mm_P2.50mm"
-
-DEVICE "DEV_Inductor_THT:L_Axial_L6.6mm_D2.7mm_P10.16mm_Horizontal_Vishay_IM-2"
-PART "1K@100MHz"
-PACKAGE "Inductor_THT:L_Axial_L6.6mm_D2.7mm_P10.16mm_Horizontal_Vishay_IM-2"
-
-DEVICE "DEV_Capacitor_THT:C_Disc_D3.0mm_W1.6mm_P2.50mm_2"
 PART "100nF"
 PACKAGE "Capacitor_THT:C_Disc_D3.0mm_W1.6mm_P2.50mm"
 
@@ -3824,8 +3824,7 @@ ROUTE "/Audio/in_L+"
 TRACK TRACK200000
 LINE 6.16358 -3.14668 6.12244 -3.18782
 LINE 6.12244 -3.18782 6.12244 -3.32448
-LINE 6.12244 -3.32448 6.43989 -3.64193
-LINE 6.43989 -3.64193 6.53792 -3.73996
+LINE 6.12244 -3.32448 6.53792 -3.73996
 LINE 6.53792 -3.73996 6.91339 -3.73996
 ROUTE "Net-(U1-VBUS)"
 TRACK TRACK250000

@@ -1,7 +1,7 @@
 (export (version "E")
   (design
     (source "/__w/pedalboard-hw/pedalboard-hw/pedalboard-hw.kicad_sch")
-    (date "Sun Mar 26 07:58:25 2023")
+    (date "Sun Mar 26 08:11:07 2023")
     (tool "Eeschema 7.0.1.1-36-gbcf78dbe24-dirty-deb11")
     (sheet (number "1") (name "/") (tstamps "/")
       (title_block
