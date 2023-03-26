@@ -1660,9 +1660,37 @@ $ENDCOMPONENTS
 
 $DEVICES
 
+DEVICE "DEV_Pedalboard Library:Jack_6.35mm_Horizontal"
+PART "Audio OUT Left"
+PACKAGE "Pedalboard Library:Jack_6.35mm_Horizontal"
+
+DEVICE "DEV_Capacitor_THT:C_Disc_D3.0mm_W1.6mm_P2.50mm_0"
+PART "100nF"
+PACKAGE "Capacitor_THT:C_Disc_D3.0mm_W1.6mm_P2.50mm"
+
 DEVICE "DEV_MountingHole:MountingHole_2.7mm_M2.5_DIN965"
 PART "MountingHole"
 PACKAGE "MountingHole:MountingHole_2.7mm_M2.5_DIN965"
+
+DEVICE "DEV_Pedalboard Library:LED_D5.0mm-NeoPixel"
+PART "NEOPIX"
+PACKAGE "Pedalboard Library:LED_D5.0mm-NeoPixel"
+
+DEVICE "DEV_Pedalboard Library:Raspberry PI Compute Module CM4 Nano A"
+PART "Raspberry_pi"
+PACKAGE "Pedalboard Library:Raspberry PI Compute Module CM4 Nano A"
+
+DEVICE "DEV_Capacitor_THT:C_Disc_D3.0mm_W1.6mm_P2.50mm"
+PART "100nF"
+PACKAGE "Capacitor_THT:C_Disc_D3.0mm_W1.6mm_P2.50mm"
+
+DEVICE "DEV_Pedalboard Library:Jack_3.5mm_CUI_SJ1-3525N_Horizontal"
+PART "MIDI OUT J"
+PACKAGE "Pedalboard Library:Jack_3.5mm_CUI_SJ1-3525N_Horizontal"
+
+DEVICE "DEV_Pedalboard Library:Jack_6.35mm_Horizontal_0"
+PART "Audio IN Left"
+PACKAGE "Pedalboard Library:Jack_6.35mm_Horizontal"
 
 DEVICE "DEV_Inductor_THT:L_Axial_L6.6mm_D2.7mm_P10.16mm_Horizontal_Vishay_IM-2"
 PART "1K@100MHz"
@@ -1673,34 +1701,6 @@ PART "100nF"
 PACKAGE "Capacitor_THT:C_Disc_D3.0mm_W1.6mm_P2.50mm"
 
 DEVICE "DEV_Capacitor_THT:C_Disc_D3.0mm_W1.6mm_P2.50mm_2"
-PART "100nF"
-PACKAGE "Capacitor_THT:C_Disc_D3.0mm_W1.6mm_P2.50mm"
-
-DEVICE "DEV_Pedalboard Library:LED_D5.0mm-NeoPixel"
-PART "NEOPIX"
-PACKAGE "Pedalboard Library:LED_D5.0mm-NeoPixel"
-
-DEVICE "DEV_Pedalboard Library:Jack_6.35mm_Horizontal_0"
-PART "Audio IN Left"
-PACKAGE "Pedalboard Library:Jack_6.35mm_Horizontal"
-
-DEVICE "DEV_Pedalboard Library:Raspberry PI Compute Module CM4 Nano A"
-PART "Raspberry_pi"
-PACKAGE "Pedalboard Library:Raspberry PI Compute Module CM4 Nano A"
-
-DEVICE "DEV_Capacitor_THT:C_Disc_D3.0mm_W1.6mm_P2.50mm_0"
-PART "100nF"
-PACKAGE "Capacitor_THT:C_Disc_D3.0mm_W1.6mm_P2.50mm"
-
-DEVICE "DEV_Pedalboard Library:Jack_6.35mm_Horizontal"
-PART "Audio OUT Right"
-PACKAGE "Pedalboard Library:Jack_6.35mm_Horizontal"
-
-DEVICE "DEV_Pedalboard Library:Jack_3.5mm_CUI_SJ1-3525N_Horizontal"
-PART "MIDI OUT J"
-PACKAGE "Pedalboard Library:Jack_3.5mm_CUI_SJ1-3525N_Horizontal"
-
-DEVICE "DEV_Capacitor_THT:C_Disc_D3.0mm_W1.6mm_P2.50mm"
 PART "100nF"
 PACKAGE "Capacitor_THT:C_Disc_D3.0mm_W1.6mm_P2.50mm"
 
