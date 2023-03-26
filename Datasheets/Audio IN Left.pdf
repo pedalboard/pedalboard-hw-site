@@ -5,11 +5,11 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <meta http-equiv="refresh" content="5; URL='/de/products/detail/schurter-inc/4833-2320/2644235?bm-verify=AAQAAAAH_____28TLAfq1fLrbDg4l3l0tZ26WBe_JmfMXdGSqsn26o47GF8SWu6C8Uit4tV1eY76qbQCloWmEtwt5DAcLQ8amfEmSeWNscR5sC3vJm6ihyR9tWOKK_rCv5zD7E1RYUZLGvjEwzPYZ5_sRXTBDPrO2xGX-E3I1r-gWI_FMJR5xNtAVkeX4FT55Q4wTIfKqLQTHriX-jscC7xeuCZtDpORmrUDNOWs7syf0jDk7eOrTk1RTYvv097uE9ef76EJxZm1b4QwzRKEdTIlaKg6oln0GrQPn9COEE2KHIgThHloOLbb'" />
+    <meta http-equiv="refresh" content="5; URL='/de/products/detail/schurter-inc/4833-2320/2644235?bm-verify=AAQAAAAH_____yU7HayZ55WMwo4XGRjI16EtvQs6NN9fS00lUR4JdoMU5O8SOEWkVgZ1Qt22LZUimPYU-htbuG0gmEb00YB0fjj-FhiNEEA_ptxpQexjYWsYG6E4VU49auEoJk7MXtLl9N4wT3jPf4F2Xo69aiv6xWM7IAwT5nJe45FCA1rUkti141RwOxtmIql3NZIZwax1ujHwe5QROHBlXznaLl_ADoMOoU3HN5dHiqrWvvpQwEm2cpBX3597z69NPDEnA3OoruSrmDQmb5LoVVhjVEUvrSeUTMnRZ0WBqdTj4TqoTkDGUQ'" />
     <title>&nbsp;</title>
     <script>
-        var i = 1679835426;
-        var j = i + Number("9955" + "51531");
+        var i = 1679838544;
+        var j = i + Number("1181" + "53155");
     </script>
   </head>
     <noscript>
@@ -42,7 +42,7 @@
           xhr.open("POST", "/_sec/verify?provider=interstitial", false);
           xhr.setRequestHeader("Content-Type", "application/json");
           xhr.send(JSON.stringify({
-              "bm-verify": "AAQAAAAH/////xbMVF7l1sHTg1Du5Pr6N/uZ7vAm+fV5EvucFAAVDvNpHvvmWxE0k892PgSxo5jEozj6L0vYAfsyRoJfLKajlzoILE/qfQBbMOvnkBdvRFwhjHOKVQyKWhLxTyrGCJugweWQ+CTZkWbpWhlIf3vj5RqEeP+wJ47XJWWMcN8OzNGRmb8/C5dynqBOLe6eGLtPqREviwauxe8EGblka89luewLz0Z8FvsGVjcWMjvMiu/K6lk5PzeXWAgO3L5gMvVhjZfwdP6fYILXNyVVwzV7QGdYef4yfaPdow61kS+gpkoYKoCWQ6WIgXbTdN7hXQAZYA==",
+              "bm-verify": "AAQAAAAH/////8aEGgRSEyU7Aq9EqER2RghQmPmYFho4ytWZSrLNxuOLsgMeHYCKg5ckEpPm9ReYv7raZzav1Ri2dZUllU4PyAqrvupirjAvPQHK4AIPc3JEXRASByzmeS/o/hBDWcpfiYB2x8Xypvn8LZGGCkTmzp7xPzJj5/9IhQfOX00Tq3+Q/e1FNEx6Sak5hJRNLEdJBEEeehGc434Hm0GZUpFxFDjiIuu46PRI9Y+MaeY7jgNm76FJFO9THg+1qpQQ9eyiyF49Hx0tMHVXtQjns/JUv731dAENVDl+58PakJspfsd14s+QJD4/HltCXq/4ubQl7oU=",
               "pow": j
           }));
     </script>
