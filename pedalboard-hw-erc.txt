@@ -1,4 +1,4 @@
-ERC report (Mon Mar 27 19:24:00 2023, Encoding UTF8)
+ERC report (Mon Mar 27 19:38:35 2023, Encoding UTF8)
 
 ***** Sheet /
 
@@ -54,7 +54,7 @@ ERC report (Mon Mar 27 19:24:00 2023, Encoding UTF8)
     ; Severity: warning
     @(125.7300 mm, 80.0100 mm): Symbol J7 [Raspberry_Pi_2_3]
 
-***** Sheet /psu/
+***** Sheet /Power Supply/
 [lib_symbol_issues]: Symbol 'Barrel_Jack_Switch' has been modified in library 'Connector'
     ; Severity: warning
     @(31.7500 mm, 46.9900 mm): Symbol J13 [Barrel_Jack_Switch]
