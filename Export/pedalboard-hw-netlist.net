@@ -1,7 +1,7 @@
 (export (version "E")
   (design
     (source "/__w/pedalboard-hw/pedalboard-hw/pedalboard-hw.kicad_sch")
-    (date "Mon Mar 27 18:41:32 2023")
+    (date "Mon Mar 27 18:47:13 2023")
     (tool "Eeschema 7.0.1.1-36-gbcf78dbe24-dirty-deb11")
     (sheet (number "1") (name "/") (tstamps "/")
       (title_block
@@ -628,7 +628,7 @@
       (datasheet "https://www.fair-rite.com/wp-content/themes/fair-rite/print_product.php?pid=18584")
       (fields
         (field (name "Supplier") "https://www.digikey.ch/en/products/detail/fair-rite-products-corp/2743005111/8599429"))
-      (libsource (lib "Device") (part "L_Ferrite") (description "Inductor with ferrite core"))
+      (libsource (lib "") (part "L_Ferrite_1") (description "Inductor with ferrite core"))
       (property (name "Supplier") (value "https://www.digikey.ch/en/products/detail/fair-rite-products-corp/2743005111/8599429"))
       (property (name "Sheetname") (value "MIDI"))
       (property (name "Sheetfile") (value "pico.kicad_sch"))
@@ -1146,6 +1146,23 @@
       (sheetpath (names "/psu/") (tstamps "/0d7c87b0-1309-475f-a9d7-edcf3dee5e4e/"))
       (tstamps "31dc3e19-d4ce-41eb-b0b1-3b234e1d0a26")))
   (libparts
+    (libpart (lib "") (part "L_Ferrite_1")
+      (description "Inductor with ferrite core")
+      (docs "https://www.fair-rite.com/wp-content/themes/fair-rite/print_product.php?pid=18584")
+      (footprints
+        (fp "Choke_*")
+        (fp "*Coil*")
+        (fp "Inductor_*")
+        (fp "L_*"))
+      (fields
+        (field (name "Reference") "L5")
+        (field (name "Value") "103_100MHz")
+        (field (name "Footprint") "Inductor_THT:L_Axial_L6.6mm_D2.7mm_P10.16mm_Horizontal_Vishay_IM-2")
+        (field (name "Datasheet") "https://www.fair-rite.com/wp-content/themes/fair-rite/print_product.php?pid=18584")
+        (field (name "Supplier") "https://www.digikey.ch/en/products/detail/fair-rite-products-corp/2743005111/8599429"))
+      (pins
+        (pin (num "1") (name "1") (type "power_out"))
+        (pin (num "2") (name "2") (type "power_in"))))
     (libpart (lib "") (part "Raspberry_Pi_2_3_1")
       (description "expansion header for Raspberry Pi 2 & 3")
       (docs "https://www.hifiberry.com/docs/data-sheets/datasheet-dac-adc-pro/")
@@ -1775,7 +1792,7 @@
       (node (ref "U1") (pin "24") (pinfunction "GPIO18") (pintype "bidirectional")))
     (net (code "33") (name "/VBUS")
       (node (ref "J6") (pin "1") (pinfunction "VBUS") (pintype "power_out"))
-      (node (ref "L5") (pin "2") (pinfunction "2") (pintype "passive")))
+      (node (ref "L5") (pin "2") (pinfunction "2") (pintype "power_in")))
     (net (code "34") (name "/psu/fused")
       (node (ref "C13") (pin "1") (pintype "passive"))
       (node (ref "C16") (pin "1") (pintype "passive"))
@@ -2041,7 +2058,7 @@
       (node (ref "U1") (pin "34") (pinfunction "GPIO28_ADC2") (pintype "bidirectional")))
     (net (code "91") (name "Net-(U1-VBUS)")
       (node (ref "C12") (pin "1") (pintype "passive"))
-      (node (ref "L5") (pin "1") (pinfunction "1") (pintype "passive"))
+      (node (ref "L5") (pin "1") (pinfunction "1") (pintype "power_out"))
       (node (ref "U1") (pin "40") (pinfunction "VBUS") (pintype "power_in")))
     (net (code "92") (name "unconnected-(J1-Pad1)")
       (node (ref "J1") (pin "1") (pintype "passive+no_connect")))
