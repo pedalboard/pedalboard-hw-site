@@ -5,11 +5,11 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <meta http-equiv="refresh" content="5; URL='/de/products/detail/schurter-inc/4833-2320/2644235?bm-verify=AAQAAAAH_____3o3sAF9hW839LFjigG3QPIZlajGiMsKesQDKNXOpvn9hjvm0e4VArcAUXeAIV9AutbjArGb60H-Ik4Ei4oJJ_PFHwKSuOVN9JSJ6LYg2coqNPT8AtROQgpYZbEjoIHREdXPZzK4b6pYFgv9JAfN77H-3UUCjmPYMXU6nGUgxJ6OjHdK4zRvFGYdm6F0F8RzqVIX_pH1WzFIM2SuhFtJgoOKU-Edbjmj6woG8_XoGPKxMXJwJoqo8c28BWCHHUpKK5wWGePa8H0bKaKrYr95v9EFuyuF19g1FP2g65PD3R9a'" />
+    <meta http-equiv="refresh" content="5; URL='/de/products/detail/schurter-inc/4833-2320/2644235?bm-verify=AAQAAAAH_____2BsTYpt4tRdO6vQ62ucFul5S__bpwC6Sqkk_u_Xxed8cplgxDTGSQKfllk9d63wWur2ep9EHyb6_aT1A5jI54Gv2CELuj7Ajhhzckw5PmQWPpulXvTZ42KpITvZ7pgSihPYTEiowsG_khOa_OmeA9AZrLyc_suOl7H6i2oCQPrX-2UvRgL8k8JYLBrgLmfhIsz3aVinF0N1Jl47W9Fxf7MhzjRYBuCpTrss2JWu-w3gIq13G-cF1PuOv_mo9mXCRqfMGGAewRiqdCKeV6nURE8hP6SneQkoYyBHIMOd910WxNvY'" />
     <title>&nbsp;</title>
     <script>
-        var i = 1679931643;
-        var j = i + Number("1165" + "10601");
+        var i = 1679936533;
+        var j = i + Number("9419" + "31515");
     </script>
   </head>
     <noscript>
@@ -42,7 +42,7 @@
           xhr.open("POST", "/_sec/verify?provider=interstitial", false);
           xhr.setRequestHeader("Content-Type", "application/json");
           xhr.send(JSON.stringify({
-              "bm-verify": "AAQAAAAH/////6/bOKBFG4XaBzyCNw121zc501OsV2IW0yTLwgs+4N8tZLd/u4peBu67rVDQkZ8eQYz7Y2qafoGEdwK4lRjcPvnOAVoHJRcP/yqsQscBDV1WQMSNySAAK4K9tFv3YAqyOQwF5kypzOQisHhEi4t0Ej6CvNLtwv6/Dg1rcJaNvm7YuzQSVzYKK03N/CbwunxOGPOp7SBIW9kYZ9RHtnaBlt+EBojhySp/51q/BHNA5RWAqPSdzDjg5l1rf0STRW5pBXWZ/Kxr+Vb14mEXcSsqRg7nsm6rnzC2PFkThHLzmVh2KiOD8MacMP8EXbq7DGaNbg==",
+              "bm-verify": "AAQAAAAH/////ykK7SCNBt85WSBLSido3vGgjHWysB7bMediI9caAGe40Ag4u6BGWiBboVctTGE/Tz23KNsbDVjK4UD/PlNPindWEo4ERRxWPrusxUdBaGAYc4kKy9wheTv1Y8Vq7HJRRxL656wMD7C3cJvwY3cwDf0kqoQiNWVScUBfb3g3bAG+GlRe1A9polo8DaIm4aHRT/ZVw7ThLisOVkSwT3A1G/3KeCQPohCTtcM6Mr0flyOFFSz+dGhGZMiC24NstjcvK0S6I4k984r6RMALT2FofK1TCCsPBviLRFVs86+fxhDDHlBWGlcFXdsyEnTVBjiXkjmxmw==",
               "pow": j
           }));
     </script>
