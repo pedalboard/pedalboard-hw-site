@@ -1,7 +1,7 @@
 M48
-; DRILL file {KiCad 7.0.1.1-36-gbcf78dbe24-dirty-deb11} date Mon Mar 27 20:53:45 2023
+; DRILL file {KiCad 7.0.1.1-36-gbcf78dbe24-dirty-deb11} date Mon Mar 27 21:25:44 2023
 ; FORMAT={-:-/ absolute / metric / decimal}
-; #@! TF.CreationDate,2023-03-27T20:53:45+00:00
+; #@! TF.CreationDate,2023-03-27T21:25:44+00:00
 ; #@! TF.GenerationSoftware,Kicad,Pcbnew,7.0.1.1-36-gbcf78dbe24-dirty-deb11
 ; #@! TF.FileFunction,MixedPlating,1,2
 FMAT,2
@@ -44,7 +44,6 @@ G05
 T1
 X76.5Y75.05
 X103.65Y72.676
-X131.7Y89.0
 X149.469Y58.706
 X149.977Y21.216
 X158.8Y31.2

@@ -42,7 +42,7 @@ Row,Description,Part,References,Value,Footprint,Quantity Per PCB,Status,Datashee
 Project info:
 Schematic:,pedalboard-hw
 Variant:,default
-Revision:,1.0.0
+Revision:,1.0.1
 Date:,2023-03-12
 KiCad Version:,7.0.1.1-36-gbcf78dbe24-dirty-deb11
 Statistics:
