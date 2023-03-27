@@ -1,4 +1,4 @@
-### Module positions - created on Mon 27 Mar 2023 14:22:38  ###
+### Module positions - created on Mon 27 Mar 2023 14:38:51  ###
 ### Printed by KiBot
 ## Unit = mm, Angle = deg.
 ## Side : top
@@ -34,6 +34,7 @@ D9      NEOPIX                    LED_D5.0mm-NeoPixel                           
 D10     NEOPIX                    LED_D5.0mm-NeoPixel                                                    22.1000    19.0000    0.0000     top   
 D11     1N4148                    D_DO-35_SOD27_P7.62mm_Horizontal                                       53.7000    59.2250    90.0000    top   
 F1      Polyfuse 1.8A             C_Rect_L7.0mm_W3.5mm_P5.00mm                                           144.9000   95.6000    180.0000   top   
+H10     Midi Bites                MIDI bites                                                             85.1000    104.9250   0.0000     top   
 J1      MIDI_OUT                  CP-2350                                                                96.0000    103.0000   180.0000   top   
 J2      MIDI_IN                   CP-2350                                                                74.0055    103.0000   180.0000   top   
 J3      EXP                       Jack_6.35mm_Horizontal                                                 155.6150   91.2000    0.0000     top   
