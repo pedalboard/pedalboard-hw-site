@@ -55,11 +55,11 @@ endobj
 >>
 endobj
 102 0 obj
-<</S /GoTo /D [86 0 R /FitR 482 555 534 500]
+<</S /GoTo /D [86 0 R /FitR 482 555 534 505]
 >>
 endobj
 104 0 obj
-<</S /GoTo /D [86 0 R /FitR 361 465 378 430]
+<</S /GoTo /D [86 0 R /FitR 361 465 379 430]
 >>
 endobj
 106 0 obj
@@ -75,7 +75,7 @@ endobj
 >>
 endobj
 112 0 obj
-<</S /GoTo /D [86 0 R /FitR 476 336 555 270]
+<</S /GoTo /D [86 0 R /FitR 476 331 555 270]
 >>
 endobj
 114 0 obj
@@ -87,7 +87,7 @@ endobj
 >>
 endobj
 118 0 obj
-<</S /GoTo /D [86 0 R /FitR 302 301 317 287]
+<</S /GoTo /D [86 0 R /FitR 302 304 318 287]
 >>
 endobj
 120 0 obj
@@ -135,11 +135,11 @@ endobj
 >>
 endobj
 142 0 obj
-<</S /GoTo /D [86 0 R /FitR 436 463 476 423]
+<</S /GoTo /D [86 0 R /FitR 436 463 476 422]
 >>
 endobj
 144 0 obj
-<</S /GoTo /D [86 0 R /FitR 476 509 555 443]
+<</S /GoTo /D [86 0 R /FitR 476 505 555 443]
 >>
 endobj
 146 0 obj
@@ -147,7 +147,7 @@ endobj
 >>
 endobj
 148 0 obj
-<</S /GoTo /D [86 0 R /FitR 300 549 363 486]
+<</S /GoTo /D [86 0 R /FitR 300 549 362 486]
 >>
 endobj
 150 0 obj
@@ -155,7 +155,7 @@ endobj
 >>
 endobj
 152 0 obj
-<</S /GoTo /D [86 0 R /FitR 166 521 216 474]
+<</S /GoTo /D [86 0 R /FitR 166 520 216 474]
 >>
 endobj
 154 0 obj
@@ -167,7 +167,7 @@ endobj
 >>
 endobj
 158 0 obj
-<</S /GoTo /D [86 0 R /FitR 388 431 427 400]
+<</S /GoTo /D [86 0 R /FitR 388 431 428 400]
 >>
 endobj
 160 0 obj
@@ -175,7 +175,7 @@ endobj
 >>
 endobj
 162 0 obj
-<</S /GoTo /D [86 0 R /FitR 461 422 490 403]
+<</S /GoTo /D [86 0 R /FitR 461 426 490 403]
 >>
 endobj
 164 0 obj
@@ -195,7 +195,7 @@ endobj
 >>
 endobj
 172 0 obj
-<</S /GoTo /D [86 0 R /FitR 476 393 555 327]
+<</S /GoTo /D [86 0 R /FitR 476 389 555 327]
 >>
 endobj
 174 0 obj
@@ -223,7 +223,7 @@ endobj
 >>
 endobj
 186 0 obj
-<</S /GoTo /D [86 0 R /FitR 115 307 134 281]
+<</S /GoTo /D [86 0 R /FitR 114 307 134 281]
 >>
 endobj
 188 0 obj
@@ -235,7 +235,7 @@ endobj
 >>
 endobj
 192 0 obj
-<</S /GoTo /D [86 0 R /FitR 196 433 216 405]
+<</S /GoTo /D [86 0 R /FitR 201 436 216 405]
 >>
 endobj
 194 0 obj
@@ -243,7 +243,7 @@ endobj
 >>
 endobj
 196 0 obj
-<</S /GoTo /D [86 0 R /FitR 226 426 266 413]
+<</S /GoTo /D [86 0 R /FitR 226 426 267 413]
 >>
 endobj
 198 0 obj
@@ -263,7 +263,7 @@ endobj
 >>
 endobj
 206 0 obj
-<</S /GoTo /D [86 0 R /FitR 487 280 532 234]
+<</S /GoTo /D [86 0 R /FitR 481 275 532 234]
 >>
 endobj
 208 0 obj
@@ -303,7 +303,7 @@ endobj
 >>
 endobj
 226 0 obj
-<</S /GoTo /D [86 0 R /FitR 237 549 301 486]
+<</S /GoTo /D [86 0 R /FitR 237 549 299 486]
 >>
 endobj
 228 0 obj
@@ -327,7 +327,7 @@ endobj
 >>
 endobj
 238 0 obj
-<</S /GoTo /D [86 0 R /FitR 375 463 399 428]
+<</S /GoTo /D [86 0 R /FitR 375 463 405 428]
 >>
 endobj
 240 0 obj
@@ -335,11 +335,11 @@ endobj
 >>
 endobj
 242 0 obj
-<</S /GoTo /D [86 0 R /FitR 216 501 369 415]
+<</S /GoTo /D [86 0 R /FitR 216 501 371 415]
 >>
 endobj
 244 0 obj
-<</S /GoTo /D [86 0 R /FitR 89 369 128 340]
+<</S /GoTo /D [86 0 R /FitR 89 370 128 340]
 >>
 endobj
 246 0 obj
@@ -437,15 +437,15 @@ endobj
 11 0 obj
 << /Type /Annot
    /Subtype /Link
-   /Rect [482.101 500.087 534.97 555.009]
+   /Rect [482.101 505.083 534.97 555.009]
    /Border [16 16 0]
-   /A << /Type /Action /S /JavaScript /JS (var aParams = [ { cName: 'Reference designator = J13', cReturn: null }, { cName: 'Value = Barrel_Jack_MountingPin', cReturn: null }, { cName: 'Sheetfile = psu.kicad_sch', cReturn: null }, { cName: 'Sheetname = psu', cReturn: null }, { cName: 'Supplier = https://www.digikey.ch/de/products/detail/w%C3%BCrth-elektronik/694106301002/5047522', cReturn: 'https://www.digikey.ch/de/products/detail/w%C3%BCrth-elektronik/694106301002/5047522' }, { cName: 'ki_description = DC Barrel Jack with an internal switch', cReturn: null }, { cName: 'ki_keywords = DC power barrel jack connector', cReturn: null }, { cName: 'Footprint = Connector_BarrelJack:BarrelJack_Wuerth_6941xx301002', cReturn: null }, { cName: 'Description = Wuerth electronics barrel jack connector (5.5mm outher diameter, inner diameter 2.05mm or 2.55mm depending on exact order number), See: http://katalog.we-online.de/em/datasheet/6941xx301002.pdf', cReturn: 'http://katalog.we-online.de/em/datasheet/6941xx301002.pdf' }, { cName: 'Keywords = connector barrel jack', cReturn: null }, ]; var cChoice = app.popUpMenuEx.apply\( app, aParams \); if\( cChoice != null && cChoice.substring\( 0, 1 \) == '#' \)    this.pageNum = cChoice.slice\( 1 \); else if\( cChoice != null && cChoice.substring\( 0, 4 \) == 'http' \)    app.launchURL\( cChoice \);) >>
+   /A << /Type /Action /S /JavaScript /JS (var aParams = [ { cName: 'Reference designator = J13', cReturn: null }, { cName: 'Value = Barrel_Jack_MountingPin', cReturn: null }, { cName: 'Sheetfile = psu.kicad_sch', cReturn: null }, { cName: 'Sheetname = psu', cReturn: null }, { cName: 'Supplier = https://www.digikey.ch/de/products/detail/w%C3%BCrth-elektronik/694106301002/5047522', cReturn: 'https://www.digikey.ch/de/products/detail/w%C3%BCrth-elektronik/694106301002/5047522' }, { cName: 'ki_description = DC Barrel Jack with an internal switch', cReturn: null }, { cName: 'ki_keywords = DC power barrel jack connector', cReturn: null }, { cName: 'Footprint = Pedalboard Library:BarrelJack_Wuerth_6941xx301002', cReturn: null }, { cName: 'Description = Wuerth electronics barrel jack connector (5.5mm outher diameter, inner diameter 2.05mm or 2.55mm depending on exact order number), See: http://katalog.we-online.de/em/datasheet/6941xx301002.pdf', cReturn: 'http://katalog.we-online.de/em/datasheet/6941xx301002.pdf' }, { cName: 'Keywords = connector barrel jack', cReturn: null }, ]; var cChoice = app.popUpMenuEx.apply\( app, aParams \); if\( cChoice != null && cChoice.substring\( 0, 1 \) == '#' \)    this.pageNum = cChoice.slice\( 1 \); else if\( cChoice != null && cChoice.substring\( 0, 4 \) == 'http' \)    app.launchURL\( cChoice \);) >>
 >>
 endobj
 12 0 obj
 << /Type /Annot
    /Subtype /Link
-   /Rect [361.538 430.731 378.531 465.625]
+   /Rect [361.538 430.731 379.753 465.625]
    /Border [16 16 0]
    /A << /Type /Action /S /JavaScript /JS (var aParams = [ { cName: 'Reference designator = L5', cReturn: null }, { cName: 'Value = 1K@100MHz', cReturn: null }, { cName: 'Sheetfile = pico.kicad_sch', cReturn: null }, { cName: 'Sheetname = MIDI', cReturn: null }, { cName: 'Supplier = https://www.digikey.ch/en/products/detail/fair-rite-products-corp/2743005111/8599429', cReturn: 'https://www.digikey.ch/en/products/detail/fair-rite-products-corp/2743005111/8599429' }, { cName: 'ki_description = Inductor with ferrite core', cReturn: null }, { cName: 'ki_keywords = inductor choke coil reactor magnetic', cReturn: null }, { cName: 'Footprint = Inductor_THT:L_Axial_L6.6mm_D2.7mm_P10.16mm_Horizontal_Vishay_IM-2', cReturn: null }, { cName: 'Description = Inductor, Axial series, Axial, Horizontal, pin pitch=10.16mm, , length*diameter=6.6*2.7mm^2, Vishay, IM-2, http://www.vishay.com/docs/34030/im.pdf', cReturn: 'http://www.vishay.com/docs/34030/im.pdf' }, { cName: 'Keywords = Inductor Axial series Axial Horizontal pin pitch 10.16mm  length 6.6mm diameter 2.7mm Vishay IM-2', cReturn: null }, ]; var cChoice = app.popUpMenuEx.apply\( app, aParams \); if\( cChoice != null && cChoice.substring\( 0, 1 \) == '#' \)    this.pageNum = cChoice.slice\( 1 \); else if\( cChoice != null && cChoice.substring\( 0, 4 \) == 'http' \)    app.launchURL\( cChoice \);) >>
 >>
@@ -477,7 +477,7 @@ endobj
 16 0 obj
 << /Type /Annot
    /Subtype /Link
-   /Rect [476.915 270.212 555.094 336.472]
+   /Rect [476.915 270.212 555.094 331.759]
    /Border [16 16 0]
    /A << /Type /Action /S /JavaScript /JS (var aParams = [ { cName: 'Reference designator = J10', cReturn: null }, { cName: 'Value = Audio IN Left', cReturn: null }, { cName: 'Sheetfile = audio.kicad_sch', cReturn: null }, { cName: 'Sheetname = Audio', cReturn: null }, { cName: 'Supplier = https://www.digikey.ch/de/products/detail/schurter-inc/4833-2320/2644235', cReturn: 'https://www.digikey.ch/de/products/detail/schurter-inc/4833-2320/2644235' }, { cName: 'ki_description = M Series, 6.35mm (1/4in) stereo jack, switched, with chrome ferrule and straight PCB pins', cReturn: null }, { cName: 'ki_keywords = audio jack receptacle stereo headphones connector neutrik', cReturn: null }, { cName: 'Footprint = Pedalboard Library:Jack_6.35mm_Horizontal', cReturn: null }, { cName: 'Description = M Series, 6.35mm (1/4in) stereo jack, switched, with chrome ferrule and straight PCB pins, https://www.neutrik.com/en/product/nmj6hcd2', cReturn: 'https://www.neutrik.com/en/product/nmj6hcd2' }, { cName: 'Keywords = neutrik jack m', cReturn: null }, ]; var cChoice = app.popUpMenuEx.apply\( app, aParams \); if\( cChoice != null && cChoice.substring\( 0, 1 \) == '#' \)    this.pageNum = cChoice.slice\( 1 \); else if\( cChoice != null && cChoice.substring\( 0, 4 \) == 'http' \)    app.launchURL\( cChoice \);) >>
 >>
@@ -501,7 +501,7 @@ endobj
 19 0 obj
 << /Type /Annot
    /Subtype /Link
-   /Rect [302.095 287.519 317.218 301.108]
+   /Rect [302.095 287.519 318.444 304.426]
    /Border [16 16 0]
    /A << /Type /Action /S /JavaScript /JS (var aParams = [ { cName: 'Reference designator = C10', cReturn: null }, { cName: 'Value = 100nF', cReturn: null }, { cName: 'Sheetfile = pico.kicad_sch', cReturn: null }, { cName: 'Sheetname = MIDI', cReturn: null }, { cName: 'Supplier = https://www.digikey.ch/en/products/detail/vishay-beyschlag-draloric-bc-components/K104K20X7RH5TL2/286568', cReturn: 'https://www.digikey.ch/en/products/detail/vishay-beyschlag-draloric-bc-components/K104K20X7RH5TL2/286568' }, { cName: 'ki_description = Unpolarized capacitor', cReturn: null }, { cName: 'ki_keywords = cap capacitor', cReturn: null }, { cName: 'Footprint = Capacitor_THT:C_Disc_D3.0mm_W1.6mm_P2.50mm', cReturn: null }, { cName: 'Description = C, Disc series, Radial, pin pitch=2.50mm, , diameter*width=3.0*1.6mm^2, Capacitor, http://www.vishay.com/docs/45233/krseries.pdf', cReturn: 'http://www.vishay.com/docs/45233/krseries.pdf' }, { cName: 'Keywords = C Disc series Radial pin pitch 2.50mm  diameter 3.0mm width 1.6mm Capacitor', cReturn: null }, ]; var cChoice = app.popUpMenuEx.apply\( app, aParams \); if\( cChoice != null && cChoice.substring\( 0, 1 \) == '#' \)    this.pageNum = cChoice.slice\( 1 \); else if\( cChoice != null && cChoice.substring\( 0, 4 \) == 'http' \)    app.launchURL\( cChoice \);) >>
 >>
@@ -597,7 +597,7 @@ endobj
 31 0 obj
 << /Type /Annot
    /Subtype /Link
-   /Rect [436.429 423.268 476.717 463.414]
+   /Rect [436.429 422.702 476.717 463.414]
    /Border [16 16 0]
    /A << /Type /Action /S /JavaScript /JS (var aParams = [ { cName: 'Reference designator = L6', cReturn: null }, { cName: 'Value = 2.2uH', cReturn: null }, { cName: 'Sheetfile = psu.kicad_sch', cReturn: null }, { cName: 'Sheetname = psu', cReturn: null }, { cName: 'Supplier = https://www.digikey.ch/de/products/detail/w%C3%BCrth-elektronik/7447471022/2794428', cReturn: 'https://www.digikey.ch/de/products/detail/w%C3%BCrth-elektronik/7447471022/2794428' }, { cName: 'ki_description = Inductor', cReturn: null }, { cName: 'ki_keywords = inductor choke coil reactor magnetic', cReturn: null }, { cName: 'Footprint = Inductor_THT:L_Radial_D12.0mm_P5.00mm_Fastron_11P', cReturn: null }, { cName: 'Description = Inductor, Radial series, Radial, pin pitch=5.00mm, , diameter=12.0mm, Fastron, 11P, http://cdn-reichelt.de/documents/datenblatt/B400/DS_11P.pdf', cReturn: 'http://cdn-reichelt.de/documents/datenblatt/B400/DS_11P.pdf' }, { cName: 'Keywords = Inductor Radial series Radial pin pitch 5.00mm  diameter 12.0mm Fastron 11P', cReturn: null }, ]; var cChoice = app.popUpMenuEx.apply\( app, aParams \); if\( cChoice != null && cChoice.substring\( 0, 1 \) == '#' \)    this.pageNum = cChoice.slice\( 1 \); else if\( cChoice != null && cChoice.substring\( 0, 4 \) == 'http' \)    app.launchURL\( cChoice \);) >>
 >>
@@ -605,7 +605,7 @@ endobj
 32 0 obj
 << /Type /Annot
    /Subtype /Link
-   /Rect [476.957 443.678 555.137 509.938]
+   /Rect [476.957 443.678 555.137 505.225]
    /Border [16 16 0]
    /A << /Type /Action /S /JavaScript /JS (var aParams = [ { cName: 'Reference designator = J3', cReturn: null }, { cName: 'Value = EXP', cReturn: null }, { cName: 'Sheetfile = pico.kicad_sch', cReturn: null }, { cName: 'Sheetname = MIDI', cReturn: null }, { cName: 'Supplier = https://www.digikey.ch/de/products/detail/schurter-inc/4833-2320/2644235', cReturn: 'https://www.digikey.ch/de/products/detail/schurter-inc/4833-2320/2644235' }, { cName: 'ki_description = M Series, 6.35mm (1/4in) stereo jack, switched, with chrome ferrule and straight PCB pins', cReturn: null }, { cName: 'ki_keywords = audio jack receptacle stereo headphones connector neutrik', cReturn: null }, { cName: 'Footprint = Pedalboard Library:Jack_6.35mm_Horizontal', cReturn: null }, { cName: 'Description = M Series, 6.35mm (1/4in) stereo jack, switched, with chrome ferrule and straight PCB pins, https://www.neutrik.com/en/product/nmj6hcd2', cReturn: 'https://www.neutrik.com/en/product/nmj6hcd2' }, { cName: 'Keywords = neutrik jack m', cReturn: null }, ]; var cChoice = app.popUpMenuEx.apply\( app, aParams \); if\( cChoice != null && cChoice.substring\( 0, 1 \) == '#' \)    this.pageNum = cChoice.slice\( 1 \); else if\( cChoice != null && cChoice.substring\( 0, 4 \) == 'http' \)    app.launchURL\( cChoice \);) >>
 >>
@@ -621,7 +621,7 @@ endobj
 34 0 obj
 << /Type /Annot
    /Subtype /Link
-   /Rect [300.316 486.411 363.711 549.4]
+   /Rect [300.316 486.411 362.835 549.4]
    /Border [16 16 0]
    /A << /Type /Action /S /JavaScript /JS (var aParams = [ { cName: 'Reference designator = J1', cReturn: null }, { cName: 'Value = MIDI_OUT', cReturn: null }, { cName: 'Sheetfile = pico.kicad_sch', cReturn: null }, { cName: 'Sheetname = MIDI', cReturn: null }, { cName: 'Supplier = https://www.digikey.ch/de/products/detail/switchcraft-inc/57PC5F/275385', cReturn: 'https://www.digikey.ch/de/products/detail/switchcraft-inc/57PC5F/275385' }, { cName: 'ki_description = 5-pin DIN connector (5-pin DIN-5 stereo)', cReturn: null }, { cName: 'ki_keywords = circular DIN connector stereo audio', cReturn: null }, { cName: 'Footprint = Pedalboard Library:CP-2350', cReturn: null }, { cName: 'Description = Female <b>CONNECTOR</b><p>
 5 pins 90 deg. with shield, horizontal (DIN 41524)', cReturn: null }, { cName: 'Keywords = ', cReturn: null }, ]; var cChoice = app.popUpMenuEx.apply\( app, aParams \); if\( cChoice != null && cChoice.substring\( 0, 1 \) == '#' \)    this.pageNum = cChoice.slice\( 1 \); else if\( cChoice != null && cChoice.substring\( 0, 4 \) == 'http' \)    app.launchURL\( cChoice \);) >>
@@ -638,7 +638,7 @@ endobj
 36 0 obj
 << /Type /Annot
    /Subtype /Link
-   /Rect [166.465 474.576 216.213 521.276]
+   /Rect [166.465 474.576 216.213 520.816]
    /Border [16 16 0]
    /A << /Type /Action /S /JavaScript /JS (var aParams = [ { cName: 'Reference designator = SW7', cReturn: null }, { cName: 'Value = VOL Rotary', cReturn: null }, { cName: 'Sheetfile = pico.kicad_sch', cReturn: null }, { cName: 'Sheetname = MIDI', cReturn: null }, { cName: 'Supplier = https://www.digikey.ch/de/products/detail/w%C3%BCrth-elektronik/482016514001/10056402', cReturn: 'https://www.digikey.ch/de/products/detail/w%C3%BCrth-elektronik/482016514001/10056402' }, { cName: 'ki_description = Rotary encoder, dual channel, incremental quadrate outputs, with switch', cReturn: null }, { cName: 'ki_keywords = rotary switch encoder switch push button', cReturn: null }, { cName: 'Footprint = Pedalboard Library:RotaryEncoder_Alps_EC11E-Switch_Vertical_H20mm_CircularMountingHoles', cReturn: null }, { cName: 'Description = Alps rotary encoder, EC12E... with switch, vertical shaft, mounting holes with circular drills, http://www.alps.com/prod/info/E/HTML/Encoder/Incremental/EC11/EC11E15204A3.html', cReturn: 'http://www.alps.com/prod/info/E/HTML/Encoder/Incremental/EC11/EC11E15204A3.html' }, { cName: 'Keywords = rotary encoder', cReturn: null }, ]; var cChoice = app.popUpMenuEx.apply\( app, aParams \); if\( cChoice != null && cChoice.substring\( 0, 1 \) == '#' \)    this.pageNum = cChoice.slice\( 1 \); else if\( cChoice != null && cChoice.substring\( 0, 4 \) == 'http' \)    app.launchURL\( cChoice \);) >>
 >>
@@ -662,7 +662,7 @@ endobj
 39 0 obj
 << /Type /Annot
    /Subtype /Link
-   /Rect [388.807 400.535 427.861 431.191]
+   /Rect [388.807 400.535 428.145 431.191]
    /Border [16 16 0]
    /A << /Type /Action /S /JavaScript /JS (var aParams = [ { cName: 'Reference designator = C14', cReturn: null }, { cName: 'Value = 220uF', cReturn: null }, { cName: 'Sheetfile = psu.kicad_sch', cReturn: null }, { cName: 'Sheetname = psu', cReturn: null }, { cName: 'Supplier = https://www.digikey.ch/de/products/detail/cornell-dubilier-illinois-capacitor/227AVG050MGBJ/5411698', cReturn: 'https://www.digikey.ch/de/products/detail/cornell-dubilier-illinois-capacitor/227AVG050MGBJ/5411698' }, { cName: 'ki_description = Polarized capacitor', cReturn: null }, { cName: 'ki_keywords = cap capacitor', cReturn: null }, { cName: 'Footprint = Capacitor_THT:CP_Radial_D10.0mm_P5.00mm', cReturn: null }, { cName: 'Description = CP, Radial series, Radial, pin pitch=5.00mm, , diameter=10mm, Electrolytic Capacitor', cReturn: null }, { cName: 'Keywords = CP Radial series Radial pin pitch 5.00mm  diameter 10mm Electrolytic Capacitor', cReturn: null }, ]; var cChoice = app.popUpMenuEx.apply\( app, aParams \); if\( cChoice != null && cChoice.substring\( 0, 1 \) == '#' \)    this.pageNum = cChoice.slice\( 1 \); else if\( cChoice != null && cChoice.substring\( 0, 4 \) == 'http' \)    app.launchURL\( cChoice \);) >>
 >>
@@ -678,7 +678,7 @@ endobj
 41 0 obj
 << /Type /Annot
    /Subtype /Link
-   /Rect [461.448 403.993 490.426 422.879]
+   /Rect [461.448 403.993 490.426 426.316]
    /Border [16 16 0]
    /A << /Type /Action /S /JavaScript /JS (var aParams = [ { cName: 'Reference designator = H2', cReturn: null }, { cName: 'Value = MountingHole', cReturn: null }, { cName: 'Sheetfile = audio.kicad_sch', cReturn: null }, { cName: 'Sheetname = Audio', cReturn: null }, { cName: 'ki_description = Mounting Hole without connection', cReturn: null }, { cName: 'ki_keywords = mounting hole', cReturn: null }, { cName: 'Footprint = MountingHole:MountingHole_2.7mm_M2.5_DIN965', cReturn: null }, { cName: 'Description = Mounting Hole 2.7mm, no annular, M2.5, DIN965', cReturn: null }, { cName: 'Keywords = mounting hole 2.7mm no annular m2.5 din965', cReturn: null }, ]; var cChoice = app.popUpMenuEx.apply\( app, aParams \); if\( cChoice != null && cChoice.substring\( 0, 1 \) == '#' \)    this.pageNum = cChoice.slice\( 1 \); else if\( cChoice != null && cChoice.substring\( 0, 4 \) == 'http' \)    app.launchURL\( cChoice \);) >>
 >>
@@ -718,7 +718,7 @@ endobj
 46 0 obj
 << /Type /Annot
    /Subtype /Link
-   /Rect [476.915 327.514 555.094 393.774]
+   /Rect [476.915 327.514 555.094 389.061]
    /Border [16 16 0]
    /A << /Type /Action /S /JavaScript /JS (var aParams = [ { cName: 'Reference designator = J9', cReturn: null }, { cName: 'Value = Audio IN Right', cReturn: null }, { cName: 'Sheetfile = audio.kicad_sch', cReturn: null }, { cName: 'Sheetname = Audio', cReturn: null }, { cName: 'Supplier = https://www.digikey.ch/de/products/detail/schurter-inc/4833-2320/2644235', cReturn: 'https://www.digikey.ch/de/products/detail/schurter-inc/4833-2320/2644235' }, { cName: 'ki_description = M Series, 6.35mm (1/4in) stereo jack, switched, with chrome ferrule and straight PCB pins', cReturn: null }, { cName: 'ki_keywords = audio jack receptacle stereo headphones connector neutrik', cReturn: null }, { cName: 'Footprint = Pedalboard Library:Jack_6.35mm_Horizontal', cReturn: null }, { cName: 'Description = M Series, 6.35mm (1/4in) stereo jack, switched, with chrome ferrule and straight PCB pins, https://www.neutrik.com/en/product/nmj6hcd2', cReturn: 'https://www.neutrik.com/en/product/nmj6hcd2' }, { cName: 'Keywords = neutrik jack m', cReturn: null }, ]; var cChoice = app.popUpMenuEx.apply\( app, aParams \); if\( cChoice != null && cChoice.substring\( 0, 1 \) == '#' \)    this.pageNum = cChoice.slice\( 1 \); else if\( cChoice != null && cChoice.substring\( 0, 4 \) == 'http' \)    app.launchURL\( cChoice \);) >>
 >>
@@ -774,7 +774,7 @@ endobj
 53 0 obj
 << /Type /Annot
    /Subtype /Link
-   /Rect [115.441 281.65 134.008 307.998]
+   /Rect [114.69 281.65 134.008 307.998]
    /Border [16 16 0]
    /A << /Type /Action /S /JavaScript /JS (var aParams = [ { cName: 'Reference designator = D10', cReturn: null }, { cName: 'Value = NEOPIX', cReturn: null }, { cName: 'Sheetfile = pico.kicad_sch', cReturn: null }, { cName: 'Sheetname = MIDI', cReturn: null }, { cName: 'Supplier = https://www.digikey.ch/de/products/detail/sparkfun-electronics/COM-12986/5673799', cReturn: 'https://www.digikey.ch/de/products/detail/sparkfun-electronics/COM-12986/5673799' }, { cName: 'ki_description = RGB LED with integrated controller, 5mm/8mm LED package', cReturn: null }, { cName: 'ki_keywords = RGB LED NeoPixel addressable', cReturn: null }, { cName: 'Footprint = Pedalboard Library:LED_D5.0mm-NeoPixel', cReturn: null }, { cName: 'Description = LED, diameter 5.0mm, 4 pins, WP154A4,https://www.adafruit.com/product/1938', cReturn: 'https://www.adafruit.com/product/1938' }, { cName: 'Keywords = LED diameter 5.0mm neopixel adafruit', cReturn: null }, ]; var cChoice = app.popUpMenuEx.apply\( app, aParams \); if\( cChoice != null && cChoice.substring\( 0, 1 \) == '#' \)    this.pageNum = cChoice.slice\( 1 \); else if\( cChoice != null && cChoice.substring\( 0, 4 \) == 'http' \)    app.launchURL\( cChoice \);) >>
 >>
@@ -782,7 +782,7 @@ endobj
 54 0 obj
 << /Type /Annot
    /Subtype /Link
-   /Rect [208.183 406.778 226.682 441.672]
+   /Rect [208.183 406.778 226.115 441.672]
    /Border [16 16 0]
    /A << /Type /Action /S /JavaScript /JS (var aParams = [ { cName: 'Reference designator = L1', cReturn: null }, { cName: 'Value = 1K@100MHz', cReturn: null }, { cName: 'Sheetfile = pico.kicad_sch', cReturn: null }, { cName: 'Sheetname = MIDI', cReturn: null }, { cName: 'Supplier = https://www.digikey.ch/en/products/detail/fair-rite-products-corp/2743005111/8599429', cReturn: 'https://www.digikey.ch/en/products/detail/fair-rite-products-corp/2743005111/8599429' }, { cName: 'ki_description = Inductor with ferrite core', cReturn: null }, { cName: 'ki_keywords = inductor choke coil reactor magnetic', cReturn: null }, { cName: 'Footprint = Inductor_THT:L_Axial_L6.6mm_D2.7mm_P10.16mm_Horizontal_Vishay_IM-2', cReturn: null }, { cName: 'Description = Inductor, Axial series, Axial, Horizontal, pin pitch=10.16mm, , length*diameter=6.6*2.7mm^2, Vishay, IM-2, http://www.vishay.com/docs/34030/im.pdf', cReturn: 'http://www.vishay.com/docs/34030/im.pdf' }, { cName: 'Keywords = Inductor Axial series Axial Horizontal pin pitch 10.16mm  length 6.6mm diameter 2.7mm Vishay IM-2', cReturn: null }, ]; var cChoice = app.popUpMenuEx.apply\( app, aParams \); if\( cChoice != null && cChoice.substring\( 0, 1 \) == '#' \)    this.pageNum = cChoice.slice\( 1 \); else if\( cChoice != null && cChoice.substring\( 0, 4 \) == 'http' \)    app.launchURL\( cChoice \);) >>
 >>
@@ -790,7 +790,7 @@ endobj
 55 0 obj
 << /Type /Annot
    /Subtype /Link
-   /Rect [395.887 430.39 419.598 449.135]
+   /Rect [395.603 430.39 419.598 449.135]
    /Border [16 16 0]
    /A << /Type /Action /S /JavaScript /JS (var aParams = [ { cName: 'Reference designator = C18', cReturn: null }, { cName: 'Value = 1nF', cReturn: null }, { cName: 'Sheetfile = psu.kicad_sch', cReturn: null }, { cName: 'Sheetname = psu', cReturn: null }, { cName: 'Supplier = https://www.digikey.ch/de/products/detail/kemet/C330C102JHR5TA/1465599', cReturn: 'https://www.digikey.ch/de/products/detail/kemet/C330C102JHR5TA/1465599' }, { cName: 'ki_description = Unpolarized capacitor', cReturn: null }, { cName: 'ki_keywords = cap capacitor', cReturn: null }, { cName: 'Footprint = Capacitor_THT:C_Disc_D7.5mm_W4.4mm_P5.00mm', cReturn: null }, { cName: 'Description = C, Disc series, Radial, pin pitch=5.00mm, , diameter*width=7.5*4.4mm^2, Capacitor', cReturn: null }, { cName: 'Keywords = C Disc series Radial pin pitch 5.00mm  diameter 7.5mm width 4.4mm Capacitor', cReturn: null }, ]; var cChoice = app.popUpMenuEx.apply\( app, aParams \); if\( cChoice != null && cChoice.substring\( 0, 1 \) == '#' \)    this.pageNum = cChoice.slice\( 1 \); else if\( cChoice != null && cChoice.substring\( 0, 4 \) == 'http' \)    app.launchURL\( cChoice \);) >>
 >>
@@ -798,7 +798,7 @@ endobj
 56 0 obj
 << /Type /Annot
    /Subtype /Link
-   /Rect [196.923 405.8 216.872 433.494]
+   /Rect [201.862 405.8 216.872 436.237]
    /Border [16 16 0]
    /A << /Type /Action /S /JavaScript /JS (var aParams = [ { cName: 'Reference designator = D11', cReturn: null }, { cName: 'Value = 1N4148', cReturn: null }, { cName: 'Sheetfile = pico.kicad_sch', cReturn: null }, { cName: 'Sheetname = MIDI', cReturn: null }, { cName: 'Sim.Device = D', cReturn: null }, { cName: 'Sim.Pins = 1=K 2=A', cReturn: null }, { cName: 'Supplier = https://www.digikey.ch/en/products/detail/onsemi/1N4148/458603', cReturn: 'https://www.digikey.ch/en/products/detail/onsemi/1N4148/458603' }, { cName: 'ki_description = 100V 0.15A standard switching diode, DO-35', cReturn: null }, { cName: 'ki_keywords = diode', cReturn: null }, { cName: 'Footprint = Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal', cReturn: null }, { cName: 'Description = Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf', cReturn: 'http://www.diodes.com/_files/packages/DO-35.pdf' }, { cName: 'Keywords = Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm', cReturn: null }, ]; var cChoice = app.popUpMenuEx.apply\( app, aParams \); if\( cChoice != null && cChoice.substring\( 0, 1 \) == '#' \)    this.pageNum = cChoice.slice\( 1 \); else if\( cChoice != null && cChoice.substring\( 0, 4 \) == 'http' \)    app.launchURL\( cChoice \);) >>
 >>
@@ -814,7 +814,7 @@ endobj
 58 0 obj
 << /Type /Annot
    /Subtype /Link
-   /Rect [226.899 413.312 266.934 426.868]
+   /Rect [226.899 413.312 267.785 426.868]
    /Border [16 16 0]
    /A << /Type /Action /S /JavaScript /JS (var aParams = [ { cName: 'Reference designator = L2', cReturn: null }, { cName: 'Value = 1K@100MHz', cReturn: null }, { cName: 'Sheetfile = pico.kicad_sch', cReturn: null }, { cName: 'Sheetname = MIDI', cReturn: null }, { cName: 'Supplier = https://www.digikey.ch/en/products/detail/fair-rite-products-corp/2743005111/8599429', cReturn: 'https://www.digikey.ch/en/products/detail/fair-rite-products-corp/2743005111/8599429' }, { cName: 'ki_description = Inductor with ferrite core', cReturn: null }, { cName: 'ki_keywords = inductor choke coil reactor magnetic', cReturn: null }, { cName: 'Footprint = Inductor_THT:L_Axial_L6.6mm_D2.7mm_P10.16mm_Horizontal_Vishay_IM-2', cReturn: null }, { cName: 'Description = Inductor, Axial series, Axial, Horizontal, pin pitch=10.16mm, , length*diameter=6.6*2.7mm^2, Vishay, IM-2, http://www.vishay.com/docs/34030/im.pdf', cReturn: 'http://www.vishay.com/docs/34030/im.pdf' }, { cName: 'Keywords = Inductor Axial series Axial Horizontal pin pitch 10.16mm  length 6.6mm diameter 2.7mm Vishay IM-2', cReturn: null }, ]; var cChoice = app.popUpMenuEx.apply\( app, aParams \); if\( cChoice != null && cChoice.substring\( 0, 1 \) == '#' \)    this.pageNum = cChoice.slice\( 1 \); else if\( cChoice != null && cChoice.substring\( 0, 4 \) == 'http' \)    app.launchURL\( cChoice \);) >>
 >>
@@ -854,7 +854,7 @@ endobj
 63 0 obj
 << /Type /Annot
    /Subtype /Link
-   /Rect [487.488 234.963 532.984 280.218]
+   /Rect [481.007 234.963 532.984 275.761]
    /Border [16 16 0]
    /A << /Type /Action /S /JavaScript /JS (var aParams = [ { cName: 'Reference designator = SW6', cReturn: null }, { cName: 'Value = C', cReturn: null }, { cName: 'Sheetfile = pico.kicad_sch', cReturn: null }, { cName: 'Sheetname = MIDI', cReturn: null }, { cName: 'Supplier = https://www.digikey.ch/de/products/detail/w%C3%BCrth-elektronik/430466043726/5209037', cReturn: 'https://www.digikey.ch/de/products/detail/w%C3%BCrth-elektronik/430466043726/5209037' }, { cName: 'ki_description = Omron B3FS 6x6mm single pole normally-open tactile switch', cReturn: null }, { cName: 'ki_keywords = switch normally-open pushbutton push-button', cReturn: null }, { cName: 'Footprint = Pedalboard Library:SW_PUSH-12mm_Wuerth-430476085716', cReturn: null }, { cName: 'Description = SW PUSH 12mm http://katalog.we-online.de/em/datasheet/430476085716.pdf', cReturn: 'http://katalog.we-online.de/em/datasheet/430476085716.pdf' }, { cName: 'Keywords = tact sw push 12mm', cReturn: null }, ]; var cChoice = app.popUpMenuEx.apply\( app, aParams \); if\( cChoice != null && cChoice.substring\( 0, 1 \) == '#' \)    this.pageNum = cChoice.slice\( 1 \); else if\( cChoice != null && cChoice.substring\( 0, 4 \) == 'http' \)    app.launchURL\( cChoice \);) >>
 >>
@@ -894,7 +894,7 @@ endobj
 68 0 obj
 << /Type /Annot
    /Subtype /Link
-   /Rect [227.098 403.66 268.635 417.216]
+   /Rect [227.098 403.66 268.068 417.216]
    /Border [16 16 0]
    /A << /Type /Action /S /JavaScript /JS (var aParams = [ { cName: 'Reference designator = L4', cReturn: null }, { cName: 'Value = 1K@100MHz', cReturn: null }, { cName: 'Sheetfile = pico.kicad_sch', cReturn: null }, { cName: 'Sheetname = MIDI', cReturn: null }, { cName: 'Supplier = https://www.digikey.ch/en/products/detail/fair-rite-products-corp/2743005111/8599429', cReturn: 'https://www.digikey.ch/en/products/detail/fair-rite-products-corp/2743005111/8599429' }, { cName: 'ki_description = Inductor with ferrite core', cReturn: null }, { cName: 'ki_keywords = inductor choke coil reactor magnetic', cReturn: null }, { cName: 'Footprint = Inductor_THT:L_Axial_L6.6mm_D2.7mm_P10.16mm_Horizontal_Vishay_IM-2', cReturn: null }, { cName: 'Description = Inductor, Axial series, Axial, Horizontal, pin pitch=10.16mm, , length*diameter=6.6*2.7mm^2, Vishay, IM-2, http://www.vishay.com/docs/34030/im.pdf', cReturn: 'http://www.vishay.com/docs/34030/im.pdf' }, { cName: 'Keywords = Inductor Axial series Axial Horizontal pin pitch 10.16mm  length 6.6mm diameter 2.7mm Vishay IM-2', cReturn: null }, ]; var cChoice = app.popUpMenuEx.apply\( app, aParams \); if\( cChoice != null && cChoice.substring\( 0, 1 \) == '#' \)    this.pageNum = cChoice.slice\( 1 \); else if\( cChoice != null && cChoice.substring\( 0, 4 \) == 'http' \)    app.launchURL\( cChoice \);) >>
 >>
@@ -934,7 +934,7 @@ endobj
 73 0 obj
 << /Type /Annot
    /Subtype /Link
-   /Rect [237.969 486.411 301.364 549.4]
+   /Rect [237.969 486.411 299.622 549.4]
    /Border [16 16 0]
    /A << /Type /Action /S /JavaScript /JS (var aParams = [ { cName: 'Reference designator = J2', cReturn: null }, { cName: 'Value = MIDI_IN', cReturn: null }, { cName: 'Sheetfile = pico.kicad_sch', cReturn: null }, { cName: 'Sheetname = MIDI', cReturn: null }, { cName: 'Supplier = https://www.digikey.ch/de/products/detail/switchcraft-inc/57PC5F/275385', cReturn: 'https://www.digikey.ch/de/products/detail/switchcraft-inc/57PC5F/275385' }, { cName: 'ki_description = 5-pin DIN connector (5-pin DIN-5 stereo)', cReturn: null }, { cName: 'ki_keywords = circular DIN connector stereo audio', cReturn: null }, { cName: 'Footprint = Pedalboard Library:CP-2350', cReturn: null }, { cName: 'Description = Female <b>CONNECTOR</b><p>
 5 pins 90 deg. with shield, horizontal (DIN 41524)', cReturn: null }, { cName: 'Keywords = ', cReturn: null }, ]; var cChoice = app.popUpMenuEx.apply\( app, aParams \); if\( cChoice != null && cChoice.substring\( 0, 1 \) == '#' \)    this.pageNum = cChoice.slice\( 1 \); else if\( cChoice != null && cChoice.substring\( 0, 4 \) == 'http' \)    app.launchURL\( cChoice \);) >>
@@ -983,7 +983,7 @@ endobj
 79 0 obj
 << /Type /Annot
    /Subtype /Link
-   /Rect [375.598 428.052 399.565 463.202]
+   /Rect [375.598 428.052 405.413 463.202]
    /Border [16 16 0]
    /A << /Type /Action /S /JavaScript /JS (var aParams = [ { cName: 'Reference designator = J14', cReturn: null }, { cName: 'Value = Conn_02x01', cReturn: null }, { cName: 'Sheetfile = psu.kicad_sch', cReturn: null }, { cName: 'Sheetname = psu', cReturn: null }, { cName: 'Supplier = ', cReturn: null }, { cName: 'ki_description = Generic connector, double row, 02x01, this symbol is compatible with counter-clockwise, top-bottom and odd-even numbering schemes., script generated (kicad-library-utils/schlib/autogen/connector/)', cReturn: null }, { cName: 'ki_keywords = connector', cReturn: null }, { cName: 'Footprint = Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Horizontal', cReturn: null }, { cName: 'Description = Through hole angled pin header, 1x02, 2.54mm pitch, 6mm pin length, single row', cReturn: null }, { cName: 'Keywords = Through hole angled pin header THT 1x02 2.54mm single row', cReturn: null }, ]; var cChoice = app.popUpMenuEx.apply\( app, aParams \); if\( cChoice != null && cChoice.substring\( 0, 1 \) == '#' \)    this.pageNum = cChoice.slice\( 1 \); else if\( cChoice != null && cChoice.substring\( 0, 4 \) == 'http' \)    app.launchURL\( cChoice \);) >>
 >>
@@ -999,7 +999,7 @@ endobj
 81 0 obj
 << /Type /Annot
    /Subtype /Link
-   /Rect [216.035 415.744 369.568 501.579]
+   /Rect [216.035 415.744 371.87 501.579]
    /Border [16 16 0]
    /A << /Type /Action /S /JavaScript /JS (var aParams = [ { cName: 'Reference designator = U1', cReturn: null }, { cName: 'Value = Pico', cReturn: null }, { cName: 'Sheetfile = pico.kicad_sch', cReturn: null }, { cName: 'Sheetname = MIDI', cReturn: null }, { cName: 'Supplier = https://www.digikey.ch/de/products/detail/w%C3%BCrth-elektronik/61302011121/4846860', cReturn: 'https://www.digikey.ch/de/products/detail/w%C3%BCrth-elektronik/61302011121/4846860' }, { cName: 'Footprint = Pedalboard Library:RPi_Pico_SMD_TH', cReturn: null }, { cName: 'Description = Through hole straight pin header, 2x20, 2.54mm pitch, double rows', cReturn: null }, { cName: 'Keywords = Through hole pin header THT 2x20 2.54mm double row', cReturn: null }, ]; var cChoice = app.popUpMenuEx.apply\( app, aParams \); if\( cChoice != null && cChoice.substring\( 0, 1 \) == '#' \)    this.pageNum = cChoice.slice\( 1 \); else if\( cChoice != null && cChoice.substring\( 0, 4 \) == 'http' \)    app.launchURL\( cChoice \);) >>
 >>
@@ -1007,7 +1007,7 @@ endobj
 82 0 obj
 << /Type /Annot
    /Subtype /Link
-   /Rect [89.185 340.94 128.806 369.378]
+   /Rect [89.185 340.94 128.806 370.757]
    /Border [16 16 0]
    /A << /Type /Action /S /JavaScript /JS (var aParams = [ { cName: 'Reference designator = J4', cReturn: null }, { cName: 'Value = RGB_LED_EXT', cReturn: null }, { cName: 'Sheetfile = pico.kicad_sch', cReturn: null }, { cName: 'Sheetname = MIDI', cReturn: null }, { cName: 'Supplier = https://www.digikey.ch/de/products/detail/w%C3%BCrth-elektronik/61300311021/4846824', cReturn: 'https://www.digikey.ch/de/products/detail/w%C3%BCrth-elektronik/61300311021/4846824' }, { cName: 'ki_description = Generic connector, single row, 01x03, script generated', cReturn: null }, { cName: 'ki_keywords = connector', cReturn: null }, { cName: 'Footprint = Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Horizontal', cReturn: null }, { cName: 'Description = Through hole angled pin header, 1x03, 2.54mm pitch, 6mm pin length, single row', cReturn: null }, { cName: 'Keywords = Through hole angled pin header THT 1x03 2.54mm single row', cReturn: null }, ]; var cChoice = app.popUpMenuEx.apply\( app, aParams \); if\( cChoice != null && cChoice.substring\( 0, 1 \) == '#' \)    this.pageNum = cChoice.slice\( 1 \); else if\( cChoice != null && cChoice.substring\( 0, 4 \) == 'http' \)    app.launchURL\( cChoice \);) >>
 >>
@@ -1040,7 +1040,7 @@ endobj
 254 0 obj
 <<
 /Producer (KiCad PDF)
-/CreationDate (D:20230327151531)
+/CreationDate (D:20230327154505)
 /Creator (PCBNEW)
 /Title (pedalboard-hw-B_Courtyard.pdf)
 >>
@@ -1721,7 +1721,7 @@ endobj
 xref
 0 257
 0000000000 65535 f 
-0000113958 00000 n 
+0000113954 00000 n 
 0000007087 00000 n 
 0000000015 00000 n 
 0000000616 00000 n 
@@ -1732,253 +1732,253 @@ xref
 0000012129 00000 n 
 0000013557 00000 n 
 0000014920 00000 n 
-0000016390 00000 n 
-0000017868 00000 n 
-0000019193 00000 n 
-0000020621 00000 n 
-0000021624 00000 n 
-0000023053 00000 n 
-0000024099 00000 n 
-0000025423 00000 n 
-0000026852 00000 n 
-0000028176 00000 n 
-0000029219 00000 n 
-0000030519 00000 n 
-0000031948 00000 n 
-0000032887 00000 n 
-0000034315 00000 n 
-0000035669 00000 n 
-0000036994 00000 n 
-0000038489 00000 n 
-0000039778 00000 n 
-0000040823 00000 n 
-0000042251 00000 n 
-0000043667 00000 n 
-0000045095 00000 n 
-0000046314 00000 n 
-0000047639 00000 n 
-0000049177 00000 n 
-0000050602 00000 n 
-0000052028 00000 n 
-0000053356 00000 n 
-0000054852 00000 n 
-0000055895 00000 n 
-0000057223 00000 n 
-0000058548 00000 n 
-0000059975 00000 n 
-0000061021 00000 n 
-0000062450 00000 n 
-0000063805 00000 n 
-0000065232 00000 n 
-0000066727 00000 n 
-0000068055 00000 n 
-0000069380 00000 n 
-0000070875 00000 n 
-0000072200 00000 n 
-0000073678 00000 n 
-0000074944 00000 n 
-0000076415 00000 n 
-0000077841 00000 n 
-0000079319 00000 n 
-0000080666 00000 n 
-0000081709 00000 n 
-0000083072 00000 n 
-0000084396 00000 n 
-0000085752 00000 n 
-0000087107 00000 n 
-0000088534 00000 n 
-0000089890 00000 n 
-0000090935 00000 n 
-0000092412 00000 n 
-0000093951 00000 n 
-0000095446 00000 n 
-0000096801 00000 n 
-0000098066 00000 n 
-0000099284 00000 n 
-0000100712 00000 n 
-0000102037 00000 n 
-0000103515 00000 n 
-0000104929 00000 n 
-0000106152 00000 n 
-0000107456 00000 n 
-0000108717 00000 n 
-0000109838 00000 n 
-0000111164 00000 n 
-0000112486 00000 n 
+0000016388 00000 n 
+0000017866 00000 n 
+0000019191 00000 n 
+0000020619 00000 n 
+0000021622 00000 n 
+0000023051 00000 n 
+0000024097 00000 n 
+0000025421 00000 n 
+0000026850 00000 n 
+0000028174 00000 n 
+0000029217 00000 n 
+0000030517 00000 n 
+0000031946 00000 n 
+0000032885 00000 n 
+0000034313 00000 n 
+0000035667 00000 n 
+0000036992 00000 n 
+0000038487 00000 n 
+0000039776 00000 n 
+0000040821 00000 n 
+0000042249 00000 n 
+0000043665 00000 n 
+0000045093 00000 n 
+0000046312 00000 n 
+0000047637 00000 n 
+0000049175 00000 n 
+0000050600 00000 n 
+0000052026 00000 n 
+0000053354 00000 n 
+0000054850 00000 n 
+0000055893 00000 n 
+0000057221 00000 n 
+0000058546 00000 n 
+0000059973 00000 n 
+0000061019 00000 n 
+0000062448 00000 n 
+0000063803 00000 n 
+0000065230 00000 n 
+0000066725 00000 n 
+0000068053 00000 n 
+0000069378 00000 n 
+0000070873 00000 n 
+0000072197 00000 n 
+0000073675 00000 n 
+0000074941 00000 n 
+0000076412 00000 n 
+0000077838 00000 n 
+0000079316 00000 n 
+0000080663 00000 n 
+0000081706 00000 n 
+0000083069 00000 n 
+0000084393 00000 n 
+0000085749 00000 n 
+0000087104 00000 n 
+0000088531 00000 n 
+0000089887 00000 n 
+0000090932 00000 n 
+0000092409 00000 n 
+0000093948 00000 n 
+0000095443 00000 n 
+0000096798 00000 n 
+0000098063 00000 n 
+0000099281 00000 n 
+0000100709 00000 n 
+0000102034 00000 n 
+0000103512 00000 n 
+0000104926 00000 n 
+0000106149 00000 n 
+0000107453 00000 n 
+0000108714 00000 n 
+0000109834 00000 n 
+0000111160 00000 n 
+0000112482 00000 n 
 0000000635 00000 n 
 0000001208 00000 n 
 0000001393 00000 n 
-0000122331 00000 n 
-0000122209 00000 n 
+0000122327 00000 n 
+0000122205 00000 n 
 0000001440 00000 n 
-0000117274 00000 n 
+0000117270 00000 n 
 0000001504 00000 n 
-0000115559 00000 n 
+0000115555 00000 n 
 0000001568 00000 n 
-0000118986 00000 n 
+0000118982 00000 n 
 0000001632 00000 n 
-0000117978 00000 n 
+0000117974 00000 n 
 0000001696 00000 n 
-0000118582 00000 n 
+0000118578 00000 n 
 0000001759 00000 n 
-0000114849 00000 n 
+0000114845 00000 n 
 0000001824 00000 n 
-0000118682 00000 n 
+0000118678 00000 n 
 0000001889 00000 n 
-0000120399 00000 n 
+0000120395 00000 n 
 0000001954 00000 n 
-0000116467 00000 n 
+0000116463 00000 n 
 0000002019 00000 n 
-0000118481 00000 n 
+0000118477 00000 n 
 0000002083 00000 n 
-0000120601 00000 n 
+0000120597 00000 n 
 0000002148 00000 n 
-0000118379 00000 n 
+0000118375 00000 n 
 0000002213 00000 n 
-0000117777 00000 n 
+0000117773 00000 n 
 0000002278 00000 n 
-0000116568 00000 n 
+0000116564 00000 n 
 0000002343 00000 n 
-0000114237 00000 n 
+0000114233 00000 n 
 0000002408 00000 n 
-0000116871 00000 n 
+0000116867 00000 n 
 0000002473 00000 n 
-0000117575 00000 n 
+0000117571 00000 n 
 0000002538 00000 n 
-0000119692 00000 n 
+0000119688 00000 n 
 0000002603 00000 n 
-0000114339 00000 n 
+0000114335 00000 n 
 0000002668 00000 n 
-0000117373 00000 n 
+0000117369 00000 n 
 0000002733 00000 n 
-0000115960 00000 n 
+0000115956 00000 n 
 0000002798 00000 n 
-0000121310 00000 n 
+0000121306 00000 n 
 0000002863 00000 n 
-0000117073 00000 n 
+0000117069 00000 n 
 0000002928 00000 n 
-0000121107 00000 n 
+0000121103 00000 n 
 0000002993 00000 n 
-0000122125 00000 n 
+0000122121 00000 n 
 0000003058 00000 n 
-0000117878 00000 n 
+0000117874 00000 n 
 0000003123 00000 n 
-0000120500 00000 n 
+0000120496 00000 n 
 0000003188 00000 n 
-0000119288 00000 n 
+0000119284 00000 n 
 0000003253 00000 n 
-0000114153 00000 n 
+0000114149 00000 n 
 0000003318 00000 n 
-0000118278 00000 n 
+0000118274 00000 n 
 0000003383 00000 n 
-0000116366 00000 n 
+0000116362 00000 n 
 0000003448 00000 n 
-0000121820 00000 n 
+0000121816 00000 n 
 0000003513 00000 n 
-0000115257 00000 n 
+0000115253 00000 n 
 0000003578 00000 n 
-0000115859 00000 n 
+0000115855 00000 n 
 0000003643 00000 n 
-0000114645 00000 n 
+0000114641 00000 n 
 0000003708 00000 n 
-0000120703 00000 n 
+0000120699 00000 n 
 0000003773 00000 n 
-0000117474 00000 n 
+0000117470 00000 n 
 0000003838 00000 n 
-0000114747 00000 n 
+0000114743 00000 n 
 0000003903 00000 n 
-0000116061 00000 n 
+0000116057 00000 n 
 0000003968 00000 n 
-0000115358 00000 n 
+0000115354 00000 n 
 0000004033 00000 n 
-0000118177 00000 n 
+0000118173 00000 n 
 0000004098 00000 n 
-0000119894 00000 n 
+0000119890 00000 n 
 0000004163 00000 n 
-0000121208 00000 n 
+0000121204 00000 n 
 0000004227 00000 n 
-0000114441 00000 n 
+0000114437 00000 n 
 0000004292 00000 n 
-0000120905 00000 n 
+0000120901 00000 n 
 0000004357 00000 n 
-0000114543 00000 n 
+0000114539 00000 n 
 0000004422 00000 n 
-0000116669 00000 n 
+0000116665 00000 n 
 0000004487 00000 n 
-0000121006 00000 n 
+0000121002 00000 n 
 0000004552 00000 n 
-0000116162 00000 n 
+0000116158 00000 n 
 0000004617 00000 n 
-0000119995 00000 n 
+0000119991 00000 n 
 0000004682 00000 n 
-0000115053 00000 n 
+0000115049 00000 n 
 0000004747 00000 n 
-0000116264 00000 n 
+0000116260 00000 n 
 0000004812 00000 n 
-0000115459 00000 n 
+0000115455 00000 n 
 0000004877 00000 n 
-0000120096 00000 n 
+0000120092 00000 n 
 0000004942 00000 n 
-0000117174 00000 n 
+0000117170 00000 n 
 0000005007 00000 n 
-0000117676 00000 n 
+0000117672 00000 n 
 0000005072 00000 n 
-0000114951 00000 n 
+0000114947 00000 n 
 0000005137 00000 n 
-0000116770 00000 n 
+0000116766 00000 n 
 0000005202 00000 n 
-0000121718 00000 n 
+0000121714 00000 n 
 0000005267 00000 n 
-0000121412 00000 n 
+0000121408 00000 n 
 0000005332 00000 n 
-0000115758 00000 n 
+0000115754 00000 n 
 0000005397 00000 n 
-0000121514 00000 n 
+0000121510 00000 n 
 0000005461 00000 n 
-0000118077 00000 n 
+0000118073 00000 n 
 0000005526 00000 n 
-0000120298 00000 n 
+0000120294 00000 n 
 0000005591 00000 n 
-0000121922 00000 n 
+0000121918 00000 n 
 0000005656 00000 n 
-0000120804 00000 n 
+0000120800 00000 n 
 0000005721 00000 n 
-0000121616 00000 n 
+0000121612 00000 n 
 0000005786 00000 n 
-0000115155 00000 n 
+0000115151 00000 n 
 0000005851 00000 n 
-0000119187 00000 n 
+0000119183 00000 n 
 0000005916 00000 n 
-0000115658 00000 n 
+0000115654 00000 n 
 0000005981 00000 n 
-0000116972 00000 n 
+0000116968 00000 n 
 0000006046 00000 n 
-0000120197 00000 n 
+0000120193 00000 n 
 0000006111 00000 n 
-0000119086 00000 n 
+0000119082 00000 n 
 0000006176 00000 n 
-0000119591 00000 n 
+0000119587 00000 n 
 0000006241 00000 n 
-0000118783 00000 n 
+0000118779 00000 n 
 0000006306 00000 n 
-0000119490 00000 n 
+0000119486 00000 n 
 0000006371 00000 n 
-0000122024 00000 n 
+0000122020 00000 n 
 0000006436 00000 n 
-0000119389 00000 n 
+0000119385 00000 n 
 0000006500 00000 n 
-0000119793 00000 n 
+0000119789 00000 n 
 0000006565 00000 n 
-0000118885 00000 n 
+0000118881 00000 n 
 0000006630 00000 n 
 0000006738 00000 n 
 0000006854 00000 n 
 0000006967 00000 n 
-0000114018 00000 n 
-0000122447 00000 n 
-0000122532 00000 n 
+0000114014 00000 n 
+0000122443 00000 n 
+0000122528 00000 n 
 trailer
 << /Size 257 /Root 256 0 R /Info 254 0 R >>
 startxref
-122662
+122658
 %%EOF
