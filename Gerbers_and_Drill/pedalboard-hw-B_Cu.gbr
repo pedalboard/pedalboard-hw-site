@@ -1,12 +1,12 @@
 %TF.GenerationSoftware,KiCad,Pcbnew,7.0.1.1-36-gbcf78dbe24-dirty-deb11*%
-%TF.CreationDate,2023-03-27T19:41:13+00:00*%
-%TF.ProjectId,pedalboard-hw,70656461-6c62-46f6-9172-642d68772e6b,0.0.1*%
+%TF.CreationDate,2023-03-27T20:53:43+00:00*%
+%TF.ProjectId,pedalboard-hw,70656461-6c62-46f6-9172-642d68772e6b,1.0.0*%
 %TF.SameCoordinates,Original*%
 %TF.FileFunction,Copper,L2,Bot*%
 %TF.FilePolarity,Positive*%
 %FSLAX46Y46*%
 G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
-G04 Created by KiCad (PCBNEW 7.0.1.1-36-gbcf78dbe24-dirty-deb11) date 2023-03-27 19:41:13*
+G04 Created by KiCad (PCBNEW 7.0.1.1-36-gbcf78dbe24-dirty-deb11) date 2023-03-27 20:53:43*
 %MOMM*%
 %LPD*%
 G01*
@@ -192,19 +192,19 @@ X34400000Y-94970000D03*
 %TD*%
 D10*
 %TO.P,C16,1*%
-%TO.N,/psu/fused*%
+%TO.N,/Power Supply/fused*%
 X159900000Y-44600000D03*
 %TO.P,C16,2*%
-%TO.N,/psu/power_input_gnd*%
+%TO.N,/Power Supply/power_input_gnd*%
 X164900000Y-44600000D03*
 %TD*%
 D14*
 %TO.P,J13,1*%
-%TO.N,/psu/power_input_gnd*%
+%TO.N,/Power Supply/power_input_gnd*%
 X179400000Y-30400000D03*
 D15*
 %TO.P,J13,2*%
-%TO.N,/psu/unfused*%
+%TO.N,/Power Supply/unfused*%
 X179400000Y-24600000D03*
 D16*
 %TO.P,J13,3*%
@@ -261,13 +261,13 @@ D20*
 X144960000Y-71520000D03*
 D21*
 %TO.P,PS1,2,GND*%
-%TO.N,/psu/power_input_gnd*%
+%TO.N,/Power Supply/power_input_gnd*%
 X137340000Y-71520000D03*
 %TO.P,PS1,3,VIN*%
-%TO.N,/psu/vin*%
+%TO.N,/Power Supply/vin*%
 X132260000Y-71520000D03*
 %TO.P,PS1,4,+VO*%
-%TO.N,/psu/vo*%
+%TO.N,/Power Supply/vo*%
 X124640000Y-91840000D03*
 %TO.P,PS1,5,TRIM*%
 %TO.N,unconnected-(PS1-TRIM-Pad5)*%
@@ -528,10 +528,10 @@ X61855000Y-65800000D03*
 %TD*%
 D27*
 %TO.P,L6,1,1*%
-%TO.N,/psu/fused*%
+%TO.N,/Power Supply/fused*%
 X161900000Y-50300000D03*
 %TO.P,L6,2,2*%
-%TO.N,/psu/vin*%
+%TO.N,/Power Supply/vin*%
 X161900000Y-55300000D03*
 %TD*%
 D13*
@@ -648,11 +648,11 @@ X167070000Y-83300000D03*
 %TD*%
 D33*
 %TO.P,C14,1*%
-%TO.N,/psu/vin*%
+%TO.N,/Power Supply/vin*%
 X144100000Y-60932323D03*
 D34*
 %TO.P,C14,2*%
-%TO.N,/psu/power_input_gnd*%
+%TO.N,/Power Supply/power_input_gnd*%
 X144100000Y-65932323D03*
 %TD*%
 D10*
@@ -666,7 +666,7 @@ X68120000Y-68980000D03*
 %TD*%
 D33*
 %TO.P,C15,1*%
-%TO.N,/psu/vo*%
+%TO.N,/Power Supply/vo*%
 X135600000Y-63400000D03*
 D34*
 %TO.P,C15,2*%
@@ -743,11 +743,11 @@ X57855000Y-63050000D03*
 %TD*%
 D33*
 %TO.P,C13,1*%
-%TO.N,/psu/fused*%
+%TO.N,/Power Supply/fused*%
 X159832323Y-37500000D03*
 D34*
 %TO.P,C13,2*%
-%TO.N,/psu/power_input_gnd*%
+%TO.N,/Power Supply/power_input_gnd*%
 X164832323Y-37500000D03*
 %TD*%
 D18*
@@ -800,10 +800,10 @@ X76600000Y-65430000D03*
 %TD*%
 D10*
 %TO.P,C18,1*%
-%TO.N,/psu/vin*%
+%TO.N,/Power Supply/vin*%
 X146500000Y-55700000D03*
 %TO.P,C18,2*%
-%TO.N,/psu/vo*%
+%TO.N,/Power Supply/vo*%
 X141500000Y-55700000D03*
 %TD*%
 D36*
@@ -833,17 +833,17 @@ X81120000Y-62575000D03*
 %TD*%
 D10*
 %TO.P,F1,1*%
-%TO.N,/psu/unfused*%
+%TO.N,/Power Supply/unfused*%
 X164800000Y-27700000D03*
 %TO.P,F1,2*%
-%TO.N,/psu/fused*%
+%TO.N,/Power Supply/fused*%
 X159800000Y-27700000D03*
 %TD*%
 %TO.P,C17,1*%
-%TO.N,/psu/vin*%
+%TO.N,/Power Supply/vin*%
 X151700000Y-57200000D03*
 %TO.P,C17,2*%
-%TO.N,/psu/power_input_gnd*%
+%TO.N,/Power Supply/power_input_gnd*%
 X151700000Y-62200000D03*
 %TD*%
 D18*
@@ -955,7 +955,7 @@ D10*
 %TO.N,GND*%
 X156200000Y-64700000D03*
 %TO.P,C19,2*%
-%TO.N,/psu/power_input_gnd*%
+%TO.N,/Power Supply/power_input_gnd*%
 X156200000Y-59700000D03*
 %TD*%
 D28*
@@ -1055,7 +1055,7 @@ X113625000Y-97605000D03*
 %TD*%
 D22*
 %TO.P,J14,1,Pin_1*%
-%TO.N,/psu/vo*%
+%TO.N,/Power Supply/vo*%
 X138000000Y-57175000D03*
 D23*
 %TO.P,J14,2,Pin_2*%

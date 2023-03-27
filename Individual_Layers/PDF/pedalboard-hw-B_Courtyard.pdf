@@ -431,7 +431,7 @@ endobj
    /Subtype /Link
    /Rect [440.674 458.843 470.48 474.186]
    /Border [16 16 0]
-   /A << /Type /Action /S /JavaScript /JS (var aParams = [ { cName: 'Reference designator = C16', cReturn: null }, { cName: 'Value = 4.7uF', cReturn: null }, { cName: 'Sheetfile = psu.kicad_sch', cReturn: null }, { cName: 'Sheetname = psu', cReturn: null }, { cName: 'Supplier = https://www.digikey.ch/de/products/detail/kemet/C322C475K5R5TA/3726055', cReturn: 'https://www.digikey.ch/de/products/detail/kemet/C322C475K5R5TA/3726055' }, { cName: 'ki_description = Unpolarized capacitor', cReturn: null }, { cName: 'ki_keywords = cap capacitor', cReturn: null }, { cName: 'Footprint = Capacitor_THT:C_Disc_D5.1mm_W3.2mm_P5.00mm', cReturn: null }, { cName: 'Description = C, Disc series, Radial, pin pitch=5.00mm, , diameter*width=5.1*3.2mm^2, Capacitor, http://www.vishay.com/docs/45233/krseries.pdf', cReturn: 'http://www.vishay.com/docs/45233/krseries.pdf' }, { cName: 'Keywords = C Disc series Radial pin pitch 5.00mm  diameter 5.1mm width 3.2mm Capacitor', cReturn: null }, ]; var cChoice = app.popUpMenuEx.apply\( app, aParams \); if\( cChoice != null && cChoice.substring\( 0, 1 \) == '#' \)    this.pageNum = cChoice.slice\( 1 \); else if\( cChoice != null && cChoice.substring\( 0, 4 \) == 'http' \)    app.launchURL\( cChoice \);) >>
+   /A << /Type /Action /S /JavaScript /JS (var aParams = [ { cName: 'Reference designator = C16', cReturn: null }, { cName: 'Value = 4.7uF', cReturn: null }, { cName: 'Sheetfile = psu.kicad_sch', cReturn: null }, { cName: 'Sheetname = Power Supply', cReturn: null }, { cName: 'Supplier = https://www.digikey.ch/de/products/detail/kemet/C322C475K5R5TA/3726055', cReturn: 'https://www.digikey.ch/de/products/detail/kemet/C322C475K5R5TA/3726055' }, { cName: 'ki_description = Unpolarized capacitor', cReturn: null }, { cName: 'ki_keywords = cap capacitor', cReturn: null }, { cName: 'Footprint = Capacitor_THT:C_Disc_D5.1mm_W3.2mm_P5.00mm', cReturn: null }, { cName: 'Description = C, Disc series, Radial, pin pitch=5.00mm, , diameter*width=5.1*3.2mm^2, Capacitor, http://www.vishay.com/docs/45233/krseries.pdf', cReturn: 'http://www.vishay.com/docs/45233/krseries.pdf' }, { cName: 'Keywords = C Disc series Radial pin pitch 5.00mm  diameter 5.1mm width 3.2mm Capacitor', cReturn: null }, ]; var cChoice = app.popUpMenuEx.apply\( app, aParams \); if\( cChoice != null && cChoice.substring\( 0, 1 \) == '#' \)    this.pageNum = cChoice.slice\( 1 \); else if\( cChoice != null && cChoice.substring\( 0, 4 \) == 'http' \)    app.launchURL\( cChoice \);) >>
 >>
 endobj
 11 0 obj
@@ -439,7 +439,7 @@ endobj
    /Subtype /Link
    /Rect [482.101 505.083 534.97 555.009]
    /Border [16 16 0]
-   /A << /Type /Action /S /JavaScript /JS (var aParams = [ { cName: 'Reference designator = J13', cReturn: null }, { cName: 'Value = Barrel_Jack_MountingPin', cReturn: null }, { cName: 'Sheetfile = psu.kicad_sch', cReturn: null }, { cName: 'Sheetname = psu', cReturn: null }, { cName: 'Supplier = https://www.digikey.ch/de/products/detail/w%C3%BCrth-elektronik/694106301002/5047522', cReturn: 'https://www.digikey.ch/de/products/detail/w%C3%BCrth-elektronik/694106301002/5047522' }, { cName: 'ki_description = DC Barrel Jack with an internal switch', cReturn: null }, { cName: 'ki_keywords = DC power barrel jack connector', cReturn: null }, { cName: 'Footprint = Pedalboard Library:BarrelJack_Wuerth_6941xx301002', cReturn: null }, { cName: 'Description = Wuerth electronics barrel jack connector (5.5mm outher diameter, inner diameter 2.05mm or 2.55mm depending on exact order number), See: http://katalog.we-online.de/em/datasheet/6941xx301002.pdf', cReturn: 'http://katalog.we-online.de/em/datasheet/6941xx301002.pdf' }, { cName: 'Keywords = connector barrel jack', cReturn: null }, ]; var cChoice = app.popUpMenuEx.apply\( app, aParams \); if\( cChoice != null && cChoice.substring\( 0, 1 \) == '#' \)    this.pageNum = cChoice.slice\( 1 \); else if\( cChoice != null && cChoice.substring\( 0, 4 \) == 'http' \)    app.launchURL\( cChoice \);) >>
+   /A << /Type /Action /S /JavaScript /JS (var aParams = [ { cName: 'Reference designator = J13', cReturn: null }, { cName: 'Value = Barrel_Jack_MountingPin', cReturn: null }, { cName: 'Sheetfile = psu.kicad_sch', cReturn: null }, { cName: 'Sheetname = Power Supply', cReturn: null }, { cName: 'Supplier = https://www.digikey.ch/de/products/detail/w%C3%BCrth-elektronik/694106301002/5047522', cReturn: 'https://www.digikey.ch/de/products/detail/w%C3%BCrth-elektronik/694106301002/5047522' }, { cName: 'ki_description = DC Barrel Jack with an internal switch', cReturn: null }, { cName: 'ki_keywords = DC power barrel jack connector', cReturn: null }, { cName: 'Footprint = Pedalboard Library:BarrelJack_Wuerth_6941xx301002', cReturn: null }, { cName: 'Description = Wuerth electronics barrel jack connector (5.5mm outher diameter, inner diameter 2.05mm or 2.55mm depending on exact order number), See: http://katalog.we-online.de/em/datasheet/6941xx301002.pdf', cReturn: 'http://katalog.we-online.de/em/datasheet/6941xx301002.pdf' }, { cName: 'Keywords = connector barrel jack', cReturn: null }, ]; var cChoice = app.popUpMenuEx.apply\( app, aParams \); if\( cChoice != null && cChoice.substring\( 0, 1 \) == '#' \)    this.pageNum = cChoice.slice\( 1 \); else if\( cChoice != null && cChoice.substring\( 0, 4 \) == 'http' \)    app.launchURL\( cChoice \);) >>
 >>
 endobj
 12 0 obj
@@ -471,7 +471,7 @@ endobj
    /Subtype /Link
    /Rect [340.561 326.983 423.659 402.129]
    /Border [16 16 0]
-   /A << /Type /Action /S /JavaScript /JS (var aParams = [ { cName: 'Reference designator = PS1', cReturn: null }, { cName: 'Value = PDQE15-Q24-S5-D', cReturn: null }, { cName: 'Sheetfile = psu.kicad_sch', cReturn: null }, { cName: 'Sheetname = psu', cReturn: null }, { cName: 'Supplier = https://www.digikey.ch/de/products/detail/cui-inc/PDQE15-Q24-S5-D/10230147', cReturn: 'https://www.digikey.ch/de/products/detail/cui-inc/PDQE15-Q24-S5-D/10230147' }, { cName: 'Footprint = Pedalboard Library:CONV_PDQE15-Q24-S5-D', cReturn: null }, { cName: 'Description = ', cReturn: null }, { cName: 'Keywords = ', cReturn: null }, ]; var cChoice = app.popUpMenuEx.apply\( app, aParams \); if\( cChoice != null && cChoice.substring\( 0, 1 \) == '#' \)    this.pageNum = cChoice.slice\( 1 \); else if\( cChoice != null && cChoice.substring\( 0, 4 \) == 'http' \)    app.launchURL\( cChoice \);) >>
+   /A << /Type /Action /S /JavaScript /JS (var aParams = [ { cName: 'Reference designator = PS1', cReturn: null }, { cName: 'Value = PDQE15-Q24-S5-D', cReturn: null }, { cName: 'Sheetfile = psu.kicad_sch', cReturn: null }, { cName: 'Sheetname = Power Supply', cReturn: null }, { cName: 'Supplier = https://www.digikey.ch/de/products/detail/cui-inc/PDQE15-Q24-S5-D/10230147', cReturn: 'https://www.digikey.ch/de/products/detail/cui-inc/PDQE15-Q24-S5-D/10230147' }, { cName: 'Footprint = Pedalboard Library:CONV_PDQE15-Q24-S5-D', cReturn: null }, { cName: 'Description = ', cReturn: null }, { cName: 'Keywords = ', cReturn: null }, ]; var cChoice = app.popUpMenuEx.apply\( app, aParams \); if\( cChoice != null && cChoice.substring\( 0, 1 \) == '#' \)    this.pageNum = cChoice.slice\( 1 \); else if\( cChoice != null && cChoice.substring\( 0, 4 \) == 'http' \)    app.launchURL\( cChoice \);) >>
 >>
 endobj
 16 0 obj
@@ -599,7 +599,7 @@ endobj
    /Subtype /Link
    /Rect [436.429 422.702 476.717 463.414]
    /Border [16 16 0]
-   /A << /Type /Action /S /JavaScript /JS (var aParams = [ { cName: 'Reference designator = L6', cReturn: null }, { cName: 'Value = 2.2uH', cReturn: null }, { cName: 'Sheetfile = psu.kicad_sch', cReturn: null }, { cName: 'Sheetname = psu', cReturn: null }, { cName: 'Supplier = https://www.digikey.ch/de/products/detail/w%C3%BCrth-elektronik/7447471022/2794428', cReturn: 'https://www.digikey.ch/de/products/detail/w%C3%BCrth-elektronik/7447471022/2794428' }, { cName: 'ki_description = Inductor', cReturn: null }, { cName: 'ki_keywords = inductor choke coil reactor magnetic', cReturn: null }, { cName: 'Footprint = Inductor_THT:L_Radial_D12.0mm_P5.00mm_Fastron_11P', cReturn: null }, { cName: 'Description = Inductor, Radial series, Radial, pin pitch=5.00mm, , diameter=12.0mm, Fastron, 11P, http://cdn-reichelt.de/documents/datenblatt/B400/DS_11P.pdf', cReturn: 'http://cdn-reichelt.de/documents/datenblatt/B400/DS_11P.pdf' }, { cName: 'Keywords = Inductor Radial series Radial pin pitch 5.00mm  diameter 12.0mm Fastron 11P', cReturn: null }, ]; var cChoice = app.popUpMenuEx.apply\( app, aParams \); if\( cChoice != null && cChoice.substring\( 0, 1 \) == '#' \)    this.pageNum = cChoice.slice\( 1 \); else if\( cChoice != null && cChoice.substring\( 0, 4 \) == 'http' \)    app.launchURL\( cChoice \);) >>
+   /A << /Type /Action /S /JavaScript /JS (var aParams = [ { cName: 'Reference designator = L6', cReturn: null }, { cName: 'Value = 2.2uH', cReturn: null }, { cName: 'Sheetfile = psu.kicad_sch', cReturn: null }, { cName: 'Sheetname = Power Supply', cReturn: null }, { cName: 'Supplier = https://www.digikey.ch/de/products/detail/w%C3%BCrth-elektronik/7447471022/2794428', cReturn: 'https://www.digikey.ch/de/products/detail/w%C3%BCrth-elektronik/7447471022/2794428' }, { cName: 'ki_description = Inductor', cReturn: null }, { cName: 'ki_keywords = inductor choke coil reactor magnetic', cReturn: null }, { cName: 'Footprint = Inductor_THT:L_Radial_D12.0mm_P5.00mm_Fastron_11P', cReturn: null }, { cName: 'Description = Inductor, Radial series, Radial, pin pitch=5.00mm, , diameter=12.0mm, Fastron, 11P, http://cdn-reichelt.de/documents/datenblatt/B400/DS_11P.pdf', cReturn: 'http://cdn-reichelt.de/documents/datenblatt/B400/DS_11P.pdf' }, { cName: 'Keywords = Inductor Radial series Radial pin pitch 5.00mm  diameter 12.0mm Fastron 11P', cReturn: null }, ]; var cChoice = app.popUpMenuEx.apply\( app, aParams \); if\( cChoice != null && cChoice.substring\( 0, 1 \) == '#' \)    this.pageNum = cChoice.slice\( 1 \); else if\( cChoice != null && cChoice.substring\( 0, 4 \) == 'http' \)    app.launchURL\( cChoice \);) >>
 >>
 endobj
 32 0 obj
@@ -664,7 +664,7 @@ endobj
    /Subtype /Link
    /Rect [388.807 400.535 428.145 431.191]
    /Border [16 16 0]
-   /A << /Type /Action /S /JavaScript /JS (var aParams = [ { cName: 'Reference designator = C14', cReturn: null }, { cName: 'Value = 220uF', cReturn: null }, { cName: 'Sheetfile = psu.kicad_sch', cReturn: null }, { cName: 'Sheetname = psu', cReturn: null }, { cName: 'Supplier = https://www.digikey.ch/de/products/detail/cornell-dubilier-illinois-capacitor/227AVG050MGBJ/5411698', cReturn: 'https://www.digikey.ch/de/products/detail/cornell-dubilier-illinois-capacitor/227AVG050MGBJ/5411698' }, { cName: 'ki_description = Polarized capacitor', cReturn: null }, { cName: 'ki_keywords = cap capacitor', cReturn: null }, { cName: 'Footprint = Capacitor_THT:CP_Radial_D10.0mm_P5.00mm', cReturn: null }, { cName: 'Description = CP, Radial series, Radial, pin pitch=5.00mm, , diameter=10mm, Electrolytic Capacitor', cReturn: null }, { cName: 'Keywords = CP Radial series Radial pin pitch 5.00mm  diameter 10mm Electrolytic Capacitor', cReturn: null }, ]; var cChoice = app.popUpMenuEx.apply\( app, aParams \); if\( cChoice != null && cChoice.substring\( 0, 1 \) == '#' \)    this.pageNum = cChoice.slice\( 1 \); else if\( cChoice != null && cChoice.substring\( 0, 4 \) == 'http' \)    app.launchURL\( cChoice \);) >>
+   /A << /Type /Action /S /JavaScript /JS (var aParams = [ { cName: 'Reference designator = C14', cReturn: null }, { cName: 'Value = 220uF', cReturn: null }, { cName: 'Sheetfile = psu.kicad_sch', cReturn: null }, { cName: 'Sheetname = Power Supply', cReturn: null }, { cName: 'Supplier = https://www.digikey.ch/de/products/detail/cornell-dubilier-illinois-capacitor/227AVG050MGBJ/5411698', cReturn: 'https://www.digikey.ch/de/products/detail/cornell-dubilier-illinois-capacitor/227AVG050MGBJ/5411698' }, { cName: 'ki_description = Polarized capacitor', cReturn: null }, { cName: 'ki_keywords = cap capacitor', cReturn: null }, { cName: 'Footprint = Capacitor_THT:CP_Radial_D10.0mm_P5.00mm', cReturn: null }, { cName: 'Description = CP, Radial series, Radial, pin pitch=5.00mm, , diameter=10mm, Electrolytic Capacitor', cReturn: null }, { cName: 'Keywords = CP Radial series Radial pin pitch 5.00mm  diameter 10mm Electrolytic Capacitor', cReturn: null }, ]; var cChoice = app.popUpMenuEx.apply\( app, aParams \); if\( cChoice != null && cChoice.substring\( 0, 1 \) == '#' \)    this.pageNum = cChoice.slice\( 1 \); else if\( cChoice != null && cChoice.substring\( 0, 4 \) == 'http' \)    app.launchURL\( cChoice \);) >>
 >>
 endobj
 40 0 obj
@@ -688,7 +688,7 @@ endobj
    /Subtype /Link
    /Rect [357.336 400.627 392.994 435.245]
    /Border [16 16 0]
-   /A << /Type /Action /S /JavaScript /JS (var aParams = [ { cName: 'Reference designator = C15', cReturn: null }, { cName: 'Value = 220uF', cReturn: null }, { cName: 'Sheetfile = psu.kicad_sch', cReturn: null }, { cName: 'Sheetname = psu', cReturn: null }, { cName: 'Supplier = https://www.digikey.ch/de/products/detail/cornell-dubilier-illinois-capacitor/227AVG050MGBJ/5411698', cReturn: 'https://www.digikey.ch/de/products/detail/cornell-dubilier-illinois-capacitor/227AVG050MGBJ/5411698' }, { cName: 'ki_description = Polarized capacitor', cReturn: null }, { cName: 'ki_keywords = cap capacitor', cReturn: null }, { cName: 'Footprint = Capacitor_THT:CP_Radial_D10.0mm_P5.00mm', cReturn: null }, { cName: 'Description = CP, Radial series, Radial, pin pitch=5.00mm, , diameter=10mm, Electrolytic Capacitor', cReturn: null }, { cName: 'Keywords = CP Radial series Radial pin pitch 5.00mm  diameter 10mm Electrolytic Capacitor', cReturn: null }, ]; var cChoice = app.popUpMenuEx.apply\( app, aParams \); if\( cChoice != null && cChoice.substring\( 0, 1 \) == '#' \)    this.pageNum = cChoice.slice\( 1 \); else if\( cChoice != null && cChoice.substring\( 0, 4 \) == 'http' \)    app.launchURL\( cChoice \);) >>
+   /A << /Type /Action /S /JavaScript /JS (var aParams = [ { cName: 'Reference designator = C15', cReturn: null }, { cName: 'Value = 220uF', cReturn: null }, { cName: 'Sheetfile = psu.kicad_sch', cReturn: null }, { cName: 'Sheetname = Power Supply', cReturn: null }, { cName: 'Supplier = https://www.digikey.ch/de/products/detail/cornell-dubilier-illinois-capacitor/227AVG050MGBJ/5411698', cReturn: 'https://www.digikey.ch/de/products/detail/cornell-dubilier-illinois-capacitor/227AVG050MGBJ/5411698' }, { cName: 'ki_description = Polarized capacitor', cReturn: null }, { cName: 'ki_keywords = cap capacitor', cReturn: null }, { cName: 'Footprint = Capacitor_THT:CP_Radial_D10.0mm_P5.00mm', cReturn: null }, { cName: 'Description = CP, Radial series, Radial, pin pitch=5.00mm, , diameter=10mm, Electrolytic Capacitor', cReturn: null }, { cName: 'Keywords = CP Radial series Radial pin pitch 5.00mm  diameter 10mm Electrolytic Capacitor', cReturn: null }, ]; var cChoice = app.popUpMenuEx.apply\( app, aParams \); if\( cChoice != null && cChoice.substring\( 0, 1 \) == '#' \)    this.pageNum = cChoice.slice\( 1 \); else if\( cChoice != null && cChoice.substring\( 0, 4 \) == 'http' \)    app.launchURL\( cChoice \);) >>
 >>
 endobj
 43 0 obj
@@ -752,7 +752,7 @@ endobj
    /Subtype /Link
    /Rect [441.241 469.331 475.107 504.268]
    /Border [16 16 0]
-   /A << /Type /Action /S /JavaScript /JS (var aParams = [ { cName: 'Reference designator = C13', cReturn: null }, { cName: 'Value = 220uF', cReturn: null }, { cName: 'Sheetfile = psu.kicad_sch', cReturn: null }, { cName: 'Sheetname = psu', cReturn: null }, { cName: 'Supplier = https://www.digikey.ch/de/products/detail/cornell-dubilier-illinois-capacitor/227AVG050MGBJ/5411698', cReturn: 'https://www.digikey.ch/de/products/detail/cornell-dubilier-illinois-capacitor/227AVG050MGBJ/5411698' }, { cName: 'ki_description = Polarized capacitor', cReturn: null }, { cName: 'ki_keywords = cap capacitor', cReturn: null }, { cName: 'Footprint = Capacitor_THT:CP_Radial_D10.0mm_P5.00mm', cReturn: null }, { cName: 'Description = CP, Radial series, Radial, pin pitch=5.00mm, , diameter=10mm, Electrolytic Capacitor', cReturn: null }, { cName: 'Keywords = CP Radial series Radial pin pitch 5.00mm  diameter 10mm Electrolytic Capacitor', cReturn: null }, ]; var cChoice = app.popUpMenuEx.apply\( app, aParams \); if\( cChoice != null && cChoice.substring\( 0, 1 \) == '#' \)    this.pageNum = cChoice.slice\( 1 \); else if\( cChoice != null && cChoice.substring\( 0, 4 \) == 'http' \)    app.launchURL\( cChoice \);) >>
+   /A << /Type /Action /S /JavaScript /JS (var aParams = [ { cName: 'Reference designator = C13', cReturn: null }, { cName: 'Value = 220uF', cReturn: null }, { cName: 'Sheetfile = psu.kicad_sch', cReturn: null }, { cName: 'Sheetname = Power Supply', cReturn: null }, { cName: 'Supplier = https://www.digikey.ch/de/products/detail/cornell-dubilier-illinois-capacitor/227AVG050MGBJ/5411698', cReturn: 'https://www.digikey.ch/de/products/detail/cornell-dubilier-illinois-capacitor/227AVG050MGBJ/5411698' }, { cName: 'ki_description = Polarized capacitor', cReturn: null }, { cName: 'ki_keywords = cap capacitor', cReturn: null }, { cName: 'Footprint = Capacitor_THT:CP_Radial_D10.0mm_P5.00mm', cReturn: null }, { cName: 'Description = CP, Radial series, Radial, pin pitch=5.00mm, , diameter=10mm, Electrolytic Capacitor', cReturn: null }, { cName: 'Keywords = CP Radial series Radial pin pitch 5.00mm  diameter 10mm Electrolytic Capacitor', cReturn: null }, ]; var cChoice = app.popUpMenuEx.apply\( app, aParams \); if\( cChoice != null && cChoice.substring\( 0, 1 \) == '#' \)    this.pageNum = cChoice.slice\( 1 \); else if\( cChoice != null && cChoice.substring\( 0, 4 \) == 'http' \)    app.launchURL\( cChoice \);) >>
 >>
 endobj
 51 0 obj
@@ -792,7 +792,7 @@ endobj
    /Subtype /Link
    /Rect [395.603 430.39 419.598 449.135]
    /Border [16 16 0]
-   /A << /Type /Action /S /JavaScript /JS (var aParams = [ { cName: 'Reference designator = C18', cReturn: null }, { cName: 'Value = 1nF', cReturn: null }, { cName: 'Sheetfile = psu.kicad_sch', cReturn: null }, { cName: 'Sheetname = psu', cReturn: null }, { cName: 'Supplier = https://www.digikey.ch/de/products/detail/kemet/C330C102JHR5TA/1465599', cReturn: 'https://www.digikey.ch/de/products/detail/kemet/C330C102JHR5TA/1465599' }, { cName: 'ki_description = Unpolarized capacitor', cReturn: null }, { cName: 'ki_keywords = cap capacitor', cReturn: null }, { cName: 'Footprint = Capacitor_THT:C_Disc_D7.5mm_W4.4mm_P5.00mm', cReturn: null }, { cName: 'Description = C, Disc series, Radial, pin pitch=5.00mm, , diameter*width=7.5*4.4mm^2, Capacitor', cReturn: null }, { cName: 'Keywords = C Disc series Radial pin pitch 5.00mm  diameter 7.5mm width 4.4mm Capacitor', cReturn: null }, ]; var cChoice = app.popUpMenuEx.apply\( app, aParams \); if\( cChoice != null && cChoice.substring\( 0, 1 \) == '#' \)    this.pageNum = cChoice.slice\( 1 \); else if\( cChoice != null && cChoice.substring\( 0, 4 \) == 'http' \)    app.launchURL\( cChoice \);) >>
+   /A << /Type /Action /S /JavaScript /JS (var aParams = [ { cName: 'Reference designator = C18', cReturn: null }, { cName: 'Value = 1nF', cReturn: null }, { cName: 'Sheetfile = psu.kicad_sch', cReturn: null }, { cName: 'Sheetname = Power Supply', cReturn: null }, { cName: 'Supplier = https://www.digikey.ch/de/products/detail/kemet/C330C102JHR5TA/1465599', cReturn: 'https://www.digikey.ch/de/products/detail/kemet/C330C102JHR5TA/1465599' }, { cName: 'ki_description = Unpolarized capacitor', cReturn: null }, { cName: 'ki_keywords = cap capacitor', cReturn: null }, { cName: 'Footprint = Capacitor_THT:C_Disc_D7.5mm_W4.4mm_P5.00mm', cReturn: null }, { cName: 'Description = C, Disc series, Radial, pin pitch=5.00mm, , diameter*width=7.5*4.4mm^2, Capacitor', cReturn: null }, { cName: 'Keywords = C Disc series Radial pin pitch 5.00mm  diameter 7.5mm width 4.4mm Capacitor', cReturn: null }, ]; var cChoice = app.popUpMenuEx.apply\( app, aParams \); if\( cChoice != null && cChoice.substring\( 0, 1 \) == '#' \)    this.pageNum = cChoice.slice\( 1 \); else if\( cChoice != null && cChoice.substring\( 0, 4 \) == 'http' \)    app.launchURL\( cChoice \);) >>
 >>
 endobj
 56 0 obj
@@ -824,7 +824,7 @@ endobj
    /Subtype /Link
    /Rect [445.169 511.036 474.957 527.229]
    /Border [16 16 0]
-   /A << /Type /Action /S /JavaScript /JS (var aParams = [ { cName: 'Reference designator = F1', cReturn: null }, { cName: 'Value = Polyfuse 1.8A', cReturn: null }, { cName: 'Sheetfile = psu.kicad_sch', cReturn: null }, { cName: 'Sheetname = psu', cReturn: null }, { cName: 'Supplier = https://www.digikey.ch/de/products/detail/bel-fuse-inc/0ZRP0090FF1E/9468255', cReturn: 'https://www.digikey.ch/de/products/detail/bel-fuse-inc/0ZRP0090FF1E/9468255' }, { cName: 'ki_description = Resettable fuse, polymeric positive temperature coefficient', cReturn: null }, { cName: 'ki_keywords = resettable fuse PTC PPTC polyfuse polyswitch', cReturn: null }, { cName: 'Footprint = Capacitor_THT:C_Rect_L7.0mm_W3.5mm_P5.00mm', cReturn: null }, { cName: 'Description = C, Rect series, Radial, pin pitch=5.00mm, , length*width=7*3.5mm^2, Capacitor', cReturn: null }, { cName: 'Keywords = C Rect series Radial pin pitch 5.00mm  length 7mm width 3.5mm Capacitor', cReturn: null }, ]; var cChoice = app.popUpMenuEx.apply\( app, aParams \); if\( cChoice != null && cChoice.substring\( 0, 1 \) == '#' \)    this.pageNum = cChoice.slice\( 1 \); else if\( cChoice != null && cChoice.substring\( 0, 4 \) == 'http' \)    app.launchURL\( cChoice \);) >>
+   /A << /Type /Action /S /JavaScript /JS (var aParams = [ { cName: 'Reference designator = F1', cReturn: null }, { cName: 'Value = Polyfuse 1.8A', cReturn: null }, { cName: 'Sheetfile = psu.kicad_sch', cReturn: null }, { cName: 'Sheetname = Power Supply', cReturn: null }, { cName: 'Supplier = https://www.digikey.ch/de/products/detail/bel-fuse-inc/0ZRP0090FF1E/9468255', cReturn: 'https://www.digikey.ch/de/products/detail/bel-fuse-inc/0ZRP0090FF1E/9468255' }, { cName: 'ki_description = Resettable fuse, polymeric positive temperature coefficient', cReturn: null }, { cName: 'ki_keywords = resettable fuse PTC PPTC polyfuse polyswitch', cReturn: null }, { cName: 'Footprint = Capacitor_THT:C_Rect_L7.0mm_W3.5mm_P5.00mm', cReturn: null }, { cName: 'Description = C, Rect series, Radial, pin pitch=5.00mm, , length*width=7*3.5mm^2, Capacitor', cReturn: null }, { cName: 'Keywords = C Rect series Radial pin pitch 5.00mm  length 7mm width 3.5mm Capacitor', cReturn: null }, ]; var cChoice = app.popUpMenuEx.apply\( app, aParams \); if\( cChoice != null && cChoice.substring\( 0, 1 \) == '#' \)    this.pageNum = cChoice.slice\( 1 \); else if\( cChoice != null && cChoice.substring\( 0, 4 \) == 'http' \)    app.launchURL\( cChoice \);) >>
 >>
 endobj
 60 0 obj
@@ -840,7 +840,7 @@ endobj
    /Subtype /Link
    /Rect [419.988 415.934 444.585 436.202]
    /Border [16 16 0]
-   /A << /Type /Action /S /JavaScript /JS (var aParams = [ { cName: 'Reference designator = C17', cReturn: null }, { cName: 'Value = 4.7uF', cReturn: null }, { cName: 'Sheetfile = psu.kicad_sch', cReturn: null }, { cName: 'Sheetname = psu', cReturn: null }, { cName: 'Supplier = https://www.digikey.ch/de/products/detail/kemet/C322C475K5R5TA/3726055', cReturn: 'https://www.digikey.ch/de/products/detail/kemet/C322C475K5R5TA/3726055' }, { cName: 'ki_description = Unpolarized capacitor', cReturn: null }, { cName: 'ki_keywords = cap capacitor', cReturn: null }, { cName: 'Footprint = Capacitor_THT:C_Disc_D5.1mm_W3.2mm_P5.00mm', cReturn: null }, { cName: 'Description = C, Disc series, Radial, pin pitch=5.00mm, , diameter*width=5.1*3.2mm^2, Capacitor, http://www.vishay.com/docs/45233/krseries.pdf', cReturn: 'http://www.vishay.com/docs/45233/krseries.pdf' }, { cName: 'Keywords = C Disc series Radial pin pitch 5.00mm  diameter 5.1mm width 3.2mm Capacitor', cReturn: null }, ]; var cChoice = app.popUpMenuEx.apply\( app, aParams \); if\( cChoice != null && cChoice.substring\( 0, 1 \) == '#' \)    this.pageNum = cChoice.slice\( 1 \); else if\( cChoice != null && cChoice.substring\( 0, 4 \) == 'http' \)    app.launchURL\( cChoice \);) >>
+   /A << /Type /Action /S /JavaScript /JS (var aParams = [ { cName: 'Reference designator = C17', cReturn: null }, { cName: 'Value = 4.7uF', cReturn: null }, { cName: 'Sheetfile = psu.kicad_sch', cReturn: null }, { cName: 'Sheetname = Power Supply', cReturn: null }, { cName: 'Supplier = https://www.digikey.ch/de/products/detail/kemet/C322C475K5R5TA/3726055', cReturn: 'https://www.digikey.ch/de/products/detail/kemet/C322C475K5R5TA/3726055' }, { cName: 'ki_description = Unpolarized capacitor', cReturn: null }, { cName: 'ki_keywords = cap capacitor', cReturn: null }, { cName: 'Footprint = Capacitor_THT:C_Disc_D5.1mm_W3.2mm_P5.00mm', cReturn: null }, { cName: 'Description = C, Disc series, Radial, pin pitch=5.00mm, , diameter*width=5.1*3.2mm^2, Capacitor, http://www.vishay.com/docs/45233/krseries.pdf', cReturn: 'http://www.vishay.com/docs/45233/krseries.pdf' }, { cName: 'Keywords = C Disc series Radial pin pitch 5.00mm  diameter 5.1mm width 3.2mm Capacitor', cReturn: null }, ]; var cChoice = app.popUpMenuEx.apply\( app, aParams \); if\( cChoice != null && cChoice.substring\( 0, 1 \) == '#' \)    this.pageNum = cChoice.slice\( 1 \); else if\( cChoice != null && cChoice.substring\( 0, 4 \) == 'http' \)    app.launchURL\( cChoice \);) >>
 >>
 endobj
 62 0 obj
@@ -928,7 +928,7 @@ endobj
    /Subtype /Link
    /Rect [423.666 407.572 454.5 440.489]
    /Border [16 16 0]
-   /A << /Type /Action /S /JavaScript /JS (var aParams = [ { cName: 'Reference designator = C19', cReturn: null }, { cName: 'Value = 1nF', cReturn: null }, { cName: 'Sheetfile = psu.kicad_sch', cReturn: null }, { cName: 'Sheetname = psu', cReturn: null }, { cName: 'Supplier = https://www.digikey.ch/de/products/detail/kemet/C330C102JHR5TA/1465599', cReturn: 'https://www.digikey.ch/de/products/detail/kemet/C330C102JHR5TA/1465599' }, { cName: 'ki_description = Unpolarized capacitor', cReturn: null }, { cName: 'ki_keywords = cap capacitor', cReturn: null }, { cName: 'Footprint = Capacitor_THT:C_Disc_D7.5mm_W4.4mm_P5.00mm', cReturn: null }, { cName: 'Description = C, Disc series, Radial, pin pitch=5.00mm, , diameter*width=7.5*4.4mm^2, Capacitor', cReturn: null }, { cName: 'Keywords = C Disc series Radial pin pitch 5.00mm  diameter 7.5mm width 4.4mm Capacitor', cReturn: null }, ]; var cChoice = app.popUpMenuEx.apply\( app, aParams \); if\( cChoice != null && cChoice.substring\( 0, 1 \) == '#' \)    this.pageNum = cChoice.slice\( 1 \); else if\( cChoice != null && cChoice.substring\( 0, 4 \) == 'http' \)    app.launchURL\( cChoice \);) >>
+   /A << /Type /Action /S /JavaScript /JS (var aParams = [ { cName: 'Reference designator = C19', cReturn: null }, { cName: 'Value = 1nF', cReturn: null }, { cName: 'Sheetfile = psu.kicad_sch', cReturn: null }, { cName: 'Sheetname = Power Supply', cReturn: null }, { cName: 'Supplier = https://www.digikey.ch/de/products/detail/kemet/C330C102JHR5TA/1465599', cReturn: 'https://www.digikey.ch/de/products/detail/kemet/C330C102JHR5TA/1465599' }, { cName: 'ki_description = Unpolarized capacitor', cReturn: null }, { cName: 'ki_keywords = cap capacitor', cReturn: null }, { cName: 'Footprint = Capacitor_THT:C_Disc_D7.5mm_W4.4mm_P5.00mm', cReturn: null }, { cName: 'Description = C, Disc series, Radial, pin pitch=5.00mm, , diameter*width=7.5*4.4mm^2, Capacitor', cReturn: null }, { cName: 'Keywords = C Disc series Radial pin pitch 5.00mm  diameter 7.5mm width 4.4mm Capacitor', cReturn: null }, ]; var cChoice = app.popUpMenuEx.apply\( app, aParams \); if\( cChoice != null && cChoice.substring\( 0, 1 \) == '#' \)    this.pageNum = cChoice.slice\( 1 \); else if\( cChoice != null && cChoice.substring\( 0, 4 \) == 'http' \)    app.launchURL\( cChoice \);) >>
 >>
 endobj
 73 0 obj
@@ -985,7 +985,7 @@ endobj
    /Subtype /Link
    /Rect [375.598 428.052 405.413 463.202]
    /Border [16 16 0]
-   /A << /Type /Action /S /JavaScript /JS (var aParams = [ { cName: 'Reference designator = J14', cReturn: null }, { cName: 'Value = Conn_02x01', cReturn: null }, { cName: 'Sheetfile = psu.kicad_sch', cReturn: null }, { cName: 'Sheetname = psu', cReturn: null }, { cName: 'Supplier = https://www.digikey.ch/de/products/detail/amphenol-cs-fci/68016-202HLF/4273561', cReturn: 'https://www.digikey.ch/de/products/detail/amphenol-cs-fci/68016-202HLF/4273561' }, { cName: 'ki_description = Generic connector, double row, 02x01, this symbol is compatible with counter-clockwise, top-bottom and odd-even numbering schemes., script generated (kicad-library-utils/schlib/autogen/connector/)', cReturn: null }, { cName: 'ki_keywords = connector', cReturn: null }, { cName: 'Footprint = Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Horizontal', cReturn: null }, { cName: 'Description = Through hole angled pin header, 1x02, 2.54mm pitch, 6mm pin length, single row', cReturn: null }, { cName: 'Keywords = Through hole angled pin header THT 1x02 2.54mm single row', cReturn: null }, ]; var cChoice = app.popUpMenuEx.apply\( app, aParams \); if\( cChoice != null && cChoice.substring\( 0, 1 \) == '#' \)    this.pageNum = cChoice.slice\( 1 \); else if\( cChoice != null && cChoice.substring\( 0, 4 \) == 'http' \)    app.launchURL\( cChoice \);) >>
+   /A << /Type /Action /S /JavaScript /JS (var aParams = [ { cName: 'Reference designator = J14', cReturn: null }, { cName: 'Value = Conn_02x01', cReturn: null }, { cName: 'Sheetfile = psu.kicad_sch', cReturn: null }, { cName: 'Sheetname = Power Supply', cReturn: null }, { cName: 'Supplier = https://www.digikey.ch/de/products/detail/amphenol-cs-fci/68016-202HLF/4273561', cReturn: 'https://www.digikey.ch/de/products/detail/amphenol-cs-fci/68016-202HLF/4273561' }, { cName: 'ki_description = Generic connector, double row, 02x01, this symbol is compatible with counter-clockwise, top-bottom and odd-even numbering schemes., script generated (kicad-library-utils/schlib/autogen/connector/)', cReturn: null }, { cName: 'ki_keywords = connector', cReturn: null }, { cName: 'Footprint = Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Horizontal', cReturn: null }, { cName: 'Description = Through hole angled pin header, 1x02, 2.54mm pitch, 6mm pin length, single row', cReturn: null }, { cName: 'Keywords = Through hole angled pin header THT 1x02 2.54mm single row', cReturn: null }, ]; var cChoice = app.popUpMenuEx.apply\( app, aParams \); if\( cChoice != null && cChoice.substring\( 0, 1 \) == '#' \)    this.pageNum = cChoice.slice\( 1 \); else if\( cChoice != null && cChoice.substring\( 0, 4 \) == 'http' \)    app.launchURL\( cChoice \);) >>
 >>
 endobj
 80 0 obj
@@ -1040,7 +1040,7 @@ endobj
 254 0 obj
 <<
 /Producer (KiCad PDF)
-/CreationDate (D:20230327194724)
+/CreationDate (D:20230327205947)
 /Creator (PCBNEW)
 /Title (pedalboard-hw-B_Courtyard.pdf)
 >>
@@ -1721,7 +1721,7 @@ endobj
 xref
 0 257
 0000000000 65535 f 
-0000114104 00000 n 
+0000114212 00000 n 
 0000007087 00000 n 
 0000000015 00000 n 
 0000000616 00000 n 
@@ -1731,254 +1731,254 @@ xref
 0000011085 00000 n 
 0000012129 00000 n 
 0000013557 00000 n 
-0000014915 00000 n 
-0000016383 00000 n 
-0000017862 00000 n 
-0000019187 00000 n 
-0000020615 00000 n 
-0000021618 00000 n 
-0000023047 00000 n 
-0000024093 00000 n 
-0000025417 00000 n 
-0000026846 00000 n 
-0000028170 00000 n 
-0000029213 00000 n 
-0000030513 00000 n 
-0000031942 00000 n 
-0000032881 00000 n 
-0000034309 00000 n 
-0000035663 00000 n 
-0000036988 00000 n 
-0000038483 00000 n 
-0000039772 00000 n 
-0000040817 00000 n 
-0000042245 00000 n 
-0000043661 00000 n 
-0000045089 00000 n 
-0000046308 00000 n 
-0000047633 00000 n 
-0000049171 00000 n 
-0000050596 00000 n 
-0000052022 00000 n 
-0000053350 00000 n 
-0000054846 00000 n 
-0000055889 00000 n 
-0000057217 00000 n 
-0000058542 00000 n 
-0000059969 00000 n 
-0000061015 00000 n 
-0000062444 00000 n 
-0000063799 00000 n 
-0000065226 00000 n 
-0000066721 00000 n 
-0000068049 00000 n 
-0000069374 00000 n 
-0000070869 00000 n 
-0000072193 00000 n 
-0000073672 00000 n 
-0000074938 00000 n 
-0000076409 00000 n 
-0000077835 00000 n 
-0000079314 00000 n 
-0000080661 00000 n 
-0000081704 00000 n 
-0000083063 00000 n 
-0000084387 00000 n 
-0000085743 00000 n 
-0000087098 00000 n 
-0000088525 00000 n 
-0000089881 00000 n 
-0000090926 00000 n 
-0000092404 00000 n 
-0000093943 00000 n 
-0000095438 00000 n 
-0000096793 00000 n 
-0000098058 00000 n 
-0000099276 00000 n 
-0000100704 00000 n 
-0000102029 00000 n 
-0000103508 00000 n 
-0000104922 00000 n 
-0000106145 00000 n 
-0000107603 00000 n 
-0000108864 00000 n 
-0000109984 00000 n 
-0000111310 00000 n 
-0000112632 00000 n 
+0000014924 00000 n 
+0000016401 00000 n 
+0000017880 00000 n 
+0000019205 00000 n 
+0000020633 00000 n 
+0000021645 00000 n 
+0000023074 00000 n 
+0000024120 00000 n 
+0000025444 00000 n 
+0000026873 00000 n 
+0000028197 00000 n 
+0000029240 00000 n 
+0000030540 00000 n 
+0000031969 00000 n 
+0000032908 00000 n 
+0000034336 00000 n 
+0000035690 00000 n 
+0000037015 00000 n 
+0000038510 00000 n 
+0000039799 00000 n 
+0000040844 00000 n 
+0000042281 00000 n 
+0000043697 00000 n 
+0000045125 00000 n 
+0000046344 00000 n 
+0000047669 00000 n 
+0000049207 00000 n 
+0000050632 00000 n 
+0000052058 00000 n 
+0000053395 00000 n 
+0000054891 00000 n 
+0000055934 00000 n 
+0000057271 00000 n 
+0000058596 00000 n 
+0000060023 00000 n 
+0000061069 00000 n 
+0000062498 00000 n 
+0000063853 00000 n 
+0000065280 00000 n 
+0000066775 00000 n 
+0000068112 00000 n 
+0000069437 00000 n 
+0000070932 00000 n 
+0000072256 00000 n 
+0000073735 00000 n 
+0000075010 00000 n 
+0000076481 00000 n 
+0000077907 00000 n 
+0000079386 00000 n 
+0000080742 00000 n 
+0000081785 00000 n 
+0000083153 00000 n 
+0000084477 00000 n 
+0000085833 00000 n 
+0000087188 00000 n 
+0000088615 00000 n 
+0000089971 00000 n 
+0000091016 00000 n 
+0000092494 00000 n 
+0000094033 00000 n 
+0000095528 00000 n 
+0000096883 00000 n 
+0000098157 00000 n 
+0000099375 00000 n 
+0000100803 00000 n 
+0000102128 00000 n 
+0000103607 00000 n 
+0000105021 00000 n 
+0000106244 00000 n 
+0000107711 00000 n 
+0000108972 00000 n 
+0000110092 00000 n 
+0000111418 00000 n 
+0000112740 00000 n 
 0000000635 00000 n 
 0000001208 00000 n 
 0000001393 00000 n 
-0000122477 00000 n 
-0000122355 00000 n 
+0000122585 00000 n 
+0000122463 00000 n 
 0000001440 00000 n 
-0000117420 00000 n 
+0000117528 00000 n 
 0000001504 00000 n 
-0000115705 00000 n 
+0000115813 00000 n 
 0000001568 00000 n 
-0000119132 00000 n 
+0000119240 00000 n 
 0000001632 00000 n 
-0000118124 00000 n 
+0000118232 00000 n 
 0000001696 00000 n 
-0000118728 00000 n 
+0000118836 00000 n 
 0000001759 00000 n 
-0000114995 00000 n 
+0000115103 00000 n 
 0000001824 00000 n 
-0000118828 00000 n 
+0000118936 00000 n 
 0000001889 00000 n 
-0000120545 00000 n 
+0000120653 00000 n 
 0000001954 00000 n 
-0000116613 00000 n 
+0000116721 00000 n 
 0000002019 00000 n 
-0000118627 00000 n 
+0000118735 00000 n 
 0000002083 00000 n 
-0000120747 00000 n 
+0000120855 00000 n 
 0000002148 00000 n 
-0000118525 00000 n 
+0000118633 00000 n 
 0000002213 00000 n 
-0000117923 00000 n 
+0000118031 00000 n 
 0000002278 00000 n 
-0000116714 00000 n 
+0000116822 00000 n 
 0000002343 00000 n 
-0000114383 00000 n 
+0000114491 00000 n 
 0000002408 00000 n 
-0000117017 00000 n 
+0000117125 00000 n 
 0000002473 00000 n 
-0000117721 00000 n 
+0000117829 00000 n 
 0000002538 00000 n 
-0000119838 00000 n 
+0000119946 00000 n 
 0000002603 00000 n 
-0000114485 00000 n 
+0000114593 00000 n 
 0000002668 00000 n 
-0000117519 00000 n 
+0000117627 00000 n 
 0000002733 00000 n 
-0000116106 00000 n 
+0000116214 00000 n 
 0000002798 00000 n 
-0000121456 00000 n 
+0000121564 00000 n 
 0000002863 00000 n 
-0000117219 00000 n 
+0000117327 00000 n 
 0000002928 00000 n 
-0000121253 00000 n 
+0000121361 00000 n 
 0000002993 00000 n 
-0000122271 00000 n 
+0000122379 00000 n 
 0000003058 00000 n 
-0000118024 00000 n 
+0000118132 00000 n 
 0000003123 00000 n 
-0000120646 00000 n 
+0000120754 00000 n 
 0000003188 00000 n 
-0000119434 00000 n 
+0000119542 00000 n 
 0000003253 00000 n 
-0000114299 00000 n 
+0000114407 00000 n 
 0000003318 00000 n 
-0000118424 00000 n 
+0000118532 00000 n 
 0000003383 00000 n 
-0000116512 00000 n 
+0000116620 00000 n 
 0000003448 00000 n 
-0000121966 00000 n 
+0000122074 00000 n 
 0000003513 00000 n 
-0000115403 00000 n 
+0000115511 00000 n 
 0000003578 00000 n 
-0000116005 00000 n 
+0000116113 00000 n 
 0000003643 00000 n 
-0000114791 00000 n 
+0000114899 00000 n 
 0000003708 00000 n 
-0000120849 00000 n 
+0000120957 00000 n 
 0000003773 00000 n 
-0000117620 00000 n 
+0000117728 00000 n 
 0000003838 00000 n 
-0000114893 00000 n 
+0000115001 00000 n 
 0000003903 00000 n 
-0000116207 00000 n 
+0000116315 00000 n 
 0000003968 00000 n 
-0000115504 00000 n 
+0000115612 00000 n 
 0000004033 00000 n 
-0000118323 00000 n 
+0000118431 00000 n 
 0000004098 00000 n 
-0000120040 00000 n 
+0000120148 00000 n 
 0000004163 00000 n 
-0000121354 00000 n 
+0000121462 00000 n 
 0000004227 00000 n 
-0000114587 00000 n 
+0000114695 00000 n 
 0000004292 00000 n 
-0000121051 00000 n 
+0000121159 00000 n 
 0000004357 00000 n 
-0000114689 00000 n 
+0000114797 00000 n 
 0000004422 00000 n 
-0000116815 00000 n 
+0000116923 00000 n 
 0000004487 00000 n 
-0000121152 00000 n 
+0000121260 00000 n 
 0000004552 00000 n 
-0000116308 00000 n 
+0000116416 00000 n 
 0000004617 00000 n 
-0000120141 00000 n 
+0000120249 00000 n 
 0000004682 00000 n 
-0000115199 00000 n 
+0000115307 00000 n 
 0000004747 00000 n 
-0000116410 00000 n 
+0000116518 00000 n 
 0000004812 00000 n 
-0000115605 00000 n 
+0000115713 00000 n 
 0000004877 00000 n 
-0000120242 00000 n 
+0000120350 00000 n 
 0000004942 00000 n 
-0000117320 00000 n 
+0000117428 00000 n 
 0000005007 00000 n 
-0000117822 00000 n 
+0000117930 00000 n 
 0000005072 00000 n 
-0000115097 00000 n 
+0000115205 00000 n 
 0000005137 00000 n 
-0000116916 00000 n 
+0000117024 00000 n 
 0000005202 00000 n 
-0000121864 00000 n 
+0000121972 00000 n 
 0000005267 00000 n 
-0000121558 00000 n 
+0000121666 00000 n 
 0000005332 00000 n 
-0000115904 00000 n 
+0000116012 00000 n 
 0000005397 00000 n 
-0000121660 00000 n 
+0000121768 00000 n 
 0000005461 00000 n 
-0000118223 00000 n 
+0000118331 00000 n 
 0000005526 00000 n 
-0000120444 00000 n 
+0000120552 00000 n 
 0000005591 00000 n 
-0000122068 00000 n 
+0000122176 00000 n 
 0000005656 00000 n 
-0000120950 00000 n 
+0000121058 00000 n 
 0000005721 00000 n 
-0000121762 00000 n 
+0000121870 00000 n 
 0000005786 00000 n 
-0000115301 00000 n 
+0000115409 00000 n 
 0000005851 00000 n 
-0000119333 00000 n 
+0000119441 00000 n 
 0000005916 00000 n 
-0000115804 00000 n 
+0000115912 00000 n 
 0000005981 00000 n 
-0000117118 00000 n 
+0000117226 00000 n 
 0000006046 00000 n 
-0000120343 00000 n 
+0000120451 00000 n 
 0000006111 00000 n 
-0000119232 00000 n 
+0000119340 00000 n 
 0000006176 00000 n 
-0000119737 00000 n 
+0000119845 00000 n 
 0000006241 00000 n 
-0000118929 00000 n 
+0000119037 00000 n 
 0000006306 00000 n 
-0000119636 00000 n 
+0000119744 00000 n 
 0000006371 00000 n 
-0000122170 00000 n 
+0000122278 00000 n 
 0000006436 00000 n 
-0000119535 00000 n 
+0000119643 00000 n 
 0000006500 00000 n 
-0000119939 00000 n 
+0000120047 00000 n 
 0000006565 00000 n 
-0000119031 00000 n 
+0000119139 00000 n 
 0000006630 00000 n 
 0000006738 00000 n 
 0000006854 00000 n 
 0000006967 00000 n 
-0000114164 00000 n 
-0000122593 00000 n 
-0000122678 00000 n 
+0000114272 00000 n 
+0000122701 00000 n 
+0000122786 00000 n 
 trailer
 << /Size 257 /Root 256 0 R /Info 254 0 R >>
 startxref
-122808
+122916
 %%EOF
