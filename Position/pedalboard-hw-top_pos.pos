@@ -1,4 +1,4 @@
-### Module positions - created on Mon 27 Mar 2023 14:38:51  ###
+### Module positions - created on Mon 27 Mar 2023 15:10:04  ###
 ### Printed by KiBot
 ## Unit = mm, Angle = deg.
 ## Side : top
@@ -33,7 +33,7 @@ D8      NEOPIX                    LED_D5.0mm-NeoPixel                           
 D9      NEOPIX                    LED_D5.0mm-NeoPixel                                                    22.1000    46.0000    0.0000     top   
 D10     NEOPIX                    LED_D5.0mm-NeoPixel                                                    22.1000    19.0000    0.0000     top   
 D11     1N4148                    D_DO-35_SOD27_P7.62mm_Horizontal                                       53.7000    59.2250    90.0000    top   
-F1      Polyfuse 1.8A             C_Rect_L7.0mm_W3.5mm_P5.00mm                                           144.9000   95.6000    180.0000   top   
+F1      Polyfuse 1.8A             C_Rect_L7.0mm_W3.5mm_P5.00mm                                           144.8000   97.3000    180.0000   top   
 H10     Midi Bites                MIDI bites                                                             85.1000    104.9250   0.0000     top   
 J1      MIDI_OUT                  CP-2350                                                                96.0000    103.0000   180.0000   top   
 J2      MIDI_IN                   CP-2350                                                                74.0055    103.0000   180.0000   top   
@@ -43,7 +43,7 @@ J9      Audio IN Right            Jack_6.35mm_Horizontal                        
 J10     Audio IN Left             Jack_6.35mm_Horizontal                                                 155.6000   30.0050    0.0000     top   
 J11     Audio OUT Right           Jack_6.35mm_Horizontal                                                 14.4350    34.0000    180.0000   top   
 J12     Audio OUT Left            Jack_6.35mm_Horizontal                                                 14.4000    13.8000    180.0000   top   
-J13     Barrel_Jack_MountingPin   BarrelJack_CUI_PJ-063AH_Horizontal                                     161.9000   94.7000    180.0000   top   
+J13     Barrel_Jack_MountingPin   BarrelJack_Wuerth_6941xx301002                                         159.4000   94.6000    180.0000   top   
 L1      1K@100MHz                 L_Axial_L6.6mm_D2.7mm_P10.16mm_Horizontal_Vishay_IM-2                  56.6000    69.7300    -90.0000   top   
 L2      1K@100MHz                 L_Axial_L6.6mm_D2.7mm_P10.16mm_Horizontal_Vishay_IM-2                  71.2800    62.4250    180.0000   top   
 L3      1K@100MHz                 L_Axial_L6.6mm_D2.7mm_P10.16mm_Horizontal_Vishay_IM-2                  39.5000    84.5550    -90.0000   top   
