@@ -1,7 +1,7 @@
 (export (version "E")
   (design
     (source "/__w/pedalboard-hw/pedalboard-hw/pedalboard-hw.kicad_sch")
-    (date "Mon Mar 27 21:37:34 2023")
+    (date "Tue Mar 28 14:10:53 2023")
     (tool "Eeschema 7.0.1.1-36-gbcf78dbe24-dirty-deb11")
     (sheet (number "1") (name "/") (tstamps "/")
       (title_block
@@ -457,7 +457,7 @@
     (comp (ref "J1")
       (value "MIDI_OUT")
       (footprint "Pedalboard Library:CP-2350")
-      (datasheet "https://www.switchcraft.com/assets/1/24/57PC5F_CD.pdf?5023")
+      (datasheet "https://www.switchcraft.com/assets/1/24/57PC5F_CD.pdf")
       (fields
         (field (name "Supplier") "https://www.digikey.ch/de/products/detail/switchcraft-inc/57PC5F/275385"))
       (libsource (lib "Connector") (part "DIN-5_180degree") (description "5-pin DIN connector (5-pin DIN-5 stereo)"))
@@ -471,7 +471,7 @@
     (comp (ref "J2")
       (value "MIDI_IN")
       (footprint "Pedalboard Library:CP-2350")
-      (datasheet "https://www.switchcraft.com/assets/1/24/57PC5F_CD.pdf?5023")
+      (datasheet "https://www.switchcraft.com/assets/1/24/57PC5F_CD.pdf")
       (fields
         (field (name "Supplier") "https://www.digikey.ch/de/products/detail/switchcraft-inc/57PC5F/275385"))
       (libsource (lib "Connector") (part "DIN-5_180degree") (description "5-pin DIN connector (5-pin DIN-5 stereo)"))
@@ -485,7 +485,7 @@
     (comp (ref "J3")
       (value "EXP")
       (footprint "Pedalboard Library:Jack_6.35mm_Horizontal")
-      (datasheet "https://www.digikey.ch/de/products/detail/schurter-inc/4833-2320/2644235")
+      (datasheet "https://www.schurter.com/en/datasheet/typ_4833.2320.pdf")
       (fields
         (field (name "Supplier") "https://www.digikey.ch/de/products/detail/schurter-inc/4833-2320/2644235"))
       (libsource (lib "Connector_Audio") (part "NMJ6HCD2") (description "M Series, 6.35mm (1/4in) stereo jack, switched, with chrome ferrule and straight PCB pins"))
@@ -929,7 +929,7 @@
     (comp (ref "J9")
       (value "Audio IN Right")
       (footprint "Pedalboard Library:Jack_6.35mm_Horizontal")
-      (datasheet "https://www.digikey.ch/de/products/detail/schurter-inc/4833-2320/2644235")
+      (datasheet "https://www.schurter.com/en/datasheet/typ_4833.2320.pdf")
       (fields
         (field (name "Supplier") "https://www.digikey.ch/de/products/detail/schurter-inc/4833-2320/2644235"))
       (libsource (lib "Connector_Audio") (part "NMJ6HCD2") (description "M Series, 6.35mm (1/4in) stereo jack, switched, with chrome ferrule and straight PCB pins"))
@@ -943,7 +943,7 @@
     (comp (ref "J10")
       (value "Audio IN Left")
       (footprint "Pedalboard Library:Jack_6.35mm_Horizontal")
-      (datasheet "https://www.digikey.ch/de/products/detail/schurter-inc/4833-2320/2644235")
+      (datasheet "https://www.schurter.com/en/datasheet/typ_4833.2320.pdf")
       (fields
         (field (name "Supplier") "https://www.digikey.ch/de/products/detail/schurter-inc/4833-2320/2644235"))
       (libsource (lib "Connector_Audio") (part "NMJ6HCD2") (description "M Series, 6.35mm (1/4in) stereo jack, switched, with chrome ferrule and straight PCB pins"))
@@ -957,7 +957,7 @@
     (comp (ref "J11")
       (value "Audio OUT Right")
       (footprint "Pedalboard Library:Jack_6.35mm_Horizontal")
-      (datasheet "https://www.digikey.ch/de/products/detail/schurter-inc/4833-2320/2644235")
+      (datasheet "https://www.schurter.com/en/datasheet/typ_4833.2320.pdf")
       (fields
         (field (name "Supplier") "https://www.digikey.ch/de/products/detail/schurter-inc/4833-2320/2644235"))
       (libsource (lib "Connector_Audio") (part "NMJ6HCD2") (description "M Series, 6.35mm (1/4in) stereo jack, switched, with chrome ferrule and straight PCB pins"))
@@ -971,7 +971,7 @@
     (comp (ref "J12")
       (value "Audio OUT Left")
       (footprint "Pedalboard Library:Jack_6.35mm_Horizontal")
-      (datasheet "https://www.digikey.ch/de/products/detail/schurter-inc/4833-2320/2644235")
+      (datasheet "https://www.schurter.com/en/datasheet/typ_4833.2320.pdf")
       (fields
         (field (name "Supplier") "https://www.digikey.ch/de/products/detail/schurter-inc/4833-2320/2644235"))
       (libsource (lib "Connector_Audio") (part "NMJ6HCD2") (description "M Series, 6.35mm (1/4in) stereo jack, switched, with chrome ferrule and straight PCB pins"))
@@ -1138,7 +1138,7 @@
       (tstamps "30319046-0d93-4df9-9995-0e3a805710ad"))
     (comp (ref "PS1")
       (value "PDQE15-Q24-S5-D")
-      (footprint "CONV_PDQE15-Q24-S5-D")
+      (footprint "Pedalboard Library:CONV_PDQE15-Q24-S5-D")
       (datasheet "https://www.cui.com/product/resource/pdqe15-d.pdf")
       (fields
         (field (name "Supplier") "https://www.digikey.ch/de/products/detail/cui-inc/PDQE15-Q24-S5-D/10230147"))
