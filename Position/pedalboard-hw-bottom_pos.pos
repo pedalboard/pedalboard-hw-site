@@ -1,11 +1,11 @@
-### Module positions - created on Tue 28 Mar 2023 18:53:50  ###
+### Module positions - created on Tue 04 Apr 2023 14:33:05  ###
 ### Printed by KiBot
 ## Unit = mm, Angle = deg.
 ## Side : bottom
 # Ref   Val                       Package                                                                PosX       PosY       Rot        Side  
 J4      RGB_LED_EXT               PinHeader_1x03_P2.54mm_Horizontal                                      23.6150    42.2100    180.0000   bottom
 J5      Pico USB TP               Spring_Loaded_Pins_2mm                                                 107.0000   77.0000    180.0000   bottom
-J6      USB_A                     USB A BCB Male Plug                                                    93.6250    35.0150    180.0000   bottom
+J6      USB_A                     USB A BCB Male Plug                                                    93.6250    27.2200    0.0000     bottom
 J8      HiFi Berry                HiFi Berry DAC ADC+                                                    100.2500   56.6244    180.0000   bottom
 J14     Conn_02x01                PinHeader_1x02_P2.54mm_Horizontal                                      118.0000   67.8250    90.0000    bottom
 J15     MIDI IN/OUT               PinHeader_2x03_P2.54mm_Horizontal                                      51.0000    72.1500    180.0000   bottom
