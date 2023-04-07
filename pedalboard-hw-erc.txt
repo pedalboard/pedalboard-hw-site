@@ -1,4 +1,4 @@
-ERC report (Thu Apr  6 11:14:30 2023, Encoding UTF8)
+ERC report (Fri Apr  7 09:34:09 2023, Encoding UTF8)
 
 ***** Sheet /
 
@@ -58,14 +58,14 @@ ERC report (Thu Apr  6 11:14:30 2023, Encoding UTF8)
 [lib_symbol_issues]: Symbol 'Barrel_Jack_Switch' has been modified in library 'Connector'
     ; Severity: warning
     @(31.7500 mm, 46.9900 mm): Symbol J13 [Barrel_Jack_Switch]
+[lib_symbol_issues]: The current configuration does not include the library 'PDQE15-Q24-S5-D'
+    ; Severity: warning
+    @(196.8500 mm, 48.2600 mm): Symbol PS1 [PDQE15-Q24-S5-D]
 [lib_symbol_issues]: The current configuration does not include the library 'PCM_4ms_Power-symbol'
     ; Severity: warning
     @(234.9500 mm, 76.2000 mm): Symbol #PWR030 [GND]
 [lib_symbol_issues]: Symbol 'Conn_02x01' has been modified in library 'Connector_Generic'
     ; Severity: warning
     @(238.7600 mm, 22.8600 mm): Symbol J14 [Conn_02x01]
-[lib_symbol_issues]: The current configuration does not include the library 'PDQE15-Q24-S5-D'
-    ; Severity: warning
-    @(196.8500 mm, 48.2600 mm): Symbol PS1 [PDQE15-Q24-S5-D]
 
  ** ERC messages: 20  Errors 0  Warnings 20
