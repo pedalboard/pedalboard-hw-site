@@ -30,6 +30,7 @@ Ref,Val,Package,PosX,PosY,Rot,Side
 "D10","NEOPIX","LED_D5.0mm-NeoPixel",22.1000,19.0000,0.0000,top
 "D11","1N4148","D_DO-35_SOD27_P7.62mm_Horizontal",53.7000,59.2250,90.0000,top
 "D12","1N5401","D_DO-201AD_P15.24mm_Horizontal",135.1940,96.1964,0.0000,top
+"D13","1N5817","D_DO-41_SOD81_P10.16mm_Horizontal",129.6060,81.9216,-90.0000,top
 "F1","Polyfuse 1.8A","C_Rect_L7.0mm_W3.5mm_P5.00mm",142.0012,101.2256,180.0000,top
 "H10","Midi Bites","MIDI bites",85.1000,104.9250,0.0000,top
 "J1","MIDI_OUT","CP-2350",96.0000,103.0000,180.0000,top
