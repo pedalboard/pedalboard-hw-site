@@ -1,12 +1,12 @@
 G04 #@! TF.GenerationSoftware,KiCad,Pcbnew,7.0.1.1-36-gbcf78dbe24-dirty-deb11*
-G04 #@! TF.CreationDate,2023-04-07T13:51:23+00:00*
+G04 #@! TF.CreationDate,2023-04-07T14:25:03+00:00*
 G04 #@! TF.ProjectId,pedalboard-hw,70656461-6c62-46f6-9172-642d68772e6b,1.0.2*
 G04 #@! TF.SameCoordinates,Original*
 G04 #@! TF.FileFunction,Soldermask,Top*
 G04 #@! TF.FilePolarity,Negative*
 %FSLAX46Y46*%
 G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
-G04 Created by KiCad (PCBNEW 7.0.1.1-36-gbcf78dbe24-dirty-deb11) date 2023-04-07 13:51:23*
+G04 Created by KiCad (PCBNEW 7.0.1.1-36-gbcf78dbe24-dirty-deb11) date 2023-04-07 14:25:03*
 %MOMM*%
 %LPD*%
 G01*
@@ -912,10 +912,10 @@ D24*
 X124590000Y-40110000D03*
 X127130000Y-40110000D03*
 D23*
-X43615000Y-82790000D03*
+X55865000Y-82962600D03*
 D24*
-X43615000Y-85330000D03*
-X43615000Y-87870000D03*
+X53325000Y-82962600D03*
+X50785000Y-82962600D03*
 D23*
 X120250000Y-68375600D03*
 D24*
