@@ -1,4 +1,4 @@
-ERC report (Fri Apr  7 13:21:24 2023, Encoding UTF8)
+ERC report (Fri Apr  7 13:35:57 2023, Encoding UTF8)
 
 ***** Sheet /
 
@@ -71,11 +71,11 @@ ERC report (Fri Apr  7 13:21:24 2023, Encoding UTF8)
 [lib_symbol_issues]: The current configuration does not include the library 'PDQE15-Q24-S5-D'
     ; Severity: warning
     @(196.8500 mm, 48.2600 mm): Symbol PS1 [PDQE15-Q24-S5-D]
-[lib_symbol_issues]: The current configuration does not include the library 'PCM_4ms_Power-symbol'
-    ; Severity: warning
-    @(234.9500 mm, 76.2000 mm): Symbol #PWR030 [GND]
 [lib_symbol_issues]: Symbol 'Conn_02x01' has been modified in library 'Connector_Generic'
     ; Severity: warning
     @(238.7600 mm, 22.8600 mm): Symbol J14 [Conn_02x01]
+[lib_symbol_issues]: The current configuration does not include the library 'PCM_4ms_Power-symbol'
+    ; Severity: warning
+    @(234.9500 mm, 76.2000 mm): Symbol #PWR030 [GND]
 
  ** ERC messages: 23  Errors 0  Warnings 23
