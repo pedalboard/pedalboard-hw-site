@@ -37,7 +37,7 @@ See https://github.com/adobe-type-tools/cmap-resources
     <script src="/vendor/pdfjs2/build/pdf.js?v=7c5fa063"></script>
 
     <script type="text/javascript">
-        window.viewerPdfUrl = 'https://previews.us-east-1.widencdn.net/preview/46485696/assets/asset-view/3c832992-d6f3-40a7-a7fd-77b9e844170f/pdf/bnVsbA==/ONSM-S-A0003590761-1?Expires=1680876000&Signature=DPH4k4DOoicYJWyaF12mnrAd-NSrEAWmPxWVI1nx5KGl6jHm0A8gnEau~WsVaeRbCFHtbgxDWES0LhxwdhxtrS9RVRPsXEg9fXtSvpFUie2w4GktEhXaN3ctb6osLNWNSyogcTN8upe57FfTfkeQhcFij2QoHSWEJ-O9RYH2-j4jnO2KdlHchFKb9Mfza39fNnHQBeUhBdSA2aW1QB-BIqfA38dMmkYWsownaUz3XTBMwm4l3En92ejXV1MRPFPpZeN63WNYIsl2CMEbgkPTwsDhwZWLrHvfNrsUXnJd4und~--m6vZC93gkHnNvAyrXnTwtY-vXqiUxxlqUFj4oTA__&Key-Pair-Id=APKAJM7FVRD2EPOYUXBQ';
+        window.viewerPdfUrl = 'https://previews.us-east-1.widencdn.net/preview/46485696/assets/asset-view/3c832992-d6f3-40a7-a7fd-77b9e844170f/pdf/bnVsbA==/ONSM-S-A0003590761-1?Expires=1680879600&Signature=HicDuj~wRM1WsvmV4ufCdsNqrMLZlFzAfEBgHVGuW3-DNFRnMFHKpefO-pwElNb8EIeRR56RhSRmf~JliNosfsvYq5jXlwGaFrORx6b8AF97sn-mqyKPUQxVBd45INcSYi4Z8relWfhblDHfKtIAUXf~5070cSkPU2c7dvdhVwSvi0-eN6ZC73-upr1CI1e9-vAezifIrHOXFqnE2iAfOmlxoPCXH3dsAlnyVljkDD7lutYbUG40EPh57iR8py09xVbQnx-zARdwoANBQ0hj1zqRTbOxSmTA2FwtTR0PwfG230mHMc7xGNxdddqbhp4ENyhPK8VBshHDh6ld8ZxBjw__&Key-Pair-Id=APKAJM7FVRD2EPOYUXBQ';
       window.viewerPdfTitle = 'ONSM-S-A0003590761-1.pdf';
 
       document.addEventListener("webviewerloaded", function () {
