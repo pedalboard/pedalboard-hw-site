@@ -1,4 +1,4 @@
-ERC report (Fri Apr  7 14:13:41 2023, Encoding UTF8)
+ERC report (Sat Apr 15 09:32:42 2023, Encoding UTF8)
 
 ***** Sheet /
 
@@ -52,13 +52,13 @@ ERC report (Fri Apr  7 14:13:41 2023, Encoding UTF8)
 ***** Sheet /Audio/
 [lib_symbol_issues]: Symbol 'Raspberry_Pi_2_3' has been modified in library 'Connector'
     ; Severity: warning
+    @(125.7300 mm, 80.0100 mm): Symbol J7 [Raspberry_Pi_2_3]
+[lib_symbol_issues]: Symbol 'Raspberry_Pi_2_3' has been modified in library 'Connector'
+    ; Severity: warning
     @(184.1500 mm, 80.0100 mm): Symbol J8 [Raspberry_Pi_2_3]
 [lib_symbol_issues]: Symbol 'USB_A' has been modified in library 'Connector'
     ; Severity: warning
     @(260.3500 mm, 80.0100 mm): Symbol J6 [USB_A]
-[lib_symbol_issues]: Symbol 'Raspberry_Pi_2_3' has been modified in library 'Connector'
-    ; Severity: warning
-    @(125.7300 mm, 80.0100 mm): Symbol J7 [Raspberry_Pi_2_3]
 
 ***** Sheet /Power Supply/
 [lib_symbol_issues]: Symbol 'Barrel_Jack_Switch' has been modified in library 'Connector'

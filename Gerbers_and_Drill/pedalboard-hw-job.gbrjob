@@ -5,13 +5,13 @@
       "Application": "Pcbnew",
       "Version": "7.0.1.1-36-gbcf78dbe24-dirty-deb11"
     },
-    "CreationDate": "2023-04-07T14:25:03+00:00"
+    "CreationDate": "2023-04-15T09:44:57+00:00"
   },
   "GeneralSpecs": {
     "ProjectId": {
       "Name": "pedalboard-hw",
       "GUID": "70656461-6c62-46f6-9172-642d68772e6b",
-      "Revision": "1.0.2"
+      "Revision": "2.0.0-RC1"
     },
     "Size": {
       "X": 170.1,
