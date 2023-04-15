@@ -1,20 +1,20 @@
-ERC report (Sat Apr 15 09:32:42 2023, Encoding UTF8)
+ERC report (Sat Apr 15 09:42:07 2023, Encoding UTF8)
 
 ***** Sheet /
 
 ***** Sheet /MIDI/
 [lib_symbol_issues]: Symbol 'NeoPixel_THT' has been modified in library 'LED'
     ; Severity: warning
-    @(226.0600 mm, 152.4000 mm): Symbol D9 [NeoPixel_THT]
-[lib_symbol_issues]: Symbol 'NeoPixel_THT' has been modified in library 'LED'
+    @(201.9300 mm, 91.4400 mm): Symbol D1 [NeoPixel_THT]
+[lib_symbol_issues]: Symbol '1N5817' has been modified in library 'Diode'
     ; Severity: warning
-    @(250.1900 mm, 124.4600 mm): Symbol D7 [NeoPixel_THT]
-[lib_symbol_issues]: Symbol 'NeoPixel_THT' has been modified in library 'LED'
+    @(196.8500 mm, 36.8300 mm): Symbol D13 [1N5817]
+[lib_symbol_issues]: Symbol 'L_Ferrite' has been modified in library 'Device'
     ; Severity: warning
-    @(226.0600 mm, 124.4600 mm): Symbol D6 [NeoPixel_THT]
-[lib_symbol_issues]: Symbol 'NeoPixel_THT' has been modified in library 'LED'
+    @(162.5600 mm, 29.2100 mm): Symbol L5 [L_Ferrite]
+[lib_symbol_issues]: The current configuration does not include the library 'PCM_4ms_Power-symbol'
     ; Severity: warning
-    @(250.1900 mm, 152.4000 mm): Symbol D10 [NeoPixel_THT]
+    @(214.6300 mm, 30.4800 mm): Symbol #PWR032 [GND]
 [lib_symbol_issues]: Symbol 'NeoPixel_THT' has been modified in library 'LED'
     ; Severity: warning
     @(271.7800 mm, 91.4400 mm): Symbol D4 [NeoPixel_THT]
@@ -26,22 +26,22 @@ ERC report (Sat Apr 15 09:32:42 2023, Encoding UTF8)
     @(250.1900 mm, 91.4400 mm): Symbol D3 [NeoPixel_THT]
 [lib_symbol_issues]: Symbol 'NeoPixel_THT' has been modified in library 'LED'
     ; Severity: warning
-    @(201.9300 mm, 91.4400 mm): Symbol D1 [NeoPixel_THT]
-[lib_symbol_issues]: Symbol 'NeoPixel_THT' has been modified in library 'LED'
-    ; Severity: warning
     @(200.6600 mm, 152.4000 mm): Symbol D8 [NeoPixel_THT]
 [lib_symbol_issues]: Symbol 'NeoPixel_THT' has been modified in library 'LED'
     ; Severity: warning
+    @(226.0600 mm, 152.4000 mm): Symbol D9 [NeoPixel_THT]
+[lib_symbol_issues]: Symbol 'NeoPixel_THT' has been modified in library 'LED'
+    ; Severity: warning
+    @(250.1900 mm, 124.4600 mm): Symbol D7 [NeoPixel_THT]
+[lib_symbol_issues]: Symbol 'NeoPixel_THT' has been modified in library 'LED'
+    ; Severity: warning
+    @(250.1900 mm, 152.4000 mm): Symbol D10 [NeoPixel_THT]
+[lib_symbol_issues]: Symbol 'NeoPixel_THT' has been modified in library 'LED'
+    ; Severity: warning
+    @(226.0600 mm, 124.4600 mm): Symbol D6 [NeoPixel_THT]
+[lib_symbol_issues]: Symbol 'NeoPixel_THT' has been modified in library 'LED'
+    ; Severity: warning
     @(201.9300 mm, 124.4600 mm): Symbol D5 [NeoPixel_THT]
-[lib_symbol_issues]: Symbol 'L_Ferrite' has been modified in library 'Device'
-    ; Severity: warning
-    @(168.9100 mm, 29.2100 mm): Symbol L5 [L_Ferrite]
-[lib_symbol_issues]: The current configuration does not include the library 'PCM_4ms_Power-symbol'
-    ; Severity: warning
-    @(214.6300 mm, 30.4800 mm): Symbol #PWR032 [GND]
-[lib_symbol_issues]: Symbol '1N5817' has been modified in library 'Diode'
-    ; Severity: warning
-    @(196.8500 mm, 35.5600 mm): Symbol D13 [1N5817]
 [lib_symbol_issues]: The current configuration does not include the library 'MCU_RaspberryPi_and_Boards'
     ; Severity: warning
     @(142.2400 mm, 63.5000 mm): Symbol U1 [Pico]

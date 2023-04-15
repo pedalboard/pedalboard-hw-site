@@ -224,7 +224,7 @@ NETS: 122
 119 /Power Supply/vin
 120 /MIDI/VSYS
 121 /Power Supply/unfused
-122 /MIDI/VBUS-flitered
+122 /MIDI/VBUS_FILTERED
 
 PARTS: 82
 C1 2453 3311 2642 3093 0 1

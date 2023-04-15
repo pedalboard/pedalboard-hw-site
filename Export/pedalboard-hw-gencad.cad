@@ -2682,45 +2682,45 @@ $ENDCOMPONENTS
 
 $DEVICES
 
-DEVICE "DEV_Pedalboard Library:LED_D5.0mm-NeoPixel"
-PART "NEOPIX"
-PACKAGE "Pedalboard Library:LED_D5.0mm-NeoPixel"
-
-DEVICE "DEV_Inductor_THT:L_Axial_L6.6mm_D2.7mm_P10.16mm_Horizontal_Vishay_IM-2"
-PART "103_100MHz"
-PACKAGE "Inductor_THT:L_Axial_L6.6mm_D2.7mm_P10.16mm_Horizontal_Vishay_IM-2"
-
-DEVICE "DEV_Pedalboard Library:Jack_3.5mm_CUI_SJ1-3525N_Horizontal"
-PART "MIDI OUT J"
-PACKAGE "Pedalboard Library:Jack_3.5mm_CUI_SJ1-3525N_Horizontal"
+DEVICE "DEV_Pedalboard Library:BarrelJack_Wuerth_6941xx301002"
+PART "Barrel_Jack_MountingPin"
+PACKAGE "Pedalboard Library:BarrelJack_Wuerth_6941xx301002"
 
 DEVICE "DEV_Capacitor_THT:C_Disc_D3.0mm_W1.6mm_P2.50mm"
 PART "100nF"
 PACKAGE "Capacitor_THT:C_Disc_D3.0mm_W1.6mm_P2.50mm"
 
+DEVICE "DEV_Pedalboard Library:Jack_3.5mm_CUI_SJ1-3525N_Horizontal"
+PART "MIDI OUT J"
+PACKAGE "Pedalboard Library:Jack_3.5mm_CUI_SJ1-3525N_Horizontal"
+
 DEVICE "DEV_MountingHole:MountingHole_2.7mm_M2.5_DIN965"
 PART "MountingHole"
 PACKAGE "MountingHole:MountingHole_2.7mm_M2.5_DIN965"
+
+DEVICE "DEV_Pedalboard Library:LED_D5.0mm-NeoPixel"
+PART "NEOPIX"
+PACKAGE "Pedalboard Library:LED_D5.0mm-NeoPixel"
 
 DEVICE "DEV_Pedalboard Library:CONV_PDQE15-Q24-S5-D"
 PART "PDQE15-Q24-S5-D"
 PACKAGE "Pedalboard Library:CONV_PDQE15-Q24-S5-D"
 
-DEVICE "DEV_Pedalboard Library:Jack_6.35mm_Horizontal_0"
-PART "Audio IN Left"
+DEVICE "DEV_Pedalboard Library:Jack_6.35mm_Horizontal"
+PART "Audio OUT Left"
 PACKAGE "Pedalboard Library:Jack_6.35mm_Horizontal"
 
 DEVICE "DEV_Capacitor_THT:C_Disc_D5.1mm_W3.2mm_P5.00mm"
 PART "4.7uF"
 PACKAGE "Capacitor_THT:C_Disc_D5.1mm_W3.2mm_P5.00mm"
 
-DEVICE "DEV_Pedalboard Library:Jack_6.35mm_Horizontal"
-PART "Audio OUT Left"
+DEVICE "DEV_Pedalboard Library:Jack_6.35mm_Horizontal_0"
+PART "Audio IN Left"
 PACKAGE "Pedalboard Library:Jack_6.35mm_Horizontal"
 
-DEVICE "DEV_Pedalboard Library:BarrelJack_Wuerth_6941xx301002"
-PART "Barrel_Jack_MountingPin"
-PACKAGE "Pedalboard Library:BarrelJack_Wuerth_6941xx301002"
+DEVICE "DEV_Inductor_THT:L_Axial_L6.6mm_D2.7mm_P10.16mm_Horizontal_Vishay_IM-2"
+PART "103_100MHz"
+PACKAGE "Inductor_THT:L_Axial_L6.6mm_D2.7mm_P10.16mm_Horizontal_Vishay_IM-2"
 
 DEVICE "DEV_Capacitor_THT:C_Disc_D3.0mm_W1.6mm_P2.50mm_0"
 PART "100nF"
@@ -3342,7 +3342,7 @@ NODE "U1" "39"
 SIGNAL "/Power Supply/unfused"
 NODE "J13" "2"
 NODE "F1" "1"
-SIGNAL "/MIDI/VBUS-flitered"
+SIGNAL "/MIDI/VBUS_FILTERED"
 NODE "L5" "1"
 NODE "C12" "1"
 NODE "U1" "40"
@@ -5079,7 +5079,7 @@ LINE 6.67 -1.012 6.454 -1.012
 LINE 6.454 -1.012 6.378 -0.936
 LINE 6.99213 -0.897638 6.78436 -0.897638
 LINE 7.06299 -0.968504 6.99213 -0.897638
-ROUTE "/MIDI/VBUS-flitered"
+ROUTE "/MIDI/VBUS_FILTERED"
 LINE 5.10433 -1.71142 5.0858 -1.71142
 LINE 5.0858 -1.71142 5.00512 -1.63074
 LINE 5.00512 -1.63074 5.00512 -1.57913
