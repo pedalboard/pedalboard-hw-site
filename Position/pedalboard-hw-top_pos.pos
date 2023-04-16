@@ -1,4 +1,4 @@
-### Module positions - created on Sun 16 Apr 2023 12:36:17  ###
+### Module positions - created on Sun 16 Apr 2023 12:48:43  ###
 ### Printed by KiBot
 ## Unit = mm, Angle = deg.
 ## Side : top
@@ -36,6 +36,8 @@ D11     1N4148                    D_DO-35_SOD27_P7.62mm_Horizontal              
 D12     1N5401                    D_DO-201AD_P15.24mm_Horizontal                                         134.7000   79.1000    90.0000    top   
 D13     1N5817                    D_DO-41_SOD81_P10.16mm_Horizontal                                      129.6060   81.9216    -90.0000   top   
 F1      Polyfuse 1.8A             C_Rect_L7.0mm_W3.5mm_P5.00mm                                           151.9000   95.2000    180.0000   top   
+F4      ~                         Trace_Fuse                                                             75.9700    11.8000    0.0000     top   
+F5      ~                         Trace_Fuse                                                             168.9300   5.8940     -90.0000   top   
 H10     Midi Bites                MIDI bites                                                             85.1000    104.9250   0.0000     top   
 J1      MIDI_OUT                  CP-2350                                                                96.0000    103.0000   180.0000   top   
 J2      MIDI_IN                   CP-2350                                                                74.0055    103.0000   180.0000   top   

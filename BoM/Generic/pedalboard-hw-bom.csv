@@ -8,7 +8,7 @@ Row,Description,Part,References,Value,Footprint,Quantity Per PCB,Status,Datashee
 7,"20V 1A Schottky Barrier Rectifier Diode, DO-41",1N5817,D13,1N5817,D_DO-41_SOD81_P10.16mm_Horizontal,1, ,https://www.onsemi.com/pdf/datasheet/1n5817-d.pdf,,,https://www.digikey.ch/en/products/detail/onsemi/1N5817RLG/807254
 8,"RGB LED with integrated controller, 5mm/8mm LED package",NeoPixel_THT,D1 D2 D3 D4 D5 D6 D7 D8 D9 D10,NEOPIX,LED_D5.0mm-NeoPixel,10, ,https://cdn.sparkfun.com/assets/6/9/0/f/3/DS-12999-LED_-_RGB_Addressable__PTH__5mm_Clear__5_Pack_.pdf,,,https://www.digikey.ch/de/products/detail/sparkfun-electronics/COM-12999/5673800
 9,"Resettable fuse, polymeric positive temperature coefficient",Polyfuse,F1,Polyfuse 1.8A,C_Rect_L7.0mm_W3.5mm_P5.00mm,1, ,https://www.onsemi.com/pdf/datasheet/1n5400-d.pdf,,,https://www.digikey.ch/de/products/detail/bel-fuse-inc/0ZRP0090FF1E/9468255
-10,"Fuse, small symbol",Fuse_Small,F2 F3,~,Trace_Fuse,2, ,~,,,
+10,"Fuse, small symbol",Fuse_Small,F2 F3 F4 F5,~,Trace_Fuse,4, ,~,,,
 11,DC Barrel Jack with an internal switch,Barrel_Jack_Switch,J13,Barrel_Jack_MountingPin,BarrelJack_Wuerth_6941xx301002,1, ,https://www.we-online.com/components/products/datasheet/6941xx301002.pdf,,,https://www.digikey.ch/de/products/detail/w%C3%BCrth-elektronik/694106301002/5047522
 12,"Generic connector, double row, 02x01, this symbol is compatible with counter-clockwise, top-bottom and odd-even numbering schemes., script generated (kicad-library-utils/schlib/autogen/connector/)",Conn_02x01,J14,Conn_02x01,PinHeader_1x02_P2.54mm_Horizontal,1, ,https://cdn.amphenol-cs.com/media/wysiwyg/files/drawing/68015.pdf,,,https://www.digikey.ch/de/products/detail/amphenol-cs-fci/68016-202HLF/4273561
 13,"M Series, 6.35mm (1/4in) stereo jack, switched, with chrome ferrule and straight PCB pins",NMJ6HCD2,J3 J9 J10 J11 J12,EXP,Jack_6.35mm_Horizontal,5, ,https://www.schurter.com/en/datasheet/typ_4833.2320.pdf,,,https://www.digikey.ch/de/products/detail/schurter-inc/4833-2320/2644235
@@ -50,7 +50,7 @@ Date:,2023-03-12
 KiCad Version:,7.0.1.1-36-gbcf78dbe24-dirty-deb11
 Statistics:
 Component Groups:,38
-Component Count:,74 (2 SMD/ 70 THT)
-Fitted Components:,74 (2 SMD/ 70 THT)
+Component Count:,76 (4 SMD/ 70 THT)
+Fitted Components:,76 (4 SMD/ 70 THT)
 Number of PCBs:,1
-Total Components:,74
+Total Components:,76
