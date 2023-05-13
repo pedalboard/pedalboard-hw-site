@@ -1896,7 +1896,7 @@ PLACE 5.77953 -1.83858
 LAYER TOP
 ROTATION -90
 SHAPE "Capacitor_THT:C_Disc_D3.0mm_W1.6mm_P2.50mm" 0 0
-TEXT 0.0574803 0.0962598 0.0393701 -90 0 SILKSCREEN_TOP "C5" 0 0 0.0787402 0.0393701
+TEXT 0.18622 -0.00354331 0.0393701 -90 0 SILKSCREEN_TOP "C5" 0 0 0.0787402 0.0393701
 TEXT 0.0492126 -0.0807087 0.0393701 180 0 SILKSCREEN_TOP "100nF" 0 0 0.19685 0.0393701
 SHEET "RefDes: C5, Value: 100nF"
 
@@ -1936,7 +1936,7 @@ PLACE 6.24557 -1.75591
 LAYER TOP
 ROTATION 0
 SHAPE "Capacitor_THT:C_Disc_D5.1mm_W3.2mm_P5.00mm" 0 0
-TEXT -0.114173 -0.00393701 0.0393701 180 0 SILKSCREEN_TOP "C16" 0 0 0.11811 0.0393701
+TEXT 0.29537 0.0456693 0.0393701 180 0 SILKSCREEN_TOP "C16" 0 0 0.11811 0.0393701
 TEXT 0.0984252 -0.112205 0.0393701 0 0 SILKSCREEN_TOP "4.7uF" 0 0 0.19685 0.0393701
 SHEET "RefDes: C16, Value: 4.7uF"
 
@@ -2346,7 +2346,7 @@ PLACE 6.32017 -1.47638
 LAYER TOP
 ROTATION 0
 SHAPE "Capacitor_THT:CP_Radial_D10.0mm_P5.00mm_1" 0 0
-TEXT -0.103635 0.185039 0.0393701 0 0 SILKSCREEN_TOP "C13" 0 0 0.11811 0.0393701
+TEXT -0.0493041 0.209449 0.0393701 0 0 SILKSCREEN_TOP "C13" 0 0 0.11811 0.0393701
 TEXT 0.0984252 -0.246063 0.0393701 0 0 SILKSCREEN_TOP "220uF" 0 0 0.19685 0.0393701
 SHEET "RefDes: C13, Value: 220uF"
 
@@ -2426,7 +2426,7 @@ PLACE 6.09055 -1.80709
 LAYER TOP
 ROTATION 90
 SHAPE "Diode_THT:D_DO-201AD_P15.24mm_Horizontal" 0 0
-TEXT 0.3 0.146457 0.0393701 0 0 SILKSCREEN_TOP "D12" 0 0 0.11811 0.0393701
+TEXT 0.264567 0.147244 0.0393701 0 0 SILKSCREEN_TOP "D12" 0 0 0.11811 0.0393701
 TEXT 0.3 -0.146457 0.0393701 0 0 SILKSCREEN_TOP "1N5401" 0 0 0.23622 0.0393701
 SHEET "RefDes: D12, Value: 1N5401"
 
@@ -2616,7 +2616,7 @@ PLACE 5.89 -1.696
 LAYER TOP
 ROTATION -90
 SHAPE "Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal" 0 0
-TEXT 0.2 0.0972441 0.0393701 180 0 SILKSCREEN_TOP "D13" 0 0 0.11811 0.0393701
+TEXT 0.260693 0.0974016 0.0393701 180 0 SILKSCREEN_TOP "D13" 0 0 0.11811 0.0393701
 TEXT 0.2 -0.0972441 0.0393701 180 0 SILKSCREEN_TOP "1N5817" 0 0 0.23622 0.0393701
 SHEET "RefDes: D13, Value: 1N5817"
 
@@ -2743,49 +2743,49 @@ $ENDCOMPONENTS
 
 $DEVICES
 
-DEVICE "DEV_Pedalboard Library:Jack_6.35mm_Horizontal_0"
-PART "Audio IN Left"
-PACKAGE "Pedalboard Library:Jack_6.35mm_Horizontal"
-
-DEVICE "DEV_Pedalboard Library:BarrelJack_Wuerth_6941xx301002"
-PART "Barrel_Jack_MountingPin"
-PACKAGE "Pedalboard Library:BarrelJack_Wuerth_6941xx301002"
-
-DEVICE "DEV_Pedalboard Library:LED_D5.0mm-NeoPixel"
-PART "NEOPIX"
-PACKAGE "Pedalboard Library:LED_D5.0mm-NeoPixel"
-
-DEVICE "DEV_Pedalboard Library:Jack_3.5mm_CUI_SJ1-3525N_Horizontal"
-PART "MIDI OUT J"
-PACKAGE "Pedalboard Library:Jack_3.5mm_CUI_SJ1-3525N_Horizontal"
-
-DEVICE "DEV_Inductor_THT:L_Axial_L6.6mm_D2.7mm_P10.16mm_Horizontal_Vishay_IM-2"
-PART "103_100MHz"
-PACKAGE "Inductor_THT:L_Axial_L6.6mm_D2.7mm_P10.16mm_Horizontal_Vishay_IM-2"
+DEVICE "DEV_Pedalboard Library:Trace_Fuse"
+PART "~"
+PACKAGE "Pedalboard Library:Trace_Fuse"
 
 DEVICE "DEV_Capacitor_THT:C_Disc_D5.1mm_W3.2mm_P5.00mm"
 PART "4.7uF"
 PACKAGE "Capacitor_THT:C_Disc_D5.1mm_W3.2mm_P5.00mm"
 
-DEVICE "DEV_Pedalboard Library:Jack_6.35mm_Horizontal"
-PART "Audio OUT Right"
-PACKAGE "Pedalboard Library:Jack_6.35mm_Horizontal"
-
-DEVICE "DEV_Pedalboard Library:CONV_PDQE15-Q24-S5-D"
-PART "PDQE15-Q24-S5-D"
-PACKAGE "Pedalboard Library:CONV_PDQE15-Q24-S5-D"
-
 DEVICE "DEV_Capacitor_THT:C_Disc_D3.0mm_W1.6mm_P2.50mm"
 PART "100nF"
 PACKAGE "Capacitor_THT:C_Disc_D3.0mm_W1.6mm_P2.50mm"
+
+DEVICE "DEV_Pedalboard Library:Jack_6.35mm_Horizontal_0"
+PART "Audio IN Left"
+PACKAGE "Pedalboard Library:Jack_6.35mm_Horizontal"
+
+DEVICE "DEV_Pedalboard Library:LED_D5.0mm-NeoPixel"
+PART "NEOPIX"
+PACKAGE "Pedalboard Library:LED_D5.0mm-NeoPixel"
 
 DEVICE "DEV_MountingHole:MountingHole_2.7mm_M2.5_DIN965"
 PART "MountingHole"
 PACKAGE "MountingHole:MountingHole_2.7mm_M2.5_DIN965"
 
-DEVICE "DEV_Pedalboard Library:Trace_Fuse"
-PART "~"
-PACKAGE "Pedalboard Library:Trace_Fuse"
+DEVICE "DEV_Pedalboard Library:Jack_3.5mm_CUI_SJ1-3525N_Horizontal"
+PART "MIDI OUT J"
+PACKAGE "Pedalboard Library:Jack_3.5mm_CUI_SJ1-3525N_Horizontal"
+
+DEVICE "DEV_Pedalboard Library:CONV_PDQE15-Q24-S5-D"
+PART "PDQE15-Q24-S5-D"
+PACKAGE "Pedalboard Library:CONV_PDQE15-Q24-S5-D"
+
+DEVICE "DEV_Pedalboard Library:Jack_6.35mm_Horizontal"
+PART "Audio OUT Left"
+PACKAGE "Pedalboard Library:Jack_6.35mm_Horizontal"
+
+DEVICE "DEV_Inductor_THT:L_Axial_L6.6mm_D2.7mm_P10.16mm_Horizontal_Vishay_IM-2"
+PART "103_100MHz"
+PACKAGE "Inductor_THT:L_Axial_L6.6mm_D2.7mm_P10.16mm_Horizontal_Vishay_IM-2"
+
+DEVICE "DEV_Pedalboard Library:BarrelJack_Wuerth_6941xx301002"
+PART "Barrel_Jack_MountingPin"
+PACKAGE "Pedalboard Library:BarrelJack_Wuerth_6941xx301002"
 
 DEVICE "DEV_Capacitor_THT:C_Disc_D3.0mm_W1.6mm_P2.50mm_0"
 PART "100nF"

@@ -3,15 +3,15 @@
 <head>
 <meta charset="UTF-8"/>
 <title>CM4-NANO-A - Waveshare Wiki</title>
-<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"33bc5b5aaa4591e1b82cb582","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"CM4-NANO-A","wgTitle":"CM4-NANO-A","wgCurRevisionId":49814,"wgRevisionId":49814,"wgArticleId":9902,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["CSI interface","I2C interface","I2S interface","SPI interface","RPi interface","USB 2.0 interface"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"CM4-NANO-A","wgRelevantArticleId":9902,"wgIsProbablyEditable":!1,"wgRelevantPageIsProbablyEditable":!1,"wgRestrictionEdit":[],
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"6dda14a82fdb742b55e5da7a","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"CM4-NANO-A","wgTitle":"CM4-NANO-A","wgCurRevisionId":59751,"wgRevisionId":59751,"wgArticleId":9902,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["CSI interface","I2C interface","I2S interface","SPI interface","RPi interface","USB 2.0 interface"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"CM4-NANO-A","wgRelevantArticleId":9902,"wgIsProbablyEditable":!1,"wgRelevantPageIsProbablyEditable":!1,"wgRestrictionEdit":[],
 "wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0};RLSTATE={"ext.gadget.tabber":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","mediawiki.toc.styles":"ready","skins.tweeki.styles":"ready","skins.tweeki.bootstraptheme.styles":"ready","skins.tweeki.externallinks.styles":"ready","skins.tweeki.awesome.styles":"ready"};RLPAGEMODULES=["site","mediawiki.page.startup","mediawiki.page.ready","mediawiki.toc","mmv.head","mmv.bootstrap.autostart","ext.HighlightjsIntegration","skins.tweeki.messages","skins.tweeki.scripts"];</script>
 <script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1hzgi",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
 });});</script>
-<link rel="stylesheet" href="/w/fkbk/swlodo.php?lang=en&amp;modules=mediawiki.toc.styles%7Cskins.tweeki.awesome.styles%7Cskins.tweeki.bootstraptheme.styles%7Cskins.tweeki.externallinks.styles%7Cskins.tweeki.styles&amp;only=styles&amp;skin=tweeki"/>
-<script async="" src="/w/fkbk/swlodo.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=tweeki"></script>
+<link rel="stylesheet" href="/w/wabkY/swlado.php?lang=en&amp;modules=mediawiki.toc.styles%7Cskins.tweeki.awesome.styles%7Cskins.tweeki.bootstraptheme.styles%7Cskins.tweeki.externallinks.styles%7Cskins.tweeki.styles&amp;only=styles&amp;skin=tweeki"/>
+<script async="" src="/w/wabkY/swlado.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=tweeki"></script>
 <meta name="ResourceLoaderDynamicStyles" content=""/>
-<link rel="stylesheet" href="/w/fkbk/swlodo.php?lang=en&amp;modules=ext.gadget.tabber&amp;only=styles&amp;skin=tweeki"/>
-<link rel="stylesheet" href="/w/fkbk/swlodo.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=tweeki"/>
+<link rel="stylesheet" href="/w/wabkY/swlado.php?lang=en&amp;modules=ext.gadget.tabber&amp;only=styles&amp;skin=tweeki"/>
+<link rel="stylesheet" href="/w/wabkY/swlado.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=tweeki"/>
 <meta name="generator" content="MediaWiki 1.35.5"/>
 <meta property="og:image" content="https://www.waveshare.com/w/upload/7/75/CM4-NANO-A-4.jpg"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
@@ -85,7 +85,7 @@
 <td class="at-c textwhite"><b>CM4-NANO-A-4</b>
 </td></tr>
 <tr>
-<td class="at-c bgwhite" style="margin:5px;"><a href="https://www.waveshare.com/cm4-nano-a.htm" target="_blank" rel="nofollow noreferrer noopener"><img alt="CM4-NANO-A-4.jpg" src="/w/fkbk/swtumb.php?f=CM4-NANO-A-4.jpg&amp;width=250" decoding="async" loading="lazy" width="250" height="188" srcset="/w/upload/7/75/CM4-NANO-A-4.jpg 1.5x" data-file-width="360" data-file-height="270" /></a><br />
+<td class="at-c bgwhite" style="margin:5px;"><a href="https://www.waveshare.com/cm4-nano-a.htm" target="_blank" rel="nofollow noreferrer noopener"><img alt="CM4-NANO-A-4.jpg" src="/w/yabkY/yaumkb.php?f=CM4-NANO-A-4.jpg&amp;width=250" decoding="async" loading="lazy" width="250" height="188" srcset="/w/upload/7/75/CM4-NANO-A-4.jpg 1.5x" data-file-width="360" data-file-height="270" /></a><br />
 </td></tr></tbody></table>
 </td></tr>
 <tr style="display:none;">
@@ -280,15 +280,31 @@
 <li class="toclevel-2 tocsection-7"><a href="#Precautions_2"><span class="tocnumber">2.1</span> <span class="toctext">Precautions</span></a></li>
 <li class="toclevel-2 tocsection-8"><a href="#Writing_Image"><span class="tocnumber">2.2</span> <span class="toctext">Writing Image</span></a></li>
 <li class="toclevel-2 tocsection-9"><a href="#USB2.0"><span class="tocnumber">2.3</span> <span class="toctext">USB2.0</span></a></li>
-<li class="toclevel-2 tocsection-10"><a href="#CSI"><span class="tocnumber">2.4</span> <span class="toctext">CSI</span></a></li>
+<li class="toclevel-2 tocsection-10"><a href="#CSI"><span class="tocnumber">2.4</span> <span class="toctext">CSI</span></a>
+<ul>
+<li class="toclevel-3 tocsection-11"><a href="#Configuration"><span class="tocnumber">2.4.1</span> <span class="toctext">Configuration</span></a></li>
 </ul>
 </li>
-<li class="toclevel-1 tocsection-11"><a href="#Resources"><span class="tocnumber">3</span> <span class="toctext">Resources</span></a>
+<li class="toclevel-2 tocsection-12"><a href="#New_Version_System_.28Bullseye.29"><span class="tocnumber">2.5</span> <span class="toctext">New Version System (Bullseye)</span></a>
 <ul>
-<li class="toclevel-2 tocsection-12"><a href="#Official_Manual"><span class="tocnumber">3.1</span> <span class="toctext">Official Manual</span></a></li>
-<li class="toclevel-2 tocsection-13"><a href="#Schematic"><span class="tocnumber">3.2</span> <span class="toctext">Schematic</span></a></li>
-<li class="toclevel-2 tocsection-14"><a href="#3D_document"><span class="tocnumber">3.3</span> <span class="toctext">3D document</span></a></li>
-<li class="toclevel-2 tocsection-15"><a href="#Software"><span class="tocnumber">3.4</span> <span class="toctext">Software</span></a></li>
+<li class="toclevel-3 tocsection-13"><a href="#Camera_Config"><span class="tocnumber">2.5.1</span> <span class="toctext">Camera Config</span></a></li>
+<li class="toclevel-3 tocsection-14"><a href="#Test_Camera"><span class="tocnumber">2.5.2</span> <span class="toctext">Test Camera</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-15"><a href="#Old_Version_.28Buster.29"><span class="tocnumber">2.6</span> <span class="toctext">Old Version (Buster)</span></a>
+<ul>
+<li class="toclevel-3 tocsection-16"><a href="#Configure_Camera"><span class="tocnumber">2.6.1</span> <span class="toctext">Configure Camera</span></a></li>
+<li class="toclevel-3 tocsection-17"><a href="#Camera_Test"><span class="tocnumber">2.6.2</span> <span class="toctext">Camera Test</span></a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-18"><a href="#Resources"><span class="tocnumber">3</span> <span class="toctext">Resources</span></a>
+<ul>
+<li class="toclevel-2 tocsection-19"><a href="#Official_Manual"><span class="tocnumber">3.1</span> <span class="toctext">Official Manual</span></a></li>
+<li class="toclevel-2 tocsection-20"><a href="#Schematic"><span class="tocnumber">3.2</span> <span class="toctext">Schematic</span></a></li>
+<li class="toclevel-2 tocsection-21"><a href="#3D_document"><span class="tocnumber">3.3</span> <span class="toctext">3D document</span></a></li>
+<li class="toclevel-2 tocsection-22"><a href="#Software"><span class="tocnumber">3.4</span> <span class="toctext">Software</span></a></li>
 </ul>
 </li>
 <li class="toclevel-1"><a href="#Support"><span class="tocnumber">4</span> <span class="toctext">Support</span></a></li>
@@ -297,7 +313,7 @@
 
 <h1><span class="mw-headline" id="Introduction">Introduction</span></h1>
 <h2><span class="mw-headline" id="Description">Description</span></h2>
-<p>CM4-NANO-A is the mini board of Raspberry Pi Compute Module 4, which is a baseboard of Raspberry Pi Compute Module 4 with a power supply interface of 5V/2.5A, USB Type C.
+<p>CM4-NANO-A is the mini board of Raspberry Pi Compute Module 4, which is a baseboard of Raspberry Pi Compute Module 4 with a 5V/2.5A USB Type C interface.
 </p>
 <h2><span class="mw-headline" id="Precautions">Precautions</span></h2>
 <ol><li><font color="#ff0000">DO NOT plug and unplug any device other than USB while it is powered on.</font></li>
@@ -312,7 +328,7 @@ Compute_Module 4 Core board<br />
 <a href="/wiki/File:Compute_Module_4_IO_Board_5.png" class="image"><img alt="Compute Module 4 IO Board 5.png" src="/w/upload/4/44/Compute_Module_4_IO_Board_5.png" decoding="async" loading="lazy" width="700" height="528" data-file-width="687" data-file-height="518" /></a><br />
 </p>
 <h2><span class="mw-headline" id="Onboard_Resources">Onboard Resources</span></h2>
-<p><a href="/wiki/File:CM4-NANO-A-details-size.jpg" class="image"><img alt="CM4-NANO-A-details-size.jpg" src="/w/fkbk/swtumb.php?f=CM4-NANO-A-details-size.jpg&amp;width=700" decoding="async" loading="lazy" width="700" height="328" srcset="/w/upload/9/91/CM4-NANO-A-details-size.jpg 1.5x" data-file-width="800" data-file-height="375" /></a><br />
+<p><a href="/wiki/File:CM4-NANO-A-details-size.jpg" class="image"><img alt="CM4-NANO-A-details-size.jpg" src="/w/yabkY/yaumkb.php?f=CM4-NANO-A-details-size.jpg&amp;width=700" decoding="async" loading="lazy" width="700" height="328" srcset="/w/upload/9/91/CM4-NANO-A-details-size.jpg 1.5x" data-file-width="800" data-file-height="375" /></a><br />
 </p>
 <table border="2;" style="width:850px;">
 
@@ -344,17 +360,17 @@ Compute_Module 4 Core board<br />
 </td></tr>
 <tr align="center">
 <td>5</td>
-<td>USB 2.0 interface</td>
+<td>USB 2.0 Interface</td>
 <td>USB 2.0 interface, support various USB device insertion
 </td></tr>
 <tr align="center">
 <td>6</td>
-<td>40PIN GPIO interface</td>
+<td>40PIN GPIO Header</td>
 <td>Easy access to various HAT modules
 </td></tr>
 <tr align="center">
 <td>7</td>
-<td>PWR indicator</td>
+<td>PWR Indicator</td>
 <td>Indicates the power status of the Raspberry Pi
 </td></tr>
 <tr align="center">
@@ -370,8 +386,8 @@ Compute_Module 4 Core board<br />
 <tr align="center">
 <td>10</td>
 <td>BOOT</td>
-<td>ON: Switch the USB to type C interface, and enter the download mode when powered on (configured as a large-capacity disk through rpi boot)
-<p>OFF: Switch the USB to TYPE A interface, it will not enter the download when powered on (start from eMMC or SD card)
+<td>ON: Switch the USB to type C interface, and enter the download mode when powered on (configured as a large-capacity disk through RPI boot),
+<p>OFF: Switch the USB to TYPE A interface, it will not enter the download when powered on (start from eMMC or SD card),
 </p>
 </td></tr></tbody></table>
 <h1><span class="mw-headline" id="Introduction_2">Introduction</span></h1>
@@ -397,39 +413,109 @@ If you use the latest Raspberry Pi OS (image after October 30, 2021) USB2.0 is O
 </p></font><p><font color="#ff00ff"></font>
 </p>
 <h2><span class="mw-headline" id="CSI">CSI</span></h2>
-<p>CSI are disabled by default. When using the camera, it will occupy three I2C devices: I2C-10, I2C-11, and I2C-0.<br />
-Open a terminal and run the following commands:<br />
-</p>
-<pre>sudo apt-get install p7zip-full
-wget <a target="_blank" rel="nofollow noreferrer noopener" class="external free" href="https://www.waveshare.com/w/upload/4/41/CM4_dt_blob.7z">https://www.waveshare.com/w/upload/4/41/CM4_dt_blob.7z</a>
+<h3><span class="mw-headline" id="Configuration">Configuration</span></h3>
+<ul><li>Due to CSI and DSI being disabled by default, we need to load the device tree to enable, and I2C-10, I2C-11, and I2C-0 will be occupied when using the CSI camera and DSI screen.<br /></li>
+<li>Enter the following command:<br /></li></ul>
+<pre>sudo apt-get install p7zip-full -y
+wget https://www.waveshare.com/w/upload/4/41/CM4_dt_blob.7z
 7z x CM4_dt_blob.7z -O./CM4_dt_blob
 sudo chmod 777 -R CM4_dt_blob
 cd CM4_dt_blob/
-# If using the camera to execute
-sudo dtc -I dts -O dtb -o /boot/dt-blob.bin dt-blob-disp0-double_cam.dts
-# When using CSI, HDMI1 has no image output, even if you do not connect the DSI screen, as long as you 
-compile the corresponding file, then HDMI1 will not output
-# If you need to restore, delete the corresponding dt-blob.bin: sudo rm -rf /boot/dt-blob.bin
-# After execution, turn off the power and restart the CM4
+# If using two cameras and DSI1, execute
+sudo  dtc -I dts -O dtb -o /boot/dt-blob.bin dt-blob-disp1-double_cam.dts
+#When using any DSI, HDMI1 has no image output, even if you do not connect the DSI screen, as long as the corresponding file is compiled, then HDMI1 will not output.
+#If you need to restore, delete the corresponding dt-blob.bin: sudo rm -rf /boot/dt-blob.bin
+# After execution, turn off the power and restart the CM4.
 </pre>
-<p>Reconnect the camera:<br />
-1: Make sure the connection is in the power-off state<br />
-2: Connect Power<br />
-3: Wait a few seconds for the screen to start<br />
-4: If it fails to start, check whether /boot/dt-blob.bin exists, and restart it if it exists. <br />
-5: The camera needs to run raspi-config, select Interfacing Options-&gt;Camera-&gt;Yes-&gt;Finish-Yes, reboot the system, open the enable camera, and then restart to save the changes. <br />
-</p><p>Test photo:
+<h2><span id="New_Version_System_(Bullseye)"></span><span class="mw-headline" id="New_Version_System_.28Bullseye.29">New Version System (Bullseye)</span></h2>
+<h3><span class="mw-headline" id="Camera_Config">Camera Config</span></h3>
+<ol>
+<li>Execute the following commands to edit the "/boot/config.txt" file.</li>
+<pre>sudo nano /boot/config.txt</pre>
+<li>Block or delete the camera auto-detect sentence.</li>
+<a href="/wiki/File:CM4-NANO-B02.png" class="image"><img alt="CM4-NANO-B02.png" src="/w/upload/c/c6/CM4-NANO-B02.png" decoding="async" loading="lazy" width="600" height="323" data-file-width="600" data-file-height="323" /></a><br />
+<li>Add the driver of the camera you used. Here I take IMX219 as an example, connect to CAM0, and attach the adapter.</li>
+<a href="/wiki/File:CM4-NANO-B03.png" class="image"><img alt="CM4-NANO-B03.png" src="/w/upload/9/90/CM4-NANO-B03.png" decoding="async" loading="lazy" width="600" height="347" data-file-width="600" data-file-height="347" /></a><br /> 
+<table border="1;" style="width:600px;">
+
+<tbody><tr style="background:green; color:white;" align="center">
+<th>Model</th>
+<th>CAM0 Setting Sentence</th>
+<th>CAM1 Setting Sentence
+</th></tr>
+<tr>
+<td>OV9281</td>
+<td>dtoverlay=ov9281,cam0</td>
+<td>dtoverlay=ov9281,cam1
+</td></tr>
+<tr>
+<td>IMX290/IMX327</td>
+<td>dtoverlay=imx290,clock-frequency=37125000,cam0</td>
+<td>dtoverlay=imx290,clock-frequency=37125000,cam1
+</td></tr>
+<tr>
+<td>IMX378</td>
+<td>dtoverlay=imx378,cam0</td>
+<td>dtoverlay=imx378,cam1
+</td></tr>
+<tr>
+<td>IMX219</td>
+<td>dtoverlay=imx219,cam0</td>
+<td>dtoverlay=imx219,cam1
+</td></tr>
+<tr>
+<td>IMX477</td>
+<td>dtoverlay=imx477,cam0</td>
+<td>dtoverlay=imx477,cam1
+</td></tr></tbody></table>
+<ul><li>If the camera you are using is the official Raspberry Pi camera and there only is one camera connected, you do not need to set up the config file.</li>
+<li>CM4-NANO only uses CAM0, so you only need to add "dtoverlay=imx219,cam0".</li></ul>
+<li>Ctrl+o to save the file and press Enter.</li>
+<a href="/wiki/File:CM4-NANO-B04.png" class="image"><img alt="CM4-NANO-B04.png" src="/w/upload/4/4c/CM4-NANO-B04.png" decoding="async" loading="lazy" width="600" height="47" data-file-width="600" data-file-height="47" /></a><br /> 
+<li>Ctrl+x to exit the editor.</li>
+<li>Reboot CM4.</li>
+<pre>sudo reboot</pre>
+</ol>
+<h3><span class="mw-headline" id="Test_Camera">Test Camera</span></h3>
+<ol>
+<li>Input the camera detecting commands, and you can see the camera is detected.</li><pre>libcamera-hello --list-cameras</pre>
+<p><a href="/wiki/File:CM4-NANO-B05.png" class="image"><img alt="CM4-NANO-B05.png" src="/w/upload/d/d7/CM4-NANO-B05.png" decoding="async" loading="lazy" width="600" height="124" data-file-width="600" data-file-height="124" /></a><br /> 
 </p>
+<li>Display the camera pictures on the desktop:</li>
+<pre>libcamera-hello -t</pre>
+<li>Take a photo:</li>
+<pre>libcamera-vid -t 10000 -o test.h264</pre>
+<li>Record a 10s video:</li>
+<pre>libcamera-vid -t 10000 -o test.h264</pre>
+</ol>
+<h2><span id="Old_Version_(Buster)"></span><span class="mw-headline" id="Old_Version_.28Buster.29">Old Version (Buster)</span></h2>
+<h3><span class="mw-headline" id="Configure_Camera">Configure Camera</span></h3>
+<ol>
+<li>Execute the following command to enter the Raspberry Pi configuration.</li>
+<pre>sudo raspi-config</pre>
+<li>Choose Interfacing Options and enter.</li>
+<a href="/wiki/File:Interface.png" class="image"><img alt="Interface.png" src="/w/upload/7/76/Interface.png" decoding="async" loading="lazy" width="650" height="221" data-file-width="644" data-file-height="219" /></a><br />
+<li>Choose a camera.</li>
+<a href="/wiki/File:Camera.png" class="image"><img alt="Camera.png" src="/w/upload/8/80/Camera.png" decoding="async" loading="lazy" width="650" height="210" data-file-width="646" data-file-height="209" /></a><br />
+<li>Choose to open the camera interface.</li>
+<a href="/wiki/File:Camera2.png" class="image"><img alt="Camera2.png" src="/w/upload/2/2f/Camera2.png" decoding="async" loading="lazy" width="650" height="405" data-file-width="385" data-file-height="240" /></a><br />
+<li>The system prompts as follows:</li>
+<a href="/wiki/File:Prompt.png" class="image"><img alt="Prompt.png" src="/w/upload/e/ef/Prompt.png" decoding="async" loading="lazy" width="650" height="405" data-file-width="385" data-file-height="240" /></a><br />
+<li>Back to the main interface, select Finish.</li>
+<a href="/wiki/File:Finish.png" class="image"><img alt="Finish.png" src="/w/upload/9/98/Finish.png" decoding="async" loading="lazy" width="650" height="230" data-file-width="646" data-file-height="229" /></a><br />
+<li>Reboot the system.</li>
+<a href="/wiki/File:Finish2.png" class="image"><img alt="Finish2.png" src="/w/upload/a/ac/Finish2.png" decoding="async" loading="lazy" width="650" height="399" data-file-width="386" data-file-height="237" /></a><br />
+
+<h3><span class="mw-headline" id="Camera_Test">Camera Test</span></h3>
+<ul><li>Take a photo:</li></ul>
 <pre>raspistill -o image.jpg
 </pre>
-<p>Test video:
-</p>
+<ul><li>Test the recording function:</li></ul>
 <pre>raspivid -o video.h264 -t 10000
 </pre>
-<p>Where -t 10000 means recording for 10 seconds, users can adjust according to their own needs.
-</p><p><br />
-Reference: <a target="_blank" rel="nofollow noreferrer noopener" class="external text" href="https://www.raspberrypi.org/documentation/hardware/computemodule/cmio-camera.md">CSI camera</a>
-</p>
+<ul><li>Where -t 10000 means recording for 10 seconds, users can adjust according to their own needs.</li>
+<li>Please refer to <a target="_blank" rel="nofollow noreferrer noopener" class="external text" href="https://www.raspberrypi.com/documentation/computers/compute-module.html">CSI</a>.<br /></li></ul>
+</ol>
 <h1><span class="mw-headline" id="Resources">Resources</span></h1>
 <h2><span class="mw-headline" id="Official_Manual">Official Manual</span></h2>
 <ul><li><a target="_blank" rel="nofollow noreferrer noopener" class="external text" href="https://datasheets.raspberrypi.org/cm4io/cm4io-product-brief.pdf">Raspberry Pi Compute Module 4 IO Board Brief</a></li>
@@ -449,29 +535,29 @@ Reference: <a target="_blank" rel="nofollow noreferrer noopener" class="external
 </p></div>
 <!-- 
 NewPP limit report
-Cached time: 20230424192725
+Cached time: 20230513090135
 Cache expiry: 0
 Dynamic content: true
 Complications: []
-CPU time usage: 0.199 seconds
-Real time usage: 0.211 seconds
-Preprocessor visited node count: 471/1000000
+CPU time usage: 0.225 seconds
+Real time usage: 0.251 seconds
+Preprocessor visited node count: 556/1000000
 Post‐expand include size: 6816/2097152 bytes
 Template argument size: 697/2097152 bytes
 Highest expansion depth: 8/40
 Expensive parser function count: 0/100
 Unstrip recursion depth: 0/20
-Unstrip post‐expand size: 0/5000000 bytes
+Unstrip post‐expand size: 951/5000000 bytes
 -->
 <!--
 Transclusion expansion time report (%,ms,calls,template)
-100.00%   26.408      1 -total
- 82.23%   21.715      1 Template:Infobox_item
- 16.34%    4.316      2 Template:Amazon_nolink
- 16.17%    4.269      1 Template:Service00
+100.00%   29.756      1 -total
+ 72.93%   21.701      1 Template:Infobox_item
+ 14.15%    4.211      1 Template:Service00
+ 13.92%    4.142      2 Template:Amazon_nolink
 -->
 </div></div>								<div class="printfooter">
-				Retrieved from "<a dir="ltr" href="https://www.waveshare.com/w/index.php?title=CM4-NANO-A&amp;oldid=49814">https://www.waveshare.com/w/index.php?title=CM4-NANO-A&amp;oldid=49814</a>"				</div>
+				Retrieved from "<a dir="ltr" href="https://www.waveshare.com/w/index.php?title=CM4-NANO-A&amp;oldid=59751">https://www.waveshare.com/w/index.php?title=CM4-NANO-A&amp;oldid=59751</a>"				</div>
 												<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Special:Categories" title="Special:Categories">Category</a>: <ul><li><a href="/w/index.php?title=Category:USB_2.0_interface&amp;action=edit&amp;redlink=1" class="new" title="Category:USB 2.0 interface (page does not exist)">USB 2.0 interface</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:CSI_interface" title="Category:CSI interface">CSI interface</a></li><li><a href="/wiki/Category:I2C_interface" title="Category:I2C interface">I2C interface</a></li><li><a href="/wiki/Category:I2S_interface" title="Category:I2S interface">I2S interface</a></li><li><a href="/wiki/Category:SPI_interface" title="Category:SPI interface">SPI interface</a></li><li><a href="/wiki/Category:RPi_interface" title="Category:RPi interface">RPi interface</a></li></ul></div></div>												<div class="visualClear"></div>
 							</div>
 			<!-- /bodyContent -->
@@ -496,5 +582,5 @@ Transclusion expansion time report (%,ms,calls,template)
 			<ul id="footer-custom"><li class="dropup"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=CM4-NANO-A" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Login / Create Account</a></li></ul><div style="clear:both"></div>			</div>
 			<!-- /footer -->
 		
-<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.199","walltime":"0.211","ppvisitednodes":{"value":471,"limit":1000000},"postexpandincludesize":{"value":6816,"limit":2097152},"templateargumentsize":{"value":697,"limit":2097152},"expansiondepth":{"value":8,"limit":40},"expensivefunctioncount":{"value":0,"limit":100},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":0,"limit":5000000},"timingprofile":["100.00%   26.408      1 -total"," 82.23%   21.715      1 Template:Infobox_item"," 16.34%    4.316      2 Template:Amazon_nolink"," 16.17%    4.269      1 Template:Service00"]},"cachereport":{"timestamp":"20230424192725","ttl":0,"transientcontent":true}}});mw.config.set({"wgBackendResponseTime":592});});</script>	</body>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.225","walltime":"0.251","ppvisitednodes":{"value":556,"limit":1000000},"postexpandincludesize":{"value":6816,"limit":2097152},"templateargumentsize":{"value":697,"limit":2097152},"expansiondepth":{"value":8,"limit":40},"expensivefunctioncount":{"value":0,"limit":100},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":951,"limit":5000000},"timingprofile":["100.00%   29.756      1 -total"," 72.93%   21.701      1 Template:Infobox_item"," 14.15%    4.211      1 Template:Service00"," 13.92%    4.142      2 Template:Amazon_nolink"]},"cachereport":{"timestamp":"20230513090135","ttl":0,"transientcontent":true}}});mw.config.set({"wgBackendResponseTime":690});});</script>	</body>
 </html>
