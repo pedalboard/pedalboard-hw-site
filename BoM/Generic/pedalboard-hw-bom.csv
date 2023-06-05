@@ -45,9 +45,9 @@ Row,Description,Part,References,Value,Footprint,Quantity Per PCB,Status,Datashee
 Project info:
 Schematic:,pedalboard-hw
 Variant:,default
-Revision:,2.0.0
+Revision:,2.1.0-RC1
 Date:,2023-03-12
-KiCad Version:,7.0.1.1-36-gbcf78dbe24-dirty-deb11
+KiCad Version:,7.0.5.1-1-g8f565ef7f0-dirty-deb11
 Statistics:
 Component Groups:,38
 Component Count:,76 (4 SMD/ 70 THT)

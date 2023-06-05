@@ -1,47 +1,17 @@
-ERC report (Sat May 13 08:46:58 2023, Encoding UTF8)
+ERC report (Mon Jun  5 17:04:38 2023, Encoding UTF8)
 
 ***** Sheet /
 
 ***** Sheet /MIDI/
-[lib_symbol_issues]: Symbol 'NeoPixel_THT' has been modified in library 'LED'
-    ; Severity: warning
-    @(201.9300 mm, 91.4400 mm): Symbol D1 [NeoPixel_THT]
-[lib_symbol_issues]: Symbol '1N5817' has been modified in library 'Diode'
-    ; Severity: warning
-    @(196.8500 mm, 36.8300 mm): Symbol D13 [1N5817]
 [lib_symbol_issues]: Symbol 'L_Ferrite' has been modified in library 'Device'
     ; Severity: warning
     @(162.5600 mm, 29.2100 mm): Symbol L5 [L_Ferrite]
 [lib_symbol_issues]: The current configuration does not include the library 'PCM_4ms_Power-symbol'
     ; Severity: warning
     @(214.6300 mm, 30.4800 mm): Symbol #PWR032 [GND]
-[lib_symbol_issues]: Symbol 'NeoPixel_THT' has been modified in library 'LED'
+[lib_symbol_issues]: Symbol '1N5817' has been modified in library 'Diode'
     ; Severity: warning
-    @(271.7800 mm, 91.4400 mm): Symbol D4 [NeoPixel_THT]
-[lib_symbol_issues]: Symbol 'NeoPixel_THT' has been modified in library 'LED'
-    ; Severity: warning
-    @(226.0600 mm, 91.4400 mm): Symbol D2 [NeoPixel_THT]
-[lib_symbol_issues]: Symbol 'NeoPixel_THT' has been modified in library 'LED'
-    ; Severity: warning
-    @(250.1900 mm, 91.4400 mm): Symbol D3 [NeoPixel_THT]
-[lib_symbol_issues]: Symbol 'NeoPixel_THT' has been modified in library 'LED'
-    ; Severity: warning
-    @(200.6600 mm, 152.4000 mm): Symbol D8 [NeoPixel_THT]
-[lib_symbol_issues]: Symbol 'NeoPixel_THT' has been modified in library 'LED'
-    ; Severity: warning
-    @(226.0600 mm, 152.4000 mm): Symbol D9 [NeoPixel_THT]
-[lib_symbol_issues]: Symbol 'NeoPixel_THT' has been modified in library 'LED'
-    ; Severity: warning
-    @(250.1900 mm, 124.4600 mm): Symbol D7 [NeoPixel_THT]
-[lib_symbol_issues]: Symbol 'NeoPixel_THT' has been modified in library 'LED'
-    ; Severity: warning
-    @(250.1900 mm, 152.4000 mm): Symbol D10 [NeoPixel_THT]
-[lib_symbol_issues]: Symbol 'NeoPixel_THT' has been modified in library 'LED'
-    ; Severity: warning
-    @(226.0600 mm, 124.4600 mm): Symbol D6 [NeoPixel_THT]
-[lib_symbol_issues]: Symbol 'NeoPixel_THT' has been modified in library 'LED'
-    ; Severity: warning
-    @(201.9300 mm, 124.4600 mm): Symbol D5 [NeoPixel_THT]
+    @(196.8500 mm, 36.8300 mm): Symbol D13 [1N5817]
 [lib_symbol_issues]: The current configuration does not include the library 'MCU_RaspberryPi_and_Boards'
     ; Severity: warning
     @(142.2400 mm, 63.5000 mm): Symbol U1 [Pico]
@@ -77,5 +47,37 @@ ERC report (Sat May 13 08:46:58 2023, Encoding UTF8)
 [lib_symbol_issues]: The current configuration does not include the library 'PCM_4ms_Power-symbol'
     ; Severity: warning
     @(234.9500 mm, 76.2000 mm): Symbol #PWR030 [GND]
+
+***** Sheet /LEDs/
+[lib_symbol_issues]: Symbol 'NeoPixel_THT' has been modified in library 'LED'
+    ; Severity: warning
+    @(194.3100 mm, 63.5000 mm): Symbol D3 [NeoPixel_THT]
+[lib_symbol_issues]: Symbol 'NeoPixel_THT' has been modified in library 'LED'
+    ; Severity: warning
+    @(215.9000 mm, 63.5000 mm): Symbol D4 [NeoPixel_THT]
+[lib_symbol_issues]: Symbol 'NeoPixel_THT' has been modified in library 'LED'
+    ; Severity: warning
+    @(146.0500 mm, 63.5000 mm): Symbol D1 [NeoPixel_THT]
+[lib_symbol_issues]: Symbol 'NeoPixel_THT' has been modified in library 'LED'
+    ; Severity: warning
+    @(170.1800 mm, 63.5000 mm): Symbol D2 [NeoPixel_THT]
+[lib_symbol_issues]: Symbol 'NeoPixel_THT' has been modified in library 'LED'
+    ; Severity: warning
+    @(144.7800 mm, 124.4600 mm): Symbol D8 [NeoPixel_THT]
+[lib_symbol_issues]: Symbol 'NeoPixel_THT' has been modified in library 'LED'
+    ; Severity: warning
+    @(146.0500 mm, 96.5200 mm): Symbol D5 [NeoPixel_THT]
+[lib_symbol_issues]: Symbol 'NeoPixel_THT' has been modified in library 'LED'
+    ; Severity: warning
+    @(194.3100 mm, 124.4600 mm): Symbol D10 [NeoPixel_THT]
+[lib_symbol_issues]: Symbol 'NeoPixel_THT' has been modified in library 'LED'
+    ; Severity: warning
+    @(170.1800 mm, 124.4600 mm): Symbol D9 [NeoPixel_THT]
+[lib_symbol_issues]: Symbol 'NeoPixel_THT' has been modified in library 'LED'
+    ; Severity: warning
+    @(194.3100 mm, 96.5200 mm): Symbol D7 [NeoPixel_THT]
+[lib_symbol_issues]: Symbol 'NeoPixel_THT' has been modified in library 'LED'
+    ; Severity: warning
+    @(170.1800 mm, 96.5200 mm): Symbol D6 [NeoPixel_THT]
 
  ** ERC messages: 23  Errors 0  Warnings 23

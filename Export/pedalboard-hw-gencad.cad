@@ -1,6 +1,6 @@
 $HEADER
 GENCAD 1.4
-USER "pcbnew 7.0.1.1-36-gbcf78dbe24-dirty-deb11"
+USER "pcbnew 7.0.5.1-1-g8f565ef7f0-dirty-deb11"
 DRAWING "/__w/pedalboard-hw/pedalboard-hw/pedalboard-hw.kicad_pcb"
 REVISION "2.0.0 2023-03-12"
 UNITS INCH
@@ -2743,13 +2743,41 @@ $ENDCOMPONENTS
 
 $DEVICES
 
-DEVICE "DEV_Pedalboard Library:Trace_Fuse"
-PART "~"
-PACKAGE "Pedalboard Library:Trace_Fuse"
+DEVICE "DEV_Inductor_THT:L_Axial_L6.6mm_D2.7mm_P10.16mm_Horizontal_Vishay_IM-2"
+PART "103_100MHz"
+PACKAGE "Inductor_THT:L_Axial_L6.6mm_D2.7mm_P10.16mm_Horizontal_Vishay_IM-2"
+
+DEVICE "DEV_MountingHole:MountingHole_2.7mm_M2.5_DIN965"
+PART "MountingHole"
+PACKAGE "MountingHole:MountingHole_2.7mm_M2.5_DIN965"
+
+DEVICE "DEV_Pedalboard Library:BarrelJack_Wuerth_6941xx301002"
+PART "Barrel_Jack_MountingPin"
+PACKAGE "Pedalboard Library:BarrelJack_Wuerth_6941xx301002"
 
 DEVICE "DEV_Capacitor_THT:C_Disc_D5.1mm_W3.2mm_P5.00mm"
 PART "4.7uF"
 PACKAGE "Capacitor_THT:C_Disc_D5.1mm_W3.2mm_P5.00mm"
+
+DEVICE "DEV_Pedalboard Library:Jack_3.5mm_CUI_SJ1-3525N_Horizontal"
+PART "MIDI OUT J"
+PACKAGE "Pedalboard Library:Jack_3.5mm_CUI_SJ1-3525N_Horizontal"
+
+DEVICE "DEV_Pedalboard Library:Trace_Fuse"
+PART "~"
+PACKAGE "Pedalboard Library:Trace_Fuse"
+
+DEVICE "DEV_Pedalboard Library:Jack_6.35mm_Horizontal"
+PART "Audio OUT Right"
+PACKAGE "Pedalboard Library:Jack_6.35mm_Horizontal"
+
+DEVICE "DEV_Pedalboard Library:LED_D5.0mm-NeoPixel"
+PART "NEOPIX"
+PACKAGE "Pedalboard Library:LED_D5.0mm-NeoPixel"
+
+DEVICE "DEV_Pedalboard Library:CONV_PDQE15-Q24-S5-D"
+PART "PDQE15-Q24-S5-D"
+PACKAGE "Pedalboard Library:CONV_PDQE15-Q24-S5-D"
 
 DEVICE "DEV_Capacitor_THT:C_Disc_D3.0mm_W1.6mm_P2.50mm"
 PART "100nF"
@@ -2758,34 +2786,6 @@ PACKAGE "Capacitor_THT:C_Disc_D3.0mm_W1.6mm_P2.50mm"
 DEVICE "DEV_Pedalboard Library:Jack_6.35mm_Horizontal_0"
 PART "Audio IN Left"
 PACKAGE "Pedalboard Library:Jack_6.35mm_Horizontal"
-
-DEVICE "DEV_Pedalboard Library:LED_D5.0mm-NeoPixel"
-PART "NEOPIX"
-PACKAGE "Pedalboard Library:LED_D5.0mm-NeoPixel"
-
-DEVICE "DEV_MountingHole:MountingHole_2.7mm_M2.5_DIN965"
-PART "MountingHole"
-PACKAGE "MountingHole:MountingHole_2.7mm_M2.5_DIN965"
-
-DEVICE "DEV_Pedalboard Library:Jack_3.5mm_CUI_SJ1-3525N_Horizontal"
-PART "MIDI OUT J"
-PACKAGE "Pedalboard Library:Jack_3.5mm_CUI_SJ1-3525N_Horizontal"
-
-DEVICE "DEV_Pedalboard Library:CONV_PDQE15-Q24-S5-D"
-PART "PDQE15-Q24-S5-D"
-PACKAGE "Pedalboard Library:CONV_PDQE15-Q24-S5-D"
-
-DEVICE "DEV_Pedalboard Library:Jack_6.35mm_Horizontal"
-PART "Audio OUT Left"
-PACKAGE "Pedalboard Library:Jack_6.35mm_Horizontal"
-
-DEVICE "DEV_Inductor_THT:L_Axial_L6.6mm_D2.7mm_P10.16mm_Horizontal_Vishay_IM-2"
-PART "103_100MHz"
-PACKAGE "Inductor_THT:L_Axial_L6.6mm_D2.7mm_P10.16mm_Horizontal_Vishay_IM-2"
-
-DEVICE "DEV_Pedalboard Library:BarrelJack_Wuerth_6941xx301002"
-PART "Barrel_Jack_MountingPin"
-PACKAGE "Pedalboard Library:BarrelJack_Wuerth_6941xx301002"
 
 DEVICE "DEV_Capacitor_THT:C_Disc_D3.0mm_W1.6mm_P2.50mm_0"
 PART "100nF"
@@ -3037,7 +3037,7 @@ NODE "J4" "3"
 SIGNAL "Net-(D1-DOUT)"
 NODE "D2" "1"
 NODE "D1" "4"
-SIGNAL "/MIDI/RGB_DATA"
+SIGNAL "/LEDs/RGB_DATA"
 NODE "R5" "1"
 NODE "U1" "15"
 SIGNAL "Net-(D2-DOUT)"
@@ -3519,7 +3519,7 @@ LINE 6.47913 -3.27953 6.54561 -3.346
 LINE 6.414 -4.0855 6.39858 -4.07008
 ROUTE "Net-(D1-DOUT)"
 LINE 2.73268 -1.88976 3.56693 -1.88976
-ROUTE "/MIDI/RGB_DATA"
+ROUTE "/LEDs/RGB_DATA"
 LINE 3.60512 -2.22441 3.60512 -2.27913
 LINE 2.93602 -2.09075 2.99075 -2.03602
 LINE 3.41673 -2.03602 3.60512 -2.22441
