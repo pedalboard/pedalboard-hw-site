@@ -1,4 +1,4 @@
-### Module positions - created on Mon 05 Jun 2023 17:56:29  ###
+### Module positions - created on Fri 09 Jun 2023 15:17:17  ###
 ### Printed by KiBot
 ## Unit = mm, Angle = deg.
 ## Side : top
@@ -9,7 +9,7 @@ C3      100nF                     C_Disc_D3.0mm_W1.6mm_P2.50mm                  
 C4      100nF                     C_Disc_D3.0mm_W1.6mm_P2.50mm                                           96.1500    72.7000    0.0000     top   
 C5      100nF                     C_Disc_D3.0mm_W1.6mm_P2.50mm                                           126.8000   78.3000    -90.0000   top   
 C6      100nF                     C_Disc_D3.0mm_W1.6mm_P2.50mm                                           24.3550    52.8000    -90.0000   top   
-C7      100nF                     C_Disc_D3.0mm_W1.6mm_P2.50mm                                           80.6700    45.9500    180.0000   top   
+C7      100nF                     C_Disc_D3.0mm_W1.6mm_P2.50mm                                           83.2000    50.3000    0.0000     top   
 C8      100nF                     C_Disc_D3.0mm_W1.6mm_P2.50mm                                           144.5700   41.7000    0.0000     top   
 C9      100nF                     C_Disc_D3.0mm_W1.6mm_P2.50mm                                           24.1550    23.3000    90.0000    top   
 C10     100nF                     C_Disc_D3.0mm_W1.6mm_P2.50mm                                           89.3100    20.0700    -90.0000   top   
@@ -38,7 +38,7 @@ D13     1N5817                    D_DO-41_SOD81_P10.16mm_Horizontal             
 F1      Polyfuse 1.8A             C_Rect_L7.0mm_W3.5mm_P5.00mm                                           151.9000   95.2000    180.0000   top   
 F4      ~                         Trace_Fuse                                                             75.9700    11.8000    0.0000     top   
 F5      ~                         Trace_Fuse                                                             168.9300   5.8940     -90.0000   top   
-H10     Midi Bites                MIDI bites                                                             85.1000    104.9250   0.0000     top   
+H12     Midi Bites                MIDI bites                                                             85.1000    104.9250   0.0000     top   
 J1      MIDI_OUT                  CP-2350                                                                96.0000    103.0000   180.0000   top   
 J2      MIDI_IN                   CP-2350                                                                74.0055    103.0000   180.0000   top   
 J3      EXP                       Jack_6.35mm_Horizontal                                                 155.6150   91.2000    0.0000     top   
@@ -48,6 +48,12 @@ J10     Audio IN Left             Jack_6.35mm_Horizontal                        
 J11     Audio OUT Right           Jack_6.35mm_Horizontal                                                 14.4350    34.0000    180.0000   top   
 J12     Audio OUT Left            Jack_6.35mm_Horizontal                                                 14.4000    13.8000    180.0000   top   
 J13     Barrel_Jack_MountingPin   BarrelJack_Wuerth_6941xx301002                                         159.4000   94.6000    180.0000   top   
+J18     LED-Ring                  PinHeader_2x02_P2.00mm_Vertical                                        149.0000   57.0000    90.0000    top   
+J19     LED-Ring                  PinHeader_2x02_P2.00mm_Vertical                                        149.0000   5.0000     90.0000    top   
+J20     LED-Ring                  PinHeader_2x02_P2.00mm_Vertical                                        84.0000    17.0000    0.0000     top   
+J21     LED-Ring                  PinHeader_2x02_P2.00mm_Vertical                                        74.0000    57.0000    90.0000    top   
+J22     LED-Ring                  PinHeader_2x02_P2.00mm_Vertical                                        21.0000    59.0000    -90.0000   top   
+J23     LED-Ring                  PinHeader_2x02_P2.00mm_Vertical                                        21.0000    7.0000     -90.0000   top   
 L1      103_100MHz                L_Axial_L6.6mm_D2.7mm_P10.16mm_Horizontal_Vishay_IM-2                  56.6000    69.7300    -90.0000   top   
 L2      103_100MHz                L_Axial_L6.6mm_D2.7mm_P10.16mm_Horizontal_Vishay_IM-2                  71.2800    62.4250    180.0000   top   
 L3      103_100MHz                L_Axial_L6.6mm_D2.7mm_P10.16mm_Horizontal_Vishay_IM-2                  39.5000    84.5550    -90.0000   top   

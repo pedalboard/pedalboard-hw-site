@@ -31,13 +31,13 @@ See https://github.com/adobe-type-tools/cmap-resources
       <meta property="og:title" content="ONSM-S-A0003590761-1.pdf" />
       <meta property="og:image" content="/content/rwjc9al1ln/png/ONSM-S-A0003590761-1.png" />
     <link rel="shortcut icon" href="/favicon.ico?customer=rocelec" type="image/x-icon" />
-    <link rel="stylesheet" href="/vendor/pdfjs2/web/viewer.css?v=00a2be35">
-    <link rel="stylesheet" href="/css/pdf-pdfjs2.css?v=00a2be35">
-    <link rel="resource" type="application/l10n" href="/vendor/pdfjs2/web/locale/locale.properties?v=00a2be35">
-    <script src="/vendor/pdfjs2/build/pdf.js?v=00a2be35"></script>
+    <link rel="stylesheet" href="/vendor/pdfjs2/web/viewer.css?v=7d7ec8f8">
+    <link rel="stylesheet" href="/css/pdf-pdfjs2.css?v=7d7ec8f8">
+    <link rel="resource" type="application/l10n" href="/vendor/pdfjs2/web/locale/locale.properties?v=7d7ec8f8">
+    <script src="/vendor/pdfjs2/build/pdf.js?v=7d7ec8f8"></script>
 
     <script type="text/javascript">
-        window.viewerPdfUrl = 'https://previews.us-east-1.widencdn.net/preview/46485696/assets/asset-view/3c832992-d6f3-40a7-a7fd-77b9e844170f/pdf/bnVsbA==/ONSM-S-A0003590761-1?Expires=1685991600&Signature=VohqdkXBTP12kJTFS0KP0nQt8GeK2yoC2IfSei7yhE1mAp6PDghZl4iBIFsGoIOw27v82fzNlY-dNPfZRwJyarIRULSuuy2NZ8JEXmDv-zH39vkZA4VdDp-lRAchvyX64IwbLLMNHmGsRRHXGn4Ojz9HoiuWGt3lrF1sA0DhwTR5Ua13jgII5F8yS4E3lirmeDobZix6tcZXwL2JCNoErSkKBflj9-wGTxkassSxS-ZW-lRMCHtu-vNwvl5BYZTH-7alfFFbuYgMoTDBoLCx7FZ7AleMuc6qD37ZlUDxYT5WcbhqDCb~XYkm5GsRPURDMszo-G1bMCISTPneUN1-JQ__&Key-Pair-Id=APKAJM7FVRD2EPOYUXBQ';
+        window.viewerPdfUrl = 'https://previews.us-east-1.widencdn.net/preview/46485696/assets/asset-view/3c832992-d6f3-40a7-a7fd-77b9e844170f/pdf/bnVsbA==/ONSM-S-A0003590761-1?Expires=1686330000&Signature=rUsKltcvxZLS35Pjt2Uzb-5CvfOef27yffUNYMMsm2kpw6UJgzcm~V3QsL8YjYkOyR~YW-pRum1g~g5UxkXmlRBfMpub9D6Q52uXZxZSvW-L7iufoaynbkev7yfT3MmcJ53fe056dci-uyXNjLPDopp6mh35-CGz5hsz3PyXA9dg1~cA2sjBZub0OWDP8qeDZLxKBJw9lbey70zwKuoeB0yI0WtD90ZfTXgVIawXqiJSugGf~ULl7pCDWgi6yY7x~A31MrizbvTB84L9UtBCJBr9X5GY7miA50IHFxNkKx4HnHY7qtuLNRPzXj4Oal4qABiG7UA0dyHhQ2~JFzQiog__&Key-Pair-Id=APKAJM7FVRD2EPOYUXBQ';
       window.viewerPdfTitle = 'ONSM-S-A0003590761-1.pdf';
 
       document.addEventListener("webviewerloaded", function () {
@@ -58,7 +58,7 @@ See https://github.com/adobe-type-tools/cmap-resources
         });
       });
     </script>
-    <script src="/vendor/pdfjs2/web/viewer.js?v=00a2be35"></script>
+    <script src="/vendor/pdfjs2/web/viewer.js?v=7d7ec8f8"></script>
   </head>
 
   <body tabindex="1" class="loadingInProgress">

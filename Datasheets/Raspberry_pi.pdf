@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8"/>
 <title>CM4-NANO-A - Waveshare Wiki</title>
-<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"5480a410c39ccde06c8954b4","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"CM4-NANO-A","wgTitle":"CM4-NANO-A","wgCurRevisionId":59751,"wgRevisionId":59751,"wgArticleId":9902,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["CSI interface","I2C interface","I2S interface","SPI interface","RPi interface","USB 2.0 interface"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"CM4-NANO-A","wgRelevantArticleId":9902,"wgIsProbablyEditable":!1,"wgRelevantPageIsProbablyEditable":!1,"wgRestrictionEdit":[],
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"ced2b797da1d494a825e5e21","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"CM4-NANO-A","wgTitle":"CM4-NANO-A","wgCurRevisionId":59751,"wgRevisionId":59751,"wgArticleId":9902,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["CSI interface","I2C interface","I2S interface","SPI interface","RPi interface","USB 2.0 interface"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"CM4-NANO-A","wgRelevantArticleId":9902,"wgIsProbablyEditable":!1,"wgRelevantPageIsProbablyEditable":!1,"wgRestrictionEdit":[],
 "wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0};RLSTATE={"ext.gadget.tabber":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","mediawiki.toc.styles":"ready","skins.tweeki.styles":"ready","skins.tweeki.bootstraptheme.styles":"ready","skins.tweeki.externallinks.styles":"ready","skins.tweeki.awesome.styles":"ready"};RLPAGEMODULES=["site","mediawiki.page.startup","mediawiki.page.ready","mediawiki.toc","mmv.head","mmv.bootstrap.autostart","ext.HighlightjsIntegration","skins.tweeki.messages","skins.tweeki.scripts"];</script>
 <script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1hzgi",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
 });});</script>
@@ -535,12 +535,12 @@ sudo  dtc -I dts -O dtb -o /boot/dt-blob.bin dt-blob-disp1-double_cam.dts
 </p></div>
 <!-- 
 NewPP limit report
-Cached time: 20230605174934
+Cached time: 20230609150957
 Cache expiry: 0
 Dynamic content: true
 Complications: []
-CPU time usage: 0.218 seconds
-Real time usage: 0.252 seconds
+CPU time usage: 0.223 seconds
+Real time usage: 0.243 seconds
 Preprocessor visited node count: 556/1000000
 Post‐expand include size: 6816/2097152 bytes
 Template argument size: 697/2097152 bytes
@@ -551,10 +551,10 @@ Unstrip post‐expand size: 951/5000000 bytes
 -->
 <!--
 Transclusion expansion time report (%,ms,calls,template)
-100.00%   29.762      1 -total
- 66.30%   19.732      1 Template:Infobox_item
- 26.42%    7.862      1 Template:Service00
- 17.97%    5.349      2 Template:Amazon_nolink
+100.00%   29.002      1 -total
+ 70.05%   20.316      1 Template:Infobox_item
+ 21.95%    6.365      1 Template:Service00
+ 18.82%    5.458      2 Template:Amazon_nolink
 -->
 </div></div>								<div class="printfooter">
 				Retrieved from "<a dir="ltr" href="https://www.waveshare.com/w/index.php?title=CM4-NANO-A&amp;oldid=59751">https://www.waveshare.com/w/index.php?title=CM4-NANO-A&amp;oldid=59751</a>"				</div>
@@ -582,5 +582,5 @@ Transclusion expansion time report (%,ms,calls,template)
 			<ul id="footer-custom"><li class="dropup"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=CM4-NANO-A" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Login / Create Account</a></li></ul><div style="clear:both"></div>			</div>
 			<!-- /footer -->
 		
-<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.218","walltime":"0.252","ppvisitednodes":{"value":556,"limit":1000000},"postexpandincludesize":{"value":6816,"limit":2097152},"templateargumentsize":{"value":697,"limit":2097152},"expansiondepth":{"value":8,"limit":40},"expensivefunctioncount":{"value":0,"limit":100},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":951,"limit":5000000},"timingprofile":["100.00%   29.762      1 -total"," 66.30%   19.732      1 Template:Infobox_item"," 26.42%    7.862      1 Template:Service00"," 17.97%    5.349      2 Template:Amazon_nolink"]},"cachereport":{"timestamp":"20230605174934","ttl":0,"transientcontent":true}}});mw.config.set({"wgBackendResponseTime":611});});</script>	</body>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.223","walltime":"0.243","ppvisitednodes":{"value":556,"limit":1000000},"postexpandincludesize":{"value":6816,"limit":2097152},"templateargumentsize":{"value":697,"limit":2097152},"expansiondepth":{"value":8,"limit":40},"expensivefunctioncount":{"value":0,"limit":100},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":951,"limit":5000000},"timingprofile":["100.00%   29.002      1 -total"," 70.05%   20.316      1 Template:Infobox_item"," 21.95%    6.365      1 Template:Service00"," 18.82%    5.458      2 Template:Amazon_nolink"]},"cachereport":{"timestamp":"20230609150957","ttl":0,"transientcontent":true}}});mw.config.set({"wgBackendResponseTime":590});});</script>	</body>
 </html>
