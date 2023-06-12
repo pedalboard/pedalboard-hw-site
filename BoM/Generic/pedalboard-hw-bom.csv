@@ -6,14 +6,14 @@ Row,Description,Part,References,Value,Footprint,Quantity Per PCB,Status,Datashee
 5,"100V 0.15A standard switching diode, DO-35",1N4148,D11,1N4148,D_DO-35_SOD27_P7.62mm_Horizontal,1, ,https://www.onsemi.com/download/data-sheet/pdf/1n914-d.pdf,D,1=K 2=A,https://www.digikey.ch/en/products/detail/onsemi/1N4148/458603
 6,"100V 3A General Purpose Rectifier Diode, DO-201AD",1N5401,D12,1N5401,D_DO-201AD_P15.24mm_Horizontal,1, ,http://www.vishay.com/docs/88516/1n5400.pdf,D,1=K 2=A,https://www.digikey.ch/de/products/detail/onsemi/1N5401G/1485525
 7,"20V 1A Schottky Barrier Rectifier Diode, DO-41",1N5817,D13,1N5817,D_DO-41_SOD81_P10.16mm_Horizontal,1, ,https://www.onsemi.com/pdf/datasheet/1n5817-d.pdf,,,https://www.digikey.ch/en/products/detail/onsemi/1N5817RLG/807254
-8,"RGB LED with integrated controller, 5mm/8mm LED package",NeoPixel_THT,D1 D2 D3 D4 D5 D6 D7 D8 D9 D10,NEOPIX,LED_D5.0mm-NeoPixel,10, ,https://cdn.sparkfun.com/assets/6/9/0/f/3/DS-12999-LED_-_RGB_Addressable__PTH__5mm_Clear__5_Pack_.pdf,,,https://www.digikey.ch/de/products/detail/sparkfun-electronics/COM-12999/5673800
+8,"RGB LED with integrated controller, 5mm/8mm LED package",NeoPixel_THT,D1 D2 D3 D4,NEOPIX,LED_D5.0mm-NeoPixel,4, ,https://cdn.sparkfun.com/assets/6/9/0/f/3/DS-12999-LED_-_RGB_Addressable__PTH__5mm_Clear__5_Pack_.pdf,,,https://www.digikey.ch/de/products/detail/sparkfun-electronics/COM-12999/5673800
 9,"Resettable fuse, polymeric positive temperature coefficient",Polyfuse,F1,Polyfuse 1.8A,C_Rect_L7.0mm_W3.5mm_P5.00mm,1, ,https://www.onsemi.com/pdf/datasheet/1n5400-d.pdf,,,https://www.digikey.ch/de/products/detail/bel-fuse-inc/0ZRP0090FF1E/9468255
 10,"Fuse, small symbol",Fuse_Small,F2 F3 F4 F5,~,Trace_Fuse,4, ,~,,,
 11,DC Barrel Jack with an internal switch,Barrel_Jack_Switch,J13,Barrel_Jack_MountingPin,BarrelJack_Wuerth_6941xx301002,1, ,https://www.we-online.com/components/products/datasheet/6941xx301002.pdf,,,https://www.digikey.ch/de/products/detail/w%C3%BCrth-elektronik/694106301002/5047522
 12,"Generic connector, double row, 02x01, this symbol is compatible with counter-clockwise, top-bottom and odd-even numbering schemes., script generated (kicad-library-utils/schlib/autogen/connector/)",Conn_02x01,J14,Conn_02x01,PinHeader_1x02_P2.54mm_Horizontal,1, ,https://cdn.amphenol-cs.com/media/wysiwyg/files/drawing/68015.pdf,,,https://www.digikey.ch/de/products/detail/amphenol-cs-fci/68016-202HLF/4273561
 13,"M Series, 6.35mm (1/4in) stereo jack, switched, with chrome ferrule and straight PCB pins",NMJ6HCD2,J3 J9 J10 J11 J12,EXP,Jack_6.35mm_Horizontal,5, ,https://www.schurter.com/en/datasheet/typ_4833.2320.pdf,,,https://www.digikey.ch/de/products/detail/schurter-inc/4833-2320/2644235
 14,expansion header for Raspberry Pi 2 & 3,Raspberry_Pi_2_3,J8,HiFi Berry,HiFi Berry DAC ADC+,1, ,https://www.hifiberry.com/docs/data-sheets/datasheet-dac-adc-pro/,,,https://www.digikey.ch/de/products/detail/w%C3%BCrth-elektronik/61304021821/16608657
-15,"Generic connector, double row, 02x02, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)",Conn_02x02_Odd_Even,J18 J19 J20 J21 J22 J23,LED-Ring,PinHeader_2x02_P2.00mm_Vertical,6, ,~,,,
+15,"Generic connector, double row, 02x02, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)",Conn_02x02_Odd_Even,J18 J19 J20 J21 J22 J23,LED-Ring,Led-Ring,6, ,~,,,
 16,"Generic connector, double row, 02x03, top/bottom pin numbering scheme (row 1: 1...pins_per_row, row2: pins_per_row+1 ... num_pins), script generated (kicad-library-utils/schlib/autogen/connector/)",Conn_02x03_Top_Bottom,J15,MIDI IN/OUT,PinHeader_2x03_P2.54mm_Horizontal,1, ,https://www.we-online.com/components/products/datasheet/6130xx21021.pdf,,,https://www.digikey.ch/de/products/detail/w%C3%BCrth-elektronik/61300621021/4846834
 17,"Audio Jack, 3 Poles (Stereo / TRS), Switched TR Poles (Normalling)",AudioJack3_SwitchTR,J16 J17,MIDI OUT J,Jack_3.5mm_CUI_SJ1-3525N_Horizontal,2, ,https://www.cuidevices.com/product/resource/sj1-352xng.pdf,,,https://www.digikey.ch/de/products/detail/cui-devices/SJ1-3525NG/738690
 18,5-pin DIN connector (5-pin DIN-5 stereo),DIN-5_180degree,J1 J2,MIDI_OUT,CP-2350,2, ,https://www.switchcraft.com/assets/1/24/57PC5F_CD.pdf,,,https://www.digikey.ch/de/products/detail/switchcraft-inc/57PC5F/275385
@@ -50,8 +50,8 @@ Revision:,2.1.0-RC1
 Date:,2023-03-12
 KiCad Version:,7.0.5.1-1-g8f565ef7f0-dirty-deb11
 Statistics:
-Component Groups:,39
+Component Groups:,40
 Component Count:,82 (4 SMD/ 76 THT)
-Fitted Components:,82 (4 SMD/ 76 THT)
+Fitted Components:,76 (4 SMD/ 70 THT)
 Number of PCBs:,1
-Total Components:,82
+Total Components:,76

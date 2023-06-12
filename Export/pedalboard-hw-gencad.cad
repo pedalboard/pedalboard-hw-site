@@ -406,7 +406,7 @@ PIN "1" PAD22 0 0 TOP 0 0
 PIN "2" PAD35 0 -0.228346 TOP 0 0
 PIN "3" PAD35 0.188976 -0.11811 TOP 90 0
 
-SHAPE "Connector_PinHeader_2.00mm:PinHeader_2x02_P2.00mm_Vertical"
+SHAPE "Pedalboard Library:Led-Ring"
 INSERT TH
 LINE -0.0417323 0.0417323 0 0.0417323
 LINE -0.0417323 0 -0.0417323 0.0417323
@@ -498,7 +498,7 @@ LINE 0.0244488 -0.0362205 0.0739764 -0.0362205
 PIN "1" PAD2 0 0 TOP 0 0
 PIN "2" PAD2 0.0984252 0 TOP 0 0
 
-SHAPE "Connector_PinHeader_2.00mm:PinHeader_2x02_P2.00mm_Vertical_0"
+SHAPE "Pedalboard Library:Led-Ring_0"
 INSERT TH
 LINE -0.0417323 0.0417323 0 0.0417323
 LINE -0.0417323 0 -0.0417323 0.0417323
@@ -1430,7 +1430,7 @@ CIRCLE 0.0984252 0 0.201575
 PIN "1" PAD16 0 0 TOP 0 0
 PIN "2" PAD3 0.19685 0 TOP 0 0
 
-SHAPE "Connector_PinHeader_2.00mm:PinHeader_2x02_P2.00mm_Vertical_1"
+SHAPE "Pedalboard Library:Led-Ring_1"
 INSERT TH
 LINE -0.0417323 0.0417323 0 0.0417323
 LINE -0.0417323 0 -0.0417323 0.0417323
@@ -2002,13 +2002,13 @@ TEXT 0 -0.13189 0.0393701 0 0 SILKSCREEN_TOP "MountingHole" 0 0 0.472441 0.03937
 SHEET "RefDes: H4, Value: MountingHole"
 
 COMPONENT "J22"
-DEVICE "DEV_Connector_PinHeader_2.00mm:PinHeader_2x02_P2.00mm_Vertical"
+DEVICE "DEV_Pedalboard Library:Led-Ring"
 PLACE 1.61417 -2.59843
 LAYER TOP
 ROTATION -90
-SHAPE "Connector_PinHeader_2.00mm:PinHeader_2x02_P2.00mm_Vertical" 0 0
-TEXT 0.0393701 0.0811024 0.0393701 180 0 SILKSCREEN_TOP "J22" 0 0 0.11811 0.0393701
-TEXT 0.0393701 -0.159843 0.0393701 180 0 SILKSCREEN_TOP "LED-Ring" 0 0 0.314961 0.0393701
+SHAPE "Pedalboard Library:Led-Ring" 0 0
+TEXT 0.0393701 0.0811024 0.0393701 0 0 SILKSCREEN_TOP "J22" 0 0 0.11811 0.0393701
+TEXT 0.0393701 -0.159843 0.0393701 0 0 SILKSCREEN_TOP "LED-Ring" 0 0 0.314961 0.0393701
 SHEET "RefDes: J22, Value: LED-Ring"
 
 COMPONENT "L5"
@@ -2132,11 +2132,11 @@ TEXT 0 -0.13189 0.0393701 0 0 SILKSCREEN_TOP "MountingHole" 0 0 0.472441 0.03937
 SHEET "RefDes: H11, Value: MountingHole"
 
 COMPONENT "J19"
-DEVICE "DEV_Connector_PinHeader_2.00mm:PinHeader_2x02_P2.00mm_Vertical_0"
+DEVICE "DEV_Pedalboard Library:Led-Ring_0"
 PLACE 6.65354 -4.72441
 LAYER TOP
 ROTATION 90
-SHAPE "Connector_PinHeader_2.00mm:PinHeader_2x02_P2.00mm_Vertical_0" 0 0
+SHAPE "Pedalboard Library:Led-Ring_0" 0 0
 TEXT 0.0393701 0.0811024 0.0393701 0 0 SILKSCREEN_TOP "J19" 0 0 0.11811 0.0393701
 TEXT 0.0393701 -0.159843 0.0393701 0 0 SILKSCREEN_TOP "LED-Ring" 0 0 0.314961 0.0393701
 SHEET "RefDes: J19, Value: LED-Ring"
@@ -2172,13 +2172,13 @@ TEXT 0 -0.0393701 0.0393701 0 0 SILKSCREEN_TOP "Midi Bites" 0 0 0.393701 0.03937
 SHEET "RefDes: H12, Value: Midi Bites"
 
 COMPONENT "J23"
-DEVICE "DEV_Connector_PinHeader_2.00mm:PinHeader_2x02_P2.00mm_Vertical"
+DEVICE "DEV_Pedalboard Library:Led-Ring"
 PLACE 1.61417 -4.64567
 LAYER TOP
 ROTATION -90
-SHAPE "Connector_PinHeader_2.00mm:PinHeader_2x02_P2.00mm_Vertical" 0 0
-TEXT 0.0393701 0.0811024 0.0393701 180 0 SILKSCREEN_TOP "J23" 0 0 0.11811 0.0393701
-TEXT 0.0393701 -0.159843 0.0393701 180 0 SILKSCREEN_TOP "LED-Ring" 0 0 0.314961 0.0393701
+SHAPE "Pedalboard Library:Led-Ring" 0 0
+TEXT 0.0393701 0.0811024 0.0393701 0 0 SILKSCREEN_TOP "J23" 0 0 0.11811 0.0393701
+TEXT 0.0393701 -0.159843 0.0393701 0 0 SILKSCREEN_TOP "LED-Ring" 0 0 0.314961 0.0393701
 SHEET "RefDes: J23, Value: LED-Ring"
 
 COMPONENT "C9"
@@ -2212,11 +2212,11 @@ TEXT 0.075 -0.155906 0.0393701 0 0 SILKSCREEN_TOP "NEOPIX" 0 0 0.23622 0.0393701
 SHEET "RefDes: D9, Value: NEOPIX"
 
 COMPONENT "J21"
-DEVICE "DEV_Connector_PinHeader_2.00mm:PinHeader_2x02_P2.00mm_Vertical_0"
+DEVICE "DEV_Pedalboard Library:Led-Ring_0"
 PLACE 3.70079 -2.67717
 LAYER TOP
 ROTATION 90
-SHAPE "Connector_PinHeader_2.00mm:PinHeader_2x02_P2.00mm_Vertical_0" 0 0
+SHAPE "Pedalboard Library:Led-Ring_0" 0 0
 TEXT 0.0393701 0.0811024 0.0393701 0 0 SILKSCREEN_TOP "J21" 0 0 0.11811 0.0393701
 TEXT 0.0393701 -0.159843 0.0393701 0 0 SILKSCREEN_TOP "LED-Ring" 0 0 0.314961 0.0393701
 SHEET "RefDes: J21, Value: LED-Ring"
@@ -2342,11 +2342,11 @@ TEXT 0.0984252 -0.246063 0.0393701 180 0 SILKSCREEN_TOP "220uF" 0 0 0.19685 0.03
 SHEET "RefDes: C14, Value: 220uF"
 
 COMPONENT "J18"
-DEVICE "DEV_Connector_PinHeader_2.00mm:PinHeader_2x02_P2.00mm_Vertical_0"
+DEVICE "DEV_Pedalboard Library:Led-Ring_0"
 PLACE 6.65354 -2.67717
 LAYER TOP
 ROTATION 90
-SHAPE "Connector_PinHeader_2.00mm:PinHeader_2x02_P2.00mm_Vertical_0" 0 0
+SHAPE "Pedalboard Library:Led-Ring_0" 0 0
 TEXT 0.0393701 0.0811024 0.0393701 0 0 SILKSCREEN_TOP "J18" 0 0 0.11811 0.0393701
 TEXT 0.0393701 -0.159843 0.0393701 0 0 SILKSCREEN_TOP "LED-Ring" 0 0 0.314961 0.0393701
 SHEET "RefDes: J18, Value: LED-Ring"
@@ -2462,11 +2462,11 @@ TEXT 0.0984252 -0.246063 0.0393701 0 0 SILKSCREEN_TOP "220uF" 0 0 0.19685 0.0393
 SHEET "RefDes: C13, Value: 220uF"
 
 COMPONENT "J20"
-DEVICE "DEV_Connector_PinHeader_2.00mm:PinHeader_2x02_P2.00mm_Vertical_1"
+DEVICE "DEV_Pedalboard Library:Led-Ring_1"
 PLACE 4.09449 -4.25197
 LAYER TOP
 ROTATION 0
-SHAPE "Connector_PinHeader_2.00mm:PinHeader_2x02_P2.00mm_Vertical_1" 0 0
+SHAPE "Pedalboard Library:Led-Ring_1" 0 0
 TEXT 0.0393701 0.0811024 0.0393701 0 0 SILKSCREEN_TOP "J20" 0 0 0.11811 0.0393701
 TEXT 0.0393701 -0.159843 0.0393701 0 0 SILKSCREEN_TOP "LED-Ring" 0 0 0.314961 0.0393701
 SHEET "RefDes: J20, Value: LED-Ring"
@@ -2874,25 +2874,21 @@ $ENDCOMPONENTS
 
 $DEVICES
 
-DEVICE "DEV_Pedalboard Library:Jack_6.35mm_Horizontal"
-PART "Audio OUT Left"
-PACKAGE "Pedalboard Library:Jack_6.35mm_Horizontal"
-
-DEVICE "DEV_MountingHole:MountingHole_2.7mm_M2.5_DIN965"
-PART "MountingHole"
-PACKAGE "MountingHole:MountingHole_2.7mm_M2.5_DIN965"
-
-DEVICE "DEV_Capacitor_THT:C_Disc_D5.1mm_W3.2mm_P5.00mm"
-PART "4.7uF"
-PACKAGE "Capacitor_THT:C_Disc_D5.1mm_W3.2mm_P5.00mm"
+DEVICE "DEV_Pedalboard Library:Led-Ring"
+PART "LED-Ring"
+PACKAGE "Pedalboard Library:Led-Ring"
 
 DEVICE "DEV_Pedalboard Library:LED_D5.0mm-NeoPixel"
 PART "NEOPIX"
 PACKAGE "Pedalboard Library:LED_D5.0mm-NeoPixel"
 
-DEVICE "DEV_Connector_PinHeader_2.00mm:PinHeader_2x02_P2.00mm_Vertical"
-PART "LED-Ring"
-PACKAGE "Connector_PinHeader_2.00mm:PinHeader_2x02_P2.00mm_Vertical"
+DEVICE "DEV_Pedalboard Library:CONV_PDQE15-Q24-S5-D"
+PART "PDQE15-Q24-S5-D"
+PACKAGE "Pedalboard Library:CONV_PDQE15-Q24-S5-D"
+
+DEVICE "DEV_MountingHole:MountingHole_2.7mm_M2.5_DIN965"
+PART "MountingHole"
+PACKAGE "MountingHole:MountingHole_2.7mm_M2.5_DIN965"
 
 DEVICE "DEV_Inductor_THT:L_Axial_L6.6mm_D2.7mm_P10.16mm_Horizontal_Vishay_IM-2"
 PART "103_100MHz"
@@ -2902,21 +2898,25 @@ DEVICE "DEV_Pedalboard Library:Jack_6.35mm_Horizontal_0"
 PART "Audio IN Left"
 PACKAGE "Pedalboard Library:Jack_6.35mm_Horizontal"
 
-DEVICE "DEV_Pedalboard Library:CONV_PDQE15-Q24-S5-D"
-PART "PDQE15-Q24-S5-D"
-PACKAGE "Pedalboard Library:CONV_PDQE15-Q24-S5-D"
+DEVICE "DEV_Pedalboard Library:Jack_6.35mm_Horizontal"
+PART "Audio OUT Left"
+PACKAGE "Pedalboard Library:Jack_6.35mm_Horizontal"
 
 DEVICE "DEV_Pedalboard Library:Jack_3.5mm_CUI_SJ1-3525N_Horizontal"
 PART "MIDI OUT J"
 PACKAGE "Pedalboard Library:Jack_3.5mm_CUI_SJ1-3525N_Horizontal"
 
-DEVICE "DEV_Capacitor_THT:C_Disc_D3.0mm_W1.6mm_P2.50mm"
-PART "100nF"
-PACKAGE "Capacitor_THT:C_Disc_D3.0mm_W1.6mm_P2.50mm"
-
 DEVICE "DEV_Pedalboard Library:BarrelJack_Wuerth_6941xx301002"
 PART "Barrel_Jack_MountingPin"
 PACKAGE "Pedalboard Library:BarrelJack_Wuerth_6941xx301002"
+
+DEVICE "DEV_Capacitor_THT:C_Disc_D5.1mm_W3.2mm_P5.00mm"
+PART "4.7uF"
+PACKAGE "Capacitor_THT:C_Disc_D5.1mm_W3.2mm_P5.00mm"
+
+DEVICE "DEV_Capacitor_THT:C_Disc_D3.0mm_W1.6mm_P2.50mm"
+PART "100nF"
+PACKAGE "Capacitor_THT:C_Disc_D3.0mm_W1.6mm_P2.50mm"
 
 DEVICE "DEV_Pedalboard Library:Trace_Fuse"
 PART "~"
@@ -2926,9 +2926,9 @@ DEVICE "DEV_Capacitor_THT:C_Disc_D3.0mm_W1.6mm_P2.50mm_0"
 PART "100nF"
 PACKAGE "Capacitor_THT:C_Disc_D3.0mm_W1.6mm_P2.50mm"
 
-DEVICE "DEV_Connector_PinHeader_2.00mm:PinHeader_2x02_P2.00mm_Vertical_0"
+DEVICE "DEV_Pedalboard Library:Led-Ring_0"
 PART "LED-Ring"
-PACKAGE "Connector_PinHeader_2.00mm:PinHeader_2x02_P2.00mm_Vertical"
+PACKAGE "Pedalboard Library:Led-Ring"
 
 DEVICE "DEV_Pedalboard Library:Raspberry PI Compute Module CM4 Nano A"
 PART "Raspberry_pi"
@@ -2998,9 +2998,9 @@ DEVICE "DEV_Capacitor_THT:CP_Radial_D10.0mm_P5.00mm_1"
 PART "220uF"
 PACKAGE "Capacitor_THT:CP_Radial_D10.0mm_P5.00mm"
 
-DEVICE "DEV_Connector_PinHeader_2.00mm:PinHeader_2x02_P2.00mm_Vertical_1"
+DEVICE "DEV_Pedalboard Library:Led-Ring_1"
 PART "LED-Ring"
-PACKAGE "Connector_PinHeader_2.00mm:PinHeader_2x02_P2.00mm_Vertical"
+PACKAGE "Pedalboard Library:Led-Ring"
 
 DEVICE "DEV_Capacitor_THT:C_Disc_D7.5mm_W4.4mm_P5.00mm"
 PART "1nF"
