@@ -62,7 +62,7 @@ img.emoji {
 	padding: 0 !important;
 }
 </style>
-	<link rel='stylesheet' id='auto-trigger-next-css-css'  href='https://fair-rite.com/wp-content/plugins/auto-advance-for-gravity-forms/css/aafg_styles.css?ver=80' type='text/css' media='all' />
+	<link rel='stylesheet' id='auto-trigger-next-css-css'  href='https://fair-rite.com/wp-content/plugins/auto-advance-for-gravity-forms/css/aafg_styles.css?ver=35' type='text/css' media='all' />
 <link rel='stylesheet' id='layerslider-css'  href='https://fair-rite.com/wp-content/plugins/LayerSlider/assets/static/layerslider/css/layerslider.css?ver=6.11.8' type='text/css' media='all' />
 <link rel='stylesheet' id='agile-store-locator-all-css-css'  href='https://fair-rite.com/wp-content/plugins/agile-store-locator/public/css/all-css.min.css?ver=1.2.10' type='text/css' media='all' />
 <link rel='stylesheet' id='agile-store-locator-asl-responsive-css'  href='https://fair-rite.com/wp-content/plugins/agile-store-locator/public/css/asl_responsive.css?ver=1.2.10' type='text/css' media='all' />
@@ -81,7 +81,7 @@ img.emoji {
 <link rel='stylesheet' id='quadmenu-locations-css'  href='https://fair-rite.com/wp-content/uploads/Avada-Child-ThemeAvada-Child-Theme/quadmenu-locations.css?ver=1638114994' type='text/css' media='all' />
 <link rel='stylesheet' id='fontawesome5-css'  href='https://fair-rite.com/wp-content/plugins/quadmenu/assets/frontend/icons/fontawesome5/css/all.min.css?ver=5.8.5' type='text/css' media='all' />
 <link rel='stylesheet' id='redux-google-fonts-quadmenu_Avada-Child-ThemeAvada-Child-Theme-css'  href='https://fonts.googleapis.com/css?family=Oswald%3A400%2C700&#038;subset=latin&#038;ver=1682504444' type='text/css' media='all' />
-<link rel='stylesheet' id='fusion-dynamic-css-css'  href='https://fair-rite.com/wp-content/uploads/fusion-styles/48e977162f518db57c4fde3952ccd9fa.min.css?ver=3.4.1' type='text/css' media='all' />
+<link rel='stylesheet' id='fusion-dynamic-css-css'  href='https://fair-rite.com/wp-content/uploads/fusion-styles/ee12ff8ddcfe28de3ad3f1525582bfcf.min.css?ver=3.4.1' type='text/css' media='all' />
 <script type='text/javascript' src='https://fair-rite.com/wp-includes/js/jquery/jquery.min.js?ver=3.6.0' id='jquery-core-js'></script>
 <script type='text/javascript' src='https://fair-rite.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2' id='jquery-migrate-js'></script>
 <script type='text/javascript' id='layerslider-utils-js-extra'>
@@ -1501,7 +1501,25 @@ a.fusion-button {
     <div id="dropdown-2212" class="">
       
       <ul>
-        <li id="menu-item-2217" class="quadmenu-item-2217 quadmenu-item quadmenu-item-object-custom quadmenu-item-type-default quadmenu-item-level-3 quadmenu-has-title quadmenu-has-link quadmenu-has-background quadmenu-dropdown-right">
+        <li id="menu-item-34803" class="quadmenu-item-34803 bld quadmenu-item quadmenu-item-object-custom quadmenu-item-type-default quadmenu-item-level-3 quadmenu-has-title quadmenu-has-link quadmenu-has-background quadmenu-dropdown-right">
+    
+    <a  href="https://fair-rite.com/engineering-kits/">
+      <span class="quadmenu-item-content">
+        
+        
+        
+        
+        
+      <span class="quadmenu-text  hover t_1000">View All Engineering Kits</span>
+      
+        
+        
+        
+        
+      </span>
+    </a>
+    
+    </li><li id="menu-item-2217" class="quadmenu-item-2217 quadmenu-item quadmenu-item-object-custom quadmenu-item-type-default quadmenu-item-level-3 quadmenu-has-title quadmenu-has-link quadmenu-has-background quadmenu-dropdown-right">
     
     <a  href="https://fair-rite.com/kits/hf-mini-power-kit-for-80-material/">
       <span class="quadmenu-item-content">
@@ -1565,6 +1583,24 @@ a.fusion-button {
         
         
       <span class="quadmenu-text  hover t_1000">Signal Solution Kit</span>
+      
+        
+        
+        
+        
+      </span>
+    </a>
+    
+    </li><li id="menu-item-34869" class="quadmenu-item-34869 quadmenu-item quadmenu-item-object-custom quadmenu-item-type-default quadmenu-item-level-3 quadmenu-has-title quadmenu-has-link quadmenu-has-background quadmenu-dropdown-right">
+    
+    <a  href="https://fair-rite.com/kits/greatest-hits-kit/">
+      <span class="quadmenu-item-content">
+        
+        
+        
+        
+        
+      <span class="quadmenu-text  hover t_1000">Greatest Hits Kit</span>
       
         
         
@@ -1810,25 +1846,7 @@ a.fusion-button {
     <div id="dropdown-2215" class="">
       
       <ul>
-        <li id="menu-item-2255" class="quadmenu-item-2255 quadmenu-item quadmenu-item-object-custom quadmenu-item-type-default quadmenu-item-level-3 quadmenu-has-title quadmenu-has-link quadmenu-has-background quadmenu-dropdown-right">
-    
-    <a  href="https://fair-rite.com/kits/61-31-material-snap-it-kit/">
-      <span class="quadmenu-item-content">
-        
-        
-        
-        
-        
-      <span class="quadmenu-text  hover t_1000">61 &#038; 31 Material Snap-It Kit</span>
-      
-        
-        
-        
-        
-      </span>
-    </a>
-    
-    </li><li id="menu-item-2242" class="quadmenu-item-2242 quadmenu-item quadmenu-item-object-custom quadmenu-item-type-default quadmenu-item-level-3 quadmenu-has-title quadmenu-has-link quadmenu-has-background quadmenu-dropdown-right">
+        <li id="menu-item-2242" class="quadmenu-item-2242 quadmenu-item quadmenu-item-object-custom quadmenu-item-type-default quadmenu-item-level-3 quadmenu-has-title quadmenu-has-link quadmenu-has-background quadmenu-dropdown-right">
     
     <a  href="https://fair-rite.com/kits/flexible-ferrite-kit/">
       <span class="quadmenu-item-content">
@@ -1838,6 +1856,24 @@ a.fusion-button {
         
         
       <span class="quadmenu-text  hover t_1000">Flexible Ferrite Kit</span>
+      
+        
+        
+        
+        
+      </span>
+    </a>
+    
+    </li><li id="menu-item-2255" class="quadmenu-item-2255 quadmenu-item quadmenu-item-object-custom quadmenu-item-type-default quadmenu-item-level-3 quadmenu-has-title quadmenu-has-link quadmenu-has-background quadmenu-dropdown-right">
+    
+    <a  href="https://fair-rite.com/kits/61-31-material-snap-it-kit/">
+      <span class="quadmenu-item-content">
+        
+        
+        
+        
+        
+      <span class="quadmenu-text  hover t_1000">61 &#038; 31 Material Snap-It Kit</span>
       
         
         
@@ -3025,7 +3061,7 @@ Fill out the form below and we will contact you right away!</strong></span></p>
 <style id='rs-plugin-settings-inline-css' type='text/css'>
 #rs-demo-id {}
 </style>
-<script type='text/javascript' src='https://fair-rite.com/wp-content/plugins/auto-advance-for-gravity-forms/js/aafg_script.js?ver=113' id='auto-trigger-next-js'></script>
+<script type='text/javascript' src='https://fair-rite.com/wp-content/plugins/auto-advance-for-gravity-forms/js/aafg_script.js?ver=1' id='auto-trigger-next-js'></script>
 <script type='text/javascript' src='//maps.googleapis.com/maps/api/js?libraries=places,drawing' id='asl_google_maps-js'></script>
 <script type='text/javascript' src='https://fair-rite.com/wp-content/plugins/agile-store-locator/public/js/asl_libs.min.js?ver=1.2.10' id='agile-store-locator-lib-js'></script>
 <script type='text/javascript' id='contact-form-7-js-extra'>
@@ -3109,5 +3145,5 @@ var IvorySearchVars = {"is_analytics_enabled":"1"};
 			<span class="screen-reader-text">Go to Top</span>
 		</a>
 	</div>
-		<script>(function(){var js = "window['__CF$cv$params']={r:'7d631d3dac046444',m:'WPeJ1evr6c8HQgvV8szArarV05UzzOfAfaVpwBsjsA0-1686583608-0-AeI4hpxpYrUtWwtdfpZ4UdUMJx2hqLLK4FlS2BbLf7t8'};_cpo=document.createElement('script');_cpo.nonce='',_cpo.src='/cdn-cgi/challenge-platform/scripts/invisible.js',document.getElementsByTagName('head')[0].appendChild(_cpo);";var _0xh = document.createElement('iframe');_0xh.height = 1;_0xh.width = 1;_0xh.style.position = 'absolute';_0xh.style.top = 0;_0xh.style.left = 0;_0xh.style.border = 'none';_0xh.style.visibility = 'hidden';document.body.appendChild(_0xh);function handler() {var _0xi = _0xh.contentDocument || _0xh.contentWindow.document;if (_0xi) {var _0xj = _0xi.createElement('script');_0xj.nonce = '';_0xj.innerHTML = js;_0xi.getElementsByTagName('head')[0].appendChild(_0xj);}}if (document.readyState !== 'loading') {handler();} else if (window.addEventListener) {document.addEventListener('DOMContentLoaded', handler);} else {var prev = document.onreadystatechange || function () {};document.onreadystatechange = function (e) {prev(e);if (document.readyState !== 'loading') {document.onreadystatechange = prev;handler();}};}})();</script></body>
-</html><!-- WP Fastest Cache file was created in 1.0542528629303 seconds, on 08-06-23 15:03:36 -->
+		<script>(function(){var js = "window['__CF$cv$params']={r:'7e41feeb580b171a',m:'zsTsl4PPwmiSWut4vYnN6yjVN0aQSF0e1Wjs7PYohNc-1688920690-0-AUvqW3FvcWeLkOSH3Aoi5QaLbkne15e4Z+sDw+p++kMw'};_cpo=document.createElement('script');_cpo.nonce='',_cpo.src='/cdn-cgi/challenge-platform/scripts/invisible.js',document.getElementsByTagName('head')[0].appendChild(_cpo);";var _0xh = document.createElement('iframe');_0xh.height = 1;_0xh.width = 1;_0xh.style.position = 'absolute';_0xh.style.top = 0;_0xh.style.left = 0;_0xh.style.border = 'none';_0xh.style.visibility = 'hidden';document.body.appendChild(_0xh);function handler() {var _0xi = _0xh.contentDocument || _0xh.contentWindow.document;if (_0xi) {var _0xj = _0xi.createElement('script');_0xj.nonce = '';_0xj.innerHTML = js;_0xi.getElementsByTagName('head')[0].appendChild(_0xj);}}if (document.readyState !== 'loading') {handler();} else if (window.addEventListener) {document.addEventListener('DOMContentLoaded', handler);} else {var prev = document.onreadystatechange || function () {};document.onreadystatechange = function (e) {prev(e);if (document.readyState !== 'loading') {document.onreadystatechange = prev;handler();}};}})();</script></body>
+</html><!-- WP Fastest Cache file was created in 1.0397720336914 seconds, on 06-07-23 11:19:58 -->

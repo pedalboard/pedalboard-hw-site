@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8"/>
 <title>CM4-NANO-A - Waveshare Wiki</title>
-<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"4c788e2121f04c9bca907ed8","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"CM4-NANO-A","wgTitle":"CM4-NANO-A","wgCurRevisionId":59751,"wgRevisionId":59751,"wgArticleId":9902,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["CSI interface","I2C interface","I2S interface","SPI interface","RPi interface","USB 2.0 interface"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"CM4-NANO-A","wgRelevantArticleId":9902,"wgIsProbablyEditable":!1,"wgRelevantPageIsProbablyEditable":!1,"wgRestrictionEdit":[],
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"4f13896d98ccb849f16eb6bb","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"CM4-NANO-A","wgTitle":"CM4-NANO-A","wgCurRevisionId":63784,"wgRevisionId":63784,"wgArticleId":9902,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["CSI interface","I2C interface","I2S interface","SPI interface","RPi interface","USB 2.0 interface"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"CM4-NANO-A","wgRelevantArticleId":9902,"wgIsProbablyEditable":!1,"wgRelevantPageIsProbablyEditable":!1,"wgRestrictionEdit":[],
 "wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0};RLSTATE={"ext.gadget.tabber":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","mediawiki.toc.styles":"ready","skins.tweeki.styles":"ready","skins.tweeki.bootstraptheme.styles":"ready","skins.tweeki.externallinks.styles":"ready","skins.tweeki.awesome.styles":"ready"};RLPAGEMODULES=["site","mediawiki.page.startup","mediawiki.page.ready","mediawiki.toc","mmv.head","mmv.bootstrap.autostart","ext.HighlightjsIntegration","skins.tweeki.messages","skins.tweeki.scripts"];</script>
 <script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1hzgi",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
 });});</script>
@@ -402,7 +402,7 @@ Compute_Module 4 Core board<br />
 </p>
 <pre>dtoverlay=dwc2,dr_mode=host
 </pre>
-<p>After restarting
+<p>After restarting:
 </p><p><font color="#ff00ff">
 If you use the latest Raspberry Pi OS (image after October 30, 2021) USB2.0 is OTG mode by default, CM4 will report an error:
 </font></p><font color="#ff00ff">
@@ -445,28 +445,28 @@ sudo  dtc -I dts -O dtb -o /boot/dt-blob.bin dt-blob-disp1-double_cam.dts
 </th></tr>
 <tr>
 <td>OV9281</td>
-<td>dtoverlay=ov9281,cam0</td>
+<td>dtoverlay=ov9281, cam0</td>
 <td>dtoverlay=ov9281,cam1
 </td></tr>
 <tr>
 <td>IMX290/IMX327</td>
-<td>dtoverlay=imx290,clock-frequency=37125000,cam0</td>
-<td>dtoverlay=imx290,clock-frequency=37125000,cam1
+<td>dtoverlay=imx290, clock-frequency=37125000, cam0</td>
+<td>dtoverlay=imx290, clock-frequency=37125000, cam1
 </td></tr>
 <tr>
 <td>IMX378</td>
-<td>dtoverlay=imx378,cam0</td>
-<td>dtoverlay=imx378,cam1
+<td>dtoverlay=imx378, cam0</td>
+<td>dtoverlay=imx378, cam1
 </td></tr>
 <tr>
 <td>IMX219</td>
-<td>dtoverlay=imx219,cam0</td>
-<td>dtoverlay=imx219,cam1
+<td>dtoverlay=imx219, cam0</td>
+<td>dtoverlay=imx219, cam1
 </td></tr>
 <tr>
 <td>IMX477</td>
-<td>dtoverlay=imx477,cam0</td>
-<td>dtoverlay=imx477,cam1
+<td>dtoverlay=imx477, cam0</td>
+<td>dtoverlay=imx477, cam1
 </td></tr></tbody></table>
 <ul><li>If the camera you are using is the official Raspberry Pi camera and there only is one camera connected, you do not need to set up the config file.</li>
 <li>CM4-NANO only uses CAM0, so you only need to add "dtoverlay=imx219,cam0".</li></ul>
@@ -526,23 +526,23 @@ sudo  dtc -I dts -O dtb -o /boot/dt-blob.bin dt-blob-disp1-double_cam.dts
 <h2><span class="mw-headline" id="3D_document">3D document</span></h2>
 <ul><li><a target="_blank" rel="nofollow noreferrer noopener" class="external text" href="https://www.waveshare.com/w/upload/1/10/CM4-NANO-A-3D.zip">3D Drawing</a><br /></li></ul>
 <h2><span class="mw-headline" id="Software">Software</span></h2>
-<ul><li><a target="_blank" rel="nofollow noreferrer noopener" class="external text" href="https://www.waveshare.com/w/upload/f/f3/Rpiboot_setup.zip">RPiboot_Setup</a><br /></li>
-<li><a target="_blank" rel="nofollow noreferrer noopener" class="external text" href="http://www.waveshare.com/w/upload/d/d7/Panasonic_SDFormatter.zip">Panasonic SDFormatter</a></li>
-<li><a target="_blank" rel="nofollow noreferrer noopener" class="external text" href="http://www.waveshare.com/w/upload/7/76/Win32DiskImager.zip">Win32DiskImager</a></li>
-<li><a target="_blank" rel="nofollow noreferrer noopener" class="external text" href="http://www.waveshare.com/w/upload/5/56/Putty.zip">PuTTY</a></li></ul>
+<ul><li><a target="_blank" rel="nofollow noreferrer noopener" class="external text" href="https://www.waveshare.com/w/upload/d/d7/Panasonic_SDFormatter.zip">Panasonic_SDFormatter-Formatting SD card</a></li>
+<li><a target="_blank" rel="nofollow noreferrer noopener" class="external text" href="https://www.waveshare.com/w/upload/7/76/Win32DiskImager.zip">Win32DiskImager</a></li>
+<li><a target="_blank" rel="nofollow noreferrer noopener" class="external text" href="https://www.waveshare.com/w/upload/5/56/Putty.zip">Putty</a></li>
+<li><a target="_blank" rel="nofollow noreferrer noopener" class="external text" href="https://www.waveshare.com/w/upload/f/f3/Rpiboot_setup.zip">RPiboot_Setup</a></li></ul>
 <h1><span class="mw-headline" id="Support">Support</span></h1>
 <p><font style="color:green; weight:bold;"><big><b>If you require technical support, please go to the <a target="_blank" rel="nofollow noreferrer noopener" class="external text" href="https://support.waveshare.com/hc/en-us/requests/new">Support</a> page and open a ticket.</b></big></font>
 </p></div>
 <!-- 
 NewPP limit report
-Cached time: 20230612152644
+Cached time: 20230709163807
 Cache expiry: 0
 Dynamic content: true
 Complications: []
-CPU time usage: 0.228 seconds
-Real time usage: 0.249 seconds
-Preprocessor visited node count: 556/1000000
-Post‐expand include size: 6816/2097152 bytes
+CPU time usage: 0.143 seconds
+Real time usage: 0.179 seconds
+Preprocessor visited node count: 555/1000000
+Post‐expand include size: 6799/2097152 bytes
 Template argument size: 697/2097152 bytes
 Highest expansion depth: 8/40
 Expensive parser function count: 0/100
@@ -551,13 +551,13 @@ Unstrip post‐expand size: 951/5000000 bytes
 -->
 <!--
 Transclusion expansion time report (%,ms,calls,template)
-100.00%   30.653      1 -total
- 79.11%   24.249      1 Template:Infobox_item
- 14.37%    4.406      2 Template:Amazon_nolink
- 13.86%    4.249      1 Template:Service00
+100.00%   30.530      1 -total
+ 78.09%   23.842      1 Template:Infobox_item
+ 14.35%    4.380      2 Template:Amazon_nolink
+ 13.70%    4.182      1 Template:Service00
 -->
 </div></div>								<div class="printfooter">
-				Retrieved from "<a dir="ltr" href="https://www.waveshare.com/w/index.php?title=CM4-NANO-A&amp;oldid=59751">https://www.waveshare.com/w/index.php?title=CM4-NANO-A&amp;oldid=59751</a>"				</div>
+				Retrieved from "<a dir="ltr" href="https://www.waveshare.com/w/index.php?title=CM4-NANO-A&amp;oldid=63784">https://www.waveshare.com/w/index.php?title=CM4-NANO-A&amp;oldid=63784</a>"				</div>
 												<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Special:Categories" title="Special:Categories">Category</a>: <ul><li><a href="/w/index.php?title=Category:USB_2.0_interface&amp;action=edit&amp;redlink=1" class="new" title="Category:USB 2.0 interface (page does not exist)">USB 2.0 interface</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:CSI_interface" title="Category:CSI interface">CSI interface</a></li><li><a href="/wiki/Category:I2C_interface" title="Category:I2C interface">I2C interface</a></li><li><a href="/wiki/Category:I2S_interface" title="Category:I2S interface">I2S interface</a></li><li><a href="/wiki/Category:SPI_interface" title="Category:SPI interface">SPI interface</a></li><li><a href="/wiki/Category:RPi_interface" title="Category:RPi interface">RPi interface</a></li></ul></div></div>												<div class="visualClear"></div>
 							</div>
 			<!-- /bodyContent -->
@@ -582,5 +582,5 @@ Transclusion expansion time report (%,ms,calls,template)
 			<ul id="footer-custom"><li class="dropup"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=CM4-NANO-A" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Login / Create Account</a></li></ul><div style="clear:both"></div>			</div>
 			<!-- /footer -->
 		
-<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.228","walltime":"0.249","ppvisitednodes":{"value":556,"limit":1000000},"postexpandincludesize":{"value":6816,"limit":2097152},"templateargumentsize":{"value":697,"limit":2097152},"expansiondepth":{"value":8,"limit":40},"expensivefunctioncount":{"value":0,"limit":100},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":951,"limit":5000000},"timingprofile":["100.00%   30.653      1 -total"," 79.11%   24.249      1 Template:Infobox_item"," 14.37%    4.406      2 Template:Amazon_nolink"," 13.86%    4.249      1 Template:Service00"]},"cachereport":{"timestamp":"20230612152644","ttl":0,"transientcontent":true}}});mw.config.set({"wgBackendResponseTime":641});});</script>	</body>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.143","walltime":"0.179","ppvisitednodes":{"value":555,"limit":1000000},"postexpandincludesize":{"value":6799,"limit":2097152},"templateargumentsize":{"value":697,"limit":2097152},"expansiondepth":{"value":8,"limit":40},"expensivefunctioncount":{"value":0,"limit":100},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":951,"limit":5000000},"timingprofile":["100.00%   30.530      1 -total"," 78.09%   23.842      1 Template:Infobox_item"," 14.35%    4.380      2 Template:Amazon_nolink"," 13.70%    4.182      1 Template:Service00"]},"cachereport":{"timestamp":"20230709163807","ttl":0,"transientcontent":true}}});mw.config.set({"wgBackendResponseTime":564});});</script>	</body>
 </html>
