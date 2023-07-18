@@ -43,7 +43,7 @@ Electronics Industry Request A Quote Request A Sample Ask The Advisor
 PROTOTYPING
 Our technical engineering team develops a robust process for your application need  Design"/>
 
-									<meta property="og:image" content="https://fair-rite.com/wp-content/uploads/2023/03/Fair-Rite-logo-white.png"/>
+									<meta property="og:image" content="https://fair-rite.com/wp-content/uploads/2023/07/Fair-Rite-logo-white2023.png"/>
 									<script type="text/javascript">
 			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.1.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.1.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/fair-rite.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.8.5"}};
 			!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){var a=String.fromCharCode;p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0);e=i.toDataURL();return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(!p||!p.fillText)return!1;switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])?!1:!s([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!s([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]);case"emoji":return!s([10084,65039,8205,55357,56613],[10084,65039,8203,55357,56613])}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(n=t.source||{}).concatemoji?c(n.concatemoji):n.wpemoji&&n.twemoji&&(c(n.twemoji),c(n.wpemoji)))}(window,document,window._wpemojiSettings);
@@ -62,7 +62,7 @@ img.emoji {
 	padding: 0 !important;
 }
 </style>
-	<link rel='stylesheet' id='auto-trigger-next-css-css'  href='https://fair-rite.com/wp-content/plugins/auto-advance-for-gravity-forms/css/aafg_styles.css?ver=35' type='text/css' media='all' />
+	<link rel='stylesheet' id='auto-trigger-next-css-css'  href='https://fair-rite.com/wp-content/plugins/auto-advance-for-gravity-forms/css/aafg_styles.css?ver=71' type='text/css' media='all' />
 <link rel='stylesheet' id='layerslider-css'  href='https://fair-rite.com/wp-content/plugins/LayerSlider/assets/static/layerslider/css/layerslider.css?ver=6.11.8' type='text/css' media='all' />
 <link rel='stylesheet' id='agile-store-locator-all-css-css'  href='https://fair-rite.com/wp-content/plugins/agile-store-locator/public/css/all-css.min.css?ver=1.2.10' type='text/css' media='all' />
 <link rel='stylesheet' id='agile-store-locator-asl-responsive-css'  href='https://fair-rite.com/wp-content/plugins/agile-store-locator/public/css/asl_responsive.css?ver=1.2.10' type='text/css' media='all' />
@@ -81,7 +81,7 @@ img.emoji {
 <link rel='stylesheet' id='quadmenu-locations-css'  href='https://fair-rite.com/wp-content/uploads/Avada-Child-ThemeAvada-Child-Theme/quadmenu-locations.css?ver=1638114994' type='text/css' media='all' />
 <link rel='stylesheet' id='fontawesome5-css'  href='https://fair-rite.com/wp-content/plugins/quadmenu/assets/frontend/icons/fontawesome5/css/all.min.css?ver=5.8.5' type='text/css' media='all' />
 <link rel='stylesheet' id='redux-google-fonts-quadmenu_Avada-Child-ThemeAvada-Child-Theme-css'  href='https://fonts.googleapis.com/css?family=Oswald%3A400%2C700&#038;subset=latin&#038;ver=1682504444' type='text/css' media='all' />
-<link rel='stylesheet' id='fusion-dynamic-css-css'  href='https://fair-rite.com/wp-content/uploads/fusion-styles/ee12ff8ddcfe28de3ad3f1525582bfcf.min.css?ver=3.4.1' type='text/css' media='all' />
+<link rel='stylesheet' id='fusion-dynamic-css-css'  href='https://fair-rite.com/wp-content/uploads/fusion-styles/8f4cd59ab7dbed37a0fc1754347dad46.min.css?ver=3.4.1' type='text/css' media='all' />
 <script type='text/javascript' src='https://fair-rite.com/wp-includes/js/jquery/jquery.min.js?ver=3.6.0' id='jquery-core-js'></script>
 <script type='text/javascript' src='https://fair-rite.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2' id='jquery-migrate-js'></script>
 <script type='text/javascript' id='layerslider-utils-js-extra'>
@@ -596,7 +596,7 @@ a.fusion-button {
 		</div>
 	  
       
-  <a class="quadmenu-navbar-brand img" href="https://fair-rite.com/"><img height="60" width="160" src="https://fair-rite.com/wp-content/uploads/2023/03/Fair-Rite-logo-white.png" alt="Fair-Rite"/></a>
+  <a class="quadmenu-navbar-brand img" href="https://fair-rite.com/"><img height="60" width="160" src="https://fair-rite.com/wp-content/uploads/2023/07/Fair-Rite-logo-white2023.png" alt="Fair-Rite"/></a>
     </div>
     <div id="quadmenu_0" class="quadmenu-navbar-collapse collapse">
       <ul class="quadmenu-navbar-nav"><li id="menu-item-34473" class="quadmenu-item-34473 quadmenu-item quadmenu-item-object-custom quadmenu-item-has-children quadmenu-item-type-default quadmenu-item-level-0 quadmenu-dropdown quadmenu-has-caret quadmenu-has-title quadmenu-has-link quadmenu-has-background quadmenu-dropdown-right">
@@ -3061,7 +3061,7 @@ Fill out the form below and we will contact you right away!</strong></span></p>
 <style id='rs-plugin-settings-inline-css' type='text/css'>
 #rs-demo-id {}
 </style>
-<script type='text/javascript' src='https://fair-rite.com/wp-content/plugins/auto-advance-for-gravity-forms/js/aafg_script.js?ver=1' id='auto-trigger-next-js'></script>
+<script type='text/javascript' src='https://fair-rite.com/wp-content/plugins/auto-advance-for-gravity-forms/js/aafg_script.js?ver=47' id='auto-trigger-next-js'></script>
 <script type='text/javascript' src='//maps.googleapis.com/maps/api/js?libraries=places,drawing' id='asl_google_maps-js'></script>
 <script type='text/javascript' src='https://fair-rite.com/wp-content/plugins/agile-store-locator/public/js/asl_libs.min.js?ver=1.2.10' id='agile-store-locator-lib-js'></script>
 <script type='text/javascript' id='contact-form-7-js-extra'>
@@ -3145,5 +3145,5 @@ var IvorySearchVars = {"is_analytics_enabled":"1"};
 			<span class="screen-reader-text">Go to Top</span>
 		</a>
 	</div>
-		<script>(function(){var js = "window['__CF$cv$params']={r:'7e41feeb580b171a',m:'zsTsl4PPwmiSWut4vYnN6yjVN0aQSF0e1Wjs7PYohNc-1688920690-0-AUvqW3FvcWeLkOSH3Aoi5QaLbkne15e4Z+sDw+p++kMw'};_cpo=document.createElement('script');_cpo.nonce='',_cpo.src='/cdn-cgi/challenge-platform/scripts/invisible.js',document.getElementsByTagName('head')[0].appendChild(_cpo);";var _0xh = document.createElement('iframe');_0xh.height = 1;_0xh.width = 1;_0xh.style.position = 'absolute';_0xh.style.top = 0;_0xh.style.left = 0;_0xh.style.border = 'none';_0xh.style.visibility = 'hidden';document.body.appendChild(_0xh);function handler() {var _0xi = _0xh.contentDocument || _0xh.contentWindow.document;if (_0xi) {var _0xj = _0xi.createElement('script');_0xj.nonce = '';_0xj.innerHTML = js;_0xi.getElementsByTagName('head')[0].appendChild(_0xj);}}if (document.readyState !== 'loading') {handler();} else if (window.addEventListener) {document.addEventListener('DOMContentLoaded', handler);} else {var prev = document.onreadystatechange || function () {};document.onreadystatechange = function (e) {prev(e);if (document.readyState !== 'loading') {document.onreadystatechange = prev;handler();}};}})();</script></body>
-</html><!-- WP Fastest Cache file was created in 1.0397720336914 seconds, on 06-07-23 11:19:58 -->
+		<script>(function(){var js = "window['__CF$cv$params']={r:'7e8a16657bf72051'};_cpo=document.createElement('script');_cpo.nonce='',_cpo.src='/cdn-cgi/challenge-platform/scripts/invisible.js',document.getElementsByTagName('head')[0].appendChild(_cpo);";var _0xh = document.createElement('iframe');_0xh.height = 1;_0xh.width = 1;_0xh.style.position = 'absolute';_0xh.style.top = 0;_0xh.style.left = 0;_0xh.style.border = 'none';_0xh.style.visibility = 'hidden';document.body.appendChild(_0xh);function handler() {var _0xi = _0xh.contentDocument || _0xh.contentWindow.document;if (_0xi) {var _0xj = _0xi.createElement('script');_0xj.innerHTML = js;_0xi.getElementsByTagName('head')[0].appendChild(_0xj);}}if (document.readyState !== 'loading') {handler();} else if (window.addEventListener) {document.addEventListener('DOMContentLoaded', handler);} else {var prev = document.onreadystatechange || function () {};document.onreadystatechange = function (e) {prev(e);if (document.readyState !== 'loading') {document.onreadystatechange = prev;handler();}};}})();</script></body>
+</html><!-- WP Fastest Cache file was created in 1.030590057373 seconds, on 14-07-23 7:44:30 -->
