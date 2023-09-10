@@ -1,4 +1,4 @@
-ERC report (Sat Sep  9 12:01:01 2023, Encoding UTF8)
+ERC report (Sun Sep 10 09:27:58 2023, Encoding UTF8)
 
 ***** Sheet /
 
@@ -51,25 +51,28 @@ ERC report (Sat Sep  9 12:01:01 2023, Encoding UTF8)
 ***** Sheet /LEDs/
 [lib_symbol_issues]: Symbol 'NeoPixel_THT' has been modified in library 'LED'
     ; Severity: warning
-    @(146.0500 mm, 58.4200 mm): Symbol D1 [NeoPixel_THT]
-[lib_symbol_issues]: Symbol 'NeoPixel_THT' has been modified in library 'LED'
-    ; Severity: warning
     @(170.1800 mm, 58.4200 mm): Symbol D2 [NeoPixel_THT]
-[lib_symbol_issues]: Symbol 'NeoPixel_THT' has been modified in library 'LED'
-    ; Severity: warning
-    @(215.9000 mm, 58.4200 mm): Symbol D4 [NeoPixel_THT]
 [lib_symbol_issues]: Symbol 'NeoPixel_THT' has been modified in library 'LED'
     ; Severity: warning
     @(194.3100 mm, 58.4200 mm): Symbol D3 [NeoPixel_THT]
 [lib_symbol_issues]: Symbol 'NeoPixel_THT' has been modified in library 'LED'
     ; Severity: warning
+    @(215.9000 mm, 58.4200 mm): Symbol D4 [NeoPixel_THT]
+[lib_symbol_issues]: Symbol 'NeoPixel_THT' has been modified in library 'LED'
+    ; Severity: warning
+    @(146.0500 mm, 58.4200 mm): Symbol D1 [NeoPixel_THT]
+[lib_symbol_issues]: Symbol 'NeoPixel_THT' has been modified in library 'LED'
+    ; Severity: warning
     @(118.1100 mm, 101.6000 mm): Symbol D6 [NeoPixel_THT]
 [lib_symbol_issues]: Symbol 'NeoPixel_THT' has been modified in library 'LED'
     ; Severity: warning
-    @(194.3100 mm, 101.6000 mm): Symbol D7 [NeoPixel_THT]
+    @(54.6100 mm, 101.6000 mm): Symbol D5 [NeoPixel_THT]
+[lib_symbol_issues]: The current configuration does not include the library '74AHCT1G32SE-7'
+    ; Severity: warning
+    @(100.3300 mm, 50.8000 mm): Symbol U3 [74AHCT1G32SE-7]
 [lib_symbol_issues]: Symbol 'NeoPixel_THT' has been modified in library 'LED'
     ; Severity: warning
-    @(54.6100 mm, 101.6000 mm): Symbol D5 [NeoPixel_THT]
+    @(194.3100 mm, 101.6000 mm): Symbol D7 [NeoPixel_THT]
 [lib_symbol_issues]: Symbol 'NeoPixel_THT' has been modified in library 'LED'
     ; Severity: warning
     @(194.3100 mm, 143.5100 mm): Symbol D10 [NeoPixel_THT]
@@ -80,4 +83,4 @@ ERC report (Sat Sep  9 12:01:01 2023, Encoding UTF8)
     ; Severity: warning
     @(118.1100 mm, 143.5100 mm): Symbol D9 [NeoPixel_THT]
 
- ** ERC messages: 23  Errors 0  Warnings 23
+ ** ERC messages: 24  Errors 0  Warnings 24
