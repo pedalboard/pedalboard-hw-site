@@ -1,6 +1,6 @@
 Row	Description	Part	References	Value	Footprint	Quantity Per PCB	Status	Datasheet	Supplier	MF	Package	MP	DigiKey_Part_Number	MPN	OC_FARNELL	OC_NEWARK
 1	Unpolarized capacitor	C	C18 C19	1nF	C_1206_3216Metric	2	 	http://www.holystonecaps.com/PDF/201612051329150.2017%20HVC%20Series.pdf	https://www.digikey.ch/de/products/detail/holy-stone-enterprise-co-ltd/C1206X102K202T/16894855							
-2	Unpolarized capacitor	C	C1 C2 C3 C4 C5 C6 C7 C8 C9 C10 C11 C12	100nF	C_0805_2012Metric	12	 	https://datasheets.kyocera-avx.com/X7RDielectric.pdf	https://www.digikey.ch/de/products/detail/kyocera-avx/KGM21NR71H104KM/6816312							
+2	Unpolarized capacitor	C	C1 C2 C3 C4 C5 C12	100nF	C_0805_2012Metric	6	 	https://datasheets.kyocera-avx.com/X7RDielectric.pdf	https://www.digikey.ch/de/products/detail/kyocera-avx/KGM21NR71H104KM/6816312							
 3	Unpolarized capacitor	C	C16 C17 C20	4.7uF	C_0805_2012Metric	3	 	https://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GRM21BZ71H475ME15-01.pdf	https://www.digikey.ch/de/products/detail/murata-electronics/GRM21BZ71H475ME15K/13904866							
 4	Polarized capacitor	C_Polarized	C13 C14 C15	270uF	CP_Elec_10x10	3	 	https://connect.kemet.com:7667/gateway/IntelliData-ComponentDocumentation/1.0/download/datasheet/A768MS277M1GLAE022	https://www.digikey.ch/de/products/detail/kemet/A768MS277M1GLAE022/12707654							
 5	RGB LED with integrated controller	SK6812	D1 D2 D3 D4	SK6812	LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm	4	 	https://cdn-shop.adafruit.com/product-files/1138/SK6812+LED+datasheet+.pdf	https://www.digikey.ch/de/products/detail/adafruit-industries-llc/1655/5154679							
@@ -50,8 +50,8 @@ Revision:	3.0.0-RC1
 Date:	2023-09-10
 KiCad Version:	7.0.7-7.0.7~ubuntu23.04.1
 Statistics:
-Component Groups:	40
-Component Count:	83 (5 SMD/ 75 THT)
-Fitted Components:	77 (5 SMD/ 69 THT)
+Component Groups:	39
+Component Count:	71 (44 SMD/ 25 THT)
+Fitted Components:	71 (44 SMD/ 25 THT)
 Number of PCBs:	1
-Total Components:	77
+Total Components:	71
