@@ -1,0 +1,71 @@
+ERC report (Tue Apr  4 15:00:35 2023, Encoding UTF8)
+
+***** Sheet /
+
+***** Sheet /MIDI/
+[lib_symbol_issues]: The current configuration does not include the library 'MCU_RaspberryPi_and_Boards'
+    ; Severity: warning
+    @(142.2400 mm, 63.5000 mm): Symbol U1 [Pico]
+[lib_symbol_issues]: Symbol 'NeoPixel_THT' has been modified in library 'LED'
+    ; Severity: warning
+    @(250.1900 mm, 91.4400 mm): Symbol D3 [NeoPixel_THT]
+[lib_symbol_issues]: Symbol 'NeoPixel_THT' has been modified in library 'LED'
+    ; Severity: warning
+    @(226.0600 mm, 91.4400 mm): Symbol D2 [NeoPixel_THT]
+[lib_symbol_issues]: Symbol 'NeoPixel_THT' has been modified in library 'LED'
+    ; Severity: warning
+    @(201.9300 mm, 91.4400 mm): Symbol D1 [NeoPixel_THT]
+[lib_symbol_issues]: Symbol 'NeoPixel_THT' has been modified in library 'LED'
+    ; Severity: warning
+    @(226.0600 mm, 152.4000 mm): Symbol D9 [NeoPixel_THT]
+[lib_symbol_issues]: Symbol 'NeoPixel_THT' has been modified in library 'LED'
+    ; Severity: warning
+    @(250.1900 mm, 152.4000 mm): Symbol D10 [NeoPixel_THT]
+[lib_symbol_issues]: Symbol 'NeoPixel_THT' has been modified in library 'LED'
+    ; Severity: warning
+    @(200.6600 mm, 152.4000 mm): Symbol D8 [NeoPixel_THT]
+[lib_symbol_issues]: Symbol 'NeoPixel_THT' has been modified in library 'LED'
+    ; Severity: warning
+    @(226.0600 mm, 124.4600 mm): Symbol D6 [NeoPixel_THT]
+[lib_symbol_issues]: Symbol 'NeoPixel_THT' has been modified in library 'LED'
+    ; Severity: warning
+    @(201.9300 mm, 124.4600 mm): Symbol D5 [NeoPixel_THT]
+[lib_symbol_issues]: Symbol 'NeoPixel_THT' has been modified in library 'LED'
+    ; Severity: warning
+    @(250.1900 mm, 124.4600 mm): Symbol D7 [NeoPixel_THT]
+[lib_symbol_issues]: Symbol 'H11L1' has been modified in library 'Isolator'
+    ; Severity: warning
+    @(69.8500 mm, 88.9000 mm): Symbol U2 [H11L1]
+[lib_symbol_issues]: Symbol 'L_Ferrite' has been modified in library 'Device'
+    ; Severity: warning
+    @(168.9100 mm, 29.2100 mm): Symbol L5 [L_Ferrite]
+[lib_symbol_issues]: Symbol 'NeoPixel_THT' has been modified in library 'LED'
+    ; Severity: warning
+    @(271.7800 mm, 91.4400 mm): Symbol D4 [NeoPixel_THT]
+
+***** Sheet /Audio/
+[lib_symbol_issues]: Symbol 'Raspberry_Pi_2_3' has been modified in library 'Connector'
+    ; Severity: warning
+    @(184.1500 mm, 80.0100 mm): Symbol J8 [Raspberry_Pi_2_3]
+[lib_symbol_issues]: Symbol 'USB_A' has been modified in library 'Connector'
+    ; Severity: warning
+    @(260.3500 mm, 80.0100 mm): Symbol J6 [USB_A]
+[lib_symbol_issues]: Symbol 'Raspberry_Pi_2_3' has been modified in library 'Connector'
+    ; Severity: warning
+    @(125.7300 mm, 80.0100 mm): Symbol J7 [Raspberry_Pi_2_3]
+
+***** Sheet /Power Supply/
+[lib_symbol_issues]: Symbol 'Barrel_Jack_Switch' has been modified in library 'Connector'
+    ; Severity: warning
+    @(31.7500 mm, 46.9900 mm): Symbol J13 [Barrel_Jack_Switch]
+[lib_symbol_issues]: The current configuration does not include the library 'PCM_4ms_Power-symbol'
+    ; Severity: warning
+    @(234.9500 mm, 76.2000 mm): Symbol #PWR030 [GND]
+[lib_symbol_issues]: Symbol 'Conn_02x01' has been modified in library 'Connector_Generic'
+    ; Severity: warning
+    @(238.7600 mm, 22.8600 mm): Symbol J14 [Conn_02x01]
+[lib_symbol_issues]: The current configuration does not include the library 'PDQE15-Q24-S5-D'
+    ; Severity: warning
+    @(196.8500 mm, 48.2600 mm): Symbol PS1 [PDQE15-Q24-S5-D]
+
+ ** ERC messages: 20  Errors 0  Warnings 20
