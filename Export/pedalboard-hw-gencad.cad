@@ -2,7 +2,7 @@ $HEADER
 GENCAD 1.4
 USER "pcbnew 7.0.7-7.0.7~ubuntu23.04.1"
 DRAWING "/__w/pedalboard-hw/pedalboard-hw/pedalboard-hw.kicad_pcb"
-REVISION "2.1.0 2023-09-10"
+REVISION "3.0.0-RC1 2023-09-10"
 UNITS INCH
 ORIGIN 0 0
 INTERTRACK 0
@@ -2907,69 +2907,69 @@ $ENDCOMPONENTS
 
 $DEVICES
 
-DEVICE "DEV_Pedalboard Library:WA-SMSI_M2.5"
-PART "Spacer"
-PACKAGE "Pedalboard Library:WA-SMSI_M2.5"
-
-DEVICE "DEV_Pedalboard Library:Trace_Fuse"
-PART "~"
-PACKAGE "Pedalboard Library:Trace_Fuse"
-
 DEVICE "DEV_Pedalboard Library:LED_D5.0mm-NeoPixel"
 PART "NEOPIX"
 PACKAGE "Pedalboard Library:LED_D5.0mm-NeoPixel"
 
-DEVICE "DEV_Pedalboard Library:Jack_6.35mm_Horizontal"
-PART "Audio OUT Left"
-PACKAGE "Pedalboard Library:Jack_6.35mm_Horizontal"
-
-DEVICE "DEV_Pedalboard Library:Led-Ring_0"
-PART "LED-Ring"
-PACKAGE "Pedalboard Library:Led-Ring"
-
-DEVICE "DEV_Pedalboard Library:Led-Ring"
-PART "LED-Ring"
-PACKAGE "Pedalboard Library:Led-Ring"
+DEVICE "DEV_Pedalboard Library:WA-SMSI_M2.5"
+PART "Spacer"
+PACKAGE "Pedalboard Library:WA-SMSI_M2.5"
 
 DEVICE "DEV_Pedalboard Library:BarrelJack_Wuerth_6941xx301002"
 PART "Barrel_Jack_MountingPin"
 PACKAGE "Pedalboard Library:BarrelJack_Wuerth_6941xx301002"
 
-DEVICE "DEV_Pedalboard Library:Jack_6.35mm_Horizontal_0"
-PART "Audio IN Left"
-PACKAGE "Pedalboard Library:Jack_6.35mm_Horizontal"
-
-DEVICE "DEV_Pedalboard Library:CONV_PDQE15-Q24-S5-D"
-PART "PDQE15-Q24-S5-D"
-PACKAGE "Pedalboard Library:CONV_PDQE15-Q24-S5-D"
+DEVICE "DEV_Capacitor_THT:C_Disc_D3.0mm_W1.6mm_P2.50mm"
+PART "100nF"
+PACKAGE "Capacitor_THT:C_Disc_D3.0mm_W1.6mm_P2.50mm"
 
 DEVICE "DEV_Pedalboard Library:Raspberry PI Compute Module CM4 Nano A"
 PART "Raspberry_pi"
 PACKAGE "Pedalboard Library:Raspberry PI Compute Module CM4 Nano A"
 
-DEVICE "DEV_Capacitor_THT:C_Disc_D5.1mm_W3.2mm_P5.00mm"
-PART "4.7uF"
-PACKAGE "Capacitor_THT:C_Disc_D5.1mm_W3.2mm_P5.00mm"
+DEVICE "DEV_Pedalboard Library:CONV_PDQE15-Q24-S5-D"
+PART "PDQE15-Q24-S5-D"
+PACKAGE "Pedalboard Library:CONV_PDQE15-Q24-S5-D"
+
+DEVICE "DEV_Pedalboard Library:Led-Ring"
+PART "LED-Ring"
+PACKAGE "Pedalboard Library:Led-Ring"
 
 DEVICE "DEV_MountingHole:MountingHole_2.7mm_M2.5_DIN965"
 PART "MountingHole"
 PACKAGE "MountingHole:MountingHole_2.7mm_M2.5_DIN965"
 
-DEVICE "DEV_Pedalboard Library:Jack_3.5mm_CUI_SJ1-3525N_Horizontal"
-PART "MIDI OUT J"
-PACKAGE "Pedalboard Library:Jack_3.5mm_CUI_SJ1-3525N_Horizontal"
-
 DEVICE "DEV_Capacitor_THT:C_Disc_D3.0mm_W1.6mm_P2.50mm_0"
 PART "100nF"
 PACKAGE "Capacitor_THT:C_Disc_D3.0mm_W1.6mm_P2.50mm"
 
+DEVICE "DEV_Pedalboard Library:Led-Ring_0"
+PART "LED-Ring"
+PACKAGE "Pedalboard Library:Led-Ring"
+
+DEVICE "DEV_Pedalboard Library:Trace_Fuse"
+PART "~"
+PACKAGE "Pedalboard Library:Trace_Fuse"
+
+DEVICE "DEV_Pedalboard Library:Jack_6.35mm_Horizontal"
+PART "Audio OUT Left"
+PACKAGE "Pedalboard Library:Jack_6.35mm_Horizontal"
+
+DEVICE "DEV_Capacitor_THT:C_Disc_D5.1mm_W3.2mm_P5.00mm"
+PART "4.7uF"
+PACKAGE "Capacitor_THT:C_Disc_D5.1mm_W3.2mm_P5.00mm"
+
+DEVICE "DEV_Pedalboard Library:Jack_6.35mm_Horizontal_0"
+PART "Audio IN Left"
+PACKAGE "Pedalboard Library:Jack_6.35mm_Horizontal"
+
+DEVICE "DEV_Pedalboard Library:Jack_3.5mm_CUI_SJ1-3525N_Horizontal"
+PART "MIDI OUT J"
+PACKAGE "Pedalboard Library:Jack_3.5mm_CUI_SJ1-3525N_Horizontal"
+
 DEVICE "DEV_Inductor_THT:L_Axial_L6.6mm_D2.7mm_P10.16mm_Horizontal_Vishay_IM-2"
 PART "103_100MHz"
 PACKAGE "Inductor_THT:L_Axial_L6.6mm_D2.7mm_P10.16mm_Horizontal_Vishay_IM-2"
-
-DEVICE "DEV_Capacitor_THT:C_Disc_D3.0mm_W1.6mm_P2.50mm"
-PART "100nF"
-PACKAGE "Capacitor_THT:C_Disc_D3.0mm_W1.6mm_P2.50mm"
 
 DEVICE "DEV_Capacitor_THT:C_Disc_D3.0mm_W1.6mm_P2.50mm_1"
 PART "100nF"

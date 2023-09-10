@@ -1,13 +1,13 @@
 (export (version "E")
   (design
     (source "/__w/pedalboard-hw/pedalboard-hw/pedalboard-hw.kicad_sch")
-    (date "Sun Sep 10 11:41:53 2023")
+    (date "Sun Sep 10 11:56:03 2023")
     (tool "Eeschema 7.0.7-7.0.7~ubuntu23.04.1")
     (sheet (number "1") (name "/") (tstamps "/")
       (title_block
         (title "Open Pedalboard")
         (company)
-        (rev "2.1.0")
+        (rev "3.0.0-RC1")
         (date "2023-09-10")
         (source "pedalboard-hw.kicad_sch")
         (comment (number "1") (value "Source Code: https://github.com/pedalboard/pedalboard-hw"))
@@ -23,7 +23,7 @@
       (title_block
         (title "Open Pedalboard")
         (company)
-        (rev "2.1.0")
+        (rev "3.0.0-RC1")
         (date "2023-09-10")
         (source "pico.kicad_sch")
         (comment (number "1") (value "Source Code: https://github.com/pedalboard/pedalboard-hw"))
@@ -39,7 +39,7 @@
       (title_block
         (title "Open Pedalboard")
         (company)
-        (rev "2.1.0")
+        (rev "3.0.0-RC1")
         (date "2023-09-10")
         (source "audio.kicad_sch")
         (comment (number "1") (value "Source Code: https://github.com/pedalboard/pedalboard-hw"))
@@ -55,7 +55,7 @@
       (title_block
         (title "Open Pedalboard")
         (company)
-        (rev "2.1.0")
+        (rev "3.0.0-RC1")
         (date "2023-09-10")
         (source "psu.kicad_sch")
         (comment (number "1") (value "Source Code: https://github.com/pedalboard/pedalboard-hw"))
@@ -71,7 +71,7 @@
       (title_block
         (title "Open Pedalboard")
         (company)
-        (rev "2.1.0")
+        (rev "3.0.0-RC1")
         (date "2023-09-10")
         (source "leds.kicad_sch")
         (comment (number "1") (value "Source Code: https://github.com/pedalboard/pedalboard-hw"))
