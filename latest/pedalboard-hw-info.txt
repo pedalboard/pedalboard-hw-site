@@ -1,7 +1,7 @@
 KiBot installation checker
 
 Core:
-Linux: 5.15.0.1041 (Linux 7198247b4275 5.15.0-1041-azure #48-Ubuntu SMP Tue Jun 20 20:34:08 UTC 2023 x86_64 GNU/Linux)
+Linux: 6.2.0.1012 (Linux c14479e00854 6.2.0-1012-azure #12~22.04.1-Ubuntu SMP Thu Sep  7 14:07:14 UTC 2023 x86_64 GNU/Linux)
   /usr/bin/uname
 Python: 3.11.2 (main, Mar 13 2023, 12:18:29) [GCC 12.2.0]
   /usr/lib/python3.11/os.py
@@ -32,7 +32,8 @@ Xvfbwrapper: Ok
   /usr/lib/python3/dist-packages/xvfbwrapper.py
 markdown2: 2.4.1
   /usr/lib/python3/dist-packages/markdown2.py
-mistune: Not available
+mistune: 2.0.4
+  /usr/lib/python3/dist-packages/mistune/__init__.py
 numpy: 1.24.2
   /usr/lib/python3/dist-packages/numpy/__init__.py
 
@@ -57,7 +58,7 @@ KiCad PCB/SCH Diff (kidiff): 2.4.7 (kicad-diff.py 2.4.7 - Copyright 2020-2023, I
   /usr/bin/kicad-diff.py
 KiCost: 1.1.18 (KiCost v1.1.18)
   /usr/bin/kicost
-KiKit: 1.3.0.8 (kikit, version 1.3.0-8)
+KiKit: 1.4.0.1 (kikit, version 1.4.0-1)
   /usr/bin/kikit
 OpenSCAD: 2021.1.0 (OpenSCAD version 2021.01)
   /usr/bin/openscad
@@ -69,10 +70,6 @@ RSVG tools: 2.54.5 (rsvg-convert version 2.54.5)
   /usr/bin/rsvg-convert
 Xvfb: Ok (xvfb-run)
   /usr/bin/rsvg-convert
-
-* Python module `mistune` not installed, too old or incompatible
-  Install the `python3-mistune` package, i.e.: `sudo apt-get install python3-mistune`
-  - Mandatory for `populate`
 
 Environment:
 CI
