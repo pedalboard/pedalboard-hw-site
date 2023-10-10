@@ -1,4 +1,4 @@
-### Module positions - created on Mon 09 Oct 2023 21:34:41  ###
+### Module positions - created on Tue 10 Oct 2023 06:37:04  ###
 ### Printed by KiBot
 ## Unit = mm, Angle = deg.
 ## Side : top
@@ -24,8 +24,6 @@ D4      SK6812                    LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm             
 D11     SM4007                    D_SOD-123F                                                             24.2000    92.6000    -90.0000   top   
 D13     SS34HF                    D_SMA                                                                  113.6500   75.7000    -90.0000   top   
 F1      Polyfuse 1.8A             Fuse_1812_4532Metric                                                   149.7000   96.2500    180.0000   top   
-F4      ~                         Trace_Fuse                                                             76.5000    7.0000     0.0000     top   
-F5      ~                         Trace_Fuse                                                             166.9000   6.0000     -90.0000   top   
 H12     Midi Bites                MIDI bites                                                             85.1000    104.9250   0.0000     top   
 J1      MIDI_OUT                  CP-2350                                                                96.0000    103.0000   180.0000   top   
 J2      MIDI_IN                   CP-2350                                                                74.0055    103.0000   180.0000   top   
