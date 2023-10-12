@@ -1,4 +1,4 @@
-### Module positions - created on Thu 12 Oct 2023 16:37:49  ###
+### Module positions - created on Thu 12 Oct 2023 20:22:26  ###
 ### Printed by KiBot
 ## Unit = mm, Angle = deg.
 ## Side : top
@@ -34,12 +34,12 @@ J10     Audio IN Left             Jack_6.35mm_Horizontal                        
 J11     Audio OUT Right           Jack_6.35mm_Horizontal                                                 14.4350    34.0000    180.0000   top   
 J12     Audio OUT Left            Jack_6.35mm_Horizontal                                                 14.4000    13.8000    180.0000   top   
 J13     Barrel_Jack_MountingPin   BarrelJack_Wuerth_6941xx301002                                         159.4000   94.6000    180.0000   top   
-J18     LED-Ring                  Led-Ring                                                               149.0000   57.0000    90.0000    top   
-J19     LED-Ring                  Led-Ring                                                               149.0000   5.0000     90.0000    top   
+J18     LED-Ring                  Led-Ring                                                               159.0000   69.0000    0.0000     top   
+J19     LED-Ring                  Led-Ring                                                               161.0000   -5.0000    180.0000   top   
 J20     LED-Ring                  Led-Ring                                                               84.0000    17.0000    0.0000     top   
-J21     LED-Ring                  Led-Ring                                                               74.0000    57.0000    90.0000    top   
-J22     LED-Ring                  Led-Ring                                                               21.0000    59.0000    -90.0000   top   
-J23     LED-Ring                  Led-Ring                                                               21.0000    7.0000     -90.0000   top   
+J21     LED-Ring                  Led-Ring                                                               86.0000    47.0000    180.0000   top   
+J22     LED-Ring                  Led-Ring                                                               9.0000     69.0000    0.0000     top   
+J23     LED-Ring                  Led-Ring                                                               11.0000    -5.0000    180.0000   top   
 L1      120_100MHz                L_0603_1608Metric                                                      21.1250    92.3750    180.0000   top   
 L2      120_100MHz                L_0603_1608Metric                                                      21.1250    90.9000    0.0000     top   
 L3      120_100MHz                L_0603_1608Metric                                                      31.7000    84.2250    0.0000     top   
