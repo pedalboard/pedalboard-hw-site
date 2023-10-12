@@ -26,12 +26,12 @@ Row,Description,Part,References,Value,Footprint,Quantity Per PCB,Status,Datashee
 25,Resistor,R,R4,10,R_0805_2012Metric,1, ,https://www.seielect.com/catalog/sei-rncp.pdf,https://www.digikey.ch/de/products/detail/stackpole-electronics-inc/RNCP0805FTD10R0/2240197,,,,,,,
 26,Resistor,R,R3,33,R_0805_2012Metric,1, ,https://www.seielect.com/catalog/sei-rmcf_rmcp.pdf,https://www.digikey.ch/de/products/detail/stackpole-electronics-inc/RMCF0805FT33R0/1760586,,,,,,,
 27,Resistor,R,R1 R5,220,R_0805_2012Metric,2, ,https://www.seielect.com/catalog/sei-rmcf_rmcp.pdf,https://www.digikey.ch/de/products/detail/stackpole-electronics-inc/RMCF0805FT220R/1760238 https://www.digikey.ch/de/products/detail/stackpole-electronics-inc/RMCF0805FT470R/1760300,,,,,,,
-28,Omron B3FS 6x6mm single pole normally-open tactile switch,SW_Omron_B3FS,SW4,A,SW_SPST_B3S-1000,1, ,https://omronfs.omron.com/en_US/ecb/products/pdf/en-b3s.pdf,https://www.digikey.ch/de/products/detail/omron-electronics-inc-emc-div/B3S-1000P/368390,,,,,,,
-29,Omron B3FS 6x6mm single pole normally-open tactile switch,SW_Omron_B3FS,SW5,B,SW_SPST_B3S-1000,1, ,https://omronfs.omron.com/en_US/ecb/products/pdf/en-b3s.pdf,https://www.digikey.ch/de/products/detail/omron-electronics-inc-emc-div/B3S-1000P/368390,,,,,,,
-30,Omron B3FS 6x6mm single pole normally-open tactile switch,SW_Omron_B3FS,SW6,C,SW_SPST_B3S-1000,1, ,https://omronfs.omron.com/en_US/ecb/products/pdf/en-b3s.pdf,https://www.digikey.ch/de/products/detail/omron-electronics-inc-emc-div/B3S-1000P/368390,,,,,,,
-31,Omron B3FS 6x6mm single pole normally-open tactile switch,SW_Omron_B3FS,SW1,D,SW_SPST_B3S-1000,1, ,https://omronfs.omron.com/en_US/ecb/products/pdf/en-b3s.pdf,https://www.digikey.ch/de/products/detail/omron-electronics-inc-emc-div/B3S-1000P/368390,,,,,,,
-32,Omron B3FS 6x6mm single pole normally-open tactile switch,SW_Omron_B3FS,SW2,E,SW_SPST_B3S-1000,1, ,https://omronfs.omron.com/en_US/ecb/products/pdf/en-b3s.pdf,https://www.digikey.ch/de/products/detail/omron-electronics-inc-emc-div/B3S-1000P/368390,,,,,,,
-33,Omron B3FS 6x6mm single pole normally-open tactile switch,SW_Omron_B3FS,SW3,F,SW_SPST_B3S-1000,1, ,https://omronfs.omron.com/en_US/ecb/products/pdf/en-b3s.pdf,https://www.digikey.ch/de/products/detail/omron-electronics-inc-emc-div/B3S-1000P/368390,,,,,,,
+28,Omron B3FS 6x6mm single pole normally-open tactile switch,SW_Omron_B3FS,SW4,A,SW_PUSH-12mm_Wuerth,1, ,https://www.we-online.com/components/products/datasheet/430172043816.pdf,https://www.digikey.ch/de/products/detail/w%C3%BCrth-elektronik/430162043826/9950802,,,,,,,
+29,Omron B3FS 6x6mm single pole normally-open tactile switch,SW_Omron_B3FS,SW5,B,SW_PUSH-12mm_Wuerth,1, ,https://www.we-online.com/components/products/datasheet/430172043816.pdf,https://www.digikey.ch/de/products/detail/w%C3%BCrth-elektronik/430162043826/9950802,,,,,,,
+30,Omron B3FS 6x6mm single pole normally-open tactile switch,SW_Omron_B3FS,SW6,C,SW_PUSH-12mm_Wuerth,1, ,https://www.we-online.com/components/products/datasheet/430172043816.pdf,https://www.digikey.ch/de/products/detail/w%C3%BCrth-elektronik/430162043826/9950802,,,,,,,
+31,Omron B3FS 6x6mm single pole normally-open tactile switch,SW_Omron_B3FS,SW1,D,SW_PUSH-12mm_Wuerth,1, ,https://www.we-online.com/components/products/datasheet/430172043816.pdf,https://www.digikey.ch/de/products/detail/w%C3%BCrth-elektronik/430162043826/9950802,,,,,,,
+32,Omron B3FS 6x6mm single pole normally-open tactile switch,SW_Omron_B3FS,SW2,E,SW_PUSH-12mm_Wuerth,1, ,https://www.we-online.com/components/products/datasheet/430172043816.pdf,https://www.digikey.ch/de/products/detail/w%C3%BCrth-elektronik/430162043826/9950802,,,,,,,
+33,Omron B3FS 6x6mm single pole normally-open tactile switch,SW_Omron_B3FS,SW3,F,SW_PUSH-12mm_Wuerth,1, ,https://www.we-online.com/components/products/datasheet/430172043816.pdf,https://www.digikey.ch/de/products/detail/w%C3%BCrth-elektronik/430162043826/9950802,,,,,,,
 34,"Rotary encoder, dual channel, incremental quadrate outputs, with switch",RotaryEncoder_Switch,SW8,GAIN Rotary,RotaryEncoder_Alps_EC11E-Switch_Vertical_H20mm_CircularMountingHoles,1, ,https://www.we-online.com/components/products/datasheet/482016514001.pdf,https://www.digikey.ch/de/products/detail/w%C3%BCrth-elektronik/482016514001/10056402,,,,,,,
 35,"Rotary encoder, dual channel, incremental quadrate outputs, with switch",RotaryEncoder_Switch,SW7,VOL Rotary,RotaryEncoder_Alps_EC11E-Switch_Vertical_H20mm_CircularMountingHoles,1, ,https://www.we-online.com/components/products/datasheet/482016514001.pdf,https://www.digikey.ch/de/products/detail/w%C3%BCrth-elektronik/482016514001/10056402,,,,,,,
 36,,74AHCT1G32SE-7,U3,74AHCT1G32SE-7,SOT65P210X110-5N,1, ,https://www.diodes.com/assets/Datasheets/74AHCT1G32.pdf,https://www.digikey.ch/de/products/detail/diodes-incorporated/74AHCT1G32SE-7/2711987,Diodes Inc.,SOT-353-5,74AHCT1G32SE-7,74AHCT1G32SE-7DITR-ND,74AHCT1G32SE-7,2057398,64T4877
@@ -50,7 +50,7 @@ Date:,2023-09-10
 KiCad Version:,7.0.7-7.0.7~ubuntu23.04.1
 Statistics:
 Component Groups:,38
-Component Count:,67 (40 SMD/ 25 THT)
-Fitted Components:,67 (40 SMD/ 25 THT)
+Component Count:,67 (34 SMD/ 31 THT)
+Fitted Components:,67 (34 SMD/ 31 THT)
 Number of PCBs:,1
 Total Components:,67
