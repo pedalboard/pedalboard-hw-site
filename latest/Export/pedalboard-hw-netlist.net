@@ -1,7 +1,7 @@
 (export (version "E")
   (design
     (source "/__w/pedalboard-hw/pedalboard-hw/pedalboard-hw.kicad_sch")
-    (date "Thu Oct 12 22:00:22 2023")
+    (date "Thu Oct 12 22:40:05 2023")
     (tool "Eeschema 7.0.7-7.0.7~ubuntu23.04.1")
     (sheet (number "1") (name "/") (tstamps "/")
       (title_block
@@ -339,7 +339,7 @@
       (sheetpath (names "/MIDI/") (tstamps "/d36964e5-9373-47ae-95a7-088f8df77199/"))
       (tstamps "4a27659c-364b-4484-98fa-a9d42873fc6f"))
     (comp (ref "J24")
-      (value "Conn_01x03_Pin")
+      (value "EXT-MIDI")
       (footprint "Connector_JST:JST_XH_B3B-XH-A_1x03_P2.50mm_Vertical")
       (libsource (lib "Connector") (part "Conn_01x03_Pin") (description "Generic connector, single row, 01x03, script generated"))
       (property (name "Sheetname") (value "MIDI"))
@@ -349,7 +349,7 @@
       (sheetpath (names "/MIDI/") (tstamps "/d36964e5-9373-47ae-95a7-088f8df77199/"))
       (tstamps "bf8413e9-c3d1-4980-932e-f6b98bb3d66e"))
     (comp (ref "J25")
-      (value "Conn_01x03_Pin")
+      (value "EXT-MIDI")
       (footprint "Connector_JST:JST_XH_B3B-XH-A_1x03_P2.50mm_Vertical")
       (libsource (lib "Connector") (part "Conn_01x03_Pin") (description "Generic connector, single row, 01x03, script generated"))
       (property (name "Sheetname") (value "MIDI"))
@@ -1075,7 +1075,7 @@
       (tstamps "821e1e4a-2976-4634-a3db-92bc44254466"))
     (comp (ref "J4")
       (value "RGB_LED_EXT")
-      (footprint "Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Horizontal")
+      (footprint "Connector_JST:JST_XH_B3B-XH-A_1x03_P2.50mm_Vertical")
       (datasheet "https://www.we-online.com/components/products/datasheet/6130xx11021.pdf")
       (fields
         (field (name "Supplier") "https://www.digikey.ch/de/products/detail/w%C3%BCrth-elektronik/61300311021/4846824"))
