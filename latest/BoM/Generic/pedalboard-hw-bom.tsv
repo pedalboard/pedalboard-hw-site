@@ -9,7 +9,7 @@ Row	Description	Part	References	Value	Footprint	Quantity Per PCB	Status	Datashee
 8	Resettable fuse, polymeric positive temperature coefficient	Polyfuse	F1	Polyfuse 1.8A	Fuse_1812_4532Metric	1	 	https://www.littelfuse.com/~/media/electronics/datasheets/resettable_ptcs/littelfuse_ptc_1812l_datasheet.pdf.pdf	https://www.digikey.ch/de/products/detail/littelfuse-inc/1812L150-24MR/2023969							
 9	DC Barrel Jack with an internal switch	Barrel_Jack_Switch	J13	Barrel_Jack_MountingPin	BarrelJack_Wuerth_6941xx301002	1	 	https://www.we-online.com/components/products/datasheet/6941xx301002.pdf	https://www.digikey.ch/de/products/detail/w%C3%BCrth-elektronik/694106301002/5047522							
 10	Generic connector, double row, 02x01, this symbol is compatible with counter-clockwise, top-bottom and odd-even numbering schemes., script generated (kicad-library-utils/schlib/autogen/connector/)	Conn_02x01	J14	Conn_02x01	PinHeader_1x02_P2.54mm_Horizontal	1	 	https://cdn.amphenol-cs.com/media/wysiwyg/files/drawing/68015.pdf	https://www.digikey.ch/de/products/detail/amphenol-cs-fci/68016-202HLF/4273561							
-11	M Series, 6.35mm (1/4in) stereo jack, switched, with chrome ferrule and straight PCB pins	NMJ6HCD2	J3 J9 J10 J11 J12	EXP	Jack_6.35mm_Horizontal	5	 	https://www.schurter.com/en/datasheet/typ_4833.2320.pdf	https://www.digikey.ch/de/products/detail/schurter-inc/4833-2320/2644235							
+11	M Series, 6.35mm (1/4in) stereo jack, switched, with chrome ferrule and straight PCB pins	NMJ6HCD2	J3 J9 J10 J11 J12 J15	EXP1	Jack_6.35mm_Horizontal	6	 	https://www.schurter.com/en/datasheet/typ_4833.2320.pdf	https://www.digikey.ch/de/products/detail/schurter-inc/4833-2320/2644235							
 12	expansion header for Raspberry Pi 2 & 3	Raspberry_Pi_2_3	J8	HiFi Berry	HiFi Berry DAC ADC+	1	 	https://www.hifiberry.com/docs/data-sheets/datasheet-dac-adc-pro/	https://www.digikey.ch/de/products/detail/w%C3%BCrth-elektronik/61304021821/16608657							
 13	Generic connector, double row, 02x02, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)	Conn_02x02_Odd_Even	J18 J19 J20 J21 J22 J23	LED-Ring	Led-Ring	6	 	~								
 14	Audio Jack, 3 Poles (Stereo / TRS), Switched TR Poles (Normalling)	AudioJack3_SwitchTR	J16 J17	MIDI OUT J	Jack_3.5mm_CUI_SJ1-3525N_Horizontal	2	 	https://www.cuidevices.com/product/resource/sj1-352xng.pdf	https://www.digikey.ch/de/products/detail/cui-devices/SJ1-3525NG/738690							
@@ -49,7 +49,7 @@ Date:	2023-09-10
 KiCad Version:	7.0.7-7.0.7~ubuntu23.04.1
 Statistics:
 Component Groups:	37
-Component Count:	68 (40 SMD/ 26 THT)
-Fitted Components:	68 (40 SMD/ 26 THT)
+Component Count:	69 (40 SMD/ 27 THT)
+Fitted Components:	69 (40 SMD/ 27 THT)
 Number of PCBs:	1
-Total Components:	68
+Total Components:	69

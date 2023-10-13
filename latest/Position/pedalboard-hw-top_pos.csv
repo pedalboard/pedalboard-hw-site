@@ -17,34 +17,35 @@ Ref,Val,Package,PosX,PosY,Rot,Side
 "D2","SK6812","LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm",72.5944,82.9944,0.0000,top
 "D3","SK6812","LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm",97.5944,82.9944,0.0000,top
 "D4","SK6812","LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm",122.5944,82.9944,0.0000,top
-"D11","SM4007","D_SOD-123F",26.1944,98.5944,-90.0000,top
+"D11","SM4007","D_SOD-123F",26.5944,98.5944,-90.0000,top
 "D13","SS34HF","D_SMA",115.6444,81.6944,-90.0000,top
 "F1","Polyfuse 1.8A","Fuse_1812_4532Metric",151.6944,102.2444,180.0000,top
 "H12","Midi Bites","MIDI bites",87.0944,110.9194,0.0000,top
 "J1","MIDI_OUT","CP-2350",101.9944,108.9944,180.0000,top
 "J2","MIDI_IN","CP-2350",71.9944,108.9944,180.0000,top
-"J3","EXP","Jack_6.35mm_Horizontal",157.6094,97.1944,0.0000,top
+"J3","EXP1","Jack_6.35mm_Horizontal",157.6094,97.1944,0.0000,top
 "J7","Raspberry_pi","Raspberry PI Compute Module CM4 Nano A",31.5844,24.6744,90.0000,top
 "J9","Audio IN Right","Jack_6.35mm_Horizontal",157.5944,56.2144,0.0000,top
 "J10","Audio IN Left","Jack_6.35mm_Horizontal",157.5944,35.9994,0.0000,top
-"J11","Audio OUT Right","Jack_6.35mm_Horizontal",16.4294,39.9944,180.0000,top
+"J11","Audio OUT Right","Jack_6.35mm_Horizontal",16.3944,39.9944,180.0000,top
 "J12","Audio OUT Left","Jack_6.35mm_Horizontal",16.3944,19.7944,180.0000,top
 "J13","Barrel_Jack_MountingPin","BarrelJack_Wuerth_6941xx301002",161.3944,100.5944,180.0000,top
+"J15","EXP2","Jack_6.35mm_Horizontal",16.3944,80.9944,180.0000,top
 "J18","LED-Ring","Led-Ring",160.9944,74.9944,0.0000,top
 "J19","LED-Ring","Led-Ring",162.9944,0.9944,180.0000,top
 "J20","LED-Ring","Led-Ring",85.9944,22.9944,0.0000,top
 "J21","LED-Ring","Led-Ring",87.9944,52.9944,180.0000,top
 "J22","LED-Ring","Led-Ring",10.9944,74.9944,0.0000,top
 "J23","LED-Ring","Led-Ring",12.9944,0.9944,180.0000,top
-"L1","120_100MHz","L_0603_1608Metric",23.1194,98.3694,180.0000,top
-"L2","120_100MHz","L_0603_1608Metric",23.1194,96.8944,0.0000,top
+"L1","120_100MHz","L_0603_1608Metric",24.6944,102.4944,90.0000,top
+"L2","120_100MHz","L_0603_1608Metric",24.6944,99.2444,-90.0000,top
 "L3","120_100MHz","L_0603_1608Metric",34.6944,90.2194,0.0000,top
 "L4","120_100MHz","L_0603_1608Metric",34.6944,88.0944,0.0000,top
 "L5","120_100MHz","L_0603_1608Metric",111.7944,87.3444,0.0000,top
 "L6","2.2uH","L_1210_3225Metric",137.2944,88.3944,-90.0000,top
 "PS1","PDQE15-Q24-S5-D","CONV_PDQE15-Q24-S5-D",117.3644,54.9986,180.0000,top
 "Q1","FDS4435BZ","SO08-E3",144.7944,103.6944,0.0000,top
-"R1","220","R_0805_2012Metric",23.3194,100.0694,0.0000,top
+"R1","220","R_0805_2012Metric",22.9944,102.3944,-90.0000,top
 "R3","33","R_0805_2012Metric",37.8944,90.2694,180.0000,top
 "R4","10","R_0805_2012Metric",37.8944,88.0944,0.0000,top
 "R5","220","R_0805_2012Metric",56.9194,83.3444,180.0000,top
@@ -56,5 +57,5 @@ Ref,Val,Package,PosX,PosY,Rot,Side
 "SW6","C","SW_PUSH-12mm_Wuerth",161.9944,11.9944,0.0000,top
 "SW7","VOL Rotary","RotaryEncoder_Alps_EC11E-Switch_Vertical_H20mm_CircularMountingHoles",42.2444,99.4944,0.0000,top
 "SW8","GAIN Rotary","RotaryEncoder_Alps_EC11E-Switch_Vertical_H20mm_CircularMountingHoles",117.2444,99.4944,0.0000,top
-"U2","TLP2761","SO-6L_10x3.84mm_P1.27mm",32.9944,98.5944,0.0000,top
+"U2","TLP2761","SO-6L_10x3.84mm_P1.27mm",33.3944,98.5944,0.0000,top
 "U3","74AHCT1G32SE-7","SOT65P210X110-5N",53.2944,84.0444,180.0000,top

@@ -1,4 +1,4 @@
-ERC report (Fri Oct 13 13:26:53 2023, Encoding UTF8)
+ERC report (Fri Oct 13 19:27:16 2023, Encoding UTF8)
 
 ***** Sheet /
 
@@ -6,15 +6,15 @@ ERC report (Fri Oct 13 13:26:53 2023, Encoding UTF8)
 [lib_symbol_issues]: The current configuration does not include the library 'PCM_4ms_Power-symbol'
     ; Severity: warning
     @(214.6300 mm, 30.4800 mm): Symbol #PWR032 [GND]
-[lib_symbol_issues]: Symbol 'L_Ferrite' has been modified in library 'Device'
-    ; Severity: warning
-    @(162.5600 mm, 29.2100 mm): Symbol L5 [L_Ferrite]
 [lib_symbol_issues]: Symbol '1N5817' has been modified in library 'Diode'
     ; Severity: warning
     @(196.8500 mm, 36.8300 mm): Symbol D13 [1N5817]
 [lib_symbol_issues]: The current configuration does not include the library 'MCU_RaspberryPi_and_Boards'
     ; Severity: warning
     @(142.2400 mm, 63.5000 mm): Symbol U1 [Pico]
+[lib_symbol_issues]: Symbol 'L_Ferrite' has been modified in library 'Device'
+    ; Severity: warning
+    @(162.5600 mm, 29.2100 mm): Symbol L5 [L_Ferrite]
 
 ***** Sheet /Audio/
 [lib_symbol_issues]: Symbol 'USB_A' has been modified in library 'Connector'
