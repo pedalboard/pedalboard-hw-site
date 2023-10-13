@@ -1,4 +1,4 @@
-### Module positions - created on Fri 13 Oct 2023 19:45:16  ###
+### Module positions - created on Fri 13 Oct 2023 20:06:21  ###
 ### Printed by KiBot
 ## Unit = mm, Angle = deg.
 ## Side : top
@@ -43,15 +43,15 @@ J22     LED-Ring                  Led-Ring                                      
 J23     LED-Ring                  Led-Ring                                                               12.9944    0.9944     180.0000   top   
 L1      120_100MHz                L_0603_1608Metric                                                      24.6944    102.4944   90.0000    top   
 L2      120_100MHz                L_0603_1608Metric                                                      24.6944    99.2444    -90.0000   top   
-L3      120_100MHz                L_0603_1608Metric                                                      34.6944    90.2194    0.0000     top   
-L4      120_100MHz                L_0603_1608Metric                                                      34.6944    88.0944    0.0000     top   
+L3      120_100MHz                L_0603_1608Metric                                                      34.6944    95.3319    0.0000     top   
+L4      120_100MHz                L_0603_1608Metric                                                      34.6944    93.4444    0.0000     top   
 L5      120_100MHz                L_0603_1608Metric                                                      111.7944   87.3444    0.0000     top   
 L6      2.2uH                     L_1210_3225Metric                                                      137.2944   88.3944    -90.0000   top   
 PS1     PDQE15-Q24-S5-D           CONV_PDQE15-Q24-S5-D                                                   117.3644   54.9986    180.0000   top   
 Q1      FDS4435BZ                 SO08-E3                                                                144.7944   103.6944   0.0000     top   
 R1      220                       R_0805_2012Metric                                                      22.9944    102.3944   -90.0000   top   
-R3      33                        R_0805_2012Metric                                                      37.8944    90.2694    180.0000   top   
-R4      10                        R_0805_2012Metric                                                      37.8944    88.0944    0.0000     top   
+R3      33                        R_0805_2012Metric                                                      37.8944    95.3819    180.0000   top   
+R4      10                        R_0805_2012Metric                                                      37.8944    93.4444    0.0000     top   
 R5      220                       R_0805_2012Metric                                                      56.9194    83.3444    180.0000   top   
 SW1     D                         SW_PUSH-12mm_Wuerth                                                    11.9944    63.9944    0.0000     top   
 SW2     E                         SW_PUSH-12mm_Wuerth                                                    86.9944    63.9944    0.0000     top   
