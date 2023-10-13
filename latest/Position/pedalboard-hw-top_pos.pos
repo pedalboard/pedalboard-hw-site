@@ -1,4 +1,4 @@
-### Module positions - created on Fri 13 Oct 2023 09:29:34  ###
+### Module positions - created on Fri 13 Oct 2023 13:55:48  ###
 ### Printed by KiBot
 ## Unit = mm, Angle = deg.
 ## Side : top
@@ -25,8 +25,8 @@ D11     SM4007                    D_SOD-123F                                    
 D13     SS34HF                    D_SMA                                                                  115.6444   81.6944    -90.0000   top   
 F1      Polyfuse 1.8A             Fuse_1812_4532Metric                                                   151.6944   102.2444   180.0000   top   
 H12     Midi Bites                MIDI bites                                                             87.0944    110.9194   0.0000     top   
-J1      MIDI_OUT                  CP-2350                                                                97.9944    108.9944   180.0000   top   
-J2      MIDI_IN                   CP-2350                                                                75.9999    108.9944   180.0000   top   
+J1      MIDI_OUT                  CP-2350                                                                101.9944   108.9944   180.0000   top   
+J2      MIDI_IN                   CP-2350                                                                71.9944    108.9944   180.0000   top   
 J3      EXP                       Jack_6.35mm_Horizontal                                                 157.6094   97.1944    0.0000     top   
 J7      Raspberry_pi              Raspberry PI Compute Module CM4 Nano A                                 31.5844    24.6744    90.0000    top   
 J9      Audio IN Right            Jack_6.35mm_Horizontal                                                 157.5944   56.2144    0.0000     top   
