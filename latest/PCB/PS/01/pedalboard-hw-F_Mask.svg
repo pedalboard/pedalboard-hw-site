@@ -14,6 +14,9 @@
 <path style="fill:#000000; fill-opacity:1.0000;  stroke:#000000; stroke-width:0.0000; stroke-opacity:1;  stroke-linecap:round; stroke-linejoin:round;fill-rule:evenodd;" d="M 140.9500,43.7750 140.9690,43.6793 141.0232,43.5982 141.1043,43.5440 141.2000,43.5250 141.7000,43.5250 141.7957,43.5440 141.8768,43.5982 141.9310,43.6793 141.9500,43.7750 141.9500,44.7250 141.9310,44.8207 141.8768,44.9018 141.7957,44.9560 141.7000,44.9750 141.2000,44.9750 141.1043,44.9560 141.0232,44.9018 140.9690,44.8207 140.9500,44.7250 Z"/> 
 <path style="fill:#000000; fill-opacity:1.0000;  stroke:#000000; stroke-width:0.0000; stroke-opacity:1;  stroke-linecap:round; stroke-linejoin:round;fill-rule:evenodd;" d="M 142.8500,43.7750 142.8690,43.6793 142.9232,43.5982 143.0043,43.5440 143.1000,43.5250 143.6000,43.5250 143.6957,43.5440 143.7768,43.5982 143.8310,43.6793 143.8500,43.7750 143.8500,44.7250 143.8310,44.8207 143.7768,44.9018 143.6957,44.9560 143.6000,44.9750 143.1000,44.9750 143.0043,44.9560 142.9232,44.9018 142.8690,44.8207 142.8500,44.7250 Z"/> 
 </g>
+<g style="fill:#000000; fill-opacity:1.0000;  stroke:#000000; stroke-width:0.0000; stroke-opacity:1;  stroke-linecap:round; stroke-linejoin:round;">
+<circle cx="25.0000" cy="23.0000" r="1.5000"/> 
+</g>
 <g style="fill:#000000; fill-opacity:0.0;  stroke:#000000; stroke-width:1.2000; stroke-opacity:1;  stroke-linecap:round; stroke-linejoin:round;">
 <path d="M125.0000 30.0000 L125.0000 29.0000 "/>
 <path d="M122.5000 30.0000 L122.5000 29.0000 "/>
@@ -443,6 +446,9 @@
 <path style="fill:#000000; fill-opacity:1.0000;  stroke:#000000; stroke-width:0.0000; stroke-opacity:1;  stroke-linecap:round; stroke-linejoin:round;fill-rule:evenodd;" d="M 111.0000,65.4000 111.0000,63.6000 113.0000,63.6000 113.0000,65.4000 Z"/> 
 <path style="fill:#000000; fill-opacity:1.0000;  stroke:#000000; stroke-width:0.0000; stroke-opacity:1;  stroke-linecap:round; stroke-linejoin:round;fill-rule:evenodd;" d="M 97.0000,70.4000 97.0000,68.6000 99.0000,68.6000 99.0000,70.4000 Z"/> 
 <path style="fill:#000000; fill-opacity:1.0000;  stroke:#000000; stroke-width:0.0000; stroke-opacity:1;  stroke-linecap:round; stroke-linejoin:round;fill-rule:evenodd;" d="M 111.0000,70.4000 111.0000,68.6000 113.0000,68.6000 113.0000,70.4000 Z"/> 
+</g>
+<g style="fill:#000000; fill-opacity:1.0000;  stroke:#000000; stroke-width:0.0000; stroke-opacity:1;  stroke-linecap:round; stroke-linejoin:round;">
+<circle cx="185.0000" cy="128.0000" r="1.5000"/> 
 </g>
 <g style="fill:#000000; fill-opacity:1.0000;  stroke:#000000; stroke-width:0.0000; stroke-opacity:1;  stroke-linecap:round; stroke-linejoin:round;">
 <path style="fill:#000000; fill-opacity:1.0000;  stroke:#000000; stroke-width:0.0000; stroke-opacity:1;  stroke-linecap:round; stroke-linejoin:round;fill-rule:evenodd;" d="M 106.6750,77.3250 106.6750,78.6750 105.3250,78.6750 105.3250,77.3250 Z"/> 
