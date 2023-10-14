@@ -2252,21 +2252,45 @@ $ENDCOMPONENTS
 
 $DEVICES
 
-DEVICE "DEV_Pedalboard Library:Jack_6.35mm_Horizontal"
-PART "EXP2"
+DEVICE "DEV_MountingHole:MountingHole_2.7mm_M2.5_DIN965"
+PART "MountingHole"
+PACKAGE "MountingHole:MountingHole_2.7mm_M2.5_DIN965"
+
+DEVICE "DEV_Pedalboard Library:Jack_6.35mm_Horizontal_1"
+PART "Audio IN Left"
 PACKAGE "Pedalboard Library:Jack_6.35mm_Horizontal"
+
+DEVICE "DEV_Inductor_SMD:L_0603_1608Metric"
+PART "120_100MHz"
+PACKAGE "Inductor_SMD:L_0603_1608Metric"
+
+DEVICE "DEV_Capacitor_SMD:C_0805_2012Metric_0"
+PART "4.7uF"
+PACKAGE "Capacitor_SMD:C_0805_2012Metric"
+
+DEVICE "DEV_Pedalboard Library:Led-Ring_0"
+PART "LED-Ring"
+PACKAGE "Pedalboard Library:Led-Ring"
+
+DEVICE "DEV_Pedalboard Library:BarrelJack_Wuerth_6941xx301002"
+PART "Barrel_Jack_MountingPin"
+PACKAGE "Pedalboard Library:BarrelJack_Wuerth_6941xx301002"
+
+DEVICE "DEV_Capacitor_SMD:C_0805_2012Metric"
+PART "100nF"
+PACKAGE "Capacitor_SMD:C_0805_2012Metric"
+
+DEVICE "DEV_Pedalboard Library:Led-Ring"
+PART "LED-Ring"
+PACKAGE "Pedalboard Library:Led-Ring"
 
 DEVICE "DEV_Pedalboard Library:CONV_PDQE15-Q24-S5-D"
 PART "PDQE15-Q24-S5-D"
 PACKAGE "Pedalboard Library:CONV_PDQE15-Q24-S5-D"
 
-DEVICE "DEV_Pedalboard Library:WA-SMSI_M2.5"
-PART "Spacer"
-PACKAGE "Pedalboard Library:WA-SMSI_M2.5"
-
-DEVICE "DEV_Pedalboard Library:Led-Ring"
-PART "LED-Ring"
-PACKAGE "Pedalboard Library:Led-Ring"
+DEVICE "DEV_Jumper:SolderJumper-2_P1.3mm_Bridged_RoundedPad1.0x1.5mm"
+PART "SJP"
+PACKAGE "Jumper:SolderJumper-2_P1.3mm_Bridged_RoundedPad1.0x1.5mm"
 
 DEVICE "DEV_Pedalboard Library:Jack_3.5mm_CUI_SJ1-3525N_Horizontal"
 PART "MIDI OUT J"
@@ -2276,33 +2300,13 @@ DEVICE "DEV_LED_SMD:LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm"
 PART "SK6812"
 PACKAGE "LED_SMD:LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm"
 
-DEVICE "DEV_Pedalboard Library:BarrelJack_Wuerth_6941xx301002"
-PART "Barrel_Jack_MountingPin"
-PACKAGE "Pedalboard Library:BarrelJack_Wuerth_6941xx301002"
+DEVICE "DEV_Pedalboard Library:WA-SMSI_M2.5"
+PART "Spacer"
+PACKAGE "Pedalboard Library:WA-SMSI_M2.5"
 
-DEVICE "DEV_MountingHole:MountingHole_2.7mm_M2.5_DIN965"
-PART "MountingHole"
-PACKAGE "MountingHole:MountingHole_2.7mm_M2.5_DIN965"
-
-DEVICE "DEV_Pedalboard Library:Jack_6.35mm_Horizontal_1"
-PART "Audio IN Left"
+DEVICE "DEV_Pedalboard Library:Jack_6.35mm_Horizontal"
+PART "EXP2"
 PACKAGE "Pedalboard Library:Jack_6.35mm_Horizontal"
-
-DEVICE "DEV_Fiducial:Fiducial_1.5mm_Mask3mm"
-PART "Fiducial"
-PACKAGE "Fiducial:Fiducial_1.5mm_Mask3mm"
-
-DEVICE "DEV_Pedalboard Library:Led-Ring_0"
-PART "LED-Ring"
-PACKAGE "Pedalboard Library:Led-Ring"
-
-DEVICE "DEV_Inductor_SMD:L_0603_1608Metric"
-PART "120_100MHz"
-PACKAGE "Inductor_SMD:L_0603_1608Metric"
-
-DEVICE "DEV_Capacitor_SMD:C_0805_2012Metric"
-PART "4.7uF"
-PACKAGE "Capacitor_SMD:C_0805_2012Metric"
 
 DEVICE "DEV_Pedalboard Library:Jack_6.35mm_Horizontal_0"
 PART "Audio OUT Right"
@@ -2312,13 +2316,9 @@ DEVICE "DEV_Pedalboard Library:Raspberry PI Compute Module CM4 Nano A"
 PART "Raspberry_pi"
 PACKAGE "Pedalboard Library:Raspberry PI Compute Module CM4 Nano A"
 
-DEVICE "DEV_Capacitor_SMD:C_0805_2012Metric_0"
-PART "4.7uF"
-PACKAGE "Capacitor_SMD:C_0805_2012Metric"
-
-DEVICE "DEV_Jumper:SolderJumper-2_P1.3mm_Bridged_RoundedPad1.0x1.5mm"
-PART "SJP"
-PACKAGE "Jumper:SolderJumper-2_P1.3mm_Bridged_RoundedPad1.0x1.5mm"
+DEVICE "DEV_Fiducial:Fiducial_1.5mm_Mask3mm"
+PART "Fiducial"
+PACKAGE "Fiducial:Fiducial_1.5mm_Mask3mm"
 
 DEVICE "DEV_Pedalboard Library:MIDI bites"
 PART "Midi Bites"

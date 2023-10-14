@@ -1,7 +1,7 @@
 (export (version "E")
   (design
     (source "/__w/pedalboard-hw/pedalboard-hw/pedalboard-hw.kicad_sch")
-    (date "Sat Oct 14 08:10:33 2023")
+    (date "Sat Oct 14 12:28:59 2023")
     (tool "Eeschema 7.0.7-7.0.7~ubuntu23.04.1")
     (sheet (number "1") (name "/") (tstamps "/")
       (title_block
@@ -983,14 +983,17 @@
     (comp (ref "Q1")
       (value "FDS4435BZ")
       (footprint "Pedalboard Library:SO08-E3")
+      (datasheet "https://rocelec.widen.net/view/pdf/rwygqx6rjd/FAIRS27615-1.pdf")
       (fields
         (field (name "MF") "onsemi")
         (field (name "MP") "FDS4435BZ")
-        (field (name "Package") "None"))
+        (field (name "Package") "None")
+        (field (name "Supplier") "https://www.digikey.ch/de/products/detail/onsemi/FDS4435BZ/1305763"))
       (libsource (lib "FDS4435BZ") (part "FDS4435BZ") (description ""))
       (property (name "MF") (value "onsemi"))
       (property (name "Package") (value "None"))
       (property (name "MP") (value "FDS4435BZ"))
+      (property (name "Supplier") (value "https://www.digikey.ch/de/products/detail/onsemi/FDS4435BZ/1305763"))
       (property (name "Sheetname") (value "Power Supply"))
       (property (name "Sheetfile") (value "psu.kicad_sch"))
       (sheetpath (names "/Power Supply/") (tstamps "/0d7c87b0-1309-475f-a9d7-edcf3dee5e4e/"))
