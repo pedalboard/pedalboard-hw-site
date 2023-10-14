@@ -1,4 +1,4 @@
-ERC report (Fri Oct 13 22:16:16 2023, Encoding UTF8)
+ERC report (Sat Oct 14 07:09:34 2023, Encoding UTF8)
 
 ***** Sheet /
 
@@ -28,15 +28,15 @@ ERC report (Fri Oct 13 22:16:16 2023, Encoding UTF8)
     @(125.7300 mm, 80.0100 mm): Symbol J7 [Raspberry_Pi_2_3]
 
 ***** Sheet /Power Supply/
+[lib_symbol_issues]: The current configuration does not include the library 'PDQE15-Q24-S5-D'
+    ; Severity: warning
+    @(196.8500 mm, 48.2600 mm): Symbol PS1 [PDQE15-Q24-S5-D]
 [lib_symbol_issues]: Symbol 'Conn_02x01' has been modified in library 'Connector_Generic'
     ; Severity: warning
     @(238.7600 mm, 22.8600 mm): Symbol J14 [Conn_02x01]
 [lib_symbol_issues]: The current configuration does not include the library 'PCM_4ms_Power-symbol'
     ; Severity: warning
     @(234.9500 mm, 76.2000 mm): Symbol #PWR030 [GND]
-[lib_symbol_issues]: The current configuration does not include the library 'PDQE15-Q24-S5-D'
-    ; Severity: warning
-    @(196.8500 mm, 48.2600 mm): Symbol PS1 [PDQE15-Q24-S5-D]
 [lib_symbol_issues]: The current configuration does not include the library 'FDS4435BZ'
     ; Severity: warning
     @(87.6300 mm, 40.6400 mm): Symbol Q1 [FDS4435BZ]
