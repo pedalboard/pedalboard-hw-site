@@ -60,8 +60,8 @@
 |------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |Statistics:       |
 |------------------|
-|Component Groups: |44                                                                                                                                                                           |
-|Component Count:  |78 (53 SMD/ 23 THT)                                                                                                                                                          |
+|Component Groups: |45                                                                                                                                                                           |
+|Component Count:  |79 (53 SMD/ 24 THT)                                                                                                                                                          |
 |Fitted Components:|78 (53 SMD/ 23 THT)                                                                                                                                                          |
 |Number of PCBs:   |1                                                                                                                                                                            |
 |Total Components: |78                                                                                                                                                                           |

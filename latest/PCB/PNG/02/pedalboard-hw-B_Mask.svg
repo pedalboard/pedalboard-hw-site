@@ -414,6 +414,11 @@
 <circle cx="180.0000" cy="67.0000" r="3.0000"/> 
 </g>
 <g style="fill:#000000; fill-opacity:1.0000;  stroke:#000000; stroke-width:0.0000; stroke-opacity:1;  stroke-linecap:round; stroke-linejoin:round;">
+<path style="fill:#000000; fill-opacity:1.0000;  stroke:#000000; stroke-width:0.0000; stroke-opacity:1;  stroke-linecap:round; stroke-linejoin:round;fill-rule:evenodd;" d="M 106.3750,80.4500 108.0750,80.4500 108.0750,82.1500 106.3750,82.1500 Z"/> 
+<circle cx="104.6850" cy="81.3000" r="0.8500"/> 
+<circle cx="102.1450" cy="81.3000" r="0.8500"/> 
+</g>
+<g style="fill:#000000; fill-opacity:1.0000;  stroke:#000000; stroke-width:0.0000; stroke-opacity:1;  stroke-linecap:round; stroke-linejoin:round;">
 <circle cx="181.9500" cy="74.7800" r="1.5000"/> 
 </g>
 <g style="fill:#000000; fill-opacity:1.0000;  stroke:#000000; stroke-width:0.0000; stroke-opacity:1;  stroke-linecap:round; stroke-linejoin:round;">

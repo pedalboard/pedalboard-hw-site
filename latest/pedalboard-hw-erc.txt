@@ -1,4 +1,4 @@
-ERC report (Mon Oct 16 20:19:50 2023, Encoding UTF8)
+ERC report (Mon Oct 16 21:38:18 2023, Encoding UTF8)
 
 ***** Sheet /
 
@@ -26,12 +26,12 @@ ERC report (Mon Oct 16 20:19:50 2023, Encoding UTF8)
     ; Severity: warning
     @(111.7600 mm, 92.7100 mm): Label 'CM4_GPIO14'
     @(124.4600 mm, 92.7100 mm): Hierarchical Label 'INT_MIDI_TX'
+[lib_symbol_issues]: The current configuration does not include the library '74AHCT1G32SE-7'
+    ; Severity: warning
+    @(255.2700 mm, 50.8000 mm): Symbol U3 [74AHCT1G32SE-7]
 [lib_symbol_issues]: Symbol 'Raspberry_Pi_2_3' has been modified in library 'Connector'
     ; Severity: warning
     @(184.1500 mm, 80.0100 mm): Symbol J8 [Raspberry_Pi_2_3]
-[lib_symbol_issues]: The current configuration does not include the library '74AHCT1G32SE-7'
-    ; Severity: warning
-    @(252.7300 mm, 50.8000 mm): Symbol U3 [74AHCT1G32SE-7]
 
 ***** Sheet /Power Supply/
 [lib_symbol_issues]: The current configuration does not include the library 'FDS4435BZ'
