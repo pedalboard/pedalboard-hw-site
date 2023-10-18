@@ -1,4 +1,4 @@
-ERC report (Tue Oct 17 19:43:28 2023, Encoding UTF8)
+ERC report (Wed Oct 18 10:11:51 2023, Encoding UTF8)
 
 ***** Sheet /
 
@@ -34,12 +34,6 @@ ERC report (Tue Oct 17 19:43:28 2023, Encoding UTF8)
     @(184.1500 mm, 80.0100 mm): Symbol J8 [Raspberry_Pi_2_3]
 
 ***** Sheet /Power Supply/
-[lib_symbol_issues]: The current configuration does not include the library 'FDS4435BZ'
-    ; Severity: warning
-    @(87.6300 mm, 40.6400 mm): Symbol Q1 [FDS4435BZ]
-[lib_symbol_issues]: Symbol 'Barrel_Jack_Switch' has been modified in library 'Connector'
-    ; Severity: warning
-    @(31.7500 mm, 46.9900 mm): Symbol J13 [Barrel_Jack_Switch]
 [multiple_net_names]: Both +5VP and out are attached to the same items; +5VP will be used in the netlist
     ; Severity: warning
     @(152.4000 mm, 119.3800 mm): Symbol #PWR047 Hidden pin 1 [+5VP, Power input, Line]
@@ -50,6 +44,12 @@ ERC report (Tue Oct 17 19:43:28 2023, Encoding UTF8)
 [lib_symbol_issues]: The current configuration does not include the library 'index'
     ; Severity: warning
     @(86.3600 mm, 120.6500 mm): Symbol U12 [TPS54331]
+[lib_symbol_issues]: The current configuration does not include the library 'FDS4435BZ'
+    ; Severity: warning
+    @(87.6300 mm, 40.6400 mm): Symbol Q1 [FDS4435BZ]
+[lib_symbol_issues]: Symbol 'Barrel_Jack_Switch' has been modified in library 'Connector'
+    ; Severity: warning
+    @(31.7500 mm, 46.9900 mm): Symbol J13 [Barrel_Jack_Switch]
 
 ***** Sheet /LEDs/
 [lib_symbol_issues]: The current configuration does not include the library '74AHCT1G32SE-7'
