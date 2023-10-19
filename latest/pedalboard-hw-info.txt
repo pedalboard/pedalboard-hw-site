@@ -1,12 +1,12 @@
 KiBot installation checker
 
 Core:
-Linux: 6.2.0.1012 (Linux c05aab6f3020 6.2.0-1012-azure #12~22.04.1-Ubuntu SMP Thu Sep  7 14:07:14 UTC 2023 x86_64 GNU/Linux)
+Linux: 6.2.0.1014 (Linux 0d69d44e1b07 6.2.0-1014-azure #14~22.04.1-Ubuntu SMP Wed Sep 13 16:15:26 UTC 2023 x86_64 GNU/Linux)
   /usr/bin/uname
 Python: 3.11.2 (main, Mar 13 2023, 12:18:29) [GCC 12.2.0]
   /usr/lib/python3.11/os.py
   /usr/bin/python3
-KiCad: 7.0.7-7.0.7~ubuntu23.04.1
+KiCad: 7.0.8-7.0.8~ubuntu23.04.1
   /usr/lib/python3/dist-packages/pcbnew.py
   /usr/bin/kicad
 Kibot: 1.6.3
@@ -121,7 +121,6 @@ KICAD7_3RD_PARTY
 KICAD7_FOOTPRINT_DIR
 KICAD7_SYMBOL_DIR
 KICAD7_TEMPLATE_DIR
-KICAD_USER_TEMPLATE_DIR
 KIPRJMOD
 KISYSMOD
 LC_CTYPE
@@ -142,7 +141,7 @@ Installed at: /usr/bin/pcbnew_do
 Using kiauto module from: /usr/lib/python3/dist-packages/kiauto
 Interpreted by Python: /usr/bin/python3 (v3.11.2 (main, Mar 13 2023, 12:18:29) [GCC 12.2.0])
 Tools:
-- kicad: /usr/bin/kicad (v7.0.7-7.0.7~ubuntu23.04.1)
+- kicad: /usr/bin/kicad (v7.0.8-7.0.8~ubuntu23.04.1)
 - xdotool: /usr/bin/xdotool
 - recordmydesktop: /usr/bin/recordmydesktop
 - xsltproc: /usr/bin/xsltproc

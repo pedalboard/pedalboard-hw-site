@@ -1,12 +1,10 @@
-### Module positions - created on Wed 18 Oct 2023 10:45:18  ###
+### Module positions - created on Thu 19 Oct 2023 14:12:08  ###
 ### Printed by KiBot
 ## Unit = mm, Angle = deg.
 ## Side : bottom
 # Ref    Val                       Package                                                                PosX       PosY       Rot        Side  
 J4       RGB_LED_EXT               JST_XH_B3B-XH-A_1x03_P2.50mm_Vertical                                  24.8944    3.8944     180.0000   bottom
-J5       Pico USB TP               Spring_Loaded_Pins_2mm                                                 108.9944   82.9944    180.0000   bottom
 J8       HiFi Berry                HiFi Berry DAC ADC+                                                    102.2444   62.6188    180.0000   bottom
 J24      EXT-MIDI                  JST_XH_B3B-XH-A_1x03_P2.50mm_Vertical                                  31.5944    102.5194   180.0000   bottom
 J25      EXT-MIDI                  JST_XH_B3B-XH-A_1x03_P2.50mm_Vertical                                  31.5944    94.7694    180.0000   bottom
-U1       Pico                      RPi_Pico_SMD_TH                                                        84.9944    81.9944    90.0000    bottom
 ## End
