@@ -1190,7 +1190,7 @@ LINE 0.232283 0.100394 -0.26378 0.100394
 PIN "1" PAD28 -0.177165 0 TOP 0 0
 PIN "2" PAD28 0.177165 0 TOP 0 0
 
-SHAPE "Package_SO:SOIC-8_5.23x5.23mm_P1.27mm"
+SHAPE "Pedalboard Library:SOIC-8_5.23x5.23mm_P1.27mm"
 INSERT SMD
 LINE -0.107283 0.107283 -0.107283 0.0970472
 LINE -0.107283 0.0970472 -0.173228 0.0970472
@@ -2626,12 +2626,12 @@ TEXT 0 -0.29252 0.0393701 0 0 SILKSCREEN_TOP "C" 0 0 0.0393701 0.0393701
 SHEET "RefDes: SW6, Value: C"
 
 COMPONENT "U1"
-DEVICE "DEV_Package_SO:SOIC-8_5.23x5.23mm_P1.27mm"
+DEVICE "DEV_Pedalboard Library:SOIC-8_5.23x5.23mm_P1.27mm"
 PLACE 3.91732 -2.06496
 LAYER TOP
 ROTATION 90
-SHAPE "Package_SO:SOIC-8_5.23x5.23mm_P1.27mm" 0 0
-TEXT -0.212598 0.042126 0.0393701 -90 0 SILKSCREEN_TOP "U1" 0 0 0.0787402 0.0393701
+SHAPE "Pedalboard Library:SOIC-8_5.23x5.23mm_P1.27mm" 0 0
+TEXT 0 0.140157 0.0393701 0 0 SILKSCREEN_TOP "U1" 0 0 0.0787402 0.0393701
 TEXT 0 -0.140157 0.0393701 0 0 SILKSCREEN_TOP "W25Q128JVS" 0 0 0.393701 0.0393701
 SHEET "RefDes: U1, Value: W25Q128JVS"
 
@@ -2918,21 +2918,25 @@ $ENDCOMPONENTS
 
 $DEVICES
 
+DEVICE "DEV_Resistor_SMD:R_0805_2012Metric"
+PART "DNF"
+PACKAGE "Resistor_SMD:R_0805_2012Metric"
+
+DEVICE "DEV_Pedalboard Library:BarrelJack_Wuerth_6941xx301002"
+PART "Barrel_Jack_MountingPin"
+PACKAGE "Pedalboard Library:BarrelJack_Wuerth_6941xx301002"
+
+DEVICE "DEV_Pedalboard Library:Jack_6.35mm_Horizontal_0"
+PART "Audio OUT Left"
+PACKAGE "Pedalboard Library:Jack_6.35mm_Horizontal"
+
 DEVICE "DEV_Pedalboard Library:Jack_3.5mm_CUI_SJ1-3525N_Horizontal"
 PART "MIDI OUT J"
 PACKAGE "Pedalboard Library:Jack_3.5mm_CUI_SJ1-3525N_Horizontal"
 
-DEVICE "DEV_Capacitor_SMD:C_0805_2012Metric"
+DEVICE "DEV_Capacitor_SMD:C_0805_2012Metric_1"
 PART "100n"
 PACKAGE "Capacitor_SMD:C_0805_2012Metric"
-
-DEVICE "DEV_MountingHole:MountingHole_2.7mm_M2.5_DIN965"
-PART "MountingHole"
-PACKAGE "MountingHole:MountingHole_2.7mm_M2.5_DIN965"
-
-DEVICE "DEV_Fiducial:Fiducial_1.5mm_Mask3mm"
-PART "Fiducial"
-PACKAGE "Fiducial:Fiducial_1.5mm_Mask3mm"
 
 DEVICE "DEV_Resistor_SMD:R_0805_2012Metric_0"
 PART "12k1"
@@ -2942,13 +2946,9 @@ DEVICE "DEV_Diode_SMD:D_SMA"
 PART "SS34HF"
 PACKAGE "Diode_SMD:D_SMA"
 
-DEVICE "DEV_Resistor_SMD:R_0805_2012Metric"
-PART "DNF"
-PACKAGE "Resistor_SMD:R_0805_2012Metric"
-
-DEVICE "DEV_Package_SO:SOIC-8_3.9x4.9mm_P1.27mm"
-PART "TPS54331"
-PACKAGE "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm"
+DEVICE "DEV_Capacitor_SMD:C_0805_2012Metric"
+PART "100n"
+PACKAGE "Capacitor_SMD:C_0805_2012Metric"
 
 DEVICE "DEV_Capacitor_SMD:C_0805_2012Metric_0"
 PART "100n"
@@ -2958,17 +2958,17 @@ DEVICE "DEV_Pedalboard Library:Jack_6.35mm_Horizontal"
 PART "EXP2"
 PACKAGE "Pedalboard Library:Jack_6.35mm_Horizontal"
 
-DEVICE "DEV_Pedalboard Library:Jack_6.35mm_Horizontal_0"
-PART "Audio OUT Left"
-PACKAGE "Pedalboard Library:Jack_6.35mm_Horizontal"
+DEVICE "DEV_Package_SO:SOIC-8_3.9x4.9mm_P1.27mm"
+PART "TPS54331"
+PACKAGE "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm"
 
-DEVICE "DEV_Pedalboard Library:BarrelJack_Wuerth_6941xx301002"
-PART "Barrel_Jack_MountingPin"
-PACKAGE "Pedalboard Library:BarrelJack_Wuerth_6941xx301002"
+DEVICE "DEV_Fiducial:Fiducial_1.5mm_Mask3mm"
+PART "Fiducial"
+PACKAGE "Fiducial:Fiducial_1.5mm_Mask3mm"
 
-DEVICE "DEV_Capacitor_SMD:C_0805_2012Metric_1"
-PART "100n"
-PACKAGE "Capacitor_SMD:C_0805_2012Metric"
+DEVICE "DEV_MountingHole:MountingHole_2.7mm_M2.5_DIN965"
+PART "MountingHole"
+PACKAGE "MountingHole:MountingHole_2.7mm_M2.5_DIN965"
 
 DEVICE "DEV_Package_TO_SOT_SMD:SOT-223-3_TabPin2"
 PART "NCP1117-3.3_SOT223"
@@ -3094,9 +3094,9 @@ DEVICE "DEV_Pedalboard Library:Crystal_SMD_HC49-US"
 PART "ABLS-12.000MHZ-B4-T"
 PACKAGE "Pedalboard Library:Crystal_SMD_HC49-US"
 
-DEVICE "DEV_Package_SO:SOIC-8_5.23x5.23mm_P1.27mm"
+DEVICE "DEV_Pedalboard Library:SOIC-8_5.23x5.23mm_P1.27mm"
 PART "W25Q128JVS"
-PACKAGE "Package_SO:SOIC-8_5.23x5.23mm_P1.27mm"
+PACKAGE "Pedalboard Library:SOIC-8_5.23x5.23mm_P1.27mm"
 
 DEVICE "DEV_Pedalboard Library:Raspberry-Pi-4-Compute-Module"
 PART "ComputeModule4-CM4"

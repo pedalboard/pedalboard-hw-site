@@ -1,7 +1,7 @@
 (export (version "E")
   (design
     (source "/__w/pedalboard-hw/pedalboard-hw/pedalboard-hw.kicad_sch")
-    (date "Thu Oct 19 15:11:59 2023")
+    (date "Thu Oct 19 15:28:58 2023")
     (tool "Eeschema 7.0.8-7.0.8~ubuntu23.04.1")
     (sheet (number "1") (name "/") (tstamps "/")
       (title_block
@@ -820,7 +820,7 @@
       (tstamps "bb5b798c-1834-4420-a1b7-233d6852de33"))
     (comp (ref "U1")
       (value "W25Q128JVS")
-      (footprint "Package_SO:SOIC-8_5.23x5.23mm_P1.27mm")
+      (footprint "Pedalboard Library:SOIC-8_5.23x5.23mm_P1.27mm")
       (datasheet "http://www.winbond.com/resource-files/w25q128jv_dtr%20revc%2003272018%20plus.pdf")
       (libsource (lib "RP2040_minimal-rescue") (part "W25Q128JVS-Memory_Flash") (description ""))
       (property (name "Sheetname") (value "MIDI"))
