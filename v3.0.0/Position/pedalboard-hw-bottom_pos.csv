@@ -1,0 +1,5 @@
+Ref,Val,Package,PosX,PosY,Rot,Side
+"J23","EXT-MIDI","JST_XH_B3B-XH-A_1x03_P2.50mm_Vertical",31.5944,102.5194,180.0000,bottom
+"J24","EXT-MIDI","JST_XH_B3B-XH-A_1x03_P2.50mm_Vertical",31.5944,94.7694,180.0000,bottom
+"J25","HiFi Berry","HiFi Berry DAC ADC+",102.2444,62.6188,180.0000,bottom
+"J26","RGB_LED_EXT","JST_XH_B3B-XH-A_1x03_P2.50mm_Vertical",24.8944,3.8944,180.0000,bottom
