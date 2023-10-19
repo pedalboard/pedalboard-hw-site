@@ -45,7 +45,6 @@ Designator,Val,Package,Mid X,Mid Y,Rotation,Layer
 "F1","Polyfuse 1.8A","Fuse_1812_4532Metric",148.0644,103.2844,180.0000,top
 "FID1","Fiducial","Fiducial_1.5mm_Mask3mm",6.9944,107.9944,0.0000,top
 "FID2","Fiducial","Fiducial_1.5mm_Mask3mm",166.9944,2.9944,0.0000,top
-"J7","USB_B_Micro","USB_Micro-B_Amphenol_10104110_Horizontal",56.9344,75.1944,180.0000,top
 "L1","120_100MHz","L_0603_1608Metric",24.6944,102.4944,90.0000,top
 "L2","120_100MHz","L_0603_1608Metric",24.6944,99.2444,-90.0000,top
 "L3","120_100MHz","L_0603_1608Metric",34.6944,95.3319,0.0000,top

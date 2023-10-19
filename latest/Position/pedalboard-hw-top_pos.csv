@@ -51,7 +51,7 @@ Ref,Val,Package,PosX,PosY,Rot,Side
 "J3","EXP1","Jack_6.35mm_Horizontal",157.6094,97.1944,0.0000,top
 "J5","Conn_01x02","PinHeader_1x02_P2.54mm_Vertical",70.5944,76.9944,90.0000,top
 "J6","Debug","PinHeader_1x03_P2.54mm_Vertical",89.2194,49.6944,-90.0000,top
-"J7","USB_B_Micro","USB_Micro-B_Amphenol_10104110_Horizontal",56.9344,75.1944,180.0000,top
+"J7","USB_B_Micro","USB_Micro-B_Wuerth_614105150721_Vertical",63.5344,74.7044,180.0000,top
 "J9","Audio IN Right","Jack_6.35mm_Horizontal",157.5944,56.2144,0.0000,top
 "J10","Audio IN Left","Jack_6.35mm_Horizontal",157.5944,35.9994,0.0000,top
 "J11","Audio OUT Right","Jack_6.35mm_Horizontal",16.3944,39.9944,180.0000,top

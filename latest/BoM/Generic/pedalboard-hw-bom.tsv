@@ -23,7 +23,7 @@ Row	Description	Part	References	Value	Footprint	Quantity Per PCB	Status	Datashee
 22	Audio Jack, 3 Poles (Stereo / TRS), Switched TR Poles (Normalling)	AudioJack3_SwitchTR	J16 J17	MIDI OUT J	Jack_3.5mm_CUI_SJ1-3525N_Horizontal	2	 	https://www.cuidevices.com/product/resource/sj1-352xng.pdf				https://www.digikey.ch/de/products/detail/cui-devices/SJ1-3525NG/738690
 23	5-pin DIN connector (5-pin DIN-5 stereo)	DIN-5_180degree	J1 J2	MIDI_OUT	CP-2350	2	 	https://www.switchcraft.com/assets/1/24/57PC5F_CD.pdf				https://www.digikey.ch/de/products/detail/switchcraft-inc/57PC5F/275385
 24	Generic connector, single row, 01x03, script generated	Conn_01x03_Pin	J4 J24 J25	RGB_LED_EXT	JST_XH_B3B-XH-A_1x03_P2.50mm_Vertical	3	 	https://www.we-online.com/components/products/datasheet/6130xx11021.pdf				https://www.digikey.ch/de/products/detail/w%C3%BCrth-elektronik/61300311021/4846824
-25		USB_B_Micro-Connector	J7	USB_B_Micro	USB_Micro-B_Amphenol_10104110_Horizontal	1	 	~				
+25		USB_B_Micro-Connector	J7	USB_B_Micro	USB_Micro-B_Wuerth_614105150721_Vertical	1	 	~				
 26	Inductor	L	L5	12u	L_Coilcraft_XAL6030-XXX	1	 	~	ASPI-6045S-120M-TCT-ND	815-ASPI-6045S-120MT		
 27	Inductor with ferrite core	L_Ferrite	L1 L2 L3 L4	120_100MHz	L_0603_1608Metric	4	 	https://www.murata.com/products/productdata/8796738650142/ENFA0003.pdf				https://www.digikey.ch/de/products/detail/murata-electronics/BLM18KG121TN1D/1982762
 28		FDS4435BZ	Q1	FDS4435BZ	SO08-E3	1	 	https://rocelec.widen.net/view/pdf/rwygqx6rjd/FAIRS27615-1.pdf				https://www.digikey.ch/de/products/detail/onsemi/FDS4435BZ/1305763
@@ -63,7 +63,7 @@ Date:	2023-09-10
 KiCad Version:	7.0.8-7.0.8~ubuntu23.04.1
 Statistics:
 Component Groups:	53
-Component Count:	107 (81 SMD/ 24 THT)
-Fitted Components:	104 (80 SMD/ 22 THT)
+Component Count:	107 (80 SMD/ 25 THT)
+Fitted Components:	104 (79 SMD/ 23 THT)
 Number of PCBs:	1
 Total Components:	104

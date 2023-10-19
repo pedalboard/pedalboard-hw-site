@@ -1,7 +1,7 @@
 (export (version "E")
   (design
     (source "/__w/pedalboard-hw/pedalboard-hw/pedalboard-hw.kicad_sch")
-    (date "Thu Oct 19 14:08:54 2023")
+    (date "Thu Oct 19 15:11:59 2023")
     (tool "Eeschema 7.0.8-7.0.8~ubuntu23.04.1")
     (sheet (number "1") (name "/") (tstamps "/")
       (title_block
@@ -1330,7 +1330,7 @@
       (tstamps "7fc062c8-6441-4bfc-b7a5-c2f88fb6cc13"))
     (comp (ref "J7")
       (value "USB_B_Micro")
-      (footprint "Connector_USB:USB_Micro-B_Amphenol_10104110_Horizontal")
+      (footprint "Pedalboard Library:USB_Micro-B_Wuerth_614105150721_Vertical")
       (libsource (lib "RP2040_minimal-rescue") (part "USB_B_Micro-Connector") (description ""))
       (property (name "Sheetname") (value "Power Supply"))
       (property (name "Sheetfile") (value "psu.kicad_sch"))

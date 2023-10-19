@@ -177,7 +177,7 @@ endobj
 >>
 endobj
 210 0 obj
-<</S /GoTo /D [132 0 R /FitR 226 539 369 492]
+<</S /GoTo /D [132 0 R /FitR 226 541 369 492]
 >>
 endobj
 212 0 obj
@@ -201,7 +201,7 @@ endobj
 >>
 endobj
 222 0 obj
-<</S /GoTo /D [132 0 R /FitR 197 454 227 424]
+<</S /GoTo /D [132 0 R /FitR 213 446 241 426]
 >>
 endobj
 224 0 obj
@@ -325,11 +325,11 @@ endobj
 >>
 endobj
 284 0 obj
-<</S /GoTo /D [132 0 R /FitR 266 386 282 376]
+<</S /GoTo /D [132 0 R /FitR 270 393 282 376]
 >>
 endobj
 286 0 obj
-<</S /GoTo /D [132 0 R /FitR 259 386 275 376]
+<</S /GoTo /D [132 0 R /FitR 263 394 275 376]
 >>
 endobj
 288 0 obj
@@ -867,7 +867,7 @@ endobj
 42 0 obj
 << /Type /Annot
    /Subtype /Link
-   /Rect [226.205 492.186 369.638 539.099]
+   /Rect [226.205 492.186 369.638 541.964]
    /Border [16 16 0]
    /A << /Type /Action /S /JavaScript /JS (var aParams = [ { cName: 'Reference designator = H12', cReturn: null }, { cName: 'Value = Midi Bites', cReturn: null }, { cName: 'Sheetfile = pico.kicad_sch', cReturn: null }, { cName: 'Sheetname = MIDI', cReturn: null }, { cName: 'ki_description = Mounting Hole without connection', cReturn: null }, { cName: 'ki_keywords = mounting hole', cReturn: null }, { cName: 'Footprint = Pedalboard Library:MIDI bites', cReturn: null }, { cName: 'Description = ', cReturn: null }, { cName: 'Keywords = ', cReturn: null }, ]; var cChoice = app.popUpMenuEx.apply\( app, aParams \); if\( cChoice != null && cChoice.substring\( 0, 1 \) == '#' \)    this.pageNum = parseInt\( cChoice.slice\( 1 \) \); else if\( cChoice != null && cChoice.substring\( 0, 4 \) == 'http' \)    app.launchURL\( cChoice \);) >>
 >>
@@ -915,9 +915,9 @@ endobj
 48 0 obj
 << /Type /Annot
    /Subtype /Link
-   /Rect [197.05 424.655 227.806 454.693]
+   /Rect [213.599 426.299 241.305 446.415]
    /Border [16 16 0]
-   /A << /Type /Action /S /JavaScript /JS (var aParams = [ { cName: 'Reference designator = J7', cReturn: null }, { cName: 'Value = USB_B_Micro', cReturn: null }, { cName: 'Sheetfile = psu.kicad_sch', cReturn: null }, { cName: 'Sheetname = Power Supply', cReturn: null }, { cName: 'Footprint = Connector_USB:USB_Micro-B_Amphenol_10104110_Horizontal', cReturn: null }, { cName: 'Description = USB Micro-B, horizontal, https://cdn.amphenol-icc.com/media/wysiwyg/files/drawing/10104110.pdf', cReturn: 'https://cdn.amphenol-icc.com/media/wysiwyg/files/drawing/10104110.pdf' }, { cName: 'Keywords = USB Micro B horizontal', cReturn: null }, ]; var cChoice = app.popUpMenuEx.apply\( app, aParams \); if\( cChoice != null && cChoice.substring\( 0, 1 \) == '#' \)    this.pageNum = parseInt\( cChoice.slice\( 1 \) \); else if\( cChoice != null && cChoice.substring\( 0, 4 \) == 'http' \)    app.launchURL\( cChoice \);) >>
+   /A << /Type /Action /S /JavaScript /JS (var aParams = [ { cName: 'Reference designator = J7', cReturn: null }, { cName: 'Value = USB_B_Micro', cReturn: null }, { cName: 'Sheetfile = psu.kicad_sch', cReturn: null }, { cName: 'Sheetname = Power Supply', cReturn: null }, { cName: 'Footprint = Pedalboard Library:USB_Micro-B_Wuerth_614105150721_Vertical', cReturn: null }, { cName: 'Description = USB Micro-B receptacle, through-hole, vertical, http://katalog.we-online.de/em/datasheet/614105150721.pdf', cReturn: 'http://katalog.we-online.de/em/datasheet/614105150721.pdf' }, { cName: 'Keywords = usb micro receptacle vertical', cReturn: null }, ]; var cChoice = app.popUpMenuEx.apply\( app, aParams \); if\( cChoice != null && cChoice.substring\( 0, 1 \) == '#' \)    this.pageNum = parseInt\( cChoice.slice\( 1 \) \); else if\( cChoice != null && cChoice.substring\( 0, 4 \) == 'http' \)    app.launchURL\( cChoice \);) >>
 >>
 endobj
 49 0 obj
@@ -1060,9 +1060,9 @@ endobj
 66 0 obj
 << /Type /Annot
    /Subtype /Link
-   /Rect [440.262 504.665 463.152 526.258]
+   /Rect [440.024 504.665 463.152 526.258]
    /Border [16 16 0]
-   /A << /Type /Action /S /JavaScript /JS (var aParams = [ { cName: 'Reference designator = Q1', cReturn: null }, { cName: 'Value = FDS4435BZ', cReturn: null }, { cName: 'Sheetfile = psu.kicad_sch', cReturn: null }, { cName: 'Sheetname = Power Supply', cReturn: null }, { cName: 'Supplier = https://www.digikey.ch/de/products/detail/onsemi/FDS4435BZ/1305763', cReturn: 'https://www.digikey.ch/de/products/detail/onsemi/FDS4435BZ/1305763' }, { cName: 'Footprint = Pedalboard Library:SO08-E3', cReturn: null }, { cName: 'Description = <b>SMALL OUTLINE INTEGRATED CIRCUIT</b><p>body 3.9 mm/JEDEC MS-012AA<p>\\u0028combined pins variation\\u0029', cReturn: null }, { cName: 'Keywords = ', cReturn: null }, ]; var cChoice = app.popUpMenuEx.apply\( app, aParams \); if\( cChoice != null && cChoice.substring\( 0, 1 \) == '#' \)    this.pageNum = parseInt\( cChoice.slice\( 1 \) \); else if\( cChoice != null && cChoice.substring\( 0, 4 \) == 'http' \)    app.launchURL\( cChoice \);) >>
+   /A << /Type /Action /S /JavaScript /JS (var aParams = [ { cName: 'Reference designator = Q1', cReturn: null }, { cName: 'Value = FDS4435BZ', cReturn: null }, { cName: 'Sheetfile = psu.kicad_sch', cReturn: null }, { cName: 'Sheetname = Power Supply', cReturn: null }, { cName: 'Supplier = https://www.digikey.ch/de/products/detail/onsemi/FDS4435BZ/1305763', cReturn: 'https://www.digikey.ch/de/products/detail/onsemi/FDS4435BZ/1305763' }, { cName: 'Footprint = Pedalboard Library:SO08-E3', cReturn: null }, { cName: 'Description = SMALL OUTLINE INTEGRATED CIRCUIT body 3.9 mm/JEDEC MS-012AA \\u0028combined pins variation\\u0029', cReturn: null }, { cName: 'Keywords = ', cReturn: null }, ]; var cChoice = app.popUpMenuEx.apply\( app, aParams \); if\( cChoice != null && cChoice.substring\( 0, 1 \) == '#' \)    this.pageNum = parseInt\( cChoice.slice\( 1 \) \); else if\( cChoice != null && cChoice.substring\( 0, 4 \) == 'http' \)    app.launchURL\( cChoice \);) >>
 >>
 endobj
 67 0 obj
@@ -1164,7 +1164,7 @@ endobj
 79 0 obj
 << /Type /Annot
    /Subtype /Link
-   /Rect [266.887 376.532 282.184 386.028]
+   /Rect [270.78 376.532 282.184 393.9]
    /Border [16 16 0]
    /A << /Type /Action /S /JavaScript /JS (var aParams = [ { cName: 'Reference designator = JP3', cReturn: null }, { cName: 'Value = SJP', cReturn: null }, { cName: 'Sheetfile = pico.kicad_sch', cReturn: null }, { cName: 'Sheetname = MIDI', cReturn: null }, { cName: 'ki_description = Solder Jumper, 2-pole, closed/bridged', cReturn: null }, { cName: 'ki_keywords = solder jumper SPST', cReturn: null }, { cName: 'Footprint = Jumper:SolderJumper-2_P1.3mm_Bridged_RoundedPad1.0x1.5mm', cReturn: null }, { cName: 'Description = SMD Solder Jumper, 1x1.5mm, rounded Pads, 0.3mm gap, bridged with 1 copper strip', cReturn: null }, { cName: 'Keywords = net tie solder jumper bridged', cReturn: null }, ]; var cChoice = app.popUpMenuEx.apply\( app, aParams \); if\( cChoice != null && cChoice.substring\( 0, 1 \) == '#' \)    this.pageNum = parseInt\( cChoice.slice\( 1 \) \); else if\( cChoice != null && cChoice.substring\( 0, 4 \) == 'http' \)    app.launchURL\( cChoice \);) >>
 >>
@@ -1172,7 +1172,7 @@ endobj
 80 0 obj
 << /Type /Annot
    /Subtype /Link
-   /Rect [259.8 376.532 275.097 386.028]
+   /Rect [263.693 376.532 275.097 394.212]
    /Border [16 16 0]
    /A << /Type /Action /S /JavaScript /JS (var aParams = [ { cName: 'Reference designator = JP4', cReturn: null }, { cName: 'Value = SJP', cReturn: null }, { cName: 'Sheetfile = pico.kicad_sch', cReturn: null }, { cName: 'Sheetname = MIDI', cReturn: null }, { cName: 'ki_description = Solder Jumper, 2-pole, closed/bridged', cReturn: null }, { cName: 'ki_keywords = solder jumper SPST', cReturn: null }, { cName: 'Footprint = Jumper:SolderJumper-2_P1.3mm_Bridged_RoundedPad1.0x1.5mm', cReturn: null }, { cName: 'Description = SMD Solder Jumper, 1x1.5mm, rounded Pads, 0.3mm gap, bridged with 1 copper strip', cReturn: null }, { cName: 'Keywords = net tie solder jumper bridged', cReturn: null }, ]; var cChoice = app.popUpMenuEx.apply\( app, aParams \); if\( cChoice != null && cChoice.substring\( 0, 1 \) == '#' \)    this.pageNum = parseInt\( cChoice.slice\( 1 \) \); else if\( cChoice != null && cChoice.substring\( 0, 4 \) == 'http' \)    app.launchURL\( cChoice \);) >>
 >>
@@ -1590,7 +1590,7 @@ endobj
 392 0 obj
 <<
 /Producer (KiCad PDF)
-/CreationDate (D:20231019141207)
+/CreationDate (D:20231019151515)
 /Creator (PCBNEW)
 /Title (pedalboard-hw-B_Courtyard.pdf)
 >>
@@ -2687,38 +2687,38 @@ xref
 0000067181 00000 n 
 0000068406 00000 n 
 0000069977 00000 n 
-0000071008 00000 n 
-0000072065 00000 n 
-0000073520 00000 n 
-0000075284 00000 n 
-0000076341 00000 n 
-0000077600 00000 n 
-0000079151 00000 n 
-0000080916 00000 n 
-0000082664 00000 n 
-0000083970 00000 n 
-0000085359 00000 n 
-0000086584 00000 n 
-0000087811 00000 n 
-0000089384 00000 n 
-0000090955 00000 n 
-0000092344 00000 n 
-0000094109 00000 n 
-0000095682 00000 n 
-0000096780 00000 n 
-0000098129 00000 n 
-0000099275 00000 n 
-0000100742 00000 n 
-0000101969 00000 n 
-0000103062 00000 n 
-0000104419 00000 n 
-0000106212 00000 n 
-0000107382 00000 n 
-0000108837 00000 n 
-0000110406 00000 n 
-0000111758 00000 n 
-0000112965 00000 n 
-0000114057 00000 n 
+0000071020 00000 n 
+0000072077 00000 n 
+0000073532 00000 n 
+0000075296 00000 n 
+0000076353 00000 n 
+0000077612 00000 n 
+0000079163 00000 n 
+0000080928 00000 n 
+0000082676 00000 n 
+0000083982 00000 n 
+0000085371 00000 n 
+0000086596 00000 n 
+0000087823 00000 n 
+0000089396 00000 n 
+0000090967 00000 n 
+0000092356 00000 n 
+0000094121 00000 n 
+0000095694 00000 n 
+0000096781 00000 n 
+0000098130 00000 n 
+0000099276 00000 n 
+0000100743 00000 n 
+0000101970 00000 n 
+0000103063 00000 n 
+0000104420 00000 n 
+0000106213 00000 n 
+0000107383 00000 n 
+0000108838 00000 n 
+0000110407 00000 n 
+0000111759 00000 n 
+0000112966 00000 n 
+0000114055 00000 n 
 0000115147 00000 n 
 0000116240 00000 n 
 0000117600 00000 n 
