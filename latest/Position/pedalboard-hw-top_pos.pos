@@ -1,4 +1,4 @@
-### Module positions - created on Thu 19 Oct 2023 15:32:15  ###
+### Module positions - created on Thu 19 Oct 2023 17:19:35  ###
 ### Printed by KiBot
 ## Unit = mm, Angle = deg.
 ## Side : top
@@ -69,6 +69,7 @@ J20      LED-Ring                  Led-Ring                                     
 J21      LED-Ring                  Led-Ring                                                               87.9944    52.9944    180.0000   top   
 J22      LED-Ring                  Led-Ring                                                               10.9944    74.9944    0.0000     top   
 J23      LED-Ring                  Led-Ring                                                               12.9944    0.9944     180.0000   top   
+J26      Screw_Terminal_01x02      TerminalBlock_Phoenix_MKDS-1,5-2_1x02_P5.00mm_Horizontal               160.4944   102.7844   90.0000    top   
 L1       120_100MHz                L_0603_1608Metric                                                      24.6944    102.4944   90.0000    top   
 L2       120_100MHz                L_0603_1608Metric                                                      24.6944    99.2444    -90.0000   top   
 L3       120_100MHz                L_0603_1608Metric                                                      34.6944    95.3319    0.0000     top   
@@ -86,7 +87,7 @@ R8       10k                       R_0805_2012Metric                            
 R9       1k91                      R_0805_2012Metric                                                      134.8944   77.4944    90.0000    top   
 R10      27                        R_0805_2012Metric                                                      80.1344    84.6344    0.0000     top   
 R11      27                        R_0805_2012Metric                                                      80.1344    86.5344    0.0000     top   
-R12      1K                        R_0805_2012Metric                                                      153.3344   100.1644   0.0000     top   
+R12      1K                        R_0805_2012Metric                                                      153.0944   100.1644   0.0000     top   
 R13      1K                        R_0805_2012Metric                                                      35.0544    91.1344    180.0000   top   
 R14      1k                        R_0805_2012Metric                                                      98.6944    78.4944    0.0000     top   
 R15      1k                        R_0805_2012Metric                                                      76.9319    79.1444    0.0000     top   
