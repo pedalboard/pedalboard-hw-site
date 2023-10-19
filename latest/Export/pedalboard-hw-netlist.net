@@ -1,7 +1,7 @@
 (export (version "E")
   (design
     (source "/__w/pedalboard-hw/pedalboard-hw/pedalboard-hw.kicad_sch")
-    (date "Thu Oct 19 18:34:37 2023")
+    (date "Thu Oct 19 19:35:03 2023")
     (tool "Eeschema 7.0.8-7.0.8~ubuntu23.04.1")
     (sheet (number "1") (name "/") (tstamps "/")
       (title_block
@@ -1612,7 +1612,7 @@
     (comp (ref "Q1")
       (value "FDS4435BZ")
       (footprint "Pedalboard Library:SO08-E3")
-      (datasheet "https://rocelec.widen.net/view/pdf/rwygqx6rjd/FAIRS27615-1.pdf")
+      (datasheet "https://rocelec.widen.net/view/pdf/rwygqx6rjd/FAIRS27615-1.pdf?t.download=true")
       (fields
         (field (name "Supplier") "https://www.digikey.ch/de/products/detail/onsemi/FDS4435BZ/1305763"))
       (libsource (lib "FDS4435BZ") (part "FDS4435BZ") (description ""))
@@ -1698,7 +1698,7 @@
     (comp (ref "U6")
       (value "TPS54331")
       (footprint "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm")
-      (datasheet "https://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=https%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Ftps54331")
+      (datasheet "https://www.ti.com/lit/ds/symlink/tps54331.pdf?HQS=dis-dk-null-digikeymode-dsf-pf-null-wwe&ts=1697733027064")
       (fields
         (field (name "Digikey") "296-26991-1-ND")
         (field (name "Mouser") "595-TPS54331DR")

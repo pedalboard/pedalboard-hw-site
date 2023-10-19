@@ -37,7 +37,7 @@ See https://github.com/adobe-type-tools/cmap-resources
     <script src="/vendor/pdfjs2/build/pdf.js?v=dfc13af5"></script>
 
     <script type="text/javascript">
-        window.viewerPdfUrl = 'https://previews.us-east-1.widencdn.net/preview/46485696/assets/asset-view/ad8e69ac-ba38-47a1-b30b-7cc0b1aae6de/pdf/bnVsbA==/FAIRS27615-1?Expires=1697745600&Signature=GTFoKHEEWc8y~TLYQRs02o3pe8NGDQ3uzD4Mu19qDHtZQBEEjj3FMCwgTilBpEwIj4QcIbeyquPsFQGS2T55XmCBhfccH~KRjjp4JgtpCv42GzWT5qdchFvJ3YHz0p4PunYijJRZxBcyi1na2bv6iXOsn2oRn2jtkJgdXqCsh16E3oFtzMqu5OJWY9jp4b8oiyMS48~~H0VG22Igl5rFzOqSYmT9uhNTw4Imf0ZocpPKl4Wv3mat4H38tE1pZFIcVfNIIY56DeuTyy4AvB8hWHrAS~7E5WhFnF3P5rHVJiga4Uy0e9FfC~zdKcHpFQBlaYS8Pj18jbNf1MJDUAXBcw__&Key-Pair-Id=APKAJM7FVRD2EPOYUXBQ';
+        window.viewerPdfUrl = 'https://previews.us-east-1.widencdn.net/preview/46485696/assets/asset-view/ad8e69ac-ba38-47a1-b30b-7cc0b1aae6de/pdf/bnVsbA==/FAIRS27615-1?Expires=1697749200&Signature=fhG9YdnMOqAJtegqT9qZM-2soE1oDe0WxUxKuL8zqceySTx8SjVhQNuTyr1UYRpUTJXOkGWAYdw7b-bYBTDZzJPNsBNIm933verNHmJV8fStZawanTa5fx6fRNWi4bGC8xXV2cZlMf-pLkzuZ7rdqMVfpVYb66fdsAYjd3kO4rXXIWCMz9ehbDS8mmtpbZ~UYaySq1d4ttKslpYvyVhuvvbypTObX9JOnWlttEjCKK95QxU30MAWDsQiDM7LOcBPfLDtZ~ukzo-R8vONfe6Wevv1qtfPVapdsVz5z64sJHHgd0poB9aElACl1~wmK-DXx6~DgCGAVyVqKcdsGkdsgA__&Key-Pair-Id=APKAJM7FVRD2EPOYUXBQ';
       window.viewerPdfTitle = 'FAIRS27615-1.pdf';
 
 
@@ -263,6 +263,9 @@ See https://github.com/adobe-type-tools/cmap-resources
                   <span data-l10n-id="print_label">Print</span>
                 </button>
 
+                  <a id="download" href="/content/rwygqx6rjd/original/FAIRS27615-1.pdf?download=true" class="toolbarButton download hiddenMediumView" title="Download" tabindex="34" data-l10n-id="download">
+                    <span data-l10n-id="download_label">Download</span>
+                  </a>
                 <!-- Render hidden download button here to prevent javascript from erroring -->
                 <button style="display: none" id="download-button" class="toolbarButton download hiddenMediumView" title="Download" tabindex="34" data-l10n-id="download">
                   <span data-l10n-id="download_label">Download</span>
