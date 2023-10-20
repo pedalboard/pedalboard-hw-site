@@ -2,7 +2,7 @@ $HEADER
 GENCAD 1.4
 USER "pcbnew 7.0.8-7.0.8~ubuntu23.04.1"
 DRAWING "/__w/pedalboard-hw/pedalboard-hw/pedalboard-hw.kicad_pcb"
-REVISION "3.0.1-RC 2023-09-10"
+REVISION "3.0.1 2023-09-10"
 UNITS INCH
 ORIGIN 0 0
 INTERTRACK 0
@@ -138,7 +138,7 @@ LINE 0.0167323 0.019685 0.0167323 -0.019685
 ARC 0.0167323 0.019685 0 0.0364173 0 0.019685
 ARC 0 0.0364173 -0.0167323 0.019685 0 0.019685
 LINE -0.0167323 -0.019685 -0.0167323 0.019685
-PAD P35 POLYGON 0.015748
+PAD P35 POLYGON 0.0177165
 ARC -0.023622 -0.019685 0 -0.0433071 0 -0.019685
 ARC 0 -0.0433071 0.023622 -0.019685 0 -0.019685
 LINE 0.023622 0.019685 0.023622 -0.019685
@@ -434,7 +434,7 @@ PAD P33 TOP 0 0
 PADSTACK PAD34 0.0137795
 PAD P34 BOTTOM 0 0
 PAD P34 TOP 0 0
-PADSTACK PAD35 0.015748
+PADSTACK PAD35 0.0177165
 PAD P35 BOTTOM 0 0
 PAD P35 TOP 0 0
 PADSTACK PAD36 0.0551181
@@ -2962,33 +2962,9 @@ $ENDCOMPONENTS
 
 $DEVICES
 
-DEVICE "DEV_MountingHole:MountingHole_2.7mm_M2.5_DIN965"
-PART "MountingHole"
-PACKAGE "MountingHole:MountingHole_2.7mm_M2.5_DIN965"
-
-DEVICE "DEV_Pedalboard Library:Jack_6.35mm_Horizontal_0"
-PART "Audio OUT Left"
-PACKAGE "Pedalboard Library:Jack_6.35mm_Horizontal"
-
-DEVICE "DEV_Fiducial:Fiducial_1.5mm_Mask3mm"
-PART "Fiducial"
-PACKAGE "Fiducial:Fiducial_1.5mm_Mask3mm"
-
 DEVICE "DEV_Capacitor_SMD:C_0805_2012Metric"
 PART "100n"
 PACKAGE "Capacitor_SMD:C_0805_2012Metric"
-
-DEVICE "DEV_Pedalboard Library:Jack_6.35mm_Horizontal"
-PART "EXP2"
-PACKAGE "Pedalboard Library:Jack_6.35mm_Horizontal"
-
-DEVICE "DEV_Resistor_SMD:R_0805_2012Metric_0"
-PART "12k1"
-PACKAGE "Resistor_SMD:R_0805_2012Metric"
-
-DEVICE "DEV_Pedalboard Library:Jack_3.5mm_CUI_SJ1-3525N_Horizontal"
-PART "MIDI OUT J"
-PACKAGE "Pedalboard Library:Jack_3.5mm_CUI_SJ1-3525N_Horizontal"
 
 DEVICE "DEV_Capacitor_SMD:C_0805_2012Metric_1"
 PART "100n"
@@ -2998,21 +2974,45 @@ DEVICE "DEV_Diode_SMD:D_SMA"
 PART "SS34HF"
 PACKAGE "Diode_SMD:D_SMA"
 
-DEVICE "DEV_Pedalboard Library:BarrelJack_Wuerth_6941xx301002"
-PART "Barrel_Jack_MountingPin"
-PACKAGE "Pedalboard Library:BarrelJack_Wuerth_6941xx301002"
-
-DEVICE "DEV_Resistor_SMD:R_0805_2012Metric"
-PART "27"
-PACKAGE "Resistor_SMD:R_0805_2012Metric"
-
 DEVICE "DEV_Capacitor_SMD:C_0805_2012Metric_0"
 PART "100n"
 PACKAGE "Capacitor_SMD:C_0805_2012Metric"
 
+DEVICE "DEV_MountingHole:MountingHole_2.7mm_M2.5_DIN965"
+PART "MountingHole"
+PACKAGE "MountingHole:MountingHole_2.7mm_M2.5_DIN965"
+
+DEVICE "DEV_Resistor_SMD:R_0805_2012Metric_0"
+PART "12k1"
+PACKAGE "Resistor_SMD:R_0805_2012Metric"
+
+DEVICE "DEV_Fiducial:Fiducial_1.5mm_Mask3mm"
+PART "Fiducial"
+PACKAGE "Fiducial:Fiducial_1.5mm_Mask3mm"
+
+DEVICE "DEV_Pedalboard Library:Jack_6.35mm_Horizontal"
+PART "EXP2"
+PACKAGE "Pedalboard Library:Jack_6.35mm_Horizontal"
+
+DEVICE "DEV_Pedalboard Library:Jack_3.5mm_CUI_SJ1-3525N_Horizontal"
+PART "MIDI OUT J"
+PACKAGE "Pedalboard Library:Jack_3.5mm_CUI_SJ1-3525N_Horizontal"
+
+DEVICE "DEV_Resistor_SMD:R_0805_2012Metric"
+PART "DNF"
+PACKAGE "Resistor_SMD:R_0805_2012Metric"
+
 DEVICE "DEV_Package_SO:SOIC-8_3.9x4.9mm_P1.27mm"
 PART "TPS54331"
 PACKAGE "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm"
+
+DEVICE "DEV_Pedalboard Library:BarrelJack_Wuerth_6941xx301002"
+PART "Barrel_Jack_MountingPin"
+PACKAGE "Pedalboard Library:BarrelJack_Wuerth_6941xx301002"
+
+DEVICE "DEV_Pedalboard Library:Jack_6.35mm_Horizontal_0"
+PART "Audio OUT Left"
+PACKAGE "Pedalboard Library:Jack_6.35mm_Horizontal"
 
 DEVICE "DEV_Package_TO_SOT_SMD:SOT-223-3_TabPin2"
 PART "NCP1117-3.3_SOT223"
