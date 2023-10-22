@@ -625,7 +625,7 @@ endobj
    /Subtype /Link
    /Rect [322.37 495.096 362.404 544.485]
    /Border [16 16 0]
-   /A << /Type /Action /S /JavaScript /JS (var aParams = [ { cName: 'Reference designator = J4', cReturn: null }, { cName: 'Value = MIDI OUT J', cReturn: null }, { cName: 'Sheetfile = pico.kicad_sch', cReturn: null }, { cName: 'Sheetname = MIDI', cReturn: null }, { cName: 'Supplier = https://www.digikey.ch/de/products/detail/cui-devices/SJ1-3525NG/738690', cReturn: 'https://www.digikey.ch/de/products/detail/cui-devices/SJ1-3525NG/738690' }, { cName: 'ki_description = Audio Jack, 3 Poles \\u0028Stereo / TRS\\u0029, Switched TR Poles \\u0028Normalling\\u0029', cReturn: null }, { cName: 'ki_keywords = audio jack receptacle stereo headphones phones TRS connector', cReturn: null }, { cName: 'Footprint = Pedalboard Library:Jack_3.5mm_CUI_SJ1-3525N_Horizontal', cReturn: null }, { cName: 'Description = TRS 3.5mm, horizontal, through-hole, https://www.cuidevices.com/product/resource/pdf/sj1-352xn.pdf', cReturn: 'https://www.cuidevices.com/product/resource/pdf/sj1-352xn.pdf' }, { cName: 'Keywords = TRS audio jack stereo horizontal', cReturn: null }, ]; var cChoice = app.popUpMenuEx.apply\( app, aParams \); if\( cChoice != null && cChoice.substring\( 0, 1 \) == '#' \)    this.pageNum = parseInt\( cChoice.slice\( 1 \) \); else if\( cChoice != null && cChoice.substring\( 0, 4 \) == 'http' \)    app.launchURL\( cChoice \);) >>
+   /A << /Type /Action /S /JavaScript /JS (var aParams = [ { cName: 'Reference designator = J4', cReturn: null }, { cName: 'Value = Jack 3.5mm', cReturn: null }, { cName: 'Sheetfile = pico.kicad_sch', cReturn: null }, { cName: 'Sheetname = MIDI', cReturn: null }, { cName: 'Supplier = https://www.digikey.ch/de/products/detail/cui-devices/SJ1-3525NG/738690', cReturn: 'https://www.digikey.ch/de/products/detail/cui-devices/SJ1-3525NG/738690' }, { cName: 'ki_description = Audio Jack, 3 Poles \\u0028Stereo / TRS\\u0029, Switched TR Poles \\u0028Normalling\\u0029', cReturn: null }, { cName: 'ki_keywords = audio jack receptacle stereo headphones phones TRS connector', cReturn: null }, { cName: 'Footprint = Pedalboard Library:Jack_3.5mm_CUI_SJ1-3525N_Horizontal', cReturn: null }, { cName: 'Description = TRS 3.5mm, horizontal, through-hole, https://www.cuidevices.com/product/resource/pdf/sj1-352xn.pdf', cReturn: 'https://www.cuidevices.com/product/resource/pdf/sj1-352xn.pdf' }, { cName: 'Keywords = TRS audio jack stereo horizontal', cReturn: null }, ]; var cChoice = app.popUpMenuEx.apply\( app, aParams \); if\( cChoice != null && cChoice.substring\( 0, 1 \) == '#' \)    this.pageNum = parseInt\( cChoice.slice\( 1 \) \); else if\( cChoice != null && cChoice.substring\( 0, 4 \) == 'http' \)    app.launchURL\( cChoice \);) >>
 >>
 endobj
 11 0 obj
@@ -673,7 +673,7 @@ endobj
    /Subtype /Link
    /Rect [40.1811 443.789 118.361 509.826]
    /Border [16 16 0]
-   /A << /Type /Action /S /JavaScript /JS (var aParams = [ { cName: 'Reference designator = J9', cReturn: null }, { cName: 'Value = EXP2', cReturn: null }, { cName: 'Sheetfile = pico.kicad_sch', cReturn: null }, { cName: 'Sheetname = MIDI', cReturn: null }, { cName: 'Supplier = https://www.digikey.ch/de/products/detail/schurter-inc/4833-2320/2644235', cReturn: 'https://www.digikey.ch/de/products/detail/schurter-inc/4833-2320/2644235' }, { cName: 'ki_description = M Series, 6.35mm \\u00281/4in\\u0029 stereo jack, switched, with chrome ferrule and straight PCB pins', cReturn: null }, { cName: 'ki_keywords = audio jack receptacle stereo headphones connector neutrik', cReturn: null }, { cName: 'Footprint = Pedalboard Library:Jack_6.35mm_Horizontal', cReturn: null }, { cName: 'Description = M Series, 6.35mm \\u00281/4in\\u0029 stereo jack, switched, with chrome ferrule and straight PCB pins, https://www.neutrik.com/en/product/nmj6hcd2', cReturn: 'https://www.neutrik.com/en/product/nmj6hcd2' }, { cName: 'Keywords = neutrik jack m', cReturn: null }, ]; var cChoice = app.popUpMenuEx.apply\( app, aParams \); if\( cChoice != null && cChoice.substring\( 0, 1 \) == '#' \)    this.pageNum = parseInt\( cChoice.slice\( 1 \) \); else if\( cChoice != null && cChoice.substring\( 0, 4 \) == 'http' \)    app.launchURL\( cChoice \);) >>
+   /A << /Type /Action /S /JavaScript /JS (var aParams = [ { cName: 'Reference designator = J9', cReturn: null }, { cName: 'Value = Jack 6.35mm', cReturn: null }, { cName: 'Notes = EXP2', cReturn: null }, { cName: 'Sheetfile = pico.kicad_sch', cReturn: null }, { cName: 'Sheetname = MIDI', cReturn: null }, { cName: 'Supplier = https://www.digikey.ch/de/products/detail/schurter-inc/4833-2320/2644235', cReturn: 'https://www.digikey.ch/de/products/detail/schurter-inc/4833-2320/2644235' }, { cName: 'ki_description = M Series, 6.35mm \\u00281/4in\\u0029 stereo jack, switched, with chrome ferrule and straight PCB pins', cReturn: null }, { cName: 'ki_keywords = audio jack receptacle stereo headphones connector neutrik', cReturn: null }, { cName: 'Footprint = Pedalboard Library:Jack_6.35mm_Horizontal', cReturn: null }, { cName: 'Description = M Series, 6.35mm \\u00281/4in\\u0029 stereo jack, switched, with chrome ferrule and straight PCB pins, https://www.neutrik.com/en/product/nmj6hcd2', cReturn: 'https://www.neutrik.com/en/product/nmj6hcd2' }, { cName: 'Keywords = neutrik jack m', cReturn: null }, ]; var cChoice = app.popUpMenuEx.apply\( app, aParams \); if\( cChoice != null && cChoice.substring\( 0, 1 \) == '#' \)    this.pageNum = parseInt\( cChoice.slice\( 1 \) \); else if\( cChoice != null && cChoice.substring\( 0, 4 \) == 'http' \)    app.launchURL\( cChoice \);) >>
 >>
 endobj
 17 0 obj
@@ -681,7 +681,7 @@ endobj
    /Subtype /Link
    /Rect [40.1811 272.01 118.361 336.346]
    /Border [16 16 0]
-   /A << /Type /Action /S /JavaScript /JS (var aParams = [ { cName: 'Reference designator = J18', cReturn: null }, { cName: 'Value = Audio OUT Left', cReturn: null }, { cName: 'Sheetfile = audio.kicad_sch', cReturn: null }, { cName: 'Sheetname = Audio', cReturn: null }, { cName: 'Supplier = https://www.digikey.ch/de/products/detail/schurter-inc/4833-2320/2644235', cReturn: 'https://www.digikey.ch/de/products/detail/schurter-inc/4833-2320/2644235' }, { cName: 'ki_description = M Series, 6.35mm \\u00281/4in\\u0029 stereo jack, switched, with chrome ferrule and straight PCB pins', cReturn: null }, { cName: 'ki_keywords = audio jack receptacle stereo headphones connector neutrik', cReturn: null }, { cName: 'Footprint = Pedalboard Library:Jack_6.35mm_Horizontal', cReturn: null }, { cName: 'Description = M Series, 6.35mm \\u00281/4in\\u0029 stereo jack, switched, with chrome ferrule and straight PCB pins, https://www.neutrik.com/en/product/nmj6hcd2', cReturn: 'https://www.neutrik.com/en/product/nmj6hcd2' }, { cName: 'Keywords = neutrik jack m', cReturn: null }, ]; var cChoice = app.popUpMenuEx.apply\( app, aParams \); if\( cChoice != null && cChoice.substring\( 0, 1 \) == '#' \)    this.pageNum = parseInt\( cChoice.slice\( 1 \) \); else if\( cChoice != null && cChoice.substring\( 0, 4 \) == 'http' \)    app.launchURL\( cChoice \);) >>
+   /A << /Type /Action /S /JavaScript /JS (var aParams = [ { cName: 'Reference designator = J18', cReturn: null }, { cName: 'Value = Jack 6.35mm', cReturn: null }, { cName: 'Notes = Audio OUT Left', cReturn: null }, { cName: 'Sheetfile = audio.kicad_sch', cReturn: null }, { cName: 'Sheetname = Audio', cReturn: null }, { cName: 'Supplier = https://www.digikey.ch/de/products/detail/schurter-inc/4833-2320/2644235', cReturn: 'https://www.digikey.ch/de/products/detail/schurter-inc/4833-2320/2644235' }, { cName: 'ki_description = M Series, 6.35mm \\u00281/4in\\u0029 stereo jack, switched, with chrome ferrule and straight PCB pins', cReturn: null }, { cName: 'ki_keywords = audio jack receptacle stereo headphones connector neutrik', cReturn: null }, { cName: 'Footprint = Pedalboard Library:Jack_6.35mm_Horizontal', cReturn: null }, { cName: 'Description = M Series, 6.35mm \\u00281/4in\\u0029 stereo jack, switched, with chrome ferrule and straight PCB pins, https://www.neutrik.com/en/product/nmj6hcd2', cReturn: 'https://www.neutrik.com/en/product/nmj6hcd2' }, { cName: 'Keywords = neutrik jack m', cReturn: null }, ]; var cChoice = app.popUpMenuEx.apply\( app, aParams \); if\( cChoice != null && cChoice.substring\( 0, 1 \) == '#' \)    this.pageNum = parseInt\( cChoice.slice\( 1 \) \); else if\( cChoice != null && cChoice.substring\( 0, 4 \) == 'http' \)    app.launchURL\( cChoice \);) >>
 >>
 endobj
 18 0 obj
@@ -729,7 +729,7 @@ endobj
    /Subtype /Link
    /Rect [75.8976 242.813 100.984 267.115]
    /Border [16 16 0]
-   /A << /Type /Action /S /JavaScript /JS (var aParams = [ { cName: 'Reference designator = H9', cReturn: null }, { cName: 'Value = Spacer', cReturn: null }, { cName: 'Sheetfile = pico.kicad_sch', cReturn: null }, { cName: 'Sheetname = MIDI', cReturn: null }, { cName: 'Supplier = https://www.digikey.ch/de/products/detail/w%C3%BCrth-elektronik/9774027151R/5320625', cReturn: 'https://www.digikey.ch/de/products/detail/w%C3%BCrth-elektronik/9774027151R/5320625' }, { cName: 'ki_description = Mounting Hole without connection', cReturn: null }, { cName: 'ki_keywords = mounting hole', cReturn: null }, { cName: 'Footprint = Pedalboard Library:WA-SMSI_M2.5', cReturn: null }, { cName: 'Description = Mounting Hole 2.7mm, no annular, M2.5', cReturn: null }, { cName: 'Keywords = mounting hole 2.7mm no annular m2.5', cReturn: null }, ]; var cChoice = app.popUpMenuEx.apply\( app, aParams \); if\( cChoice != null && cChoice.substring\( 0, 1 \) == '#' \)    this.pageNum = parseInt\( cChoice.slice\( 1 \) \); else if\( cChoice != null && cChoice.substring\( 0, 4 \) == 'http' \)    app.launchURL\( cChoice \);) >>
+   /A << /Type /Action /S /JavaScript /JS (var aParams = [ { cName: 'Reference designator = H9', cReturn: null }, { cName: 'Value = Spacer', cReturn: null }, { cName: 'Notes = MIDI In', cReturn: null }, { cName: 'Sheetfile = pico.kicad_sch', cReturn: null }, { cName: 'Sheetname = MIDI', cReturn: null }, { cName: 'Supplier = https://www.digikey.ch/de/products/detail/w%C3%BCrth-elektronik/9774027151R/5320625', cReturn: 'https://www.digikey.ch/de/products/detail/w%C3%BCrth-elektronik/9774027151R/5320625' }, { cName: 'ki_description = Mounting Hole without connection', cReturn: null }, { cName: 'ki_keywords = mounting hole', cReturn: null }, { cName: 'Footprint = Pedalboard Library:WA-SMSI_M2.5', cReturn: null }, { cName: 'Description = Mounting Hole 2.7mm, no annular, M2.5', cReturn: null }, { cName: 'Keywords = mounting hole 2.7mm no annular m2.5', cReturn: null }, ]; var cChoice = app.popUpMenuEx.apply\( app, aParams \); if\( cChoice != null && cChoice.substring\( 0, 1 \) == '#' \)    this.pageNum = parseInt\( cChoice.slice\( 1 \) \); else if\( cChoice != null && cChoice.substring\( 0, 4 \) == 'http' \)    app.launchURL\( cChoice \);) >>
 >>
 endobj
 24 0 obj
@@ -801,7 +801,7 @@ endobj
    /Subtype /Link
    /Rect [288.496 389.931 313.583 414.516]
    /Border [16 16 0]
-   /A << /Type /Action /S /JavaScript /JS (var aParams = [ { cName: 'Reference designator = H6', cReturn: null }, { cName: 'Value = Spacer', cReturn: null }, { cName: 'Sheetfile = pico.kicad_sch', cReturn: null }, { cName: 'Sheetname = MIDI', cReturn: null }, { cName: 'Supplier = https://www.digikey.ch/de/products/detail/w%C3%BCrth-elektronik/9774027151R/5320625', cReturn: 'https://www.digikey.ch/de/products/detail/w%C3%BCrth-elektronik/9774027151R/5320625' }, { cName: 'ki_description = Mounting Hole without connection', cReturn: null }, { cName: 'ki_keywords = mounting hole', cReturn: null }, { cName: 'Footprint = Pedalboard Library:WA-SMSI_M2.5', cReturn: null }, { cName: 'Description = Mounting Hole 2.7mm, no annular, M2.5', cReturn: null }, { cName: 'Keywords = mounting hole 2.7mm no annular m2.5', cReturn: null }, ]; var cChoice = app.popUpMenuEx.apply\( app, aParams \); if\( cChoice != null && cChoice.substring\( 0, 1 \) == '#' \)    this.pageNum = parseInt\( cChoice.slice\( 1 \) \); else if\( cChoice != null && cChoice.substring\( 0, 4 \) == 'http' \)    app.launchURL\( cChoice \);) >>
+   /A << /Type /Action /S /JavaScript /JS (var aParams = [ { cName: 'Reference designator = H6', cReturn: null }, { cName: 'Value = Spacer', cReturn: null }, { cName: 'Notes = MIDI In', cReturn: null }, { cName: 'Sheetfile = pico.kicad_sch', cReturn: null }, { cName: 'Sheetname = MIDI', cReturn: null }, { cName: 'Supplier = https://www.digikey.ch/de/products/detail/w%C3%BCrth-elektronik/9774027151R/5320625', cReturn: 'https://www.digikey.ch/de/products/detail/w%C3%BCrth-elektronik/9774027151R/5320625' }, { cName: 'ki_description = Mounting Hole without connection', cReturn: null }, { cName: 'ki_keywords = mounting hole', cReturn: null }, { cName: 'Footprint = Pedalboard Library:WA-SMSI_M2.5', cReturn: null }, { cName: 'Description = Mounting Hole 2.7mm, no annular, M2.5', cReturn: null }, { cName: 'Keywords = mounting hole 2.7mm no annular m2.5', cReturn: null }, ]; var cChoice = app.popUpMenuEx.apply\( app, aParams \); if\( cChoice != null && cChoice.substring\( 0, 1 \) == '#' \)    this.pageNum = parseInt\( cChoice.slice\( 1 \) \); else if\( cChoice != null && cChoice.substring\( 0, 4 \) == 'http' \)    app.launchURL\( cChoice \);) >>
 >>
 endobj
 33 0 obj
@@ -817,7 +817,7 @@ endobj
    /Subtype /Link
    /Rect [75.8976 388.797 100.984 414.516]
    /Border [16 16 0]
-   /A << /Type /Action /S /JavaScript /JS (var aParams = [ { cName: 'Reference designator = H5', cReturn: null }, { cName: 'Value = Spacer', cReturn: null }, { cName: 'Sheetfile = pico.kicad_sch', cReturn: null }, { cName: 'Sheetname = MIDI', cReturn: null }, { cName: 'Supplier = https://www.digikey.ch/de/products/detail/w%C3%BCrth-elektronik/9774027151R/5320625', cReturn: 'https://www.digikey.ch/de/products/detail/w%C3%BCrth-elektronik/9774027151R/5320625' }, { cName: 'ki_description = Mounting Hole without connection', cReturn: null }, { cName: 'ki_keywords = mounting hole', cReturn: null }, { cName: 'Footprint = Pedalboard Library:WA-SMSI_M2.5', cReturn: null }, { cName: 'Description = Mounting Hole 2.7mm, no annular, M2.5', cReturn: null }, { cName: 'Keywords = mounting hole 2.7mm no annular m2.5', cReturn: null }, ]; var cChoice = app.popUpMenuEx.apply\( app, aParams \); if\( cChoice != null && cChoice.substring\( 0, 1 \) == '#' \)    this.pageNum = parseInt\( cChoice.slice\( 1 \) \); else if\( cChoice != null && cChoice.substring\( 0, 4 \) == 'http' \)    app.launchURL\( cChoice \);) >>
+   /A << /Type /Action /S /JavaScript /JS (var aParams = [ { cName: 'Reference designator = H5', cReturn: null }, { cName: 'Value = Spacer', cReturn: null }, { cName: 'Notes = MIDI In', cReturn: null }, { cName: 'Sheetfile = pico.kicad_sch', cReturn: null }, { cName: 'Sheetname = MIDI', cReturn: null }, { cName: 'Supplier = https://www.digikey.ch/de/products/detail/w%C3%BCrth-elektronik/9774027151R/5320625', cReturn: 'https://www.digikey.ch/de/products/detail/w%C3%BCrth-elektronik/9774027151R/5320625' }, { cName: 'ki_description = Mounting Hole without connection', cReturn: null }, { cName: 'ki_keywords = mounting hole', cReturn: null }, { cName: 'Footprint = Pedalboard Library:WA-SMSI_M2.5', cReturn: null }, { cName: 'Description = Mounting Hole 2.7mm, no annular, M2.5', cReturn: null }, { cName: 'Keywords = mounting hole 2.7mm no annular m2.5', cReturn: null }, ]; var cChoice = app.popUpMenuEx.apply\( app, aParams \); if\( cChoice != null && cChoice.substring\( 0, 1 \) == '#' \)    this.pageNum = parseInt\( cChoice.slice\( 1 \) \); else if\( cChoice != null && cChoice.substring\( 0, 4 \) == 'http' \)    app.launchURL\( cChoice \);) >>
 >>
 endobj
 35 0 obj
@@ -833,7 +833,7 @@ endobj
    /Subtype /Link
    /Rect [40.1811 329.553 118.361 393.606]
    /Border [16 16 0]
-   /A << /Type /Action /S /JavaScript /JS (var aParams = [ { cName: 'Reference designator = J17', cReturn: null }, { cName: 'Value = Audio OUT Right', cReturn: null }, { cName: 'Sheetfile = audio.kicad_sch', cReturn: null }, { cName: 'Sheetname = Audio', cReturn: null }, { cName: 'Supplier = https://www.digikey.ch/de/products/detail/schurter-inc/4833-2320/2644235', cReturn: 'https://www.digikey.ch/de/products/detail/schurter-inc/4833-2320/2644235' }, { cName: 'ki_description = M Series, 6.35mm \\u00281/4in\\u0029 stereo jack, switched, with chrome ferrule and straight PCB pins', cReturn: null }, { cName: 'ki_keywords = audio jack receptacle stereo headphones connector neutrik', cReturn: null }, { cName: 'Footprint = Pedalboard Library:Jack_6.35mm_Horizontal', cReturn: null }, { cName: 'Description = M Series, 6.35mm \\u00281/4in\\u0029 stereo jack, switched, with chrome ferrule and straight PCB pins, https://www.neutrik.com/en/product/nmj6hcd2', cReturn: 'https://www.neutrik.com/en/product/nmj6hcd2' }, { cName: 'Keywords = neutrik jack m', cReturn: null }, ]; var cChoice = app.popUpMenuEx.apply\( app, aParams \); if\( cChoice != null && cChoice.substring\( 0, 1 \) == '#' \)    this.pageNum = parseInt\( cChoice.slice\( 1 \) \); else if\( cChoice != null && cChoice.substring\( 0, 4 \) == 'http' \)    app.launchURL\( cChoice \);) >>
+   /A << /Type /Action /S /JavaScript /JS (var aParams = [ { cName: 'Reference designator = J17', cReturn: null }, { cName: 'Value = Jack 6.35mm', cReturn: null }, { cName: 'Notes = Audio OUT Right', cReturn: null }, { cName: 'Sheetfile = audio.kicad_sch', cReturn: null }, { cName: 'Sheetname = Audio', cReturn: null }, { cName: 'Supplier = https://www.digikey.ch/de/products/detail/schurter-inc/4833-2320/2644235', cReturn: 'https://www.digikey.ch/de/products/detail/schurter-inc/4833-2320/2644235' }, { cName: 'ki_description = M Series, 6.35mm \\u00281/4in\\u0029 stereo jack, switched, with chrome ferrule and straight PCB pins', cReturn: null }, { cName: 'ki_keywords = audio jack receptacle stereo headphones connector neutrik', cReturn: null }, { cName: 'Footprint = Pedalboard Library:Jack_6.35mm_Horizontal', cReturn: null }, { cName: 'Description = M Series, 6.35mm \\u00281/4in\\u0029 stereo jack, switched, with chrome ferrule and straight PCB pins, https://www.neutrik.com/en/product/nmj6hcd2', cReturn: 'https://www.neutrik.com/en/product/nmj6hcd2' }, { cName: 'Keywords = neutrik jack m', cReturn: null }, ]; var cChoice = app.popUpMenuEx.apply\( app, aParams \); if\( cChoice != null && cChoice.substring\( 0, 1 \) == '#' \)    this.pageNum = parseInt\( cChoice.slice\( 1 \) \); else if\( cChoice != null && cChoice.substring\( 0, 4 \) == 'http' \)    app.launchURL\( cChoice \);) >>
 >>
 endobj
 37 0 obj
@@ -841,7 +841,7 @@ endobj
    /Subtype /Link
    /Rect [476.915 269.756 555.094 331.759]
    /Border [16 16 0]
-   /A << /Type /Action /S /JavaScript /JS (var aParams = [ { cName: 'Reference designator = J20', cReturn: null }, { cName: 'Value = Audio IN Left', cReturn: null }, { cName: 'Sheetfile = audio.kicad_sch', cReturn: null }, { cName: 'Sheetname = Audio', cReturn: null }, { cName: 'Supplier = https://www.digikey.ch/de/products/detail/schurter-inc/4833-2320/2644235', cReturn: 'https://www.digikey.ch/de/products/detail/schurter-inc/4833-2320/2644235' }, { cName: 'ki_description = M Series, 6.35mm \\u00281/4in\\u0029 stereo jack, switched, with chrome ferrule and straight PCB pins', cReturn: null }, { cName: 'ki_keywords = audio jack receptacle stereo headphones connector neutrik', cReturn: null }, { cName: 'Footprint = Pedalboard Library:Jack_6.35mm_Horizontal', cReturn: null }, { cName: 'Description = M Series, 6.35mm \\u00281/4in\\u0029 stereo jack, switched, with chrome ferrule and straight PCB pins, https://www.neutrik.com/en/product/nmj6hcd2', cReturn: 'https://www.neutrik.com/en/product/nmj6hcd2' }, { cName: 'Keywords = neutrik jack m', cReturn: null }, ]; var cChoice = app.popUpMenuEx.apply\( app, aParams \); if\( cChoice != null && cChoice.substring\( 0, 1 \) == '#' \)    this.pageNum = parseInt\( cChoice.slice\( 1 \) \); else if\( cChoice != null && cChoice.substring\( 0, 4 \) == 'http' \)    app.launchURL\( cChoice \);) >>
+   /A << /Type /Action /S /JavaScript /JS (var aParams = [ { cName: 'Reference designator = J20', cReturn: null }, { cName: 'Value = Jack 6.35mm', cReturn: null }, { cName: 'Notes = Audio IN Left', cReturn: null }, { cName: 'Sheetfile = audio.kicad_sch', cReturn: null }, { cName: 'Sheetname = Audio', cReturn: null }, { cName: 'Supplier = https://www.digikey.ch/de/products/detail/schurter-inc/4833-2320/2644235', cReturn: 'https://www.digikey.ch/de/products/detail/schurter-inc/4833-2320/2644235' }, { cName: 'ki_description = M Series, 6.35mm \\u00281/4in\\u0029 stereo jack, switched, with chrome ferrule and straight PCB pins', cReturn: null }, { cName: 'ki_keywords = audio jack receptacle stereo headphones connector neutrik', cReturn: null }, { cName: 'Footprint = Pedalboard Library:Jack_6.35mm_Horizontal', cReturn: null }, { cName: 'Description = M Series, 6.35mm \\u00281/4in\\u0029 stereo jack, switched, with chrome ferrule and straight PCB pins, https://www.neutrik.com/en/product/nmj6hcd2', cReturn: 'https://www.neutrik.com/en/product/nmj6hcd2' }, { cName: 'Keywords = neutrik jack m', cReturn: null }, ]; var cChoice = app.popUpMenuEx.apply\( app, aParams \); if\( cChoice != null && cChoice.substring\( 0, 1 \) == '#' \)    this.pageNum = parseInt\( cChoice.slice\( 1 \) \); else if\( cChoice != null && cChoice.substring\( 0, 4 \) == 'http' \)    app.launchURL\( cChoice \);) >>
 >>
 endobj
 38 0 obj
@@ -913,7 +913,7 @@ endobj
    /Subtype /Link
    /Rect [274.89 381.909 320.386 427.338]
    /Border [16 16 0]
-   /A << /Type /Action /S /JavaScript /JS (var aParams = [ { cName: 'Reference designator = SW4', cReturn: null }, { cName: 'Value = E', cReturn: null }, { cName: 'Sheetfile = pico.kicad_sch', cReturn: null }, { cName: 'Sheetname = MIDI', cReturn: null }, { cName: 'Supplier = https://www.digikey.ch/de/products/detail/w%C3%BCrth-elektronik/430162043826/9950802', cReturn: 'https://www.digikey.ch/de/products/detail/w%C3%BCrth-elektronik/430162043826/9950802' }, { cName: 'ki_description = Omron B3FS 6x6mm single pole normally-open tactile switch', cReturn: null }, { cName: 'ki_keywords = switch normally-open pushbutton push-button', cReturn: null }, { cName: 'Footprint = Pedalboard Library:SW_PUSH-12mm_Wuerth', cReturn: null }, { cName: 'Description = SW PUSH 12mm http://katalog.we-online.de/em/datasheet/430476085716.pdf', cReturn: 'http://katalog.we-online.de/em/datasheet/430476085716.pdf' }, { cName: 'Keywords = tact sw push 12mm', cReturn: null }, ]; var cChoice = app.popUpMenuEx.apply\( app, aParams \); if\( cChoice != null && cChoice.substring\( 0, 1 \) == '#' \)    this.pageNum = parseInt\( cChoice.slice\( 1 \) \); else if\( cChoice != null && cChoice.substring\( 0, 4 \) == 'http' \)    app.launchURL\( cChoice \);) >>
+   /A << /Type /Action /S /JavaScript /JS (var aParams = [ { cName: 'Reference designator = SW4', cReturn: null }, { cName: 'Value = Tactile', cReturn: null }, { cName: 'Notes = E', cReturn: null }, { cName: 'Sheetfile = pico.kicad_sch', cReturn: null }, { cName: 'Sheetname = MIDI', cReturn: null }, { cName: 'Supplier = https://www.digikey.ch/de/products/detail/w%C3%BCrth-elektronik/430162043826/9950802', cReturn: 'https://www.digikey.ch/de/products/detail/w%C3%BCrth-elektronik/430162043826/9950802' }, { cName: 'ki_description = Omron B3FS 6x6mm single pole normally-open tactile switch', cReturn: null }, { cName: 'ki_keywords = switch normally-open pushbutton push-button', cReturn: null }, { cName: 'Footprint = Pedalboard Library:SW_PUSH-12mm_Wuerth', cReturn: null }, { cName: 'Description = SW PUSH 12mm http://katalog.we-online.de/em/datasheet/430476085716.pdf', cReturn: 'http://katalog.we-online.de/em/datasheet/430476085716.pdf' }, { cName: 'Keywords = tact sw push 12mm', cReturn: null }, ]; var cChoice = app.popUpMenuEx.apply\( app, aParams \); if\( cChoice != null && cChoice.substring\( 0, 1 \) == '#' \)    this.pageNum = parseInt\( cChoice.slice\( 1 \) \); else if\( cChoice != null && cChoice.substring\( 0, 4 \) == 'http' \)    app.launchURL\( cChoice \);) >>
 >>
 endobj
 47 0 obj
@@ -961,7 +961,7 @@ endobj
    /Subtype /Link
    /Rect [476.957 443.222 555.137 505.225]
    /Border [16 16 0]
-   /A << /Type /Action /S /JavaScript /JS (var aParams = [ { cName: 'Reference designator = J7', cReturn: null }, { cName: 'Value = EXP1', cReturn: null }, { cName: 'Sheetfile = pico.kicad_sch', cReturn: null }, { cName: 'Sheetname = MIDI', cReturn: null }, { cName: 'Supplier = https://www.digikey.ch/de/products/detail/schurter-inc/4833-2320/2644235', cReturn: 'https://www.digikey.ch/de/products/detail/schurter-inc/4833-2320/2644235' }, { cName: 'ki_description = M Series, 6.35mm \\u00281/4in\\u0029 stereo jack, switched, with chrome ferrule and straight PCB pins', cReturn: null }, { cName: 'ki_keywords = audio jack receptacle stereo headphones connector neutrik', cReturn: null }, { cName: 'Footprint = Pedalboard Library:Jack_6.35mm_Horizontal', cReturn: null }, { cName: 'Description = M Series, 6.35mm \\u00281/4in\\u0029 stereo jack, switched, with chrome ferrule and straight PCB pins, https://www.neutrik.com/en/product/nmj6hcd2', cReturn: 'https://www.neutrik.com/en/product/nmj6hcd2' }, { cName: 'Keywords = neutrik jack m', cReturn: null }, ]; var cChoice = app.popUpMenuEx.apply\( app, aParams \); if\( cChoice != null && cChoice.substring\( 0, 1 \) == '#' \)    this.pageNum = parseInt\( cChoice.slice\( 1 \) \); else if\( cChoice != null && cChoice.substring\( 0, 4 \) == 'http' \)    app.launchURL\( cChoice \);) >>
+   /A << /Type /Action /S /JavaScript /JS (var aParams = [ { cName: 'Reference designator = J7', cReturn: null }, { cName: 'Value = Jack 6.35mm', cReturn: null }, { cName: 'Notes = EXP1', cReturn: null }, { cName: 'Sheetfile = pico.kicad_sch', cReturn: null }, { cName: 'Sheetname = MIDI', cReturn: null }, { cName: 'Supplier = https://www.digikey.ch/de/products/detail/schurter-inc/4833-2320/2644235', cReturn: 'https://www.digikey.ch/de/products/detail/schurter-inc/4833-2320/2644235' }, { cName: 'ki_description = M Series, 6.35mm \\u00281/4in\\u0029 stereo jack, switched, with chrome ferrule and straight PCB pins', cReturn: null }, { cName: 'ki_keywords = audio jack receptacle stereo headphones connector neutrik', cReturn: null }, { cName: 'Footprint = Pedalboard Library:Jack_6.35mm_Horizontal', cReturn: null }, { cName: 'Description = M Series, 6.35mm \\u00281/4in\\u0029 stereo jack, switched, with chrome ferrule and straight PCB pins, https://www.neutrik.com/en/product/nmj6hcd2', cReturn: 'https://www.neutrik.com/en/product/nmj6hcd2' }, { cName: 'Keywords = neutrik jack m', cReturn: null }, ]; var cChoice = app.popUpMenuEx.apply\( app, aParams \); if\( cChoice != null && cChoice.substring\( 0, 1 \) == '#' \)    this.pageNum = parseInt\( cChoice.slice\( 1 \) \); else if\( cChoice != null && cChoice.substring\( 0, 4 \) == 'http' \)    app.launchURL\( cChoice \);) >>
 >>
 endobj
 53 0 obj
@@ -985,7 +985,7 @@ endobj
    /Subtype /Link
    /Rect [311.655 486.411 374.173 550.019]
    /Border [16 16 0]
-   /A << /Type /Action /S /JavaScript /JS (var aParams = [ { cName: 'Reference designator = J3', cReturn: null }, { cName: 'Value = MIDI_OUT', cReturn: null }, { cName: 'Sheetfile = pico.kicad_sch', cReturn: null }, { cName: 'Sheetname = MIDI', cReturn: null }, { cName: 'Supplier = https://www.digikey.ch/de/products/detail/switchcraft-inc/57PC5F/275385', cReturn: 'https://www.digikey.ch/de/products/detail/switchcraft-inc/57PC5F/275385' }, { cName: 'ki_description = 5-pin DIN connector \\u00285-pin DIN-5 stereo\\u0029', cReturn: null }, { cName: 'ki_keywords = circular DIN connector stereo audio', cReturn: null }, { cName: 'Footprint = Pedalboard Library:CP-2350', cReturn: null }, { cName: 'Description = Female <b>CONNECTOR</b><p>
+   /A << /Type /Action /S /JavaScript /JS (var aParams = [ { cName: 'Reference designator = J3', cReturn: null }, { cName: 'Value = DIN5', cReturn: null }, { cName: 'Notes = MIDI Out', cReturn: null }, { cName: 'Sheetfile = pico.kicad_sch', cReturn: null }, { cName: 'Sheetname = MIDI', cReturn: null }, { cName: 'Supplier = https://www.digikey.ch/de/products/detail/switchcraft-inc/57PC5F/275385', cReturn: 'https://www.digikey.ch/de/products/detail/switchcraft-inc/57PC5F/275385' }, { cName: 'ki_description = 5-pin DIN connector \\u00285-pin DIN-5 stereo\\u0029', cReturn: null }, { cName: 'ki_keywords = circular DIN connector stereo audio', cReturn: null }, { cName: 'Footprint = Pedalboard Library:CP-2350', cReturn: null }, { cName: 'Description = Female <b>CONNECTOR</b><p>
 5 pins 90 deg. with shield, horizontal \\u0028DIN 41524\\u0029', cReturn: null }, { cName: 'Keywords = ', cReturn: null }, ]; var cChoice = app.popUpMenuEx.apply\( app, aParams \); if\( cChoice != null && cChoice.substring\( 0, 1 \) == '#' \)    this.pageNum = parseInt\( cChoice.slice\( 1 \) \); else if\( cChoice != null && cChoice.substring\( 0, 4 \) == 'http' \)    app.launchURL\( cChoice \);) >>
 >>
 endobj
@@ -994,7 +994,7 @@ endobj
    /Subtype /Link
    /Rect [166.465 474.12 216.213 520.816]
    /Border [16 16 0]
-   /A << /Type /Action /S /JavaScript /JS (var aParams = [ { cName: 'Reference designator = SW1', cReturn: null }, { cName: 'Value = VOL Rotary', cReturn: null }, { cName: 'Sheetfile = pico.kicad_sch', cReturn: null }, { cName: 'Sheetname = MIDI', cReturn: null }, { cName: 'Supplier = https://www.digikey.ch/de/products/detail/w%C3%BCrth-elektronik/482016514001/10056402', cReturn: 'https://www.digikey.ch/de/products/detail/w%C3%BCrth-elektronik/482016514001/10056402' }, { cName: 'ki_description = Rotary encoder, dual channel, incremental quadrate outputs, with switch', cReturn: null }, { cName: 'ki_keywords = rotary switch encoder switch push button', cReturn: null }, { cName: 'Footprint = Pedalboard Library:RotaryEncoder_Alps_EC11E-Switch_Vertical_H20mm_CircularMountingHoles', cReturn: null }, { cName: 'Description = Alps rotary encoder, EC12E... with switch, vertical shaft, mounting holes with circular drills, http://www.alps.com/prod/info/E/HTML/Encoder/Incremental/EC11/EC11E15204A3.html', cReturn: 'http://www.alps.com/prod/info/E/HTML/Encoder/Incremental/EC11/EC11E15204A3.html' }, { cName: 'Keywords = rotary encoder', cReturn: null }, ]; var cChoice = app.popUpMenuEx.apply\( app, aParams \); if\( cChoice != null && cChoice.substring\( 0, 1 \) == '#' \)    this.pageNum = parseInt\( cChoice.slice\( 1 \) \); else if\( cChoice != null && cChoice.substring\( 0, 4 \) == 'http' \)    app.launchURL\( cChoice \);) >>
+   /A << /Type /Action /S /JavaScript /JS (var aParams = [ { cName: 'Reference designator = SW1', cReturn: null }, { cName: 'Value = Rotary', cReturn: null }, { cName: 'Notes = VOL', cReturn: null }, { cName: 'Sheetfile = pico.kicad_sch', cReturn: null }, { cName: 'Sheetname = MIDI', cReturn: null }, { cName: 'Supplier = https://www.digikey.ch/de/products/detail/w%C3%BCrth-elektronik/482016514001/10056402', cReturn: 'https://www.digikey.ch/de/products/detail/w%C3%BCrth-elektronik/482016514001/10056402' }, { cName: 'ki_description = Rotary encoder, dual channel, incremental quadrate outputs, with switch', cReturn: null }, { cName: 'ki_keywords = rotary switch encoder switch push button', cReturn: null }, { cName: 'Footprint = Pedalboard Library:RotaryEncoder_Alps_EC11E-Switch_Vertical_H20mm_CircularMountingHoles', cReturn: null }, { cName: 'Description = Alps rotary encoder, EC12E... with switch, vertical shaft, mounting holes with circular drills, http://www.alps.com/prod/info/E/HTML/Encoder/Incremental/EC11/EC11E15204A3.html', cReturn: 'http://www.alps.com/prod/info/E/HTML/Encoder/Incremental/EC11/EC11E15204A3.html' }, { cName: 'Keywords = rotary encoder', cReturn: null }, ]; var cChoice = app.popUpMenuEx.apply\( app, aParams \); if\( cChoice != null && cChoice.substring\( 0, 1 \) == '#' \)    this.pageNum = parseInt\( cChoice.slice\( 1 \) \); else if\( cChoice != null && cChoice.substring\( 0, 4 \) == 'http' \)    app.launchURL\( cChoice \);) >>
 >>
 endobj
 57 0 obj
@@ -1042,7 +1042,7 @@ endobj
    /Subtype /Link
    /Rect [501.094 390.214 524.764 414.516]
    /Border [16 16 0]
-   /A << /Type /Action /S /JavaScript /JS (var aParams = [ { cName: 'Reference designator = H8', cReturn: null }, { cName: 'Value = Spacer', cReturn: null }, { cName: 'Sheetfile = pico.kicad_sch', cReturn: null }, { cName: 'Sheetname = MIDI', cReturn: null }, { cName: 'Supplier = https://www.digikey.ch/de/products/detail/w%C3%BCrth-elektronik/9774027151R/5320625', cReturn: 'https://www.digikey.ch/de/products/detail/w%C3%BCrth-elektronik/9774027151R/5320625' }, { cName: 'ki_description = Mounting Hole without connection', cReturn: null }, { cName: 'ki_keywords = mounting hole', cReturn: null }, { cName: 'Footprint = Pedalboard Library:WA-SMSI_M2.5', cReturn: null }, { cName: 'Description = Mounting Hole 2.7mm, no annular, M2.5', cReturn: null }, { cName: 'Keywords = mounting hole 2.7mm no annular m2.5', cReturn: null }, ]; var cChoice = app.popUpMenuEx.apply\( app, aParams \); if\( cChoice != null && cChoice.substring\( 0, 1 \) == '#' \)    this.pageNum = parseInt\( cChoice.slice\( 1 \) \); else if\( cChoice != null && cChoice.substring\( 0, 4 \) == 'http' \)    app.launchURL\( cChoice \);) >>
+   /A << /Type /Action /S /JavaScript /JS (var aParams = [ { cName: 'Reference designator = H8', cReturn: null }, { cName: 'Value = Spacer', cReturn: null }, { cName: 'Notes = MIDI In', cReturn: null }, { cName: 'Sheetfile = pico.kicad_sch', cReturn: null }, { cName: 'Sheetname = MIDI', cReturn: null }, { cName: 'Supplier = https://www.digikey.ch/de/products/detail/w%C3%BCrth-elektronik/9774027151R/5320625', cReturn: 'https://www.digikey.ch/de/products/detail/w%C3%BCrth-elektronik/9774027151R/5320625' }, { cName: 'ki_description = Mounting Hole without connection', cReturn: null }, { cName: 'ki_keywords = mounting hole', cReturn: null }, { cName: 'Footprint = Pedalboard Library:WA-SMSI_M2.5', cReturn: null }, { cName: 'Description = Mounting Hole 2.7mm, no annular, M2.5', cReturn: null }, { cName: 'Keywords = mounting hole 2.7mm no annular m2.5', cReturn: null }, ]; var cChoice = app.popUpMenuEx.apply\( app, aParams \); if\( cChoice != null && cChoice.substring\( 0, 1 \) == '#' \)    this.pageNum = parseInt\( cChoice.slice\( 1 \) \); else if\( cChoice != null && cChoice.substring\( 0, 4 \) == 'http' \)    app.launchURL\( cChoice \);) >>
 >>
 endobj
 63 0 obj
@@ -1114,7 +1114,7 @@ endobj
    /Subtype /Link
    /Rect [476.915 327.058 555.094 389.061]
    /Border [16 16 0]
-   /A << /Type /Action /S /JavaScript /JS (var aParams = [ { cName: 'Reference designator = J16', cReturn: null }, { cName: 'Value = Audio IN Right', cReturn: null }, { cName: 'Sheetfile = audio.kicad_sch', cReturn: null }, { cName: 'Sheetname = Audio', cReturn: null }, { cName: 'Supplier = https://www.digikey.ch/de/products/detail/schurter-inc/4833-2320/2644235', cReturn: 'https://www.digikey.ch/de/products/detail/schurter-inc/4833-2320/2644235' }, { cName: 'ki_description = M Series, 6.35mm \\u00281/4in\\u0029 stereo jack, switched, with chrome ferrule and straight PCB pins', cReturn: null }, { cName: 'ki_keywords = audio jack receptacle stereo headphones connector neutrik', cReturn: null }, { cName: 'Footprint = Pedalboard Library:Jack_6.35mm_Horizontal', cReturn: null }, { cName: 'Description = M Series, 6.35mm \\u00281/4in\\u0029 stereo jack, switched, with chrome ferrule and straight PCB pins, https://www.neutrik.com/en/product/nmj6hcd2', cReturn: 'https://www.neutrik.com/en/product/nmj6hcd2' }, { cName: 'Keywords = neutrik jack m', cReturn: null }, ]; var cChoice = app.popUpMenuEx.apply\( app, aParams \); if\( cChoice != null && cChoice.substring\( 0, 1 \) == '#' \)    this.pageNum = parseInt\( cChoice.slice\( 1 \) \); else if\( cChoice != null && cChoice.substring\( 0, 4 \) == 'http' \)    app.launchURL\( cChoice \);) >>
+   /A << /Type /Action /S /JavaScript /JS (var aParams = [ { cName: 'Reference designator = J16', cReturn: null }, { cName: 'Value = Jack 6.35mm', cReturn: null }, { cName: 'Notes = Audio IN Right', cReturn: null }, { cName: 'Sheetfile = audio.kicad_sch', cReturn: null }, { cName: 'Sheetname = Audio', cReturn: null }, { cName: 'Supplier = https://www.digikey.ch/de/products/detail/schurter-inc/4833-2320/2644235', cReturn: 'https://www.digikey.ch/de/products/detail/schurter-inc/4833-2320/2644235' }, { cName: 'ki_description = M Series, 6.35mm \\u00281/4in\\u0029 stereo jack, switched, with chrome ferrule and straight PCB pins', cReturn: null }, { cName: 'ki_keywords = audio jack receptacle stereo headphones connector neutrik', cReturn: null }, { cName: 'Footprint = Pedalboard Library:Jack_6.35mm_Horizontal', cReturn: null }, { cName: 'Description = M Series, 6.35mm \\u00281/4in\\u0029 stereo jack, switched, with chrome ferrule and straight PCB pins, https://www.neutrik.com/en/product/nmj6hcd2', cReturn: 'https://www.neutrik.com/en/product/nmj6hcd2' }, { cName: 'Keywords = neutrik jack m', cReturn: null }, ]; var cChoice = app.popUpMenuEx.apply\( app, aParams \); if\( cChoice != null && cChoice.substring\( 0, 1 \) == '#' \)    this.pageNum = parseInt\( cChoice.slice\( 1 \) \); else if\( cChoice != null && cChoice.substring\( 0, 4 \) == 'http' \)    app.launchURL\( cChoice \);) >>
 >>
 endobj
 72 0 obj
@@ -1122,7 +1122,7 @@ endobj
    /Subtype /Link
    /Rect [288.496 242.813 313.515 267.115]
    /Border [16 16 0]
-   /A << /Type /Action /S /JavaScript /JS (var aParams = [ { cName: 'Reference designator = H10', cReturn: null }, { cName: 'Value = Spacer', cReturn: null }, { cName: 'Sheetfile = pico.kicad_sch', cReturn: null }, { cName: 'Sheetname = MIDI', cReturn: null }, { cName: 'Supplier = https://www.digikey.ch/de/products/detail/w%C3%BCrth-elektronik/9774027151R/5320625', cReturn: 'https://www.digikey.ch/de/products/detail/w%C3%BCrth-elektronik/9774027151R/5320625' }, { cName: 'ki_description = Mounting Hole without connection', cReturn: null }, { cName: 'ki_keywords = mounting hole', cReturn: null }, { cName: 'Footprint = Pedalboard Library:WA-SMSI_M2.5', cReturn: null }, { cName: 'Description = Mounting Hole 2.7mm, no annular, M2.5', cReturn: null }, { cName: 'Keywords = mounting hole 2.7mm no annular m2.5', cReturn: null }, ]; var cChoice = app.popUpMenuEx.apply\( app, aParams \); if\( cChoice != null && cChoice.substring\( 0, 1 \) == '#' \)    this.pageNum = parseInt\( cChoice.slice\( 1 \) \); else if\( cChoice != null && cChoice.substring\( 0, 4 \) == 'http' \)    app.launchURL\( cChoice \);) >>
+   /A << /Type /Action /S /JavaScript /JS (var aParams = [ { cName: 'Reference designator = H10', cReturn: null }, { cName: 'Value = Spacer', cReturn: null }, { cName: 'Notes = MIDI In', cReturn: null }, { cName: 'Sheetfile = pico.kicad_sch', cReturn: null }, { cName: 'Sheetname = MIDI', cReturn: null }, { cName: 'Supplier = https://www.digikey.ch/de/products/detail/w%C3%BCrth-elektronik/9774027151R/5320625', cReturn: 'https://www.digikey.ch/de/products/detail/w%C3%BCrth-elektronik/9774027151R/5320625' }, { cName: 'ki_description = Mounting Hole without connection', cReturn: null }, { cName: 'ki_keywords = mounting hole', cReturn: null }, { cName: 'Footprint = Pedalboard Library:WA-SMSI_M2.5', cReturn: null }, { cName: 'Description = Mounting Hole 2.7mm, no annular, M2.5', cReturn: null }, { cName: 'Keywords = mounting hole 2.7mm no annular m2.5', cReturn: null }, ]; var cChoice = app.popUpMenuEx.apply\( app, aParams \); if\( cChoice != null && cChoice.substring\( 0, 1 \) == '#' \)    this.pageNum = parseInt\( cChoice.slice\( 1 \) \); else if\( cChoice != null && cChoice.substring\( 0, 4 \) == 'http' \)    app.launchURL\( cChoice \);) >>
 >>
 endobj
 73 0 obj
@@ -1138,7 +1138,7 @@ endobj
    /Subtype /Link
    /Rect [62.2913 381.909 107.787 427.338]
    /Border [16 16 0]
-   /A << /Type /Action /S /JavaScript /JS (var aParams = [ { cName: 'Reference designator = SW3', cReturn: null }, { cName: 'Value = D', cReturn: null }, { cName: 'Sheetfile = pico.kicad_sch', cReturn: null }, { cName: 'Sheetname = MIDI', cReturn: null }, { cName: 'Supplier = https://www.digikey.ch/de/products/detail/w%C3%BCrth-elektronik/430162043826/9950802', cReturn: 'https://www.digikey.ch/de/products/detail/w%C3%BCrth-elektronik/430162043826/9950802' }, { cName: 'ki_description = Omron B3FS 6x6mm single pole normally-open tactile switch', cReturn: null }, { cName: 'ki_keywords = switch normally-open pushbutton push-button', cReturn: null }, { cName: 'Footprint = Pedalboard Library:SW_PUSH-12mm_Wuerth', cReturn: null }, { cName: 'Description = SW PUSH 12mm http://katalog.we-online.de/em/datasheet/430476085716.pdf', cReturn: 'http://katalog.we-online.de/em/datasheet/430476085716.pdf' }, { cName: 'Keywords = tact sw push 12mm', cReturn: null }, ]; var cChoice = app.popUpMenuEx.apply\( app, aParams \); if\( cChoice != null && cChoice.substring\( 0, 1 \) == '#' \)    this.pageNum = parseInt\( cChoice.slice\( 1 \) \); else if\( cChoice != null && cChoice.substring\( 0, 4 \) == 'http' \)    app.launchURL\( cChoice \);) >>
+   /A << /Type /Action /S /JavaScript /JS (var aParams = [ { cName: 'Reference designator = SW3', cReturn: null }, { cName: 'Value = Tactile', cReturn: null }, { cName: 'Notes = D', cReturn: null }, { cName: 'Sheetfile = pico.kicad_sch', cReturn: null }, { cName: 'Sheetname = MIDI', cReturn: null }, { cName: 'Supplier = https://www.digikey.ch/de/products/detail/w%C3%BCrth-elektronik/430162043826/9950802', cReturn: 'https://www.digikey.ch/de/products/detail/w%C3%BCrth-elektronik/430162043826/9950802' }, { cName: 'ki_description = Omron B3FS 6x6mm single pole normally-open tactile switch', cReturn: null }, { cName: 'ki_keywords = switch normally-open pushbutton push-button', cReturn: null }, { cName: 'Footprint = Pedalboard Library:SW_PUSH-12mm_Wuerth', cReturn: null }, { cName: 'Description = SW PUSH 12mm http://katalog.we-online.de/em/datasheet/430476085716.pdf', cReturn: 'http://katalog.we-online.de/em/datasheet/430476085716.pdf' }, { cName: 'Keywords = tact sw push 12mm', cReturn: null }, ]; var cChoice = app.popUpMenuEx.apply\( app, aParams \); if\( cChoice != null && cChoice.substring\( 0, 1 \) == '#' \)    this.pageNum = parseInt\( cChoice.slice\( 1 \) \); else if\( cChoice != null && cChoice.substring\( 0, 4 \) == 'http' \)    app.launchURL\( cChoice \);) >>
 >>
 endobj
 75 0 obj
@@ -1370,7 +1370,7 @@ endobj
    /Subtype /Link
    /Rect [487.488 234.507 532.984 275.761]
    /Border [16 16 0]
-   /A << /Type /Action /S /JavaScript /JS (var aParams = [ { cName: 'Reference designator = SW8', cReturn: null }, { cName: 'Value = C', cReturn: null }, { cName: 'Sheetfile = pico.kicad_sch', cReturn: null }, { cName: 'Sheetname = MIDI', cReturn: null }, { cName: 'Supplier = https://www.digikey.ch/de/products/detail/w%C3%BCrth-elektronik/430162043826/9950802', cReturn: 'https://www.digikey.ch/de/products/detail/w%C3%BCrth-elektronik/430162043826/9950802' }, { cName: 'ki_description = Omron B3FS 6x6mm single pole normally-open tactile switch', cReturn: null }, { cName: 'ki_keywords = switch normally-open pushbutton push-button', cReturn: null }, { cName: 'Footprint = Pedalboard Library:SW_PUSH-12mm_Wuerth', cReturn: null }, { cName: 'Description = SW PUSH 12mm http://katalog.we-online.de/em/datasheet/430476085716.pdf', cReturn: 'http://katalog.we-online.de/em/datasheet/430476085716.pdf' }, { cName: 'Keywords = tact sw push 12mm', cReturn: null }, ]; var cChoice = app.popUpMenuEx.apply\( app, aParams \); if\( cChoice != null && cChoice.substring\( 0, 1 \) == '#' \)    this.pageNum = parseInt\( cChoice.slice\( 1 \) \); else if\( cChoice != null && cChoice.substring\( 0, 4 \) == 'http' \)    app.launchURL\( cChoice \);) >>
+   /A << /Type /Action /S /JavaScript /JS (var aParams = [ { cName: 'Reference designator = SW8', cReturn: null }, { cName: 'Value = Tactile', cReturn: null }, { cName: 'Notes = C', cReturn: null }, { cName: 'Sheetfile = pico.kicad_sch', cReturn: null }, { cName: 'Sheetname = MIDI', cReturn: null }, { cName: 'Supplier = https://www.digikey.ch/de/products/detail/w%C3%BCrth-elektronik/430162043826/9950802', cReturn: 'https://www.digikey.ch/de/products/detail/w%C3%BCrth-elektronik/430162043826/9950802' }, { cName: 'ki_description = Omron B3FS 6x6mm single pole normally-open tactile switch', cReturn: null }, { cName: 'ki_keywords = switch normally-open pushbutton push-button', cReturn: null }, { cName: 'Footprint = Pedalboard Library:SW_PUSH-12mm_Wuerth', cReturn: null }, { cName: 'Description = SW PUSH 12mm http://katalog.we-online.de/em/datasheet/430476085716.pdf', cReturn: 'http://katalog.we-online.de/em/datasheet/430476085716.pdf' }, { cName: 'Keywords = tact sw push 12mm', cReturn: null }, ]; var cChoice = app.popUpMenuEx.apply\( app, aParams \); if\( cChoice != null && cChoice.substring\( 0, 1 \) == '#' \)    this.pageNum = parseInt\( cChoice.slice\( 1 \) \); else if\( cChoice != null && cChoice.substring\( 0, 4 \) == 'http' \)    app.launchURL\( cChoice \);) >>
 >>
 endobj
 104 0 obj
@@ -1386,7 +1386,7 @@ endobj
    /Subtype /Link
    /Rect [501.094 242.813 527.531 267.115]
    /Border [16 16 0]
-   /A << /Type /Action /S /JavaScript /JS (var aParams = [ { cName: 'Reference designator = H13', cReturn: null }, { cName: 'Value = Spacer', cReturn: null }, { cName: 'Sheetfile = pico.kicad_sch', cReturn: null }, { cName: 'Sheetname = MIDI', cReturn: null }, { cName: 'Supplier = https://www.digikey.ch/de/products/detail/w%C3%BCrth-elektronik/9774027151R/5320625', cReturn: 'https://www.digikey.ch/de/products/detail/w%C3%BCrth-elektronik/9774027151R/5320625' }, { cName: 'ki_description = Mounting Hole without connection', cReturn: null }, { cName: 'ki_keywords = mounting hole', cReturn: null }, { cName: 'Footprint = Pedalboard Library:WA-SMSI_M2.5', cReturn: null }, { cName: 'Description = Mounting Hole 2.7mm, no annular, M2.5', cReturn: null }, { cName: 'Keywords = mounting hole 2.7mm no annular m2.5', cReturn: null }, ]; var cChoice = app.popUpMenuEx.apply\( app, aParams \); if\( cChoice != null && cChoice.substring\( 0, 1 \) == '#' \)    this.pageNum = parseInt\( cChoice.slice\( 1 \) \); else if\( cChoice != null && cChoice.substring\( 0, 4 \) == 'http' \)    app.launchURL\( cChoice \);) >>
+   /A << /Type /Action /S /JavaScript /JS (var aParams = [ { cName: 'Reference designator = H13', cReturn: null }, { cName: 'Value = Spacer', cReturn: null }, { cName: 'Notes = MIDI In', cReturn: null }, { cName: 'Sheetfile = pico.kicad_sch', cReturn: null }, { cName: 'Sheetname = MIDI', cReturn: null }, { cName: 'Supplier = https://www.digikey.ch/de/products/detail/w%C3%BCrth-elektronik/9774027151R/5320625', cReturn: 'https://www.digikey.ch/de/products/detail/w%C3%BCrth-elektronik/9774027151R/5320625' }, { cName: 'ki_description = Mounting Hole without connection', cReturn: null }, { cName: 'ki_keywords = mounting hole', cReturn: null }, { cName: 'Footprint = Pedalboard Library:WA-SMSI_M2.5', cReturn: null }, { cName: 'Description = Mounting Hole 2.7mm, no annular, M2.5', cReturn: null }, { cName: 'Keywords = mounting hole 2.7mm no annular m2.5', cReturn: null }, ]; var cChoice = app.popUpMenuEx.apply\( app, aParams \); if\( cChoice != null && cChoice.substring\( 0, 1 \) == '#' \)    this.pageNum = parseInt\( cChoice.slice\( 1 \) \); else if\( cChoice != null && cChoice.substring\( 0, 4 \) == 'http' \)    app.launchURL\( cChoice \);) >>
 >>
 endobj
 106 0 obj
@@ -1394,7 +1394,7 @@ endobj
    /Subtype /Link
    /Rect [148.649 261.238 262.375 425.387]
    /Border [16 16 0]
-   /A << /Type /Action /S /JavaScript /JS (var aParams = [ { cName: 'Reference designator = CM1', cReturn: null }, { cName: 'Value = ComputeModule4-CM4', cReturn: null }, { cName: 'Notes = DF40C-100DS-0.4V\\u002851\\u0029', cReturn: null }, { cName: 'Sheetfile = audio.kicad_sch', cReturn: null }, { cName: 'Sheetname = Audio', cReturn: null }, { cName: 'Supplier = https://www.digikey.ch/de/products/detail/hirose-electric-co-ltd/DF40C-100DS-0-4V-51/1969476?utm_adgroup=Connectors%2C%20Interconnects&utm_source=google&utm_medium=cpc&utm_campaign=Dynamic%20Search_DE_Product&utm_term=&productid=&utm_content=Connectors%2C%20Interconnects&utm_id=go_cmp-225090269_adg-23739644429_ad-668713893261_dsa-40817298870_dev-c_ext-_prd-_sig-EAIaIQobChMIkc2bqtWCggMV_4RoCR2sgwV-EAAYASAAEgLIUvD_BwE&gclid=EAIaIQobChMIkc2bqtWCggMV_4RoCR2sgwV-EAAYASAAEgLIUvD_BwE', cReturn: 'https://www.digikey.ch/de/products/detail/hirose-electric-co-ltd/DF40C-100DS-0-4V-51/1969476?utm_adgroup=Connectors%2C%20Interconnects&utm_source=google&utm_medium=cpc&utm_campaign=Dynamic%20Search_DE_Product&utm_term=&productid=&utm_content=Connectors%2C%20Interconnects&utm_id=go_cmp-225090269_adg-23739644429_ad-668713893261_dsa-40817298870_dev-c_ext-_prd-_sig-EAIaIQobChMIkc2bqtWCggMV_4RoCR2sgwV-EAAYASAAEgLIUvD_BwE&gclid=EAIaIQobChMIkc2bqtWCggMV_4RoCR2sgwV-EAAYASAAEgLIUvD_BwE' }, { cName: 'Footprint = Pedalboard Library:Raspberry-Pi-4-Compute-Module', cReturn: null }, { cName: 'Description = Raspberry Pi 4 Compute Module', cReturn: null }, { cName: 'Keywords = Raspberry Pi 4 Compute Module', cReturn: null }, ]; var cChoice = app.popUpMenuEx.apply\( app, aParams \); if\( cChoice != null && cChoice.substring\( 0, 1 \) == '#' \)    this.pageNum = parseInt\( cChoice.slice\( 1 \) \); else if\( cChoice != null && cChoice.substring\( 0, 4 \) == 'http' \)    app.launchURL\( cChoice \);) >>
+   /A << /Type /Action /S /JavaScript /JS (var aParams = [ { cName: 'Reference designator = CM1', cReturn: null }, { cName: 'Value = CM4', cReturn: null }, { cName: 'Notes = DF40C-100DS-0.4V\\u002851\\u0029', cReturn: null }, { cName: 'Sheetfile = audio.kicad_sch', cReturn: null }, { cName: 'Sheetname = Audio', cReturn: null }, { cName: 'Supplier = https://www.digikey.ch/de/products/detail/hirose-electric-co-ltd/DF40C-100DS-0-4V-51/1969476?utm_adgroup=Connectors%2C%20Interconnects&utm_source=google&utm_medium=cpc&utm_campaign=Dynamic%20Search_DE_Product&utm_term=&productid=&utm_content=Connectors%2C%20Interconnects&utm_id=go_cmp-225090269_adg-23739644429_ad-668713893261_dsa-40817298870_dev-c_ext-_prd-_sig-EAIaIQobChMIkc2bqtWCggMV_4RoCR2sgwV-EAAYASAAEgLIUvD_BwE&gclid=EAIaIQobChMIkc2bqtWCggMV_4RoCR2sgwV-EAAYASAAEgLIUvD_BwE', cReturn: 'https://www.digikey.ch/de/products/detail/hirose-electric-co-ltd/DF40C-100DS-0-4V-51/1969476?utm_adgroup=Connectors%2C%20Interconnects&utm_source=google&utm_medium=cpc&utm_campaign=Dynamic%20Search_DE_Product&utm_term=&productid=&utm_content=Connectors%2C%20Interconnects&utm_id=go_cmp-225090269_adg-23739644429_ad-668713893261_dsa-40817298870_dev-c_ext-_prd-_sig-EAIaIQobChMIkc2bqtWCggMV_4RoCR2sgwV-EAAYASAAEgLIUvD_BwE&gclid=EAIaIQobChMIkc2bqtWCggMV_4RoCR2sgwV-EAAYASAAEgLIUvD_BwE' }, { cName: 'Footprint = Pedalboard Library:Raspberry-Pi-4-Compute-Module', cReturn: null }, { cName: 'Description = Raspberry Pi 4 Compute Module', cReturn: null }, { cName: 'Keywords = Raspberry Pi 4 Compute Module', cReturn: null }, ]; var cChoice = app.popUpMenuEx.apply\( app, aParams \); if\( cChoice != null && cChoice.substring\( 0, 1 \) == '#' \)    this.pageNum = parseInt\( cChoice.slice\( 1 \) \); else if\( cChoice != null && cChoice.substring\( 0, 4 \) == 'http' \)    app.launchURL\( cChoice \);) >>
 >>
 endobj
 107 0 obj
@@ -1410,7 +1410,7 @@ endobj
    /Subtype /Link
    /Rect [487.488 381.909 532.984 427.622]
    /Border [16 16 0]
-   /A << /Type /Action /S /JavaScript /JS (var aParams = [ { cName: 'Reference designator = SW5', cReturn: null }, { cName: 'Value = F', cReturn: null }, { cName: 'Sheetfile = pico.kicad_sch', cReturn: null }, { cName: 'Sheetname = MIDI', cReturn: null }, { cName: 'Supplier = https://www.digikey.ch/de/products/detail/w%C3%BCrth-elektronik/430162043826/9950802', cReturn: 'https://www.digikey.ch/de/products/detail/w%C3%BCrth-elektronik/430162043826/9950802' }, { cName: 'ki_description = Omron B3FS 6x6mm single pole normally-open tactile switch', cReturn: null }, { cName: 'ki_keywords = switch normally-open pushbutton push-button', cReturn: null }, { cName: 'Footprint = Pedalboard Library:SW_PUSH-12mm_Wuerth', cReturn: null }, { cName: 'Description = SW PUSH 12mm http://katalog.we-online.de/em/datasheet/430476085716.pdf', cReturn: 'http://katalog.we-online.de/em/datasheet/430476085716.pdf' }, { cName: 'Keywords = tact sw push 12mm', cReturn: null }, ]; var cChoice = app.popUpMenuEx.apply\( app, aParams \); if\( cChoice != null && cChoice.substring\( 0, 1 \) == '#' \)    this.pageNum = parseInt\( cChoice.slice\( 1 \) \); else if\( cChoice != null && cChoice.substring\( 0, 4 \) == 'http' \)    app.launchURL\( cChoice \);) >>
+   /A << /Type /Action /S /JavaScript /JS (var aParams = [ { cName: 'Reference designator = SW5', cReturn: null }, { cName: 'Value = Tactile', cReturn: null }, { cName: 'Notes = F', cReturn: null }, { cName: 'Sheetfile = pico.kicad_sch', cReturn: null }, { cName: 'Sheetname = MIDI', cReturn: null }, { cName: 'Supplier = https://www.digikey.ch/de/products/detail/w%C3%BCrth-elektronik/430162043826/9950802', cReturn: 'https://www.digikey.ch/de/products/detail/w%C3%BCrth-elektronik/430162043826/9950802' }, { cName: 'ki_description = Omron B3FS 6x6mm single pole normally-open tactile switch', cReturn: null }, { cName: 'ki_keywords = switch normally-open pushbutton push-button', cReturn: null }, { cName: 'Footprint = Pedalboard Library:SW_PUSH-12mm_Wuerth', cReturn: null }, { cName: 'Description = SW PUSH 12mm http://katalog.we-online.de/em/datasheet/430476085716.pdf', cReturn: 'http://katalog.we-online.de/em/datasheet/430476085716.pdf' }, { cName: 'Keywords = tact sw push 12mm', cReturn: null }, ]; var cChoice = app.popUpMenuEx.apply\( app, aParams \); if\( cChoice != null && cChoice.substring\( 0, 1 \) == '#' \)    this.pageNum = parseInt\( cChoice.slice\( 1 \) \); else if\( cChoice != null && cChoice.substring\( 0, 4 \) == 'http' \)    app.launchURL\( cChoice \);) >>
 >>
 endobj
 109 0 obj
@@ -1418,7 +1418,7 @@ endobj
    /Subtype /Link
    /Rect [62.2913 234.507 107.787 275.761]
    /Border [16 16 0]
-   /A << /Type /Action /S /JavaScript /JS (var aParams = [ { cName: 'Reference designator = SW6', cReturn: null }, { cName: 'Value = A', cReturn: null }, { cName: 'Sheetfile = pico.kicad_sch', cReturn: null }, { cName: 'Sheetname = MIDI', cReturn: null }, { cName: 'Supplier = https://www.digikey.ch/de/products/detail/w%C3%BCrth-elektronik/430162043826/9950802', cReturn: 'https://www.digikey.ch/de/products/detail/w%C3%BCrth-elektronik/430162043826/9950802' }, { cName: 'ki_description = Omron B3FS 6x6mm single pole normally-open tactile switch', cReturn: null }, { cName: 'ki_keywords = switch normally-open pushbutton push-button', cReturn: null }, { cName: 'Footprint = Pedalboard Library:SW_PUSH-12mm_Wuerth', cReturn: null }, { cName: 'Description = SW PUSH 12mm http://katalog.we-online.de/em/datasheet/430476085716.pdf', cReturn: 'http://katalog.we-online.de/em/datasheet/430476085716.pdf' }, { cName: 'Keywords = tact sw push 12mm', cReturn: null }, ]; var cChoice = app.popUpMenuEx.apply\( app, aParams \); if\( cChoice != null && cChoice.substring\( 0, 1 \) == '#' \)    this.pageNum = parseInt\( cChoice.slice\( 1 \) \); else if\( cChoice != null && cChoice.substring\( 0, 4 \) == 'http' \)    app.launchURL\( cChoice \);) >>
+   /A << /Type /Action /S /JavaScript /JS (var aParams = [ { cName: 'Reference designator = SW6', cReturn: null }, { cName: 'Value = Tactile', cReturn: null }, { cName: 'Notes = A', cReturn: null }, { cName: 'Sheetfile = pico.kicad_sch', cReturn: null }, { cName: 'Sheetname = MIDI', cReturn: null }, { cName: 'Supplier = https://www.digikey.ch/de/products/detail/w%C3%BCrth-elektronik/430162043826/9950802', cReturn: 'https://www.digikey.ch/de/products/detail/w%C3%BCrth-elektronik/430162043826/9950802' }, { cName: 'ki_description = Omron B3FS 6x6mm single pole normally-open tactile switch', cReturn: null }, { cName: 'ki_keywords = switch normally-open pushbutton push-button', cReturn: null }, { cName: 'Footprint = Pedalboard Library:SW_PUSH-12mm_Wuerth', cReturn: null }, { cName: 'Description = SW PUSH 12mm http://katalog.we-online.de/em/datasheet/430476085716.pdf', cReturn: 'http://katalog.we-online.de/em/datasheet/430476085716.pdf' }, { cName: 'Keywords = tact sw push 12mm', cReturn: null }, ]; var cChoice = app.popUpMenuEx.apply\( app, aParams \); if\( cChoice != null && cChoice.substring\( 0, 1 \) == '#' \)    this.pageNum = parseInt\( cChoice.slice\( 1 \) \); else if\( cChoice != null && cChoice.substring\( 0, 4 \) == 'http' \)    app.launchURL\( cChoice \);) >>
 >>
 endobj
 110 0 obj
@@ -1498,7 +1498,7 @@ endobj
    /Subtype /Link
    /Rect [379.063 474.12 428.811 521.732]
    /Border [16 16 0]
-   /A << /Type /Action /S /JavaScript /JS (var aParams = [ { cName: 'Reference designator = SW2', cReturn: null }, { cName: 'Value = GAIN Rotary', cReturn: null }, { cName: 'Sheetfile = pico.kicad_sch', cReturn: null }, { cName: 'Sheetname = MIDI', cReturn: null }, { cName: 'Supplier = https://www.digikey.ch/de/products/detail/w%C3%BCrth-elektronik/482016514001/10056402', cReturn: 'https://www.digikey.ch/de/products/detail/w%C3%BCrth-elektronik/482016514001/10056402' }, { cName: 'ki_description = Rotary encoder, dual channel, incremental quadrate outputs, with switch', cReturn: null }, { cName: 'ki_keywords = rotary switch encoder switch push button', cReturn: null }, { cName: 'Footprint = Pedalboard Library:RotaryEncoder_Alps_EC11E-Switch_Vertical_H20mm_CircularMountingHoles', cReturn: null }, { cName: 'Description = Alps rotary encoder, EC12E... with switch, vertical shaft, mounting holes with circular drills, http://www.alps.com/prod/info/E/HTML/Encoder/Incremental/EC11/EC11E15204A3.html', cReturn: 'http://www.alps.com/prod/info/E/HTML/Encoder/Incremental/EC11/EC11E15204A3.html' }, { cName: 'Keywords = rotary encoder', cReturn: null }, ]; var cChoice = app.popUpMenuEx.apply\( app, aParams \); if\( cChoice != null && cChoice.substring\( 0, 1 \) == '#' \)    this.pageNum = parseInt\( cChoice.slice\( 1 \) \); else if\( cChoice != null && cChoice.substring\( 0, 4 \) == 'http' \)    app.launchURL\( cChoice \);) >>
+   /A << /Type /Action /S /JavaScript /JS (var aParams = [ { cName: 'Reference designator = SW2', cReturn: null }, { cName: 'Value = Rotary', cReturn: null }, { cName: 'Notes = GAIN', cReturn: null }, { cName: 'Sheetfile = pico.kicad_sch', cReturn: null }, { cName: 'Sheetname = MIDI', cReturn: null }, { cName: 'Supplier = https://www.digikey.ch/de/products/detail/w%C3%BCrth-elektronik/482016514001/10056402', cReturn: 'https://www.digikey.ch/de/products/detail/w%C3%BCrth-elektronik/482016514001/10056402' }, { cName: 'ki_description = Rotary encoder, dual channel, incremental quadrate outputs, with switch', cReturn: null }, { cName: 'ki_keywords = rotary switch encoder switch push button', cReturn: null }, { cName: 'Footprint = Pedalboard Library:RotaryEncoder_Alps_EC11E-Switch_Vertical_H20mm_CircularMountingHoles', cReturn: null }, { cName: 'Description = Alps rotary encoder, EC12E... with switch, vertical shaft, mounting holes with circular drills, http://www.alps.com/prod/info/E/HTML/Encoder/Incremental/EC11/EC11E15204A3.html', cReturn: 'http://www.alps.com/prod/info/E/HTML/Encoder/Incremental/EC11/EC11E15204A3.html' }, { cName: 'Keywords = rotary encoder', cReturn: null }, ]; var cChoice = app.popUpMenuEx.apply\( app, aParams \); if\( cChoice != null && cChoice.substring\( 0, 1 \) == '#' \)    this.pageNum = parseInt\( cChoice.slice\( 1 \) \); else if\( cChoice != null && cChoice.substring\( 0, 4 \) == 'http' \)    app.launchURL\( cChoice \);) >>
 >>
 endobj
 120 0 obj
@@ -1506,7 +1506,7 @@ endobj
    /Subtype /Link
    /Rect [274.89 234.507 320.386 275.761]
    /Border [16 16 0]
-   /A << /Type /Action /S /JavaScript /JS (var aParams = [ { cName: 'Reference designator = SW7', cReturn: null }, { cName: 'Value = B', cReturn: null }, { cName: 'Sheetfile = pico.kicad_sch', cReturn: null }, { cName: 'Sheetname = MIDI', cReturn: null }, { cName: 'Supplier = https://www.digikey.ch/de/products/detail/w%C3%BCrth-elektronik/430162043826/9950802', cReturn: 'https://www.digikey.ch/de/products/detail/w%C3%BCrth-elektronik/430162043826/9950802' }, { cName: 'ki_description = Omron B3FS 6x6mm single pole normally-open tactile switch', cReturn: null }, { cName: 'ki_keywords = switch normally-open pushbutton push-button', cReturn: null }, { cName: 'Footprint = Pedalboard Library:SW_PUSH-12mm_Wuerth', cReturn: null }, { cName: 'Description = SW PUSH 12mm http://katalog.we-online.de/em/datasheet/430476085716.pdf', cReturn: 'http://katalog.we-online.de/em/datasheet/430476085716.pdf' }, { cName: 'Keywords = tact sw push 12mm', cReturn: null }, ]; var cChoice = app.popUpMenuEx.apply\( app, aParams \); if\( cChoice != null && cChoice.substring\( 0, 1 \) == '#' \)    this.pageNum = parseInt\( cChoice.slice\( 1 \) \); else if\( cChoice != null && cChoice.substring\( 0, 4 \) == 'http' \)    app.launchURL\( cChoice \);) >>
+   /A << /Type /Action /S /JavaScript /JS (var aParams = [ { cName: 'Reference designator = SW7', cReturn: null }, { cName: 'Value = Tactile', cReturn: null }, { cName: 'Notes = B', cReturn: null }, { cName: 'Sheetfile = pico.kicad_sch', cReturn: null }, { cName: 'Sheetname = MIDI', cReturn: null }, { cName: 'Supplier = https://www.digikey.ch/de/products/detail/w%C3%BCrth-elektronik/430162043826/9950802', cReturn: 'https://www.digikey.ch/de/products/detail/w%C3%BCrth-elektronik/430162043826/9950802' }, { cName: 'ki_description = Omron B3FS 6x6mm single pole normally-open tactile switch', cReturn: null }, { cName: 'ki_keywords = switch normally-open pushbutton push-button', cReturn: null }, { cName: 'Footprint = Pedalboard Library:SW_PUSH-12mm_Wuerth', cReturn: null }, { cName: 'Description = SW PUSH 12mm http://katalog.we-online.de/em/datasheet/430476085716.pdf', cReturn: 'http://katalog.we-online.de/em/datasheet/430476085716.pdf' }, { cName: 'Keywords = tact sw push 12mm', cReturn: null }, ]; var cChoice = app.popUpMenuEx.apply\( app, aParams \); if\( cChoice != null && cChoice.substring\( 0, 1 \) == '#' \)    this.pageNum = parseInt\( cChoice.slice\( 1 \) \); else if\( cChoice != null && cChoice.substring\( 0, 4 \) == 'http' \)    app.launchURL\( cChoice \);) >>
 >>
 endobj
 121 0 obj
@@ -1538,7 +1538,7 @@ endobj
    /Subtype /Link
    /Rect [226.615 486.411 288.268 550.019]
    /Border [16 16 0]
-   /A << /Type /Action /S /JavaScript /JS (var aParams = [ { cName: 'Reference designator = J1', cReturn: null }, { cName: 'Value = MIDI_IN', cReturn: null }, { cName: 'Sheetfile = pico.kicad_sch', cReturn: null }, { cName: 'Sheetname = MIDI', cReturn: null }, { cName: 'Supplier = https://www.digikey.ch/de/products/detail/switchcraft-inc/57PC5F/275385', cReturn: 'https://www.digikey.ch/de/products/detail/switchcraft-inc/57PC5F/275385' }, { cName: 'ki_description = 5-pin DIN connector \\u00285-pin DIN-5 stereo\\u0029', cReturn: null }, { cName: 'ki_keywords = circular DIN connector stereo audio', cReturn: null }, { cName: 'Footprint = Pedalboard Library:CP-2350', cReturn: null }, { cName: 'Description = Female <b>CONNECTOR</b><p>
+   /A << /Type /Action /S /JavaScript /JS (var aParams = [ { cName: 'Reference designator = J1', cReturn: null }, { cName: 'Value = DIN5', cReturn: null }, { cName: 'Notes = MIDI In', cReturn: null }, { cName: 'Sheetfile = pico.kicad_sch', cReturn: null }, { cName: 'Sheetname = MIDI', cReturn: null }, { cName: 'Supplier = https://www.digikey.ch/de/products/detail/switchcraft-inc/57PC5F/275385', cReturn: 'https://www.digikey.ch/de/products/detail/switchcraft-inc/57PC5F/275385' }, { cName: 'ki_description = 5-pin DIN connector \\u00285-pin DIN-5 stereo\\u0029', cReturn: null }, { cName: 'ki_keywords = circular DIN connector stereo audio', cReturn: null }, { cName: 'Footprint = Pedalboard Library:CP-2350', cReturn: null }, { cName: 'Description = Female <b>CONNECTOR</b><p>
 5 pins 90 deg. with shield, horizontal \\u0028DIN 41524\\u0029', cReturn: null }, { cName: 'Keywords = ', cReturn: null }, ]; var cChoice = app.popUpMenuEx.apply\( app, aParams \); if\( cChoice != null && cChoice.substring\( 0, 1 \) == '#' \)    this.pageNum = parseInt\( cChoice.slice\( 1 \) \); else if\( cChoice != null && cChoice.substring\( 0, 4 \) == 'http' \)    app.launchURL\( cChoice \);) >>
 >>
 endobj
@@ -1571,7 +1571,7 @@ endobj
    /Subtype /Link
    /Rect [237.315 495.096 277.35 544.485]
    /Border [16 16 0]
-   /A << /Type /Action /S /JavaScript /JS (var aParams = [ { cName: 'Reference designator = J2', cReturn: null }, { cName: 'Value = MIDI IN J', cReturn: null }, { cName: 'Sheetfile = pico.kicad_sch', cReturn: null }, { cName: 'Sheetname = MIDI', cReturn: null }, { cName: 'Supplier = https://www.digikey.ch/de/products/detail/cui-devices/SJ1-3525NG/738690', cReturn: 'https://www.digikey.ch/de/products/detail/cui-devices/SJ1-3525NG/738690' }, { cName: 'ki_description = Audio Jack, 3 Poles \\u0028Stereo / TRS\\u0029, Switched TR Poles \\u0028Normalling\\u0029', cReturn: null }, { cName: 'ki_keywords = audio jack receptacle stereo headphones phones TRS connector', cReturn: null }, { cName: 'Footprint = Pedalboard Library:Jack_3.5mm_CUI_SJ1-3525N_Horizontal', cReturn: null }, { cName: 'Description = TRS 3.5mm, horizontal, through-hole, https://www.cuidevices.com/product/resource/pdf/sj1-352xn.pdf', cReturn: 'https://www.cuidevices.com/product/resource/pdf/sj1-352xn.pdf' }, { cName: 'Keywords = TRS audio jack stereo horizontal', cReturn: null }, ]; var cChoice = app.popUpMenuEx.apply\( app, aParams \); if\( cChoice != null && cChoice.substring\( 0, 1 \) == '#' \)    this.pageNum = parseInt\( cChoice.slice\( 1 \) \); else if\( cChoice != null && cChoice.substring\( 0, 4 \) == 'http' \)    app.launchURL\( cChoice \);) >>
+   /A << /Type /Action /S /JavaScript /JS (var aParams = [ { cName: 'Reference designator = J2', cReturn: null }, { cName: 'Value = Jack 3.5mm', cReturn: null }, { cName: 'Notes = MIDI Out', cReturn: null }, { cName: 'Sheetfile = pico.kicad_sch', cReturn: null }, { cName: 'Sheetname = MIDI', cReturn: null }, { cName: 'Supplier = https://www.digikey.ch/de/products/detail/cui-devices/SJ1-3525NG/738690', cReturn: 'https://www.digikey.ch/de/products/detail/cui-devices/SJ1-3525NG/738690' }, { cName: 'ki_description = Audio Jack, 3 Poles \\u0028Stereo / TRS\\u0029, Switched TR Poles \\u0028Normalling\\u0029', cReturn: null }, { cName: 'ki_keywords = audio jack receptacle stereo headphones phones TRS connector', cReturn: null }, { cName: 'Footprint = Pedalboard Library:Jack_3.5mm_CUI_SJ1-3525N_Horizontal', cReturn: null }, { cName: 'Description = TRS 3.5mm, horizontal, through-hole, https://www.cuidevices.com/product/resource/pdf/sj1-352xn.pdf', cReturn: 'https://www.cuidevices.com/product/resource/pdf/sj1-352xn.pdf' }, { cName: 'Keywords = TRS audio jack stereo horizontal', cReturn: null }, ]; var cChoice = app.popUpMenuEx.apply\( app, aParams \); if\( cChoice != null && cChoice.substring\( 0, 1 \) == '#' \)    this.pageNum = parseInt\( cChoice.slice\( 1 \) \); else if\( cChoice != null && cChoice.substring\( 0, 4 \) == 'http' \)    app.launchURL\( cChoice \);) >>
 >>
 endobj
 129 0 obj
@@ -1587,7 +1587,7 @@ endobj
    /Subtype /Link
    /Rect [117.992 499.136 149.031 527.047]
    /Border [16 16 0]
-   /A << /Type /Action /S /JavaScript /JS (var aParams = [ { cName: 'Reference designator = J23', cReturn: null }, { cName: 'Value = EXT-MIDI', cReturn: null }, { cName: 'Sheetfile = pico.kicad_sch', cReturn: null }, { cName: 'Sheetname = MIDI', cReturn: null }, { cName: 'Supplier = https://www.digikey.ch/de/products/detail/adam-tech/25SH-B-03-TS/9830417', cReturn: 'https://www.digikey.ch/de/products/detail/adam-tech/25SH-B-03-TS/9830417' }, { cName: 'ki_description = Generic connector, single row, 01x03, script generated', cReturn: null }, { cName: 'ki_keywords = connector', cReturn: null }, { cName: 'Footprint = Connector_JST:JST_XH_B3B-XH-A_1x03_P2.50mm_Vertical', cReturn: null }, { cName: 'Description = JST XH series connector, B3B-XH-A \\u0028http://www.jst-mfg.com/product/pdf/eng/eXH.pdf\\u0029, generated with kicad-footprint-generator', cReturn: 'http://www.jst-mfg.com/product/pdf/eng/eXH.pdf\\u0029, generated with kicad-footprint-generator' }, { cName: 'Keywords = connector JST XH vertical', cReturn: null }, ]; var cChoice = app.popUpMenuEx.apply\( app, aParams \); if\( cChoice != null && cChoice.substring\( 0, 1 \) == '#' \)    this.pageNum = parseInt\( cChoice.slice\( 1 \) \); else if\( cChoice != null && cChoice.substring\( 0, 4 \) == 'http' \)    app.launchURL\( cChoice \);) >>
+   /A << /Type /Action /S /JavaScript /JS (var aParams = [ { cName: 'Reference designator = J23', cReturn: null }, { cName: 'Value = JST XH 3', cReturn: null }, { cName: 'Notes = EXT-MIDI', cReturn: null }, { cName: 'Sheetfile = pico.kicad_sch', cReturn: null }, { cName: 'Sheetname = MIDI', cReturn: null }, { cName: 'Supplier = https://www.digikey.ch/de/products/detail/adam-tech/25SH-B-03-TS/9830417', cReturn: 'https://www.digikey.ch/de/products/detail/adam-tech/25SH-B-03-TS/9830417' }, { cName: 'ki_description = Generic connector, single row, 01x03, script generated', cReturn: null }, { cName: 'ki_keywords = connector', cReturn: null }, { cName: 'Footprint = Connector_JST:JST_XH_B3B-XH-A_1x03_P2.50mm_Vertical', cReturn: null }, { cName: 'Description = JST XH series connector, B3B-XH-A \\u0028http://www.jst-mfg.com/product/pdf/eng/eXH.pdf\\u0029, generated with kicad-footprint-generator', cReturn: 'http://www.jst-mfg.com/product/pdf/eng/eXH.pdf\\u0029, generated with kicad-footprint-generator' }, { cName: 'Keywords = connector JST XH vertical', cReturn: null }, ]; var cChoice = app.popUpMenuEx.apply\( app, aParams \); if\( cChoice != null && cChoice.substring\( 0, 1 \) == '#' \)    this.pageNum = parseInt\( cChoice.slice\( 1 \) \); else if\( cChoice != null && cChoice.substring\( 0, 4 \) == 'http' \)    app.launchURL\( cChoice \);) >>
 >>
 endobj
 131 0 obj
@@ -1595,7 +1595,7 @@ endobj
    /Subtype /Link
    /Rect [99 219.569 137.362 243.162]
    /Border [16 16 0]
-   /A << /Type /Action /S /JavaScript /JS (var aParams = [ { cName: 'Reference designator = J26', cReturn: null }, { cName: 'Value = RGB_LED_EXT', cReturn: null }, { cName: 'Sheetfile = leds.kicad_sch', cReturn: null }, { cName: 'Sheetname = LEDs', cReturn: null }, { cName: 'Supplier = https://www.digikey.ch/de/products/detail/adam-tech/25SH-B-03-TS/9830417', cReturn: 'https://www.digikey.ch/de/products/detail/adam-tech/25SH-B-03-TS/9830417' }, { cName: 'ki_description = Generic connector, single row, 01x03, script generated', cReturn: null }, { cName: 'ki_keywords = connector', cReturn: null }, { cName: 'Footprint = Connector_JST:JST_XH_B3B-XH-A_1x03_P2.50mm_Vertical', cReturn: null }, { cName: 'Description = JST XH series connector, B3B-XH-A \\u0028http://www.jst-mfg.com/product/pdf/eng/eXH.pdf\\u0029, generated with kicad-footprint-generator', cReturn: 'http://www.jst-mfg.com/product/pdf/eng/eXH.pdf\\u0029, generated with kicad-footprint-generator' }, { cName: 'Keywords = connector JST XH vertical', cReturn: null }, ]; var cChoice = app.popUpMenuEx.apply\( app, aParams \); if\( cChoice != null && cChoice.substring\( 0, 1 \) == '#' \)    this.pageNum = parseInt\( cChoice.slice\( 1 \) \); else if\( cChoice != null && cChoice.substring\( 0, 4 \) == 'http' \)    app.launchURL\( cChoice \);) >>
+   /A << /Type /Action /S /JavaScript /JS (var aParams = [ { cName: 'Reference designator = J26', cReturn: null }, { cName: 'Value = JST XH 3', cReturn: null }, { cName: 'Notes = RGB_LED_EXT', cReturn: null }, { cName: 'Sheetfile = leds.kicad_sch', cReturn: null }, { cName: 'Sheetname = LEDs', cReturn: null }, { cName: 'Supplier = https://www.digikey.ch/de/products/detail/adam-tech/25SH-B-03-TS/9830417', cReturn: 'https://www.digikey.ch/de/products/detail/adam-tech/25SH-B-03-TS/9830417' }, { cName: 'ki_description = Generic connector, single row, 01x03, script generated', cReturn: null }, { cName: 'ki_keywords = connector', cReturn: null }, { cName: 'Footprint = Connector_JST:JST_XH_B3B-XH-A_1x03_P2.50mm_Vertical', cReturn: null }, { cName: 'Description = JST XH series connector, B3B-XH-A \\u0028http://www.jst-mfg.com/product/pdf/eng/eXH.pdf\\u0029, generated with kicad-footprint-generator', cReturn: 'http://www.jst-mfg.com/product/pdf/eng/eXH.pdf\\u0029, generated with kicad-footprint-generator' }, { cName: 'Keywords = connector JST XH vertical', cReturn: null }, ]; var cChoice = app.popUpMenuEx.apply\( app, aParams \); if\( cChoice != null && cChoice.substring\( 0, 1 \) == '#' \)    this.pageNum = parseInt\( cChoice.slice\( 1 \) \); else if\( cChoice != null && cChoice.substring\( 0, 4 \) == 'http' \)    app.launchURL\( cChoice \);) >>
 >>
 endobj
 132 0 obj
@@ -1611,7 +1611,7 @@ endobj
    /Subtype /Link
    /Rect [117.992 477.167 149.031 505.078]
    /Border [16 16 0]
-   /A << /Type /Action /S /JavaScript /JS (var aParams = [ { cName: 'Reference designator = J24', cReturn: null }, { cName: 'Value = EXT-MIDI', cReturn: null }, { cName: 'Sheetfile = pico.kicad_sch', cReturn: null }, { cName: 'Sheetname = MIDI', cReturn: null }, { cName: 'Supplier = https://www.digikey.ch/de/products/detail/adam-tech/25SH-B-03-TS/9830417', cReturn: 'https://www.digikey.ch/de/products/detail/adam-tech/25SH-B-03-TS/9830417' }, { cName: 'ki_description = Generic connector, single row, 01x03, script generated', cReturn: null }, { cName: 'ki_keywords = connector', cReturn: null }, { cName: 'Footprint = Connector_JST:JST_XH_B3B-XH-A_1x03_P2.50mm_Vertical', cReturn: null }, { cName: 'Description = JST XH series connector, B3B-XH-A \\u0028http://www.jst-mfg.com/product/pdf/eng/eXH.pdf\\u0029, generated with kicad-footprint-generator', cReturn: 'http://www.jst-mfg.com/product/pdf/eng/eXH.pdf\\u0029, generated with kicad-footprint-generator' }, { cName: 'Keywords = connector JST XH vertical', cReturn: null }, ]; var cChoice = app.popUpMenuEx.apply\( app, aParams \); if\( cChoice != null && cChoice.substring\( 0, 1 \) == '#' \)    this.pageNum = parseInt\( cChoice.slice\( 1 \) \); else if\( cChoice != null && cChoice.substring\( 0, 4 \) == 'http' \)    app.launchURL\( cChoice \);) >>
+   /A << /Type /Action /S /JavaScript /JS (var aParams = [ { cName: 'Reference designator = J24', cReturn: null }, { cName: 'Value = JST XH 3', cReturn: null }, { cName: 'Notes = EXT-MIDI', cReturn: null }, { cName: 'Sheetfile = pico.kicad_sch', cReturn: null }, { cName: 'Sheetname = MIDI', cReturn: null }, { cName: 'Supplier = https://www.digikey.ch/de/products/detail/adam-tech/25SH-B-03-TS/9830417', cReturn: 'https://www.digikey.ch/de/products/detail/adam-tech/25SH-B-03-TS/9830417' }, { cName: 'ki_description = Generic connector, single row, 01x03, script generated', cReturn: null }, { cName: 'ki_keywords = connector', cReturn: null }, { cName: 'Footprint = Connector_JST:JST_XH_B3B-XH-A_1x03_P2.50mm_Vertical', cReturn: null }, { cName: 'Description = JST XH series connector, B3B-XH-A \\u0028http://www.jst-mfg.com/product/pdf/eng/eXH.pdf\\u0029, generated with kicad-footprint-generator', cReturn: 'http://www.jst-mfg.com/product/pdf/eng/eXH.pdf\\u0029, generated with kicad-footprint-generator' }, { cName: 'Keywords = connector JST XH vertical', cReturn: null }, ]; var cChoice = app.popUpMenuEx.apply\( app, aParams \); if\( cChoice != null && cChoice.substring\( 0, 1 \) == '#' \)    this.pageNum = parseInt\( cChoice.slice\( 1 \) \); else if\( cChoice != null && cChoice.substring\( 0, 4 \) == 'http' \)    app.launchURL\( cChoice \);) >>
 >>
 endobj
 1 0 obj
@@ -1626,7 +1626,7 @@ endobj
 401 0 obj
 <<
 /Producer (KiCad PDF)
-/CreationDate (D:20231022163825)
+/CreationDate (D:20231022170106)
 /Creator (PCBNEW)
 /Title (pedalboard-hw-B_Courtyard.pdf)
 >>
@@ -2699,7 +2699,7 @@ endobj
 xref
 0 404
 0000000000 65535 f 
-0000202480 00000 n 
+0000203642 00000 n 
 0000010548 00000 n 
 0000000015 00000 n 
 0000000386 00000 n 
@@ -2715,395 +2715,395 @@ xref
 0000024314 00000 n 
 0000025571 00000 n 
 0000026970 00000 n 
-0000028425 00000 n 
-0000029892 00000 n 
-0000031629 00000 n 
-0000033132 00000 n 
-0000035071 00000 n 
-0000036313 00000 n 
-0000038140 00000 n 
-0000039367 00000 n 
-0000041220 00000 n 
-0000042444 00000 n 
-0000044022 00000 n 
-0000045952 00000 n 
-0000047046 00000 n 
-0000048898 00000 n 
-0000050287 00000 n 
-0000052218 00000 n 
-0000053445 00000 n 
-0000055200 00000 n 
-0000056427 00000 n 
-0000058009 00000 n 
-0000059478 00000 n 
-0000060945 00000 n 
-0000062090 00000 n 
-0000063478 00000 n 
-0000064536 00000 n 
-0000066506 00000 n 
-0000067731 00000 n 
-0000069661 00000 n 
-0000070613 00000 n 
-0000071838 00000 n 
-0000073194 00000 n 
-0000074206 00000 n 
-0000075431 00000 n 
-0000077012 00000 n 
-0000078263 00000 n 
-0000079320 00000 n 
-0000080775 00000 n 
-0000082705 00000 n 
-0000083762 00000 n 
-0000085021 00000 n 
-0000086572 00000 n 
-0000088503 00000 n 
-0000090472 00000 n 
-0000091975 00000 n 
-0000093364 00000 n 
-0000094589 00000 n 
-0000095816 00000 n 
-0000097748 00000 n 
-0000099329 00000 n 
-0000100718 00000 n 
-0000102649 00000 n 
-0000104580 00000 n 
-0000105667 00000 n 
-0000107247 00000 n 
-0000108394 00000 n 
-0000109862 00000 n 
-0000111090 00000 n 
-0000112183 00000 n 
-0000113540 00000 n 
-0000115392 00000 n 
-0000116563 00000 n 
-0000118018 00000 n 
-0000119597 00000 n 
-0000121181 00000 n 
-0000122387 00000 n 
-0000123476 00000 n 
-0000124568 00000 n 
-0000125846 00000 n 
-0000127207 00000 n 
-0000129060 00000 n 
-0000130285 00000 n 
-0000131542 00000 n 
-0000133473 00000 n 
-0000135055 00000 n 
-0000136601 00000 n 
-0000137762 00000 n 
-0000139104 00000 n 
-0000141036 00000 n 
-0000142964 00000 n 
-0000144894 00000 n 
-0000146476 00000 n 
-0000148021 00000 n 
-0000149871 00000 n 
-0000151469 00000 n 
-0000153227 00000 n 
-0000154285 00000 n 
-0000155670 00000 n 
-0000157028 00000 n 
-0000158410 00000 n 
-0000159639 00000 n 
-0000161615 00000 n 
-0000162627 00000 n 
-0000163985 00000 n 
-0000165343 00000 n 
-0000167274 00000 n 
-0000168859 00000 n 
-0000170791 00000 n 
-0000171851 00000 n 
-0000173212 00000 n 
-0000175035 00000 n 
-0000176582 00000 n 
-0000178165 00000 n 
-0000179229 00000 n 
-0000180782 00000 n 
-0000182139 00000 n 
-0000183204 00000 n 
-0000185137 00000 n 
-0000186988 00000 n 
-0000188247 00000 n 
-0000190218 00000 n 
-0000192042 00000 n 
-0000193589 00000 n 
-0000195040 00000 n 
-0000197011 00000 n 
-0000198440 00000 n 
-0000199867 00000 n 
-0000201051 00000 n 
+0000028474 00000 n 
+0000029990 00000 n 
+0000031727 00000 n 
+0000033230 00000 n 
+0000035169 00000 n 
+0000036411 00000 n 
+0000038238 00000 n 
+0000039510 00000 n 
+0000041363 00000 n 
+0000042587 00000 n 
+0000044165 00000 n 
+0000046095 00000 n 
+0000047189 00000 n 
+0000049041 00000 n 
+0000050430 00000 n 
+0000052361 00000 n 
+0000053633 00000 n 
+0000055388 00000 n 
+0000056660 00000 n 
+0000058242 00000 n 
+0000059760 00000 n 
+0000061276 00000 n 
+0000062421 00000 n 
+0000063809 00000 n 
+0000064867 00000 n 
+0000066837 00000 n 
+0000068062 00000 n 
+0000069992 00000 n 
+0000070944 00000 n 
+0000072169 00000 n 
+0000073570 00000 n 
+0000074582 00000 n 
+0000075807 00000 n 
+0000077388 00000 n 
+0000078639 00000 n 
+0000079696 00000 n 
+0000081200 00000 n 
+0000083130 00000 n 
+0000084187 00000 n 
+0000085488 00000 n 
+0000087076 00000 n 
+0000089007 00000 n 
+0000090976 00000 n 
+0000092479 00000 n 
+0000093868 00000 n 
+0000095093 00000 n 
+0000096365 00000 n 
+0000098297 00000 n 
+0000099878 00000 n 
+0000101267 00000 n 
+0000103198 00000 n 
+0000105129 00000 n 
+0000106216 00000 n 
+0000107796 00000 n 
+0000108943 00000 n 
+0000110460 00000 n 
+0000111733 00000 n 
+0000112826 00000 n 
+0000114228 00000 n 
+0000116080 00000 n 
+0000117251 00000 n 
+0000118706 00000 n 
+0000120285 00000 n 
+0000121869 00000 n 
+0000123075 00000 n 
+0000124164 00000 n 
+0000125256 00000 n 
+0000126534 00000 n 
+0000127895 00000 n 
+0000129748 00000 n 
+0000130973 00000 n 
+0000132230 00000 n 
+0000134161 00000 n 
+0000135743 00000 n 
+0000137289 00000 n 
+0000138450 00000 n 
+0000139792 00000 n 
+0000141724 00000 n 
+0000143652 00000 n 
+0000145582 00000 n 
+0000147164 00000 n 
+0000148709 00000 n 
+0000150559 00000 n 
+0000152157 00000 n 
+0000153915 00000 n 
+0000154973 00000 n 
+0000156358 00000 n 
+0000157761 00000 n 
+0000159143 00000 n 
+0000160417 00000 n 
+0000162378 00000 n 
+0000163390 00000 n 
+0000164793 00000 n 
+0000166196 00000 n 
+0000168127 00000 n 
+0000169712 00000 n 
+0000171644 00000 n 
+0000172704 00000 n 
+0000174065 00000 n 
+0000175888 00000 n 
+0000177435 00000 n 
+0000179018 00000 n 
+0000180082 00000 n 
+0000181672 00000 n 
+0000183074 00000 n 
+0000184139 00000 n 
+0000186072 00000 n 
+0000187923 00000 n 
+0000189224 00000 n 
+0000191195 00000 n 
+0000193019 00000 n 
+0000194566 00000 n 
+0000196064 00000 n 
+0000198035 00000 n 
+0000199510 00000 n 
+0000200983 00000 n 
+0000202167 00000 n 
 0000000405 00000 n 
 0000001356 00000 n 
 0000001543 00000 n 
-0000215999 00000 n 
-0000215873 00000 n 
+0000217161 00000 n 
+0000217035 00000 n 
 0000001592 00000 n 
-0000204099 00000 n 
+0000205261 00000 n 
 0000001658 00000 n 
-0000203893 00000 n 
+0000205055 00000 n 
 0000001724 00000 n 
-0000207896 00000 n 
+0000209058 00000 n 
 0000001790 00000 n 
-0000207172 00000 n 
+0000208334 00000 n 
 0000001854 00000 n 
-0000213944 00000 n 
+0000215106 00000 n 
 0000001920 00000 n 
-0000210975 00000 n 
+0000212137 00000 n 
 0000001986 00000 n 
-0000202761 00000 n 
+0000203923 00000 n 
 0000002052 00000 n 
-0000212919 00000 n 
+0000214081 00000 n 
 0000002118 00000 n 
-0000207380 00000 n 
+0000208542 00000 n 
 0000002184 00000 n 
-0000206560 00000 n 
+0000207722 00000 n 
 0000002250 00000 n 
-0000212713 00000 n 
+0000213875 00000 n 
 0000002316 00000 n 
-0000211485 00000 n 
+0000212647 00000 n 
 0000002381 00000 n 
-0000209844 00000 n 
+0000211006 00000 n 
 0000002446 00000 n 
-0000215584 00000 n 
+0000216746 00000 n 
 0000002512 00000 n 
-0000211179 00000 n 
+0000212341 00000 n 
 0000002578 00000 n 
-0000204408 00000 n 
+0000205570 00000 n 
 0000002644 00000 n 
-0000215482 00000 n 
+0000216644 00000 n 
 0000002710 00000 n 
-0000211077 00000 n 
+0000212239 00000 n 
 0000002776 00000 n 
-0000208816 00000 n 
+0000209978 00000 n 
 0000002841 00000 n 
-0000203688 00000 n 
+0000204850 00000 n 
 0000002907 00000 n 
-0000211383 00000 n 
+0000212545 00000 n 
 0000002971 00000 n 
-0000214148 00000 n 
+0000215310 00000 n 
 0000003037 00000 n 
-0000203173 00000 n 
+0000204335 00000 n 
 0000003103 00000 n 
-0000211793 00000 n 
+0000212955 00000 n 
 0000003169 00000 n 
-0000205334 00000 n 
+0000206496 00000 n 
 0000003235 00000 n 
-0000206458 00000 n 
+0000207620 00000 n 
 0000003301 00000 n 
-0000204511 00000 n 
+0000205673 00000 n 
 0000003367 00000 n 
-0000208510 00000 n 
+0000209672 00000 n 
 0000003433 00000 n 
-0000213022 00000 n 
+0000214184 00000 n 
 0000003499 00000 n 
-0000208408 00000 n 
+0000209570 00000 n 
 0000003564 00000 n 
-0000214046 00000 n 
+0000215208 00000 n 
 0000003630 00000 n 
-0000209741 00000 n 
+0000210903 00000 n 
 0000003695 00000 n 
-0000210152 00000 n 
+0000211314 00000 n 
 0000003761 00000 n 
-0000209226 00000 n 
+0000210388 00000 n 
 0000003827 00000 n 
-0000206764 00000 n 
+0000207926 00000 n 
 0000003893 00000 n 
-0000207793 00000 n 
+0000208955 00000 n 
 0000003959 00000 n 
-0000205025 00000 n 
+0000206187 00000 n 
 0000004025 00000 n 
-0000210358 00000 n 
+0000211520 00000 n 
 0000004091 00000 n 
-0000205128 00000 n 
+0000206290 00000 n 
 0000004157 00000 n 
-0000208102 00000 n 
+0000209264 00000 n 
 0000004223 00000 n 
-0000210255 00000 n 
+0000211417 00000 n 
 0000004288 00000 n 
-0000214559 00000 n 
+0000215721 00000 n 
 0000004354 00000 n 
-0000207276 00000 n 
+0000208438 00000 n 
 0000004420 00000 n 
-0000209432 00000 n 
+0000210594 00000 n 
 0000004486 00000 n 
-0000213842 00000 n 
+0000215004 00000 n 
 0000004552 00000 n 
-0000209020 00000 n 
+0000210182 00000 n 
 0000004618 00000 n 
-0000207588 00000 n 
+0000208750 00000 n 
 0000004684 00000 n 
-0000211281 00000 n 
+0000212443 00000 n 
 0000004750 00000 n 
-0000202676 00000 n 
+0000203838 00000 n 
 0000004816 00000 n 
-0000208306 00000 n 
+0000209468 00000 n 
 0000004882 00000 n 
-0000210873 00000 n 
+0000212035 00000 n 
 0000004948 00000 n 
-0000214250 00000 n 
+0000215412 00000 n 
 0000005014 00000 n 
-0000205436 00000 n 
+0000206598 00000 n 
 0000005080 00000 n 
-0000204820 00000 n 
+0000205982 00000 n 
 0000005146 00000 n 
-0000212407 00000 n 
+0000213569 00000 n 
 0000005212 00000 n 
-0000206356 00000 n 
+0000207518 00000 n 
 0000005278 00000 n 
-0000209329 00000 n 
+0000210491 00000 n 
 0000005344 00000 n 
-0000208714 00000 n 
+0000209876 00000 n 
 0000005410 00000 n 
-0000203482 00000 n 
+0000204644 00000 n 
 0000005476 00000 n 
-0000213536 00000 n 
+0000214698 00000 n 
 0000005542 00000 n 
-0000206254 00000 n 
+0000207416 00000 n 
 0000005608 00000 n 
-0000205538 00000 n 
+0000206700 00000 n 
 0000005674 00000 n 
-0000205844 00000 n 
+0000207006 00000 n 
 0000005740 00000 n 
-0000212509 00000 n 
+0000213671 00000 n 
 0000005806 00000 n 
-0000212816 00000 n 
+0000213978 00000 n 
 0000005872 00000 n 
-0000209535 00000 n 
+0000210697 00000 n 
 0000005938 00000 n 
-0000209638 00000 n 
+0000210800 00000 n 
 0000006004 00000 n 
-0000207690 00000 n 
+0000208852 00000 n 
 0000006070 00000 n 
-0000211896 00000 n 
+0000213058 00000 n 
 0000006136 00000 n 
-0000214456 00000 n 
+0000215618 00000 n 
 0000006201 00000 n 
-0000203791 00000 n 
+0000204953 00000 n 
 0000006267 00000 n 
-0000209123 00000 n 
+0000210285 00000 n 
 0000006333 00000 n 
-0000215074 00000 n 
+0000216236 00000 n 
 0000006399 00000 n 
-0000212611 00000 n 
+0000213773 00000 n 
 0000006465 00000 n 
-0000213331 00000 n 
+0000214493 00000 n 
 0000006531 00000 n 
-0000204923 00000 n 
+0000206085 00000 n 
 0000006597 00000 n 
-0000211587 00000 n 
+0000212749 00000 n 
 0000006663 00000 n 
-0000211690 00000 n 
+0000212852 00000 n 
 0000006729 00000 n 
-0000215380 00000 n 
+0000216542 00000 n 
 0000006795 00000 n 
-0000206151 00000 n 
+0000207313 00000 n 
 0000006861 00000 n 
-0000204717 00000 n 
+0000205879 00000 n 
 0000006927 00000 n 
-0000209947 00000 n 
+0000211109 00000 n 
 0000006993 00000 n 
-0000206866 00000 n 
+0000208028 00000 n 
 0000007059 00000 n 
-0000203276 00000 n 
+0000204438 00000 n 
 0000007125 00000 n 
-0000213434 00000 n 
+0000214596 00000 n 
 0000007191 00000 n 
-0000212305 00000 n 
+0000213467 00000 n 
 0000007257 00000 n 
-0000206049 00000 n 
+0000207211 00000 n 
 0000007323 00000 n 
-0000206662 00000 n 
+0000207824 00000 n 
 0000007389 00000 n 
-0000203996 00000 n 
+0000205158 00000 n 
 0000007455 00000 n 
-0000205742 00000 n 
+0000206904 00000 n 
 0000007521 00000 n 
-0000204614 00000 n 
+0000205776 00000 n 
 0000007587 00000 n 
-0000213638 00000 n 
+0000214800 00000 n 
 0000007653 00000 n 
-0000211999 00000 n 
+0000213161 00000 n 
 0000007719 00000 n 
-0000205640 00000 n 
+0000206802 00000 n 
 0000007785 00000 n 
-0000207070 00000 n 
+0000208232 00000 n 
 0000007851 00000 n 
-0000213125 00000 n 
+0000214287 00000 n 
 0000007917 00000 n 
-0000208612 00000 n 
+0000209774 00000 n 
 0000007983 00000 n 
-0000215788 00000 n 
+0000216950 00000 n 
 0000008049 00000 n 
-0000214971 00000 n 
+0000216133 00000 n 
 0000008115 00000 n 
-0000215278 00000 n 
+0000216440 00000 n 
 0000008181 00000 n 
-0000207999 00000 n 
+0000209161 00000 n 
 0000008247 00000 n 
-0000205946 00000 n 
+0000207108 00000 n 
 0000008313 00000 n 
-0000207484 00000 n 
+0000208646 00000 n 
 0000008377 00000 n 
-0000214662 00000 n 
+0000215824 00000 n 
 0000008443 00000 n 
-0000214765 00000 n 
+0000215927 00000 n 
 0000008508 00000 n 
-0000205231 00000 n 
+0000206393 00000 n 
 0000008574 00000 n 
-0000213228 00000 n 
+0000214390 00000 n 
 0000008640 00000 n 
-0000202864 00000 n 
+0000204026 00000 n 
 0000008706 00000 n 
-0000208204 00000 n 
+0000209366 00000 n 
 0000008772 00000 n 
-0000206968 00000 n 
+0000208130 00000 n 
 0000008838 00000 n 
-0000202967 00000 n 
+0000204129 00000 n 
 0000008904 00000 n 
-0000212203 00000 n 
+0000213365 00000 n 
 0000008970 00000 n 
-0000213740 00000 n 
+0000214902 00000 n 
 0000009036 00000 n 
-0000215176 00000 n 
+0000216338 00000 n 
 0000009102 00000 n 
-0000214353 00000 n 
+0000215515 00000 n 
 0000009168 00000 n 
-0000214868 00000 n 
+0000216030 00000 n 
 0000009234 00000 n 
-0000215686 00000 n 
+0000216848 00000 n 
 0000009300 00000 n 
-0000203379 00000 n 
+0000204541 00000 n 
 0000009366 00000 n 
-0000203585 00000 n 
+0000204747 00000 n 
 0000009432 00000 n 
-0000208918 00000 n 
+0000210080 00000 n 
 0000009498 00000 n 
-0000204305 00000 n 
+0000205467 00000 n 
 0000009564 00000 n 
-0000203070 00000 n 
+0000204232 00000 n 
 0000009630 00000 n 
-0000212101 00000 n 
+0000213263 00000 n 
 0000009696 00000 n 
-0000210050 00000 n 
+0000211212 00000 n 
 0000009762 00000 n 
-0000204202 00000 n 
+0000205364 00000 n 
 0000009828 00000 n 
-0000210461 00000 n 
+0000211623 00000 n 
 0000009894 00000 n 
-0000210770 00000 n 
+0000211932 00000 n 
 0000009959 00000 n 
-0000210667 00000 n 
+0000211829 00000 n 
 0000010025 00000 n 
-0000210564 00000 n 
+0000211726 00000 n 
 0000010091 00000 n 
 0000010199 00000 n 
 0000010315 00000 n 
 0000010428 00000 n 
-0000202541 00000 n 
-0000216119 00000 n 
-0000216207 00000 n 
+0000203703 00000 n 
+0000217281 00000 n 
+0000217369 00000 n 
 trailer
 << /Size 404 /Root 403 0 R /Info 401 0 R >>
 startxref
-216337
+217499
 %%EOF

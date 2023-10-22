@@ -31,7 +31,7 @@ Designator,Val,Package,Mid X,Mid Y,Rotation,Layer
 "C30","10n","C_0805_2012Metric",136.3944,86.5944,0.0000,top
 "C31","22u","C_0805_2012Metric",149.8944,74.7944,-90.0000,top
 "C32","22u","C_0805_2012Metric",151.8944,74.7944,-90.0000,top
-"CM1","ComputeModule4-CM4","Raspberry-Pi-4-Compute-Module",70.9944,67.4944,180.0000,top
+"CM1","CM4","Raspberry-Pi-4-Compute-Module",70.9944,67.4944,180.0000,top
 "D1","SM4007","D_SOD-123F",26.5944,98.5944,-90.0000,top
 "D2","SK6812","LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm",49.4944,82.9944,0.0000,top
 "D3","SK6812","LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm",74.4944,82.9944,0.0000,top
@@ -68,12 +68,12 @@ Designator,Val,Package,Mid X,Mid Y,Rotation,Layer
 "R14","1k91","R_0805_2012Metric",134.8944,77.4944,90.0000,top
 "R15","1K","R_0805_2012Metric",31.4944,64.8944,0.0000,top
 "R16","1K","R_0805_2012Metric",31.5444,59.0444,0.0000,top
-"SW3","D","SW_PUSH-12mm_Wuerth",11.9944,63.9944,0.0000,top
-"SW4","E","SW_PUSH-12mm_Wuerth",86.9944,63.9944,0.0000,top
-"SW5","F","SW_PUSH-12mm_Wuerth",161.9944,63.9944,0.0000,top
-"SW6","A","SW_PUSH-12mm_Wuerth",11.9944,11.9944,0.0000,top
-"SW7","B","SW_PUSH-12mm_Wuerth",86.9944,11.9944,0.0000,top
-"SW8","C","SW_PUSH-12mm_Wuerth",161.9944,11.9944,0.0000,top
+"SW3","Tactile","SW_PUSH-12mm_Wuerth",11.9944,63.9944,0.0000,top
+"SW4","Tactile","SW_PUSH-12mm_Wuerth",86.9944,63.9944,0.0000,top
+"SW5","Tactile","SW_PUSH-12mm_Wuerth",161.9944,63.9944,0.0000,top
+"SW6","Tactile","SW_PUSH-12mm_Wuerth",11.9944,11.9944,0.0000,top
+"SW7","Tactile","SW_PUSH-12mm_Wuerth",86.9944,11.9944,0.0000,top
+"SW8","Tactile","SW_PUSH-12mm_Wuerth",161.9944,11.9944,0.0000,top
 "U1","TLP2761","SO-6L_10x3.84mm_P1.27mm",33.3944,98.5944,0.0000,top
 "U2","74AHCT1G32SE-7","SOT-353_SC-70-5",55.1944,84.0444,0.0000,top
 "U3","W25Q128JVS","SOIC-8_5.23x5.23mm_P1.27mm",81.4944,78.5444,0.0000,top

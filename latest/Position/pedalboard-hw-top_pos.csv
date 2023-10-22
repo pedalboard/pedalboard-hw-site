@@ -31,7 +31,7 @@ Ref,Val,Package,PosX,PosY,Rot,Side
 "C30","10n","C_0805_2012Metric",136.3944,86.5944,0.0000,top
 "C31","22u","C_0805_2012Metric",149.8944,74.7944,-90.0000,top
 "C32","22u","C_0805_2012Metric",151.8944,74.7944,-90.0000,top
-"CM1","ComputeModule4-CM4","Raspberry-Pi-4-Compute-Module",70.9944,67.4944,180.0000,top
+"CM1","CM4","Raspberry-Pi-4-Compute-Module",70.9944,67.4944,180.0000,top
 "D1","SM4007","D_SOD-123F",26.5944,98.5944,-90.0000,top
 "D2","SK6812","LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm",49.4944,82.9944,0.0000,top
 "D3","SK6812","LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm",74.4944,82.9944,0.0000,top
@@ -48,24 +48,24 @@ Ref,Val,Package,PosX,PosY,Rot,Side
 "FID3","Fiducial","Fiducial_1.5mm_Mask3mm",171.9944,101.9944,0.0000,top
 "FID4","Fiducial","Fiducial_1.5mm_Mask3mm",6.4944,2.4944,0.0000,top
 "H2","Midi Bites","MIDI bites",87.0944,110.9194,0.0000,top
-"J1","MIDI_IN","CP-2350",71.9944,108.9944,180.0000,top
-"J3","MIDI_OUT","CP-2350",101.9944,108.9944,180.0000,top
+"J1","DIN5","CP-2350",71.9944,108.9944,180.0000,top
+"J3","DIN5","CP-2350",101.9944,108.9944,180.0000,top
 "J5","Screw_Terminal_01x02","TerminalBlock_Phoenix_MKDS-1,5-2_1x02_P5.00mm_Horizontal",160.4944,102.7844,90.0000,top
 "J6","Barrel_Jack_MountingPin","BarrelJack_Wuerth_6941xx301002",161.3944,100.5944,180.0000,top
-"J7","EXP1","Jack_6.35mm_Horizontal",157.6094,97.1944,0.0000,top
+"J7","Jack 6.35mm","Jack_6.35mm_Horizontal",157.6094,97.1944,0.0000,top
 "J8","LED-Ring","Led-Ring",10.9944,74.9944,0.0000,top
-"J9","EXP2","Jack_6.35mm_Horizontal",16.3944,80.9944,180.0000,top
+"J9","Jack 6.35mm","Jack_6.35mm_Horizontal",16.3944,80.9944,180.0000,top
 "J10","USB_B_Micro","USB_Micro-B_Wuerth_614105150721_Vertical",63.5344,74.7044,180.0000,top
 "J11","Conn_01x02","PinHeader_1x02_P2.54mm_Vertical",70.5944,76.9944,90.0000,top
 "J12","Debug","PinHeader_1x03_P2.54mm_Vertical",107.8544,86.6944,90.0000,top
 "J13","LED-Ring","Led-Ring",160.9944,74.9944,0.0000,top
 "J14","LED-Ring","Led-Ring",87.9944,52.9944,180.0000,top
 "J15","Debug","PinHeader_1x03_P2.54mm_Vertical",89.2194,49.6944,-90.0000,top
-"J16","Audio IN Right","Jack_6.35mm_Horizontal",157.5944,56.2144,0.0000,top
-"J17","Audio OUT Right","Jack_6.35mm_Horizontal",16.3944,39.9944,180.0000,top
-"J18","Audio OUT Left","Jack_6.35mm_Horizontal",16.3944,19.7944,180.0000,top
+"J16","Jack 6.35mm","Jack_6.35mm_Horizontal",157.5944,56.2144,0.0000,top
+"J17","Jack 6.35mm","Jack_6.35mm_Horizontal",16.3944,39.9944,180.0000,top
+"J18","Jack 6.35mm","Jack_6.35mm_Horizontal",16.3944,19.7944,180.0000,top
 "J19","LED-Ring","Led-Ring",85.9944,22.9944,0.0000,top
-"J20","Audio IN Left","Jack_6.35mm_Horizontal",157.5944,35.9994,0.0000,top
+"J20","Jack 6.35mm","Jack_6.35mm_Horizontal",157.5944,35.9994,0.0000,top
 "J21","LED-Ring","Led-Ring",12.9944,0.9944,180.0000,top
 "J22","LED-Ring","Led-Ring",162.9944,0.9944,180.0000,top
 "L1","120_100MHz","L_0603_1608Metric",24.6944,99.2444,-90.0000,top
@@ -90,14 +90,14 @@ Ref,Val,Package,PosX,PosY,Rot,Side
 "R14","1k91","R_0805_2012Metric",134.8944,77.4944,90.0000,top
 "R15","1K","R_0805_2012Metric",31.4944,64.8944,0.0000,top
 "R16","1K","R_0805_2012Metric",31.5444,59.0444,0.0000,top
-"SW1","VOL Rotary","RotaryEncoder_Alps_EC11E-Switch_Vertical_H20mm_CircularMountingHoles",42.2444,99.4944,0.0000,top
-"SW2","GAIN Rotary","RotaryEncoder_Alps_EC11E-Switch_Vertical_H20mm_CircularMountingHoles",117.2444,99.4944,0.0000,top
-"SW3","D","SW_PUSH-12mm_Wuerth",11.9944,63.9944,0.0000,top
-"SW4","E","SW_PUSH-12mm_Wuerth",86.9944,63.9944,0.0000,top
-"SW5","F","SW_PUSH-12mm_Wuerth",161.9944,63.9944,0.0000,top
-"SW6","A","SW_PUSH-12mm_Wuerth",11.9944,11.9944,0.0000,top
-"SW7","B","SW_PUSH-12mm_Wuerth",86.9944,11.9944,0.0000,top
-"SW8","C","SW_PUSH-12mm_Wuerth",161.9944,11.9944,0.0000,top
+"SW1","Rotary","RotaryEncoder_Alps_EC11E-Switch_Vertical_H20mm_CircularMountingHoles",42.2444,99.4944,0.0000,top
+"SW2","Rotary","RotaryEncoder_Alps_EC11E-Switch_Vertical_H20mm_CircularMountingHoles",117.2444,99.4944,0.0000,top
+"SW3","Tactile","SW_PUSH-12mm_Wuerth",11.9944,63.9944,0.0000,top
+"SW4","Tactile","SW_PUSH-12mm_Wuerth",86.9944,63.9944,0.0000,top
+"SW5","Tactile","SW_PUSH-12mm_Wuerth",161.9944,63.9944,0.0000,top
+"SW6","Tactile","SW_PUSH-12mm_Wuerth",11.9944,11.9944,0.0000,top
+"SW7","Tactile","SW_PUSH-12mm_Wuerth",86.9944,11.9944,0.0000,top
+"SW8","Tactile","SW_PUSH-12mm_Wuerth",161.9944,11.9944,0.0000,top
 "U1","TLP2761","SO-6L_10x3.84mm_P1.27mm",33.3944,98.5944,0.0000,top
 "U2","74AHCT1G32SE-7","SOT-353_SC-70-5",55.1944,84.0444,180.0000,top
 "U3","W25Q128JVS","SOIC-8_5.23x5.23mm_P1.27mm",81.4944,78.5444,90.0000,top
