@@ -45,6 +45,8 @@ Designator,Val,Package,Mid X,Mid Y,Rotation,Layer
 "F1","Polyfuse 1.8A","Fuse_1812_4532Metric",148.0644,103.2844,180.0000,top
 "FID1","Fiducial","Fiducial_1.5mm_Mask3mm",6.9944,107.9944,0.0000,top
 "FID2","Fiducial","Fiducial_1.5mm_Mask3mm",166.9944,2.9944,0.0000,top
+"FID3","Fiducial","Fiducial_1.5mm_Mask3mm",171.9944,101.9944,0.0000,top
+"FID4","Fiducial","Fiducial_1.5mm_Mask3mm",6.4944,2.4944,0.0000,top
 "L1","120_100MHz","L_0603_1608Metric",24.6944,99.2444,-90.0000,top
 "L2","120_100MHz","L_0603_1608Metric",34.6944,95.3319,0.0000,top
 "L3","120_100MHz","L_0603_1608Metric",34.6944,93.4444,0.0000,top
