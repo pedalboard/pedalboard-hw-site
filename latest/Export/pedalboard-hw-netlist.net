@@ -1,7 +1,7 @@
 (export (version "E")
   (design
     (source "/__w/pedalboard-hw/pedalboard-hw/pedalboard-hw.kicad_sch")
-    (date "Sun Oct 22 17:34:25 2023")
+    (date "Sun Oct 22 18:20:53 2023")
     (tool "Eeschema 7.0.8-7.0.8~ubuntu23.04.1")
     (sheet (number "1") (name "/") (tstamps "/")
       (title_block
@@ -1558,7 +1558,7 @@
     (comp (ref "D5")
       (value "SS34HF")
       (footprint "Diode_SMD:D_SMA")
-      (datasheet "http://www.vishay.com/docs/88525/1n5817.pdf")
+      (datasheet "https://www.comchiptech.com/admin/files/product/20190514101641.pdf")
       (fields
         (field (name "Notes") "40V/3A")
         (field (name "Supplier") "https://www.digikey.ch/de/products/detail/comchip-technology/SS34-HF/10279693"))
@@ -1574,7 +1574,7 @@
     (comp (ref "D6")
       (value "SS34HF")
       (footprint "Diode_SMD:D_SMA")
-      (datasheet "http://www.vishay.com/docs/88525/1n5817.pdf")
+      (datasheet "https://www.comchiptech.com/admin/files/product/20190514101641.pdf")
       (fields
         (field (name "Digikey") "641-2115-1-ND")
         (field (name "Mouser") "821-SS34LRVG")
@@ -1594,7 +1594,7 @@
     (comp (ref "D8")
       (value "SS34HF")
       (footprint "Diode_SMD:D_SMA")
-      (datasheet "http://www.vishay.com/docs/88525/1n5817.pdf")
+      (datasheet "https://www.comchiptech.com/admin/files/product/20190514101641.pdf")
       (fields
         (field (name "Notes") "40V/3A")
         (field (name "Supplier") "https://www.digikey.ch/de/products/detail/comchip-technology/SS34-HF/10279693"))
