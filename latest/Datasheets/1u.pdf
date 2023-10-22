@@ -135,7 +135,7 @@ if(window.wcs) {
 				<div class="created">
 					<dl class="date">
 						<dt>Created : </dt>
-						<dd>2023/10/23 04:47:14</dd>
+						<dd>2023/10/23 07:17:59</dd>
 					</dl>
 					<p class="stnd_time">KST (Korea Standard Time), UTC/GMT +9 hours</p>
 				</div>
@@ -148,7 +148,7 @@ if(window.wcs) {
 		<form id="pdfForm" method="post" action="/capture/makePdfToImage.do">
 			<input type="hidden" name="partNumber" value="CL21B105KAFNNN">
    	    	<input type="hidden" id="imgData" name="imgData">
-   	    	<input type="hidden" name="_csrf" value="b3687886-63e7-432d-8718-6fbe0cd1b888">
+   	    	<input type="hidden" name="_csrf" value="67ebd447-cf14-412e-b3ac-5b5d34db383b">
 			<input type="hidden" name="_csrf_header" value="X-CSRF-TOKEN">
    		</form>
 	</div>
