@@ -586,7 +586,7 @@ endobj
    /Subtype /Link
    /Rect [390.877 467.014 418.127 472.976]
    /Border [16 16 0]
-   /A << /Type /Action /S /JavaScript /JS (var aParams = [ { cName: 'Reference designator = C22', cReturn: null }, { cName: 'Value = 100n', cReturn: null }, { cName: 'Digikey = 1276-1180-1-ND', cReturn: null }, { cName: 'Mouser = 581-08055C104K', cReturn: null }, { cName: 'Notes = 50V/10%', cReturn: null }, { cName: 'Sheetfile = leds.kicad_sch', cReturn: null }, { cName: 'Sheetname = LEDs', cReturn: null }, { cName: 'Supplier = https://www.digikey.ch/de/products/detail/kyocera-avx/KGM21NR71H104KM/6816312', cReturn: 'https://www.digikey.ch/de/products/detail/kyocera-avx/KGM21NR71H104KM/6816312' }, { cName: 'ki_description = Unpolarized capacitor, small symbol', cReturn: null }, { cName: 'ki_keywords = capacitor cap', cReturn: null }, { cName: 'Footprint = Capacitor_SMD:C_0805_2012Metric', cReturn: null }, { cName: 'Description = Capacitor SMD 0805 \\u00282012 Metric\\u0029, square \\u0028rectangular\\u0029 end terminal, IPC_7351 nominal, \\u0028Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing\\u0029, generated with kicad-footprint-generator', cReturn: 'https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing\\u0029, generated with kicad-footprint-generator' }, { cName: 'Keywords = capacitor', cReturn: null }, ]; var cChoice = app.popUpMenuEx.apply\( app, aParams \); if\( cChoice != null && cChoice.substring\( 0, 1 \) == '#' \)    this.pageNum = parseInt\( cChoice.slice\( 1 \) \); else if\( cChoice != null && cChoice.substring\( 0, 4 \) == 'http' \)    app.launchURL\( cChoice \);) >>
+   /A << /Type /Action /S /JavaScript /JS (var aParams = [ { cName: 'Reference designator = C22', cReturn: null }, { cName: 'Value = 100n', cReturn: null }, { cName: 'Digikey = 1276-1180-1-ND', cReturn: null }, { cName: 'Mouser = 581-08055C104K', cReturn: null }, { cName: 'Notes = 50V/10%', cReturn: null }, { cName: 'Sheetfile = leds.kicad_sch', cReturn: null }, { cName: 'Sheetname = LEDs', cReturn: null }, { cName: 'Supplier = https://www.digikey.ch/de/products/detail/samsung-electro-mechanics/CL21B104KBCNNNC/3886661', cReturn: 'https://www.digikey.ch/de/products/detail/samsung-electro-mechanics/CL21B104KBCNNNC/3886661' }, { cName: 'ki_description = Unpolarized capacitor, small symbol', cReturn: null }, { cName: 'ki_keywords = capacitor cap', cReturn: null }, { cName: 'Footprint = Capacitor_SMD:C_0805_2012Metric', cReturn: null }, { cName: 'Description = Capacitor SMD 0805 \\u00282012 Metric\\u0029, square \\u0028rectangular\\u0029 end terminal, IPC_7351 nominal, \\u0028Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing\\u0029, generated with kicad-footprint-generator', cReturn: 'https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing\\u0029, generated with kicad-footprint-generator' }, { cName: 'Keywords = capacitor', cReturn: null }, ]; var cChoice = app.popUpMenuEx.apply\( app, aParams \); if\( cChoice != null && cChoice.substring\( 0, 1 \) == '#' \)    this.pageNum = parseInt\( cChoice.slice\( 1 \) \); else if\( cChoice != null && cChoice.substring\( 0, 4 \) == 'http' \)    app.launchURL\( cChoice \);) >>
 >>
 endobj
 6 0 obj
@@ -594,7 +594,7 @@ endobj
    /Subtype /Link
    /Rect [322.424 467.014 333.796 477.228]
    /Border [16 16 0]
-   /A << /Type /Action /S /JavaScript /JS (var aParams = [ { cName: 'Reference designator = C20', cReturn: null }, { cName: 'Value = 100n', cReturn: null }, { cName: 'Digikey = 1276-1180-1-ND', cReturn: null }, { cName: 'Mouser = 581-08055C104K', cReturn: null }, { cName: 'Notes = 50V/10%', cReturn: null }, { cName: 'Sheetfile = pico.kicad_sch', cReturn: null }, { cName: 'Sheetname = MIDI', cReturn: null }, { cName: 'Supplier = https://www.digikey.ch/de/products/detail/kyocera-avx/KGM21NR71H104KM/6816312', cReturn: 'https://www.digikey.ch/de/products/detail/kyocera-avx/KGM21NR71H104KM/6816312' }, { cName: 'ki_description = Unpolarized capacitor, small symbol', cReturn: null }, { cName: 'ki_keywords = capacitor cap', cReturn: null }, { cName: 'Footprint = Capacitor_SMD:C_0805_2012Metric', cReturn: null }, { cName: 'Description = Capacitor SMD 0805 \\u00282012 Metric\\u0029, square \\u0028rectangular\\u0029 end terminal, IPC_7351 nominal, \\u0028Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing\\u0029, generated with kicad-footprint-generator', cReturn: 'https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing\\u0029, generated with kicad-footprint-generator' }, { cName: 'Keywords = capacitor', cReturn: null }, ]; var cChoice = app.popUpMenuEx.apply\( app, aParams \); if\( cChoice != null && cChoice.substring\( 0, 1 \) == '#' \)    this.pageNum = parseInt\( cChoice.slice\( 1 \) \); else if\( cChoice != null && cChoice.substring\( 0, 4 \) == 'http' \)    app.launchURL\( cChoice \);) >>
+   /A << /Type /Action /S /JavaScript /JS (var aParams = [ { cName: 'Reference designator = C20', cReturn: null }, { cName: 'Value = 100n', cReturn: null }, { cName: 'Digikey = 1276-1180-1-ND', cReturn: null }, { cName: 'Mouser = 581-08055C104K', cReturn: null }, { cName: 'Notes = 50V/10%', cReturn: null }, { cName: 'Sheetfile = pico.kicad_sch', cReturn: null }, { cName: 'Sheetname = MIDI', cReturn: null }, { cName: 'Supplier = https://www.digikey.ch/de/products/detail/samsung-electro-mechanics/CL21B104KBCNNNC/3886661', cReturn: 'https://www.digikey.ch/de/products/detail/samsung-electro-mechanics/CL21B104KBCNNNC/3886661' }, { cName: 'ki_description = Unpolarized capacitor, small symbol', cReturn: null }, { cName: 'ki_keywords = capacitor cap', cReturn: null }, { cName: 'Footprint = Capacitor_SMD:C_0805_2012Metric', cReturn: null }, { cName: 'Description = Capacitor SMD 0805 \\u00282012 Metric\\u0029, square \\u0028rectangular\\u0029 end terminal, IPC_7351 nominal, \\u0028Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing\\u0029, generated with kicad-footprint-generator', cReturn: 'https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing\\u0029, generated with kicad-footprint-generator' }, { cName: 'Keywords = capacitor', cReturn: null }, ]; var cChoice = app.popUpMenuEx.apply\( app, aParams \); if\( cChoice != null && cChoice.substring\( 0, 1 \) == '#' \)    this.pageNum = parseInt\( cChoice.slice\( 1 \) \); else if\( cChoice != null && cChoice.substring\( 0, 4 \) == 'http' \)    app.launchURL\( cChoice \);) >>
 >>
 endobj
 7 0 obj
@@ -634,7 +634,7 @@ endobj
    /Subtype /Link
    /Rect [274.71 476.649 284.726 488.022]
    /Border [16 16 0]
-   /A << /Type /Action /S /JavaScript /JS (var aParams = [ { cName: 'Reference designator = C10', cReturn: null }, { cName: 'Value = 100n', cReturn: null }, { cName: 'Digikey = 1276-1180-1-ND', cReturn: null }, { cName: 'Mouser = 581-08055C104K', cReturn: null }, { cName: 'Notes = 50V/10%', cReturn: null }, { cName: 'Sheetfile = pico.kicad_sch', cReturn: null }, { cName: 'Sheetname = MIDI', cReturn: null }, { cName: 'Supplier = https://www.digikey.ch/de/products/detail/kyocera-avx/KGM21NR71H104KM/6816312', cReturn: 'https://www.digikey.ch/de/products/detail/kyocera-avx/KGM21NR71H104KM/6816312' }, { cName: 'ki_description = Unpolarized capacitor, small symbol', cReturn: null }, { cName: 'ki_keywords = capacitor cap', cReturn: null }, { cName: 'Footprint = Capacitor_SMD:C_0805_2012Metric', cReturn: null }, { cName: 'Description = Capacitor SMD 0805 \\u00282012 Metric\\u0029, square \\u0028rectangular\\u0029 end terminal, IPC_7351 nominal, \\u0028Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing\\u0029, generated with kicad-footprint-generator', cReturn: 'https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing\\u0029, generated with kicad-footprint-generator' }, { cName: 'Keywords = capacitor', cReturn: null }, ]; var cChoice = app.popUpMenuEx.apply\( app, aParams \); if\( cChoice != null && cChoice.substring\( 0, 1 \) == '#' \)    this.pageNum = parseInt\( cChoice.slice\( 1 \) \); else if\( cChoice != null && cChoice.substring\( 0, 4 \) == 'http' \)    app.launchURL\( cChoice \);) >>
+   /A << /Type /Action /S /JavaScript /JS (var aParams = [ { cName: 'Reference designator = C10', cReturn: null }, { cName: 'Value = 100n', cReturn: null }, { cName: 'Digikey = 1276-1180-1-ND', cReturn: null }, { cName: 'Mouser = 581-08055C104K', cReturn: null }, { cName: 'Notes = 50V/10%', cReturn: null }, { cName: 'Sheetfile = pico.kicad_sch', cReturn: null }, { cName: 'Sheetname = MIDI', cReturn: null }, { cName: 'Supplier = https://www.digikey.ch/de/products/detail/samsung-electro-mechanics/CL21B104KBCNNNC/3886661', cReturn: 'https://www.digikey.ch/de/products/detail/samsung-electro-mechanics/CL21B104KBCNNNC/3886661' }, { cName: 'ki_description = Unpolarized capacitor, small symbol', cReturn: null }, { cName: 'ki_keywords = capacitor cap', cReturn: null }, { cName: 'Footprint = Capacitor_SMD:C_0805_2012Metric', cReturn: null }, { cName: 'Description = Capacitor SMD 0805 \\u00282012 Metric\\u0029, square \\u0028rectangular\\u0029 end terminal, IPC_7351 nominal, \\u0028Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing\\u0029, generated with kicad-footprint-generator', cReturn: 'https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing\\u0029, generated with kicad-footprint-generator' }, { cName: 'Keywords = capacitor', cReturn: null }, ]; var cChoice = app.popUpMenuEx.apply\( app, aParams \); if\( cChoice != null && cChoice.substring\( 0, 1 \) == '#' \)    this.pageNum = parseInt\( cChoice.slice\( 1 \) \); else if\( cChoice != null && cChoice.substring\( 0, 4 \) == 'http' \)    app.launchURL\( cChoice \);) >>
 >>
 endobj
 12 0 obj
@@ -706,7 +706,7 @@ endobj
    /Subtype /Link
    /Rect [452.112 447.54 462.127 466.336]
    /Border [16 16 0]
-   /A << /Type /Action /S /JavaScript /JS (var aParams = [ { cName: 'Reference designator = C25', cReturn: null }, { cName: 'Value = 100n', cReturn: null }, { cName: 'Digikey = 1276-1180-1-ND', cReturn: null }, { cName: 'Mouser = 581-08055C104K', cReturn: null }, { cName: 'Notes = 50V/10%', cReturn: null }, { cName: 'Sheetfile = psu.kicad_sch', cReturn: null }, { cName: 'Sheetname = Power Supply', cReturn: null }, { cName: 'Supplier = https://www.digikey.ch/de/products/detail/kyocera-avx/KGM21NR71H104KM/6816312', cReturn: 'https://www.digikey.ch/de/products/detail/kyocera-avx/KGM21NR71H104KM/6816312' }, { cName: 'ki_description = Unpolarized capacitor, small symbol', cReturn: null }, { cName: 'ki_keywords = capacitor cap', cReturn: null }, { cName: 'Footprint = Capacitor_SMD:C_0805_2012Metric', cReturn: null }, { cName: 'Description = Capacitor SMD 0805 \\u00282012 Metric\\u0029, square \\u0028rectangular\\u0029 end terminal, IPC_7351 nominal, \\u0028Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing\\u0029, generated with kicad-footprint-generator', cReturn: 'https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing\\u0029, generated with kicad-footprint-generator' }, { cName: 'Keywords = capacitor', cReturn: null }, ]; var cChoice = app.popUpMenuEx.apply\( app, aParams \); if\( cChoice != null && cChoice.substring\( 0, 1 \) == '#' \)    this.pageNum = parseInt\( cChoice.slice\( 1 \) \); else if\( cChoice != null && cChoice.substring\( 0, 4 \) == 'http' \)    app.launchURL\( cChoice \);) >>
+   /A << /Type /Action /S /JavaScript /JS (var aParams = [ { cName: 'Reference designator = C25', cReturn: null }, { cName: 'Value = 100n', cReturn: null }, { cName: 'Digikey = 1276-1180-1-ND', cReturn: null }, { cName: 'Mouser = 581-08055C104K', cReturn: null }, { cName: 'Notes = 50V/10%', cReturn: null }, { cName: 'Sheetfile = psu.kicad_sch', cReturn: null }, { cName: 'Sheetname = Power Supply', cReturn: null }, { cName: 'Supplier = https://www.digikey.ch/de/products/detail/samsung-electro-mechanics/CL21B104KBCNNNC/3886661', cReturn: 'https://www.digikey.ch/de/products/detail/samsung-electro-mechanics/CL21B104KBCNNNC/3886661' }, { cName: 'ki_description = Unpolarized capacitor, small symbol', cReturn: null }, { cName: 'ki_keywords = capacitor cap', cReturn: null }, { cName: 'Footprint = Capacitor_SMD:C_0805_2012Metric', cReturn: null }, { cName: 'Description = Capacitor SMD 0805 \\u00282012 Metric\\u0029, square \\u0028rectangular\\u0029 end terminal, IPC_7351 nominal, \\u0028Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing\\u0029, generated with kicad-footprint-generator', cReturn: 'https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing\\u0029, generated with kicad-footprint-generator' }, { cName: 'Keywords = capacitor', cReturn: null }, ]; var cChoice = app.popUpMenuEx.apply\( app, aParams \); if\( cChoice != null && cChoice.substring\( 0, 1 \) == '#' \)    this.pageNum = parseInt\( cChoice.slice\( 1 \) \); else if\( cChoice != null && cChoice.substring\( 0, 4 \) == 'http' \)    app.launchURL\( cChoice \);) >>
 >>
 endobj
 21 0 obj
@@ -754,7 +754,7 @@ endobj
    /Subtype /Link
    /Rect [254.984 431.6 274.659 449.817]
    /Border [16 16 0]
-   /A << /Type /Action /S /JavaScript /JS (var aParams = [ { cName: 'Reference designator = C14', cReturn: null }, { cName: 'Value = 100n', cReturn: null }, { cName: 'Digikey = 1276-1180-1-ND', cReturn: null }, { cName: 'Mouser = 581-08055C104K', cReturn: null }, { cName: 'Notes = 50V/10%', cReturn: null }, { cName: 'Sheetfile = pico.kicad_sch', cReturn: null }, { cName: 'Sheetname = MIDI', cReturn: null }, { cName: 'Supplier = https://www.digikey.ch/de/products/detail/kyocera-avx/KGM21NR71H104KM/6816312', cReturn: 'https://www.digikey.ch/de/products/detail/kyocera-avx/KGM21NR71H104KM/6816312' }, { cName: 'ki_description = Unpolarized capacitor, small symbol', cReturn: null }, { cName: 'ki_keywords = capacitor cap', cReturn: null }, { cName: 'Footprint = Capacitor_SMD:C_0805_2012Metric', cReturn: null }, { cName: 'Description = Capacitor SMD 0805 \\u00282012 Metric\\u0029, square \\u0028rectangular\\u0029 end terminal, IPC_7351 nominal, \\u0028Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing\\u0029, generated with kicad-footprint-generator', cReturn: 'https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing\\u0029, generated with kicad-footprint-generator' }, { cName: 'Keywords = capacitor', cReturn: null }, ]; var cChoice = app.popUpMenuEx.apply\( app, aParams \); if\( cChoice != null && cChoice.substring\( 0, 1 \) == '#' \)    this.pageNum = parseInt\( cChoice.slice\( 1 \) \); else if\( cChoice != null && cChoice.substring\( 0, 4 \) == 'http' \)    app.launchURL\( cChoice \);) >>
+   /A << /Type /Action /S /JavaScript /JS (var aParams = [ { cName: 'Reference designator = C14', cReturn: null }, { cName: 'Value = 100n', cReturn: null }, { cName: 'Digikey = 1276-1180-1-ND', cReturn: null }, { cName: 'Mouser = 581-08055C104K', cReturn: null }, { cName: 'Notes = 50V/10%', cReturn: null }, { cName: 'Sheetfile = pico.kicad_sch', cReturn: null }, { cName: 'Sheetname = MIDI', cReturn: null }, { cName: 'Supplier = https://www.digikey.ch/de/products/detail/samsung-electro-mechanics/CL21B104KBCNNNC/3886661', cReturn: 'https://www.digikey.ch/de/products/detail/samsung-electro-mechanics/CL21B104KBCNNNC/3886661' }, { cName: 'ki_description = Unpolarized capacitor, small symbol', cReturn: null }, { cName: 'ki_keywords = capacitor cap', cReturn: null }, { cName: 'Footprint = Capacitor_SMD:C_0805_2012Metric', cReturn: null }, { cName: 'Description = Capacitor SMD 0805 \\u00282012 Metric\\u0029, square \\u0028rectangular\\u0029 end terminal, IPC_7351 nominal, \\u0028Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing\\u0029, generated with kicad-footprint-generator', cReturn: 'https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing\\u0029, generated with kicad-footprint-generator' }, { cName: 'Keywords = capacitor', cReturn: null }, ]; var cChoice = app.popUpMenuEx.apply\( app, aParams \); if\( cChoice != null && cChoice.substring\( 0, 1 \) == '#' \)    this.pageNum = parseInt\( cChoice.slice\( 1 \) \); else if\( cChoice != null && cChoice.substring\( 0, 4 \) == 'http' \)    app.launchURL\( cChoice \);) >>
 >>
 endobj
 27 0 obj
@@ -946,7 +946,7 @@ endobj
    /Subtype /Link
    /Rect [131.457 518.463 143.166 528.535]
    /Border [16 16 0]
-   /A << /Type /Action /S /JavaScript /JS (var aParams = [ { cName: 'Reference designator = C1', cReturn: null }, { cName: 'Value = 100n', cReturn: null }, { cName: 'Digikey = 1276-1180-1-ND', cReturn: null }, { cName: 'Mouser = 581-08055C104K', cReturn: null }, { cName: 'Notes = 50V/10%', cReturn: null }, { cName: 'Sheetfile = pico.kicad_sch', cReturn: null }, { cName: 'Sheetname = MIDI', cReturn: null }, { cName: 'Supplier = https://www.digikey.ch/de/products/detail/kyocera-avx/KGM21NR71H104KM/6816312', cReturn: 'https://www.digikey.ch/de/products/detail/kyocera-avx/KGM21NR71H104KM/6816312' }, { cName: 'ki_description = Unpolarized capacitor, small symbol', cReturn: null }, { cName: 'ki_keywords = capacitor cap', cReturn: null }, { cName: 'Footprint = Capacitor_SMD:C_0805_2012Metric', cReturn: null }, { cName: 'Description = Capacitor SMD 0805 \\u00282012 Metric\\u0029, square \\u0028rectangular\\u0029 end terminal, IPC_7351 nominal, \\u0028Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing\\u0029, generated with kicad-footprint-generator', cReturn: 'https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing\\u0029, generated with kicad-footprint-generator' }, { cName: 'Keywords = capacitor', cReturn: null }, ]; var cChoice = app.popUpMenuEx.apply\( app, aParams \); if\( cChoice != null && cChoice.substring\( 0, 1 \) == '#' \)    this.pageNum = parseInt\( cChoice.slice\( 1 \) \); else if\( cChoice != null && cChoice.substring\( 0, 4 \) == 'http' \)    app.launchURL\( cChoice \);) >>
+   /A << /Type /Action /S /JavaScript /JS (var aParams = [ { cName: 'Reference designator = C1', cReturn: null }, { cName: 'Value = 100n', cReturn: null }, { cName: 'Digikey = 1276-1180-1-ND', cReturn: null }, { cName: 'Mouser = 581-08055C104K', cReturn: null }, { cName: 'Notes = 50V/10%', cReturn: null }, { cName: 'Sheetfile = pico.kicad_sch', cReturn: null }, { cName: 'Sheetname = MIDI', cReturn: null }, { cName: 'Supplier = https://www.digikey.ch/de/products/detail/samsung-electro-mechanics/CL21B104KBCNNNC/3886661', cReturn: 'https://www.digikey.ch/de/products/detail/samsung-electro-mechanics/CL21B104KBCNNNC/3886661' }, { cName: 'ki_description = Unpolarized capacitor, small symbol', cReturn: null }, { cName: 'ki_keywords = capacitor cap', cReturn: null }, { cName: 'Footprint = Capacitor_SMD:C_0805_2012Metric', cReturn: null }, { cName: 'Description = Capacitor SMD 0805 \\u00282012 Metric\\u0029, square \\u0028rectangular\\u0029 end terminal, IPC_7351 nominal, \\u0028Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing\\u0029, generated with kicad-footprint-generator', cReturn: 'https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing\\u0029, generated with kicad-footprint-generator' }, { cName: 'Keywords = capacitor', cReturn: null }, ]; var cChoice = app.popUpMenuEx.apply\( app, aParams \); if\( cChoice != null && cChoice.substring\( 0, 1 \) == '#' \)    this.pageNum = parseInt\( cChoice.slice\( 1 \) \); else if\( cChoice != null && cChoice.substring\( 0, 4 \) == 'http' \)    app.launchURL\( cChoice \);) >>
 >>
 endobj
 51 0 obj
@@ -979,7 +979,7 @@ endobj
    /Subtype /Link
    /Rect [171.558 449.337 181.573 467.896]
    /Border [16 16 0]
-   /A << /Type /Action /S /JavaScript /JS (var aParams = [ { cName: 'Reference designator = C5', cReturn: null }, { cName: 'Value = 100n', cReturn: null }, { cName: 'Digikey = 1276-1180-1-ND', cReturn: null }, { cName: 'Mouser = 581-08055C104K', cReturn: null }, { cName: 'Notes = 50V/10%', cReturn: null }, { cName: 'Sheetfile = leds.kicad_sch', cReturn: null }, { cName: 'Sheetname = LEDs', cReturn: null }, { cName: 'Supplier = https://www.digikey.ch/de/products/detail/kyocera-avx/KGM21NR71H104KM/6816312', cReturn: 'https://www.digikey.ch/de/products/detail/kyocera-avx/KGM21NR71H104KM/6816312' }, { cName: 'ki_description = Unpolarized capacitor, small symbol', cReturn: null }, { cName: 'ki_keywords = capacitor cap', cReturn: null }, { cName: 'Footprint = Capacitor_SMD:C_0805_2012Metric', cReturn: null }, { cName: 'Description = Capacitor SMD 0805 \\u00282012 Metric\\u0029, square \\u0028rectangular\\u0029 end terminal, IPC_7351 nominal, \\u0028Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing\\u0029, generated with kicad-footprint-generator', cReturn: 'https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing\\u0029, generated with kicad-footprint-generator' }, { cName: 'Keywords = capacitor', cReturn: null }, ]; var cChoice = app.popUpMenuEx.apply\( app, aParams \); if\( cChoice != null && cChoice.substring\( 0, 1 \) == '#' \)    this.pageNum = parseInt\( cChoice.slice\( 1 \) \); else if\( cChoice != null && cChoice.substring\( 0, 4 \) == 'http' \)    app.launchURL\( cChoice \);) >>
+   /A << /Type /Action /S /JavaScript /JS (var aParams = [ { cName: 'Reference designator = C5', cReturn: null }, { cName: 'Value = 100n', cReturn: null }, { cName: 'Digikey = 1276-1180-1-ND', cReturn: null }, { cName: 'Mouser = 581-08055C104K', cReturn: null }, { cName: 'Notes = 50V/10%', cReturn: null }, { cName: 'Sheetfile = leds.kicad_sch', cReturn: null }, { cName: 'Sheetname = LEDs', cReturn: null }, { cName: 'Supplier = https://www.digikey.ch/de/products/detail/samsung-electro-mechanics/CL21B104KBCNNNC/3886661', cReturn: 'https://www.digikey.ch/de/products/detail/samsung-electro-mechanics/CL21B104KBCNNNC/3886661' }, { cName: 'ki_description = Unpolarized capacitor, small symbol', cReturn: null }, { cName: 'ki_keywords = capacitor cap', cReturn: null }, { cName: 'Footprint = Capacitor_SMD:C_0805_2012Metric', cReturn: null }, { cName: 'Description = Capacitor SMD 0805 \\u00282012 Metric\\u0029, square \\u0028rectangular\\u0029 end terminal, IPC_7351 nominal, \\u0028Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing\\u0029, generated with kicad-footprint-generator', cReturn: 'https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing\\u0029, generated with kicad-footprint-generator' }, { cName: 'Keywords = capacitor', cReturn: null }, ]; var cChoice = app.popUpMenuEx.apply\( app, aParams \); if\( cChoice != null && cChoice.substring\( 0, 1 \) == '#' \)    this.pageNum = parseInt\( cChoice.slice\( 1 \) \); else if\( cChoice != null && cChoice.substring\( 0, 4 \) == 'http' \)    app.launchURL\( cChoice \);) >>
 >>
 endobj
 55 0 obj
@@ -1019,7 +1019,7 @@ endobj
    /Subtype /Link
    /Rect [262.521 467.72 272.537 479.092]
    /Border [16 16 0]
-   /A << /Type /Action /S /JavaScript /JS (var aParams = [ { cName: 'Reference designator = C17', cReturn: null }, { cName: 'Value = 100n', cReturn: null }, { cName: 'Digikey = 1276-1180-1-ND', cReturn: null }, { cName: 'Mouser = 581-08055C104K', cReturn: null }, { cName: 'Notes = 50V/10%', cReturn: null }, { cName: 'Sheetfile = pico.kicad_sch', cReturn: null }, { cName: 'Sheetname = MIDI', cReturn: null }, { cName: 'Supplier = https://www.digikey.ch/de/products/detail/kyocera-avx/KGM21NR71H104KM/6816312', cReturn: 'https://www.digikey.ch/de/products/detail/kyocera-avx/KGM21NR71H104KM/6816312' }, { cName: 'ki_description = Unpolarized capacitor, small symbol', cReturn: null }, { cName: 'ki_keywords = capacitor cap', cReturn: null }, { cName: 'Footprint = Capacitor_SMD:C_0805_2012Metric', cReturn: null }, { cName: 'Description = Capacitor SMD 0805 \\u00282012 Metric\\u0029, square \\u0028rectangular\\u0029 end terminal, IPC_7351 nominal, \\u0028Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing\\u0029, generated with kicad-footprint-generator', cReturn: 'https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing\\u0029, generated with kicad-footprint-generator' }, { cName: 'Keywords = capacitor', cReturn: null }, ]; var cChoice = app.popUpMenuEx.apply\( app, aParams \); if\( cChoice != null && cChoice.substring\( 0, 1 \) == '#' \)    this.pageNum = parseInt\( cChoice.slice\( 1 \) \); else if\( cChoice != null && cChoice.substring\( 0, 4 \) == 'http' \)    app.launchURL\( cChoice \);) >>
+   /A << /Type /Action /S /JavaScript /JS (var aParams = [ { cName: 'Reference designator = C17', cReturn: null }, { cName: 'Value = 100n', cReturn: null }, { cName: 'Digikey = 1276-1180-1-ND', cReturn: null }, { cName: 'Mouser = 581-08055C104K', cReturn: null }, { cName: 'Notes = 50V/10%', cReturn: null }, { cName: 'Sheetfile = pico.kicad_sch', cReturn: null }, { cName: 'Sheetname = MIDI', cReturn: null }, { cName: 'Supplier = https://www.digikey.ch/de/products/detail/samsung-electro-mechanics/CL21B104KBCNNNC/3886661', cReturn: 'https://www.digikey.ch/de/products/detail/samsung-electro-mechanics/CL21B104KBCNNNC/3886661' }, { cName: 'ki_description = Unpolarized capacitor, small symbol', cReturn: null }, { cName: 'ki_keywords = capacitor cap', cReturn: null }, { cName: 'Footprint = Capacitor_SMD:C_0805_2012Metric', cReturn: null }, { cName: 'Description = Capacitor SMD 0805 \\u00282012 Metric\\u0029, square \\u0028rectangular\\u0029 end terminal, IPC_7351 nominal, \\u0028Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing\\u0029, generated with kicad-footprint-generator', cReturn: 'https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing\\u0029, generated with kicad-footprint-generator' }, { cName: 'Keywords = capacitor', cReturn: null }, ]; var cChoice = app.popUpMenuEx.apply\( app, aParams \); if\( cChoice != null && cChoice.substring\( 0, 1 \) == '#' \)    this.pageNum = parseInt\( cChoice.slice\( 1 \) \); else if\( cChoice != null && cChoice.substring\( 0, 4 \) == 'http' \)    app.launchURL\( cChoice \);) >>
 >>
 endobj
 60 0 obj
@@ -1043,7 +1043,7 @@ endobj
    /Subtype /Link
    /Rect [242.282 450.839 252.298 467.896]
    /Border [16 16 0]
-   /A << /Type /Action /S /JavaScript /JS (var aParams = [ { cName: 'Reference designator = C6', cReturn: null }, { cName: 'Value = 100n', cReturn: null }, { cName: 'Digikey = 1276-1180-1-ND', cReturn: null }, { cName: 'Mouser = 581-08055C104K', cReturn: null }, { cName: 'Notes = 50V/10%', cReturn: null }, { cName: 'Sheetfile = leds.kicad_sch', cReturn: null }, { cName: 'Sheetname = LEDs', cReturn: null }, { cName: 'Supplier = https://www.digikey.ch/de/products/detail/kyocera-avx/KGM21NR71H104KM/6816312', cReturn: 'https://www.digikey.ch/de/products/detail/kyocera-avx/KGM21NR71H104KM/6816312' }, { cName: 'ki_description = Unpolarized capacitor, small symbol', cReturn: null }, { cName: 'ki_keywords = capacitor cap', cReturn: null }, { cName: 'Footprint = Capacitor_SMD:C_0805_2012Metric', cReturn: null }, { cName: 'Description = Capacitor SMD 0805 \\u00282012 Metric\\u0029, square \\u0028rectangular\\u0029 end terminal, IPC_7351 nominal, \\u0028Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing\\u0029, generated with kicad-footprint-generator', cReturn: 'https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing\\u0029, generated with kicad-footprint-generator' }, { cName: 'Keywords = capacitor', cReturn: null }, ]; var cChoice = app.popUpMenuEx.apply\( app, aParams \); if\( cChoice != null && cChoice.substring\( 0, 1 \) == '#' \)    this.pageNum = parseInt\( cChoice.slice\( 1 \) \); else if\( cChoice != null && cChoice.substring\( 0, 4 \) == 'http' \)    app.launchURL\( cChoice \);) >>
+   /A << /Type /Action /S /JavaScript /JS (var aParams = [ { cName: 'Reference designator = C6', cReturn: null }, { cName: 'Value = 100n', cReturn: null }, { cName: 'Digikey = 1276-1180-1-ND', cReturn: null }, { cName: 'Mouser = 581-08055C104K', cReturn: null }, { cName: 'Notes = 50V/10%', cReturn: null }, { cName: 'Sheetfile = leds.kicad_sch', cReturn: null }, { cName: 'Sheetname = LEDs', cReturn: null }, { cName: 'Supplier = https://www.digikey.ch/de/products/detail/samsung-electro-mechanics/CL21B104KBCNNNC/3886661', cReturn: 'https://www.digikey.ch/de/products/detail/samsung-electro-mechanics/CL21B104KBCNNNC/3886661' }, { cName: 'ki_description = Unpolarized capacitor, small symbol', cReturn: null }, { cName: 'ki_keywords = capacitor cap', cReturn: null }, { cName: 'Footprint = Capacitor_SMD:C_0805_2012Metric', cReturn: null }, { cName: 'Description = Capacitor SMD 0805 \\u00282012 Metric\\u0029, square \\u0028rectangular\\u0029 end terminal, IPC_7351 nominal, \\u0028Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing\\u0029, generated with kicad-footprint-generator', cReturn: 'https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing\\u0029, generated with kicad-footprint-generator' }, { cName: 'Keywords = capacitor', cReturn: null }, ]; var cChoice = app.popUpMenuEx.apply\( app, aParams \); if\( cChoice != null && cChoice.substring\( 0, 1 \) == '#' \)    this.pageNum = parseInt\( cChoice.slice\( 1 \) \); else if\( cChoice != null && cChoice.substring\( 0, 4 \) == 'http' \)    app.launchURL\( cChoice \);) >>
 >>
 endobj
 63 0 obj
@@ -1051,7 +1051,7 @@ endobj
    /Subtype /Link
    /Rect [290.395 433.406 300.042 451.596]
    /Border [16 16 0]
-   /A << /Type /Action /S /JavaScript /JS (var aParams = [ { cName: 'Reference designator = C9', cReturn: null }, { cName: 'Value = 100n', cReturn: null }, { cName: 'Digikey = 1276-1180-1-ND', cReturn: null }, { cName: 'Mouser = 581-08055C104K', cReturn: null }, { cName: 'Notes = 50V/10%', cReturn: null }, { cName: 'Sheetfile = pico.kicad_sch', cReturn: null }, { cName: 'Sheetname = MIDI', cReturn: null }, { cName: 'Supplier = https://www.digikey.ch/de/products/detail/kyocera-avx/KGM21NR71H104KM/6816312', cReturn: 'https://www.digikey.ch/de/products/detail/kyocera-avx/KGM21NR71H104KM/6816312' }, { cName: 'ki_description = Unpolarized capacitor, small symbol', cReturn: null }, { cName: 'ki_keywords = capacitor cap', cReturn: null }, { cName: 'Footprint = Capacitor_SMD:C_0805_2012Metric', cReturn: null }, { cName: 'Description = Capacitor SMD 0805 \\u00282012 Metric\\u0029, square \\u0028rectangular\\u0029 end terminal, IPC_7351 nominal, \\u0028Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing\\u0029, generated with kicad-footprint-generator', cReturn: 'https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing\\u0029, generated with kicad-footprint-generator' }, { cName: 'Keywords = capacitor', cReturn: null }, ]; var cChoice = app.popUpMenuEx.apply\( app, aParams \); if\( cChoice != null && cChoice.substring\( 0, 1 \) == '#' \)    this.pageNum = parseInt\( cChoice.slice\( 1 \) \); else if\( cChoice != null && cChoice.substring\( 0, 4 \) == 'http' \)    app.launchURL\( cChoice \);) >>
+   /A << /Type /Action /S /JavaScript /JS (var aParams = [ { cName: 'Reference designator = C9', cReturn: null }, { cName: 'Value = 100n', cReturn: null }, { cName: 'Digikey = 1276-1180-1-ND', cReturn: null }, { cName: 'Mouser = 581-08055C104K', cReturn: null }, { cName: 'Notes = 50V/10%', cReturn: null }, { cName: 'Sheetfile = pico.kicad_sch', cReturn: null }, { cName: 'Sheetname = MIDI', cReturn: null }, { cName: 'Supplier = https://www.digikey.ch/de/products/detail/samsung-electro-mechanics/CL21B104KBCNNNC/3886661', cReturn: 'https://www.digikey.ch/de/products/detail/samsung-electro-mechanics/CL21B104KBCNNNC/3886661' }, { cName: 'ki_description = Unpolarized capacitor, small symbol', cReturn: null }, { cName: 'ki_keywords = capacitor cap', cReturn: null }, { cName: 'Footprint = Capacitor_SMD:C_0805_2012Metric', cReturn: null }, { cName: 'Description = Capacitor SMD 0805 \\u00282012 Metric\\u0029, square \\u0028rectangular\\u0029 end terminal, IPC_7351 nominal, \\u0028Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing\\u0029, generated with kicad-footprint-generator', cReturn: 'https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing\\u0029, generated with kicad-footprint-generator' }, { cName: 'Keywords = capacitor', cReturn: null }, ]; var cChoice = app.popUpMenuEx.apply\( app, aParams \); if\( cChoice != null && cChoice.substring\( 0, 1 \) == '#' \)    this.pageNum = parseInt\( cChoice.slice\( 1 \) \); else if\( cChoice != null && cChoice.substring\( 0, 4 \) == 'http' \)    app.launchURL\( cChoice \);) >>
 >>
 endobj
 64 0 obj
@@ -1211,7 +1211,7 @@ endobj
    /Subtype /Link
    /Rect [299.038 482.038 321.498 492.819]
    /Border [16 16 0]
-   /A << /Type /Action /S /JavaScript /JS (var aParams = [ { cName: 'Reference designator = C15', cReturn: null }, { cName: 'Value = 100n', cReturn: null }, { cName: 'Digikey = 1276-1180-1-ND', cReturn: null }, { cName: 'Mouser = 581-08055C104K', cReturn: null }, { cName: 'Notes = 50V/10%', cReturn: null }, { cName: 'Sheetfile = pico.kicad_sch', cReturn: null }, { cName: 'Sheetname = MIDI', cReturn: null }, { cName: 'Supplier = https://www.digikey.ch/de/products/detail/kyocera-avx/KGM21NR71H104KM/6816312', cReturn: 'https://www.digikey.ch/de/products/detail/kyocera-avx/KGM21NR71H104KM/6816312' }, { cName: 'ki_description = Unpolarized capacitor, small symbol', cReturn: null }, { cName: 'ki_keywords = capacitor cap', cReturn: null }, { cName: 'Footprint = Capacitor_SMD:C_0805_2012Metric', cReturn: null }, { cName: 'Description = Capacitor SMD 0805 \\u00282012 Metric\\u0029, square \\u0028rectangular\\u0029 end terminal, IPC_7351 nominal, \\u0028Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing\\u0029, generated with kicad-footprint-generator', cReturn: 'https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing\\u0029, generated with kicad-footprint-generator' }, { cName: 'Keywords = capacitor', cReturn: null }, ]; var cChoice = app.popUpMenuEx.apply\( app, aParams \); if\( cChoice != null && cChoice.substring\( 0, 1 \) == '#' \)    this.pageNum = parseInt\( cChoice.slice\( 1 \) \); else if\( cChoice != null && cChoice.substring\( 0, 4 \) == 'http' \)    app.launchURL\( cChoice \);) >>
+   /A << /Type /Action /S /JavaScript /JS (var aParams = [ { cName: 'Reference designator = C15', cReturn: null }, { cName: 'Value = 100n', cReturn: null }, { cName: 'Digikey = 1276-1180-1-ND', cReturn: null }, { cName: 'Mouser = 581-08055C104K', cReturn: null }, { cName: 'Notes = 50V/10%', cReturn: null }, { cName: 'Sheetfile = pico.kicad_sch', cReturn: null }, { cName: 'Sheetname = MIDI', cReturn: null }, { cName: 'Supplier = https://www.digikey.ch/de/products/detail/samsung-electro-mechanics/CL21B104KBCNNNC/3886661', cReturn: 'https://www.digikey.ch/de/products/detail/samsung-electro-mechanics/CL21B104KBCNNNC/3886661' }, { cName: 'ki_description = Unpolarized capacitor, small symbol', cReturn: null }, { cName: 'ki_keywords = capacitor cap', cReturn: null }, { cName: 'Footprint = Capacitor_SMD:C_0805_2012Metric', cReturn: null }, { cName: 'Description = Capacitor SMD 0805 \\u00282012 Metric\\u0029, square \\u0028rectangular\\u0029 end terminal, IPC_7351 nominal, \\u0028Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing\\u0029, generated with kicad-footprint-generator', cReturn: 'https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing\\u0029, generated with kicad-footprint-generator' }, { cName: 'Keywords = capacitor', cReturn: null }, ]; var cChoice = app.popUpMenuEx.apply\( app, aParams \); if\( cChoice != null && cChoice.substring\( 0, 1 \) == '#' \)    this.pageNum = parseInt\( cChoice.slice\( 1 \) \); else if\( cChoice != null && cChoice.substring\( 0, 4 \) == 'http' \)    app.launchURL\( cChoice \);) >>
 >>
 endobj
 84 0 obj
@@ -1251,7 +1251,7 @@ endobj
    /Subtype /Link
    /Rect [332.858 467.156 345.844 477.228]
    /Border [16 16 0]
-   /A << /Type /Action /S /JavaScript /JS (var aParams = [ { cName: 'Reference designator = C21', cReturn: null }, { cName: 'Value = 100n', cReturn: null }, { cName: 'Digikey = 1276-1180-1-ND', cReturn: null }, { cName: 'Mouser = 581-08055C104K', cReturn: null }, { cName: 'Notes = 50V/10%', cReturn: null }, { cName: 'Sheetfile = leds.kicad_sch', cReturn: null }, { cName: 'Sheetname = LEDs', cReturn: null }, { cName: 'Supplier = https://www.digikey.ch/de/products/detail/kyocera-avx/KGM21NR71H104KM/6816312', cReturn: 'https://www.digikey.ch/de/products/detail/kyocera-avx/KGM21NR71H104KM/6816312' }, { cName: 'ki_description = Unpolarized capacitor, small symbol', cReturn: null }, { cName: 'ki_keywords = capacitor cap', cReturn: null }, { cName: 'Footprint = Capacitor_SMD:C_0805_2012Metric', cReturn: null }, { cName: 'Description = Capacitor SMD 0805 \\u00282012 Metric\\u0029, square \\u0028rectangular\\u0029 end terminal, IPC_7351 nominal, \\u0028Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing\\u0029, generated with kicad-footprint-generator', cReturn: 'https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing\\u0029, generated with kicad-footprint-generator' }, { cName: 'Keywords = capacitor', cReturn: null }, ]; var cChoice = app.popUpMenuEx.apply\( app, aParams \); if\( cChoice != null && cChoice.substring\( 0, 1 \) == '#' \)    this.pageNum = parseInt\( cChoice.slice\( 1 \) \); else if\( cChoice != null && cChoice.substring\( 0, 4 \) == 'http' \)    app.launchURL\( cChoice \);) >>
+   /A << /Type /Action /S /JavaScript /JS (var aParams = [ { cName: 'Reference designator = C21', cReturn: null }, { cName: 'Value = 100n', cReturn: null }, { cName: 'Digikey = 1276-1180-1-ND', cReturn: null }, { cName: 'Mouser = 581-08055C104K', cReturn: null }, { cName: 'Notes = 50V/10%', cReturn: null }, { cName: 'Sheetfile = leds.kicad_sch', cReturn: null }, { cName: 'Sheetname = LEDs', cReturn: null }, { cName: 'Supplier = https://www.digikey.ch/de/products/detail/samsung-electro-mechanics/CL21B104KBCNNNC/3886661', cReturn: 'https://www.digikey.ch/de/products/detail/samsung-electro-mechanics/CL21B104KBCNNNC/3886661' }, { cName: 'ki_description = Unpolarized capacitor, small symbol', cReturn: null }, { cName: 'ki_keywords = capacitor cap', cReturn: null }, { cName: 'Footprint = Capacitor_SMD:C_0805_2012Metric', cReturn: null }, { cName: 'Description = Capacitor SMD 0805 \\u00282012 Metric\\u0029, square \\u0028rectangular\\u0029 end terminal, IPC_7351 nominal, \\u0028Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing\\u0029, generated with kicad-footprint-generator', cReturn: 'https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing\\u0029, generated with kicad-footprint-generator' }, { cName: 'Keywords = capacitor', cReturn: null }, ]; var cChoice = app.popUpMenuEx.apply\( app, aParams \); if\( cChoice != null && cChoice.substring\( 0, 1 \) == '#' \)    this.pageNum = parseInt\( cChoice.slice\( 1 \) \); else if\( cChoice != null && cChoice.substring\( 0, 4 \) == 'http' \)    app.launchURL\( cChoice \);) >>
 >>
 endobj
 89 0 obj
@@ -1259,7 +1259,7 @@ endobj
    /Subtype /Link
    /Rect [283.986 483.2 302.29 493.215]
    /Border [16 16 0]
-   /A << /Type /Action /S /JavaScript /JS (var aParams = [ { cName: 'Reference designator = C8', cReturn: null }, { cName: 'Value = 100n', cReturn: null }, { cName: 'Digikey = 1276-1180-1-ND', cReturn: null }, { cName: 'Mouser = 581-08055C104K', cReturn: null }, { cName: 'Notes = 50V/10%', cReturn: null }, { cName: 'Sheetfile = pico.kicad_sch', cReturn: null }, { cName: 'Sheetname = MIDI', cReturn: null }, { cName: 'Supplier = https://www.digikey.ch/de/products/detail/kyocera-avx/KGM21NR71H104KM/6816312', cReturn: 'https://www.digikey.ch/de/products/detail/kyocera-avx/KGM21NR71H104KM/6816312' }, { cName: 'ki_description = Unpolarized capacitor, small symbol', cReturn: null }, { cName: 'ki_keywords = capacitor cap', cReturn: null }, { cName: 'Footprint = Capacitor_SMD:C_0805_2012Metric', cReturn: null }, { cName: 'Description = Capacitor SMD 0805 \\u00282012 Metric\\u0029, square \\u0028rectangular\\u0029 end terminal, IPC_7351 nominal, \\u0028Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing\\u0029, generated with kicad-footprint-generator', cReturn: 'https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing\\u0029, generated with kicad-footprint-generator' }, { cName: 'Keywords = capacitor', cReturn: null }, ]; var cChoice = app.popUpMenuEx.apply\( app, aParams \); if\( cChoice != null && cChoice.substring\( 0, 1 \) == '#' \)    this.pageNum = parseInt\( cChoice.slice\( 1 \) \); else if\( cChoice != null && cChoice.substring\( 0, 4 \) == 'http' \)    app.launchURL\( cChoice \);) >>
+   /A << /Type /Action /S /JavaScript /JS (var aParams = [ { cName: 'Reference designator = C8', cReturn: null }, { cName: 'Value = 100n', cReturn: null }, { cName: 'Digikey = 1276-1180-1-ND', cReturn: null }, { cName: 'Mouser = 581-08055C104K', cReturn: null }, { cName: 'Notes = 50V/10%', cReturn: null }, { cName: 'Sheetfile = pico.kicad_sch', cReturn: null }, { cName: 'Sheetname = MIDI', cReturn: null }, { cName: 'Supplier = https://www.digikey.ch/de/products/detail/samsung-electro-mechanics/CL21B104KBCNNNC/3886661', cReturn: 'https://www.digikey.ch/de/products/detail/samsung-electro-mechanics/CL21B104KBCNNNC/3886661' }, { cName: 'ki_description = Unpolarized capacitor, small symbol', cReturn: null }, { cName: 'ki_keywords = capacitor cap', cReturn: null }, { cName: 'Footprint = Capacitor_SMD:C_0805_2012Metric', cReturn: null }, { cName: 'Description = Capacitor SMD 0805 \\u00282012 Metric\\u0029, square \\u0028rectangular\\u0029 end terminal, IPC_7351 nominal, \\u0028Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing\\u0029, generated with kicad-footprint-generator', cReturn: 'https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing\\u0029, generated with kicad-footprint-generator' }, { cName: 'Keywords = capacitor', cReturn: null }, ]; var cChoice = app.popUpMenuEx.apply\( app, aParams \); if\( cChoice != null && cChoice.substring\( 0, 1 \) == '#' \)    this.pageNum = parseInt\( cChoice.slice\( 1 \) \); else if\( cChoice != null && cChoice.substring\( 0, 4 \) == 'http' \)    app.launchURL\( cChoice \);) >>
 >>
 endobj
 90 0 obj
@@ -1395,7 +1395,7 @@ endobj
    /Subtype /Link
    /Rect [313.659 454.397 323.306 474.136]
    /Border [16 16 0]
-   /A << /Type /Action /S /JavaScript /JS (var aParams = [ { cName: 'Reference designator = C11', cReturn: null }, { cName: 'Value = 100n', cReturn: null }, { cName: 'Digikey = 1276-1180-1-ND', cReturn: null }, { cName: 'Mouser = 581-08055C104K', cReturn: null }, { cName: 'Notes = 50V/10%', cReturn: null }, { cName: 'Sheetfile = pico.kicad_sch', cReturn: null }, { cName: 'Sheetname = MIDI', cReturn: null }, { cName: 'Supplier = https://www.digikey.ch/de/products/detail/kyocera-avx/KGM21NR71H104KM/6816312', cReturn: 'https://www.digikey.ch/de/products/detail/kyocera-avx/KGM21NR71H104KM/6816312' }, { cName: 'ki_description = Unpolarized capacitor, small symbol', cReturn: null }, { cName: 'ki_keywords = capacitor cap', cReturn: null }, { cName: 'Footprint = Capacitor_SMD:C_0805_2012Metric', cReturn: null }, { cName: 'Description = Capacitor SMD 0805 \\u00282012 Metric\\u0029, square \\u0028rectangular\\u0029 end terminal, IPC_7351 nominal, \\u0028Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing\\u0029, generated with kicad-footprint-generator', cReturn: 'https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing\\u0029, generated with kicad-footprint-generator' }, { cName: 'Keywords = capacitor', cReturn: null }, ]; var cChoice = app.popUpMenuEx.apply\( app, aParams \); if\( cChoice != null && cChoice.substring\( 0, 1 \) == '#' \)    this.pageNum = parseInt\( cChoice.slice\( 1 \) \); else if\( cChoice != null && cChoice.substring\( 0, 4 \) == 'http' \)    app.launchURL\( cChoice \);) >>
+   /A << /Type /Action /S /JavaScript /JS (var aParams = [ { cName: 'Reference designator = C11', cReturn: null }, { cName: 'Value = 100n', cReturn: null }, { cName: 'Digikey = 1276-1180-1-ND', cReturn: null }, { cName: 'Mouser = 581-08055C104K', cReturn: null }, { cName: 'Notes = 50V/10%', cReturn: null }, { cName: 'Sheetfile = pico.kicad_sch', cReturn: null }, { cName: 'Sheetname = MIDI', cReturn: null }, { cName: 'Supplier = https://www.digikey.ch/de/products/detail/samsung-electro-mechanics/CL21B104KBCNNNC/3886661', cReturn: 'https://www.digikey.ch/de/products/detail/samsung-electro-mechanics/CL21B104KBCNNNC/3886661' }, { cName: 'ki_description = Unpolarized capacitor, small symbol', cReturn: null }, { cName: 'ki_keywords = capacitor cap', cReturn: null }, { cName: 'Footprint = Capacitor_SMD:C_0805_2012Metric', cReturn: null }, { cName: 'Description = Capacitor SMD 0805 \\u00282012 Metric\\u0029, square \\u0028rectangular\\u0029 end terminal, IPC_7351 nominal, \\u0028Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing\\u0029, generated with kicad-footprint-generator', cReturn: 'https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing\\u0029, generated with kicad-footprint-generator' }, { cName: 'Keywords = capacitor', cReturn: null }, ]; var cChoice = app.popUpMenuEx.apply\( app, aParams \); if\( cChoice != null && cChoice.substring\( 0, 1 \) == '#' \)    this.pageNum = parseInt\( cChoice.slice\( 1 \) \); else if\( cChoice != null && cChoice.substring\( 0, 4 \) == 'http' \)    app.launchURL\( cChoice \);) >>
 >>
 endobj
 107 0 obj
@@ -1419,7 +1419,7 @@ endobj
    /Subtype /Link
    /Rect [284.811 477.644 304.972 483.342]
    /Border [16 16 0]
-   /A << /Type /Action /S /JavaScript /JS (var aParams = [ { cName: 'Reference designator = C12', cReturn: null }, { cName: 'Value = 1u', cReturn: null }, { cName: 'Notes = 50V/10%', cReturn: null }, { cName: 'Sheetfile = pico.kicad_sch', cReturn: null }, { cName: 'Sheetname = MIDI', cReturn: null }, { cName: 'Supplier = https://www.digikey.ch/de/products/detail/kyocera-avx/KGM21AR71H105MU/3081237', cReturn: 'https://www.digikey.ch/de/products/detail/kyocera-avx/KGM21AR71H105MU/3081237' }, { cName: 'ki_description = Unpolarized capacitor, small symbol', cReturn: null }, { cName: 'ki_keywords = capacitor cap', cReturn: null }, { cName: 'Footprint = Capacitor_SMD:C_0805_2012Metric', cReturn: null }, { cName: 'Description = Capacitor SMD 0805 \\u00282012 Metric\\u0029, square \\u0028rectangular\\u0029 end terminal, IPC_7351 nominal, \\u0028Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing\\u0029, generated with kicad-footprint-generator', cReturn: 'https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing\\u0029, generated with kicad-footprint-generator' }, { cName: 'Keywords = capacitor', cReturn: null }, ]; var cChoice = app.popUpMenuEx.apply\( app, aParams \); if\( cChoice != null && cChoice.substring\( 0, 1 \) == '#' \)    this.pageNum = parseInt\( cChoice.slice\( 1 \) \); else if\( cChoice != null && cChoice.substring\( 0, 4 \) == 'http' \)    app.launchURL\( cChoice \);) >>
+   /A << /Type /Action /S /JavaScript /JS (var aParams = [ { cName: 'Reference designator = C12', cReturn: null }, { cName: 'Value = 1u', cReturn: null }, { cName: 'Notes = 25V/10%', cReturn: null }, { cName: 'Sheetfile = pico.kicad_sch', cReturn: null }, { cName: 'Sheetname = MIDI', cReturn: null }, { cName: 'Supplier = https://www.digikey.ch/de/products/detail/samsung-electro-mechanics/CL21B105KAFNNNE/3886724', cReturn: 'https://www.digikey.ch/de/products/detail/samsung-electro-mechanics/CL21B105KAFNNNE/3886724' }, { cName: 'ki_description = Unpolarized capacitor, small symbol', cReturn: null }, { cName: 'ki_keywords = capacitor cap', cReturn: null }, { cName: 'Footprint = Capacitor_SMD:C_0805_2012Metric', cReturn: null }, { cName: 'Description = Capacitor SMD 0805 \\u00282012 Metric\\u0029, square \\u0028rectangular\\u0029 end terminal, IPC_7351 nominal, \\u0028Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing\\u0029, generated with kicad-footprint-generator', cReturn: 'https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing\\u0029, generated with kicad-footprint-generator' }, { cName: 'Keywords = capacitor', cReturn: null }, ]; var cChoice = app.popUpMenuEx.apply\( app, aParams \); if\( cChoice != null && cChoice.substring\( 0, 1 \) == '#' \)    this.pageNum = parseInt\( cChoice.slice\( 1 \) \); else if\( cChoice != null && cChoice.substring\( 0, 4 \) == 'http' \)    app.launchURL\( cChoice \);) >>
 >>
 endobj
 110 0 obj
@@ -1475,7 +1475,7 @@ endobj
    /Subtype /Link
    /Rect [305.107 432.425 314.216 451.313]
    /Border [16 16 0]
-   /A << /Type /Action /S /JavaScript /JS (var aParams = [ { cName: 'Reference designator = C16', cReturn: null }, { cName: 'Value = 100n', cReturn: null }, { cName: 'Digikey = 1276-1180-1-ND', cReturn: null }, { cName: 'Mouser = 581-08055C104K', cReturn: null }, { cName: 'Notes = 50V/10%', cReturn: null }, { cName: 'Sheetfile = pico.kicad_sch', cReturn: null }, { cName: 'Sheetname = MIDI', cReturn: null }, { cName: 'Supplier = https://www.digikey.ch/de/products/detail/kyocera-avx/KGM21NR71H104KM/6816312', cReturn: 'https://www.digikey.ch/de/products/detail/kyocera-avx/KGM21NR71H104KM/6816312' }, { cName: 'ki_description = Unpolarized capacitor, small symbol', cReturn: null }, { cName: 'ki_keywords = capacitor cap', cReturn: null }, { cName: 'Footprint = Capacitor_SMD:C_0805_2012Metric', cReturn: null }, { cName: 'Description = Capacitor SMD 0805 \\u00282012 Metric\\u0029, square \\u0028rectangular\\u0029 end terminal, IPC_7351 nominal, \\u0028Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing\\u0029, generated with kicad-footprint-generator', cReturn: 'https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing\\u0029, generated with kicad-footprint-generator' }, { cName: 'Keywords = capacitor', cReturn: null }, ]; var cChoice = app.popUpMenuEx.apply\( app, aParams \); if\( cChoice != null && cChoice.substring\( 0, 1 \) == '#' \)    this.pageNum = parseInt\( cChoice.slice\( 1 \) \); else if\( cChoice != null && cChoice.substring\( 0, 4 \) == 'http' \)    app.launchURL\( cChoice \);) >>
+   /A << /Type /Action /S /JavaScript /JS (var aParams = [ { cName: 'Reference designator = C16', cReturn: null }, { cName: 'Value = 100n', cReturn: null }, { cName: 'Digikey = 1276-1180-1-ND', cReturn: null }, { cName: 'Mouser = 581-08055C104K', cReturn: null }, { cName: 'Notes = 50V/10%', cReturn: null }, { cName: 'Sheetfile = pico.kicad_sch', cReturn: null }, { cName: 'Sheetname = MIDI', cReturn: null }, { cName: 'Supplier = https://www.digikey.ch/de/products/detail/samsung-electro-mechanics/CL21B104KBCNNNC/3886661', cReturn: 'https://www.digikey.ch/de/products/detail/samsung-electro-mechanics/CL21B104KBCNNNC/3886661' }, { cName: 'ki_description = Unpolarized capacitor, small symbol', cReturn: null }, { cName: 'ki_keywords = capacitor cap', cReturn: null }, { cName: 'Footprint = Capacitor_SMD:C_0805_2012Metric', cReturn: null }, { cName: 'Description = Capacitor SMD 0805 \\u00282012 Metric\\u0029, square \\u0028rectangular\\u0029 end terminal, IPC_7351 nominal, \\u0028Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing\\u0029, generated with kicad-footprint-generator', cReturn: 'https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing\\u0029, generated with kicad-footprint-generator' }, { cName: 'Keywords = capacitor', cReturn: null }, ]; var cChoice = app.popUpMenuEx.apply\( app, aParams \); if\( cChoice != null && cChoice.substring\( 0, 1 \) == '#' \)    this.pageNum = parseInt\( cChoice.slice\( 1 \) \); else if\( cChoice != null && cChoice.substring\( 0, 4 \) == 'http' \)    app.launchURL\( cChoice \);) >>
 >>
 endobj
 117 0 obj
@@ -1508,7 +1508,7 @@ endobj
    /Subtype /Link
    /Rect [280.644 467.373 294.955 477.587]
    /Border [16 16 0]
-   /A << /Type /Action /S /JavaScript /JS (var aParams = [ { cName: 'Reference designator = C13', cReturn: null }, { cName: 'Value = 1u', cReturn: null }, { cName: 'Notes = 50V/10%', cReturn: null }, { cName: 'Sheetfile = pico.kicad_sch', cReturn: null }, { cName: 'Sheetname = MIDI', cReturn: null }, { cName: 'Supplier = https://www.digikey.ch/de/products/detail/kyocera-avx/KGM21AR71H105MU/3081237', cReturn: 'https://www.digikey.ch/de/products/detail/kyocera-avx/KGM21AR71H105MU/3081237' }, { cName: 'ki_description = Unpolarized capacitor, small symbol', cReturn: null }, { cName: 'ki_keywords = capacitor cap', cReturn: null }, { cName: 'Footprint = Capacitor_SMD:C_0805_2012Metric', cReturn: null }, { cName: 'Description = Capacitor SMD 0805 \\u00282012 Metric\\u0029, square \\u0028rectangular\\u0029 end terminal, IPC_7351 nominal, \\u0028Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing\\u0029, generated with kicad-footprint-generator', cReturn: 'https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing\\u0029, generated with kicad-footprint-generator' }, { cName: 'Keywords = capacitor', cReturn: null }, ]; var cChoice = app.popUpMenuEx.apply\( app, aParams \); if\( cChoice != null && cChoice.substring\( 0, 1 \) == '#' \)    this.pageNum = parseInt\( cChoice.slice\( 1 \) \); else if\( cChoice != null && cChoice.substring\( 0, 4 \) == 'http' \)    app.launchURL\( cChoice \);) >>
+   /A << /Type /Action /S /JavaScript /JS (var aParams = [ { cName: 'Reference designator = C13', cReturn: null }, { cName: 'Value = 1u', cReturn: null }, { cName: 'Notes = 25V/10%', cReturn: null }, { cName: 'Sheetfile = pico.kicad_sch', cReturn: null }, { cName: 'Sheetname = MIDI', cReturn: null }, { cName: 'Supplier = https://www.digikey.ch/de/products/detail/samsung-electro-mechanics/CL21B105KAFNNNE/3886724', cReturn: 'https://www.digikey.ch/de/products/detail/samsung-electro-mechanics/CL21B105KAFNNNE/3886724' }, { cName: 'ki_description = Unpolarized capacitor, small symbol', cReturn: null }, { cName: 'ki_keywords = capacitor cap', cReturn: null }, { cName: 'Footprint = Capacitor_SMD:C_0805_2012Metric', cReturn: null }, { cName: 'Description = Capacitor SMD 0805 \\u00282012 Metric\\u0029, square \\u0028rectangular\\u0029 end terminal, IPC_7351 nominal, \\u0028Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing\\u0029, generated with kicad-footprint-generator', cReturn: 'https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing\\u0029, generated with kicad-footprint-generator' }, { cName: 'Keywords = capacitor', cReturn: null }, ]; var cChoice = app.popUpMenuEx.apply\( app, aParams \); if\( cChoice != null && cChoice.substring\( 0, 1 \) == '#' \)    this.pageNum = parseInt\( cChoice.slice\( 1 \) \); else if\( cChoice != null && cChoice.substring\( 0, 4 \) == 'http' \)    app.launchURL\( cChoice \);) >>
 >>
 endobj
 121 0 obj
@@ -1627,7 +1627,7 @@ endobj
 401 0 obj
 <<
 /Producer (KiCad PDF)
-/CreationDate (D:20231022193224)
+/CreationDate (D:20231022195153)
 /Creator (PCBNEW)
 /Title (pedalboard-hw-B_Courtyard.pdf)
 >>
@@ -2700,411 +2700,411 @@ endobj
 xref
 0 404
 0000000000 65535 f 
-0000203277 00000 n 
+0000203753 00000 n 
 0000010890 00000 n 
 0000000015 00000 n 
 0000000729 00000 n 
 0000011007 00000 n 
-0000012938 00000 n 
-0000014869 00000 n 
-0000015926 00000 n 
-0000016936 00000 n 
-0000018515 00000 n 
-0000019966 00000 n 
-0000021897 00000 n 
-0000023647 00000 n 
-0000024659 00000 n 
-0000025916 00000 n 
-0000027315 00000 n 
-0000028818 00000 n 
-0000030333 00000 n 
-0000032070 00000 n 
-0000033573 00000 n 
-0000035511 00000 n 
-0000036753 00000 n 
-0000038580 00000 n 
-0000040441 00000 n 
-0000041664 00000 n 
-0000043244 00000 n 
-0000045174 00000 n 
-0000046268 00000 n 
-0000048128 00000 n 
-0000049518 00000 n 
-0000051457 00000 n 
-0000053212 00000 n 
-0000054794 00000 n 
-0000056311 00000 n 
-0000057827 00000 n 
-0000058972 00000 n 
-0000060361 00000 n 
-0000061419 00000 n 
-0000063390 00000 n 
-0000064615 00000 n 
-0000066554 00000 n 
-0000067506 00000 n 
-0000068731 00000 n 
-0000070132 00000 n 
-0000071144 00000 n 
-0000072369 00000 n 
-0000073950 00000 n 
-0000075201 00000 n 
-0000076260 00000 n 
-0000077764 00000 n 
-0000079695 00000 n 
-0000080752 00000 n 
-0000082053 00000 n 
-0000083641 00000 n 
-0000085572 00000 n 
-0000087541 00000 n 
-0000089044 00000 n 
-0000090433 00000 n 
-0000091658 00000 n 
-0000093589 00000 n 
-0000095170 00000 n 
-0000096559 00000 n 
-0000098490 00000 n 
-0000100421 00000 n 
-0000101508 00000 n 
-0000103088 00000 n 
-0000104235 00000 n 
-0000105752 00000 n 
-0000106845 00000 n 
-0000108247 00000 n 
-0000110107 00000 n 
-0000111278 00000 n 
-0000112733 00000 n 
-0000114312 00000 n 
-0000115896 00000 n 
-0000117104 00000 n 
-0000118193 00000 n 
-0000119285 00000 n 
-0000120563 00000 n 
-0000121924 00000 n 
-0000123784 00000 n 
-0000125008 00000 n 
-0000126265 00000 n 
-0000128197 00000 n 
-0000129779 00000 n 
-0000131323 00000 n 
-0000132485 00000 n 
-0000133827 00000 n 
-0000135759 00000 n 
-0000137687 00000 n 
-0000139625 00000 n 
-0000141206 00000 n 
-0000142750 00000 n 
-0000144600 00000 n 
-0000146200 00000 n 
-0000147957 00000 n 
-0000149014 00000 n 
-0000150398 00000 n 
-0000151800 00000 n 
-0000153181 00000 n 
-0000154364 00000 n 
-0000155376 00000 n 
-0000156779 00000 n 
-0000158182 00000 n 
-0000160122 00000 n 
-0000161707 00000 n 
-0000163640 00000 n 
-0000164701 00000 n 
-0000166062 00000 n 
-0000167886 00000 n 
-0000169433 00000 n 
-0000171016 00000 n 
-0000172080 00000 n 
-0000173670 00000 n 
-0000175072 00000 n 
-0000176137 00000 n 
-0000178070 00000 n 
-0000179922 00000 n 
-0000181223 00000 n 
-0000183194 00000 n 
-0000185018 00000 n 
-0000186565 00000 n 
-0000188063 00000 n 
-0000190033 00000 n 
-0000191306 00000 n 
-0000192578 00000 n 
-0000193851 00000 n 
-0000195124 00000 n 
-0000196396 00000 n 
-0000197871 00000 n 
-0000199344 00000 n 
-0000200618 00000 n 
-0000201802 00000 n 
+0000012966 00000 n 
+0000014925 00000 n 
+0000015982 00000 n 
+0000016992 00000 n 
+0000018571 00000 n 
+0000020022 00000 n 
+0000021981 00000 n 
+0000023731 00000 n 
+0000024743 00000 n 
+0000026000 00000 n 
+0000027399 00000 n 
+0000028902 00000 n 
+0000030417 00000 n 
+0000032154 00000 n 
+0000033657 00000 n 
+0000035623 00000 n 
+0000036865 00000 n 
+0000038692 00000 n 
+0000040553 00000 n 
+0000041776 00000 n 
+0000043356 00000 n 
+0000045314 00000 n 
+0000046408 00000 n 
+0000048268 00000 n 
+0000049658 00000 n 
+0000051597 00000 n 
+0000053352 00000 n 
+0000054934 00000 n 
+0000056451 00000 n 
+0000057967 00000 n 
+0000059112 00000 n 
+0000060501 00000 n 
+0000061559 00000 n 
+0000063530 00000 n 
+0000064755 00000 n 
+0000066694 00000 n 
+0000067646 00000 n 
+0000068871 00000 n 
+0000070272 00000 n 
+0000071284 00000 n 
+0000072509 00000 n 
+0000074090 00000 n 
+0000075341 00000 n 
+0000076400 00000 n 
+0000077904 00000 n 
+0000079863 00000 n 
+0000080920 00000 n 
+0000082221 00000 n 
+0000083809 00000 n 
+0000085768 00000 n 
+0000087737 00000 n 
+0000089240 00000 n 
+0000090629 00000 n 
+0000091854 00000 n 
+0000093813 00000 n 
+0000095394 00000 n 
+0000096783 00000 n 
+0000098742 00000 n 
+0000100701 00000 n 
+0000101788 00000 n 
+0000103368 00000 n 
+0000104515 00000 n 
+0000106032 00000 n 
+0000107125 00000 n 
+0000108527 00000 n 
+0000110387 00000 n 
+0000111558 00000 n 
+0000113013 00000 n 
+0000114592 00000 n 
+0000116176 00000 n 
+0000117384 00000 n 
+0000118473 00000 n 
+0000119565 00000 n 
+0000120843 00000 n 
+0000122204 00000 n 
+0000124064 00000 n 
+0000125288 00000 n 
+0000126545 00000 n 
+0000128505 00000 n 
+0000130087 00000 n 
+0000131631 00000 n 
+0000132793 00000 n 
+0000134135 00000 n 
+0000136095 00000 n 
+0000138051 00000 n 
+0000139989 00000 n 
+0000141570 00000 n 
+0000143114 00000 n 
+0000144964 00000 n 
+0000146564 00000 n 
+0000148321 00000 n 
+0000149378 00000 n 
+0000150762 00000 n 
+0000152164 00000 n 
+0000153545 00000 n 
+0000154728 00000 n 
+0000155740 00000 n 
+0000157143 00000 n 
+0000158546 00000 n 
+0000160486 00000 n 
+0000162071 00000 n 
+0000164032 00000 n 
+0000165093 00000 n 
+0000166454 00000 n 
+0000168306 00000 n 
+0000169853 00000 n 
+0000171436 00000 n 
+0000172500 00000 n 
+0000174090 00000 n 
+0000175492 00000 n 
+0000176557 00000 n 
+0000178518 00000 n 
+0000180370 00000 n 
+0000181671 00000 n 
+0000183642 00000 n 
+0000185494 00000 n 
+0000187041 00000 n 
+0000188539 00000 n 
+0000190509 00000 n 
+0000191782 00000 n 
+0000193054 00000 n 
+0000194327 00000 n 
+0000195600 00000 n 
+0000196872 00000 n 
+0000198347 00000 n 
+0000199820 00000 n 
+0000201094 00000 n 
+0000202278 00000 n 
 0000000748 00000 n 
 0000001699 00000 n 
 0000001886 00000 n 
-0000216796 00000 n 
-0000216670 00000 n 
+0000217272 00000 n 
+0000217146 00000 n 
 0000001935 00000 n 
-0000204896 00000 n 
+0000205372 00000 n 
 0000002001 00000 n 
-0000204690 00000 n 
+0000205166 00000 n 
 0000002067 00000 n 
-0000208693 00000 n 
+0000209169 00000 n 
 0000002133 00000 n 
-0000207969 00000 n 
+0000208445 00000 n 
 0000002197 00000 n 
-0000214741 00000 n 
+0000215217 00000 n 
 0000002263 00000 n 
-0000211772 00000 n 
+0000212248 00000 n 
 0000002329 00000 n 
-0000203558 00000 n 
+0000204034 00000 n 
 0000002395 00000 n 
-0000213716 00000 n 
+0000214192 00000 n 
 0000002461 00000 n 
-0000208177 00000 n 
+0000208653 00000 n 
 0000002527 00000 n 
-0000207357 00000 n 
+0000207833 00000 n 
 0000002593 00000 n 
-0000213510 00000 n 
+0000213986 00000 n 
 0000002659 00000 n 
-0000212282 00000 n 
+0000212758 00000 n 
 0000002724 00000 n 
-0000210641 00000 n 
+0000211117 00000 n 
 0000002789 00000 n 
-0000216381 00000 n 
+0000216857 00000 n 
 0000002855 00000 n 
-0000211976 00000 n 
+0000212452 00000 n 
 0000002921 00000 n 
-0000205205 00000 n 
+0000205681 00000 n 
 0000002987 00000 n 
-0000216279 00000 n 
+0000216755 00000 n 
 0000003053 00000 n 
-0000211874 00000 n 
+0000212350 00000 n 
 0000003119 00000 n 
-0000204485 00000 n 
+0000204961 00000 n 
 0000003185 00000 n 
-0000212180 00000 n 
+0000212656 00000 n 
 0000003250 00000 n 
-0000214945 00000 n 
+0000215421 00000 n 
 0000003316 00000 n 
-0000203970 00000 n 
+0000204446 00000 n 
 0000003382 00000 n 
-0000212590 00000 n 
+0000213066 00000 n 
 0000003448 00000 n 
-0000206131 00000 n 
+0000206607 00000 n 
 0000003514 00000 n 
-0000207255 00000 n 
+0000207731 00000 n 
 0000003580 00000 n 
-0000205308 00000 n 
+0000205784 00000 n 
 0000003646 00000 n 
-0000213819 00000 n 
+0000214295 00000 n 
 0000003712 00000 n 
-0000214843 00000 n 
+0000215319 00000 n 
 0000003778 00000 n 
-0000210538 00000 n 
+0000211014 00000 n 
 0000003843 00000 n 
-0000210949 00000 n 
+0000211425 00000 n 
 0000003909 00000 n 
-0000210023 00000 n 
+0000210499 00000 n 
 0000003975 00000 n 
-0000207561 00000 n 
+0000208037 00000 n 
 0000004041 00000 n 
-0000208590 00000 n 
+0000209066 00000 n 
 0000004107 00000 n 
-0000205822 00000 n 
+0000206298 00000 n 
 0000004173 00000 n 
-0000211155 00000 n 
+0000211631 00000 n 
 0000004239 00000 n 
-0000205925 00000 n 
+0000206401 00000 n 
 0000004305 00000 n 
-0000208899 00000 n 
+0000209375 00000 n 
 0000004371 00000 n 
-0000211052 00000 n 
+0000211528 00000 n 
 0000004436 00000 n 
-0000215356 00000 n 
+0000215832 00000 n 
 0000004502 00000 n 
-0000208073 00000 n 
+0000208549 00000 n 
 0000004568 00000 n 
-0000210229 00000 n 
+0000210705 00000 n 
 0000004634 00000 n 
-0000214639 00000 n 
+0000215115 00000 n 
 0000004700 00000 n 
-0000209817 00000 n 
+0000210293 00000 n 
 0000004766 00000 n 
-0000208385 00000 n 
+0000208861 00000 n 
 0000004832 00000 n 
-0000212078 00000 n 
+0000212554 00000 n 
 0000004898 00000 n 
-0000203473 00000 n 
+0000203949 00000 n 
 0000004964 00000 n 
-0000209103 00000 n 
+0000209579 00000 n 
 0000005030 00000 n 
-0000211670 00000 n 
+0000212146 00000 n 
 0000005096 00000 n 
-0000215047 00000 n 
+0000215523 00000 n 
 0000005162 00000 n 
-0000206233 00000 n 
+0000206709 00000 n 
 0000005228 00000 n 
-0000205617 00000 n 
+0000206093 00000 n 
 0000005294 00000 n 
-0000213204 00000 n 
+0000213680 00000 n 
 0000005360 00000 n 
-0000207153 00000 n 
+0000207629 00000 n 
 0000005426 00000 n 
-0000210126 00000 n 
+0000210602 00000 n 
 0000005492 00000 n 
-0000204279 00000 n 
+0000204755 00000 n 
 0000005558 00000 n 
-0000214333 00000 n 
+0000214809 00000 n 
 0000005624 00000 n 
-0000207051 00000 n 
+0000207527 00000 n 
 0000005690 00000 n 
-0000206335 00000 n 
+0000206811 00000 n 
 0000005756 00000 n 
-0000206641 00000 n 
+0000207117 00000 n 
 0000005822 00000 n 
-0000213306 00000 n 
+0000213782 00000 n 
 0000005888 00000 n 
-0000213613 00000 n 
+0000214089 00000 n 
 0000005954 00000 n 
-0000210332 00000 n 
+0000210808 00000 n 
 0000006020 00000 n 
-0000210435 00000 n 
+0000210911 00000 n 
 0000006086 00000 n 
-0000212693 00000 n 
+0000213169 00000 n 
 0000006152 00000 n 
-0000215253 00000 n 
+0000215729 00000 n 
 0000006217 00000 n 
-0000204588 00000 n 
+0000205064 00000 n 
 0000006283 00000 n 
-0000209920 00000 n 
+0000210396 00000 n 
 0000006349 00000 n 
-0000215871 00000 n 
+0000216347 00000 n 
 0000006415 00000 n 
-0000213408 00000 n 
+0000213884 00000 n 
 0000006481 00000 n 
-0000214128 00000 n 
+0000214604 00000 n 
 0000006547 00000 n 
-0000205720 00000 n 
+0000206196 00000 n 
 0000006613 00000 n 
-0000212384 00000 n 
+0000212860 00000 n 
 0000006679 00000 n 
-0000212487 00000 n 
+0000212963 00000 n 
 0000006745 00000 n 
-0000216177 00000 n 
+0000216653 00000 n 
 0000006811 00000 n 
-0000206948 00000 n 
+0000207424 00000 n 
 0000006877 00000 n 
-0000205514 00000 n 
+0000205990 00000 n 
 0000006943 00000 n 
-0000210744 00000 n 
+0000211220 00000 n 
 0000007009 00000 n 
-0000207663 00000 n 
+0000208139 00000 n 
 0000007075 00000 n 
-0000204073 00000 n 
+0000204549 00000 n 
 0000007141 00000 n 
-0000214231 00000 n 
+0000214707 00000 n 
 0000007207 00000 n 
-0000213102 00000 n 
+0000213578 00000 n 
 0000007273 00000 n 
-0000206846 00000 n 
+0000207322 00000 n 
 0000007339 00000 n 
-0000207459 00000 n 
+0000207935 00000 n 
 0000007405 00000 n 
-0000204793 00000 n 
+0000205269 00000 n 
 0000007471 00000 n 
-0000206539 00000 n 
+0000207015 00000 n 
 0000007537 00000 n 
-0000205411 00000 n 
+0000205887 00000 n 
 0000007603 00000 n 
-0000214435 00000 n 
+0000214911 00000 n 
 0000007669 00000 n 
-0000212796 00000 n 
+0000213272 00000 n 
 0000007735 00000 n 
-0000206437 00000 n 
+0000206913 00000 n 
 0000007801 00000 n 
-0000207867 00000 n 
+0000208343 00000 n 
 0000007867 00000 n 
-0000213922 00000 n 
+0000214398 00000 n 
 0000007933 00000 n 
-0000209409 00000 n 
+0000209885 00000 n 
 0000007999 00000 n 
-0000216585 00000 n 
+0000217061 00000 n 
 0000008065 00000 n 
-0000215768 00000 n 
+0000216244 00000 n 
 0000008131 00000 n 
-0000216075 00000 n 
+0000216551 00000 n 
 0000008197 00000 n 
-0000206743 00000 n 
+0000207219 00000 n 
 0000008263 00000 n 
-0000208281 00000 n 
+0000208757 00000 n 
 0000008327 00000 n 
-0000215459 00000 n 
+0000215935 00000 n 
 0000008393 00000 n 
-0000215562 00000 n 
+0000216038 00000 n 
 0000008458 00000 n 
-0000206028 00000 n 
+0000206504 00000 n 
 0000008524 00000 n 
-0000214025 00000 n 
+0000214501 00000 n 
 0000008590 00000 n 
-0000203661 00000 n 
+0000204137 00000 n 
 0000008656 00000 n 
-0000209001 00000 n 
+0000209477 00000 n 
 0000008722 00000 n 
-0000207765 00000 n 
+0000208241 00000 n 
 0000008788 00000 n 
-0000203764 00000 n 
+0000204240 00000 n 
 0000008854 00000 n 
-0000213000 00000 n 
+0000213476 00000 n 
 0000008920 00000 n 
-0000214537 00000 n 
+0000215013 00000 n 
 0000008986 00000 n 
-0000215973 00000 n 
+0000216449 00000 n 
 0000009052 00000 n 
-0000215150 00000 n 
+0000215626 00000 n 
 0000009118 00000 n 
-0000215665 00000 n 
+0000216141 00000 n 
 0000009184 00000 n 
-0000216483 00000 n 
+0000216959 00000 n 
 0000009250 00000 n 
-0000204176 00000 n 
+0000204652 00000 n 
 0000009316 00000 n 
-0000204382 00000 n 
+0000204858 00000 n 
 0000009382 00000 n 
-0000209715 00000 n 
+0000210191 00000 n 
 0000009448 00000 n 
-0000205102 00000 n 
+0000205578 00000 n 
 0000009514 00000 n 
-0000203867 00000 n 
+0000204343 00000 n 
 0000009580 00000 n 
-0000212898 00000 n 
+0000213374 00000 n 
 0000009646 00000 n 
-0000210847 00000 n 
+0000211323 00000 n 
 0000009712 00000 n 
-0000204999 00000 n 
+0000205475 00000 n 
 0000009778 00000 n 
-0000209613 00000 n 
+0000210089 00000 n 
 0000009842 00000 n 
-0000209307 00000 n 
+0000209783 00000 n 
 0000009908 00000 n 
-0000209205 00000 n 
+0000209681 00000 n 
 0000009972 00000 n 
-0000209511 00000 n 
+0000209987 00000 n 
 0000010038 00000 n 
-0000208487 00000 n 
+0000208963 00000 n 
 0000010104 00000 n 
-0000211258 00000 n 
+0000211734 00000 n 
 0000010170 00000 n 
-0000211567 00000 n 
+0000212043 00000 n 
 0000010235 00000 n 
-0000208796 00000 n 
+0000209272 00000 n 
 0000010301 00000 n 
-0000211464 00000 n 
+0000211940 00000 n 
 0000010367 00000 n 
-0000211361 00000 n 
+0000211837 00000 n 
 0000010433 00000 n 
 0000010541 00000 n 
 0000010657 00000 n 
 0000010770 00000 n 
-0000203338 00000 n 
-0000216916 00000 n 
-0000217004 00000 n 
+0000203814 00000 n 
+0000217392 00000 n 
+0000217480 00000 n 
 trailer
 << /Size 404 /Root 403 0 R /Info 401 0 R >>
 startxref
-217134
+217610
 %%EOF
