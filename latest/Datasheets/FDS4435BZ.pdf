@@ -37,7 +37,7 @@ See https://github.com/adobe-type-tools/cmap-resources
     <script src="/vendor/pdfjs2/build/pdf.js?v=dfc13af5"></script>
 
     <script type="text/javascript">
-        window.viewerPdfUrl = 'https://previews.us-east-1.widencdn.net/preview/46485696/assets/asset-view/ad8e69ac-ba38-47a1-b30b-7cc0b1aae6de/pdf/bnVsbA==/FAIRS27615-1?Expires=1697997600&Signature=a9XLnjmFEK9IBBJ03QD2a4~l2NTyV3RXcbK8ooqymvmGzuzitTcJVm~bKZmkKbMjEX0prB6rVPjn-OrFJj2T8ow71zzE7FQKTHvFM-xwNUCph9HnO-HPQenInJvJFrqxxR9OF~FbjeXMmNNWkSfYS57Z7uRnN04sZHH~qnS16P3bLcxBr69HA3Fn3z~t0wfqoQAZIsi7l1CxPz4a6NN1LqYANo3Jv5THifAU-zyFQTInYKNQ0vVqw4qgET43hHSYq9LzfK-ME1IG3~T5PEGXClb4S~qeYk~GUGVhBmv-ydWL9RYsOE3WCCFTlR8UyB7qF4qyvUyN3BUgdJCktyZeyw__&Key-Pair-Id=APKAJM7FVRD2EPOYUXBQ';
+        window.viewerPdfUrl = 'https://previews.us-east-1.widencdn.net/preview/46485696/assets/asset-view/ad8e69ac-ba38-47a1-b30b-7cc0b1aae6de/pdf/bnVsbA==/FAIRS27615-1?Expires=1698001200&Signature=DXR~c3vwMtq6u1qP8uPgoONZPIsJ6ozJX24qdp3I7wYevUXqlbCc3znS~W9FUjTXa8Q8sLgha-OawC8HPJjWHez0RJjg1fmb4ImVFpGf3fy8PXyKwiQ9-jyEFyeZReR~Xsgix7Vd4mWmLmnrAmFYHpRygchz9~WInqbtL0pqa~45t6nyzHkUcyorXa~o3xE9UtnidtjodIgeo49r6i-dyfgXTPr33lFNwoxnqdEtVovsJViPm8-wmPBHU~NdBEEhsSCd5fbWpZfGqZ27WUZsg0RcGLK6gPElQMPJIiW8CIzc2FZmEyd7VBvyEcqFexZqBRfST2BuXOPq47b6wedLKg__&Key-Pair-Id=APKAJM7FVRD2EPOYUXBQ';
       window.viewerPdfTitle = 'FAIRS27615-1.pdf';
 
 
