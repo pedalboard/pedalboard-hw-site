@@ -1,7 +1,7 @@
 (export (version "E")
   (design
     (source "/__w/pedalboard-hw/pedalboard-hw/pedalboard-hw.kicad_sch")
-    (date "Mon Oct 23 16:45:25 2023")
+    (date "Mon Oct 23 17:12:20 2023")
     (tool "Eeschema 7.0.8-7.0.8~ubuntu23.04.1")
     (sheet (number "1") (name "/") (tstamps "/")
       (title_block
@@ -279,7 +279,7 @@
     (comp (ref "C12")
       (value "1u")
       (footprint "Capacitor_SMD:C_0805_2012Metric")
-      (datasheet "https://weblib.samsungsem.com/mlcc/mlcc-ec-data-sheet.do?partNumber=CL21B105KAFNNN")
+      (datasheet "https://www.samsungsem.com/resources/file/global/support/product_catalog/MLCC.pdf")
       (fields
         (field (name "Notes") "25V/10%")
         (field (name "Supplier") "https://www.digikey.ch/de/products/detail/samsung-electro-mechanics/CL21B105KAFNNNE/3886724"))
@@ -295,7 +295,7 @@
     (comp (ref "C13")
       (value "1u")
       (footprint "Capacitor_SMD:C_0805_2012Metric")
-      (datasheet "https://weblib.samsungsem.com/mlcc/mlcc-ec-data-sheet.do?partNumber=CL21B105KAFNNN")
+      (datasheet "https://www.samsungsem.com/resources/file/global/support/product_catalog/MLCC.pdf")
       (fields
         (field (name "Notes") "25V/10%")
         (field (name "Supplier") "https://www.digikey.ch/de/products/detail/samsung-electro-mechanics/CL21B105KAFNNNE/3886724"))
@@ -451,7 +451,7 @@
     (comp (ref "H5")
       (value "Spacer")
       (footprint "Pedalboard Library:WA-SMSI_M2.5")
-      (datasheet "https://mm.digikey.com/Volume0/opasdata/d220001/medias/docus/5038/9774027151R_DS.pdf")
+      (datasheet "https://www.we-online.com/components/products/datasheet/9774027151R.pdf")
       (fields
         (field (name "Notes") "MIDI In")
         (field (name "Supplier") "https://www.digikey.ch/de/products/detail/w%C3%BCrth-elektronik/9774027151R/5320625"))
@@ -467,7 +467,7 @@
     (comp (ref "H6")
       (value "Spacer")
       (footprint "Pedalboard Library:WA-SMSI_M2.5")
-      (datasheet "https://mm.digikey.com/Volume0/opasdata/d220001/medias/docus/5038/9774027151R_DS.pdf")
+      (datasheet "https://www.we-online.com/components/products/datasheet/9774027151R.pdf")
       (fields
         (field (name "Notes") "MIDI In")
         (field (name "Supplier") "https://www.digikey.ch/de/products/detail/w%C3%BCrth-elektronik/9774027151R/5320625"))
@@ -483,7 +483,7 @@
     (comp (ref "H8")
       (value "Spacer")
       (footprint "Pedalboard Library:WA-SMSI_M2.5")
-      (datasheet "https://mm.digikey.com/Volume0/opasdata/d220001/medias/docus/5038/9774027151R_DS.pdf")
+      (datasheet "https://www.we-online.com/components/products/datasheet/9774027151R.pdf")
       (fields
         (field (name "Notes") "MIDI In")
         (field (name "Supplier") "https://www.digikey.ch/de/products/detail/w%C3%BCrth-elektronik/9774027151R/5320625"))
@@ -499,7 +499,7 @@
     (comp (ref "H9")
       (value "Spacer")
       (footprint "Pedalboard Library:WA-SMSI_M2.5")
-      (datasheet "https://mm.digikey.com/Volume0/opasdata/d220001/medias/docus/5038/9774027151R_DS.pdf")
+      (datasheet "https://www.we-online.com/components/products/datasheet/9774027151R.pdf")
       (fields
         (field (name "Notes") "MIDI In")
         (field (name "Supplier") "https://www.digikey.ch/de/products/detail/w%C3%BCrth-elektronik/9774027151R/5320625"))
@@ -515,7 +515,7 @@
     (comp (ref "H10")
       (value "Spacer")
       (footprint "Pedalboard Library:WA-SMSI_M2.5")
-      (datasheet "https://mm.digikey.com/Volume0/opasdata/d220001/medias/docus/5038/9774027151R_DS.pdf")
+      (datasheet "https://www.we-online.com/components/products/datasheet/9774027151R.pdf")
       (fields
         (field (name "Notes") "MIDI In")
         (field (name "Supplier") "https://www.digikey.ch/de/products/detail/w%C3%BCrth-elektronik/9774027151R/5320625"))
@@ -531,7 +531,7 @@
     (comp (ref "H13")
       (value "Spacer")
       (footprint "Pedalboard Library:WA-SMSI_M2.5")
-      (datasheet "https://mm.digikey.com/Volume0/opasdata/d220001/medias/docus/5038/9774027151R_DS.pdf")
+      (datasheet "https://www.we-online.com/components/products/datasheet/9774027151R.pdf")
       (fields
         (field (name "Notes") "MIDI In")
         (field (name "Supplier") "https://www.digikey.ch/de/products/detail/w%C3%BCrth-elektronik/9774027151R/5320625"))
@@ -1690,7 +1690,7 @@
     (comp (ref "Q1")
       (value "FDS4435BZ")
       (footprint "Pedalboard Library:SO08-E3")
-      (datasheet "https://rocelec.widen.net/view/pdf/rwygqx6rjd/FAIRS27615-1.pdf?t.download=true")
+      (datasheet "https://www.onsemi.com/pdf/datasheet/fds4435bz_f085-d.pdf")
       (fields
         (field (name "Supplier") "https://www.digikey.ch/de/products/detail/onsemi/FDS4435BZ/1305763"))
       (libsource (lib "pedalboard") (part "FDS4435BZ") (description "P-Channel MOSFET"))
