@@ -1,7 +1,7 @@
 (export (version "E")
   (design
     (source "/__w/pedalboard-hw/pedalboard-hw/pedalboard-hw.kicad_sch")
-    (date "Sun Oct 22 22:19:22 2023")
+    (date "Mon Oct 23 15:07:54 2023")
     (tool "Eeschema 7.0.8-7.0.8~ubuntu23.04.1")
     (sheet (number "1") (name "/") (tstamps "/")
       (title_block
@@ -1566,12 +1566,12 @@
       (fields
         (field (name "Notes") "40V/3A")
         (field (name "Supplier") "https://www.digikey.ch/de/products/detail/comchip-technology/SS34-HF/10279693"))
-      (libsource (lib "Diode") (part "1N5817") (description "20V 1A Schottky Barrier Rectifier Diode, DO-41"))
+      (libsource (lib "Device") (part "D_Schottky_Small") (description "Schottky diode, small symbol"))
       (property (name "Supplier") (value "https://www.digikey.ch/de/products/detail/comchip-technology/SS34-HF/10279693"))
       (property (name "Notes") (value "40V/3A"))
       (property (name "Sheetname") (value "Power Supply"))
       (property (name "Sheetfile") (value "psu.kicad_sch"))
-      (property (name "ki_description") (value "20V 1A Schottky Barrier Rectifier Diode, DO-41"))
+      (property (name "ki_description") (value "Schottky diode, small symbol"))
       (property (name "ki_keywords") (value "diode Schottky"))
       (sheetpath (names "/Power Supply/") (tstamps "/0d7c87b0-1309-475f-a9d7-edcf3dee5e4e/"))
       (tstamps "3fd74276-a05c-4ca0-b4d7-cbafc276b3c7"))
@@ -1602,12 +1602,12 @@
       (fields
         (field (name "Notes") "40V/3A")
         (field (name "Supplier") "https://www.digikey.ch/de/products/detail/comchip-technology/SS34-HF/10279693"))
-      (libsource (lib "") (part "1N5817_1") (description "20V 1A Schottky Barrier Rectifier Diode, DO-41"))
+      (libsource (lib "Device") (part "D_Schottky_Small") (description "Schottky diode, small symbol"))
       (property (name "Supplier") (value "https://www.digikey.ch/de/products/detail/comchip-technology/SS34-HF/10279693"))
       (property (name "Notes") (value "40V/3A"))
       (property (name "Sheetname") (value "Power Supply"))
       (property (name "Sheetfile") (value "psu.kicad_sch"))
-      (property (name "ki_description") (value "20V 1A Schottky Barrier Rectifier Diode, DO-41"))
+      (property (name "ki_description") (value "Schottky diode, small symbol"))
       (property (name "ki_keywords") (value "diode Schottky"))
       (sheetpath (names "/Power Supply/") (tstamps "/0d7c87b0-1309-475f-a9d7-edcf3dee5e4e/"))
       (tstamps "d28df35a-4449-4c69-a010-5f95117c93f3"))
@@ -2027,19 +2027,6 @@
       (sheetpath (names "/LEDs/") (tstamps "/539b926e-3ef4-477a-b921-49e2b2b26dfc/"))
       (tstamps "e7faa295-ce26-4c38-b48e-cd680e5e2278")))
   (libparts
-    (libpart (lib "") (part "1N5817_1")
-      (description "20V 1A Schottky Barrier Rectifier Diode, DO-41")
-      (docs "http://www.vishay.com/docs/88525/1n5817.pdf")
-      (footprints
-        (fp "D*DO?41*"))
-      (fields
-        (field (name "Reference") "D")
-        (field (name "Value") "1N5817")
-        (field (name "Footprint") "Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal")
-        (field (name "Datasheet") "http://www.vishay.com/docs/88525/1n5817.pdf"))
-      (pins
-        (pin (num "1") (name "K") (type "passive"))
-        (pin (num "2") (name "A") (type "passive"))))
     (libpart (lib "") (part "Raspberry_Pi_2_3_1")
       (description "expansion header for Raspberry Pi 2 & 3")
       (docs "https://www.hifiberry.com/docs/data-sheets/datasheet-dac-adc-pro/")
@@ -2389,19 +2376,6 @@
         (field (name "Datasheet") "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf")
         (field (name "Sim.Device") "D")
         (field (name "Sim.Pins") "1=K 2=A"))
-      (pins
-        (pin (num "1") (name "K") (type "passive"))
-        (pin (num "2") (name "A") (type "passive"))))
-    (libpart (lib "Diode") (part "1N5817")
-      (description "20V 1A Schottky Barrier Rectifier Diode, DO-41")
-      (docs "http://www.vishay.com/docs/88525/1n5817.pdf")
-      (footprints
-        (fp "D*DO?41*"))
-      (fields
-        (field (name "Reference") "D")
-        (field (name "Value") "1N5817")
-        (field (name "Footprint") "Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal")
-        (field (name "Datasheet") "http://www.vishay.com/docs/88525/1n5817.pdf"))
       (pins
         (pin (num "1") (name "K") (type "passive"))
         (pin (num "2") (name "A") (type "passive"))))
