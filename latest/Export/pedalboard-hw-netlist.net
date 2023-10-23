@@ -1,7 +1,7 @@
 (export (version "E")
   (design
     (source "/__w/pedalboard-hw/pedalboard-hw/pedalboard-hw.kicad_sch")
-    (date "Mon Oct 23 16:22:11 2023")
+    (date "Mon Oct 23 16:45:25 2023")
     (tool "Eeschema 7.0.8-7.0.8~ubuntu23.04.1")
     (sheet (number "1") (name "/") (tstamps "/")
       (title_block
@@ -2386,7 +2386,7 @@
       (description "Single OR Gage")
       (docs "https://www.diodes.com/assets/Datasheets/74AHCT1G32.pdf")
       (fields
-        (field (name "Reference") "U2")
+        (field (name "Reference") "U")
         (field (name "Value") "74AHCT1G32SE-7")
         (field (name "Footprint") "Package_TO_SOT_SMD:SOT-353_SC-70-5")
         (field (name "Datasheet") "https://www.diodes.com/assets/Datasheets/74AHCT1G32.pdf")
@@ -2399,11 +2399,9 @@
         (pin (num "5") (name "VCC") (type "power_in"))))
     (libpart (lib "pedalboard") (part "CM4")
       (fields
-        (field (name "Reference") "Module")
+        (field (name "Reference") "M")
         (field (name "Value") "CM4")
-        (field (name "Footprint") "Pedalboard Library:Raspberry-Pi-4-Compute-Module")
-        (field (name "Field4") "Hirose")
-        (field (name "Field5") "2x DF40C-100DS-0.4V"))
+        (field (name "Footprint") "Pedalboard Library:Raspberry-Pi-4-Compute-Module"))
       (pins
         (pin (num "1") (name "GND") (type "power_in"))
         (pin (num "2") (name "GND") (type "power_in"))
@@ -2609,7 +2607,7 @@
       (description "P-Channel MOSFET")
       (docs "https://rocelec.widen.net/view/pdf/rwygqx6rjd/FAIRS27615-1.pdf?t.download=true")
       (fields
-        (field (name "Reference") "Q1")
+        (field (name "Reference") "Q")
         (field (name "Value") "FDS4435BZ")
         (field (name "Footprint") "Pedalboard Library:SO08-E3")
         (field (name "Datasheet") "https://rocelec.widen.net/view/pdf/rwygqx6rjd/FAIRS27615-1.pdf?t.download=true")
@@ -2622,7 +2620,7 @@
       (description "A microcontroller by Raspberry Pi")
       (docs "https://datasheets.raspberrypi.com/rp2040/rp2040-datasheet.pdf")
       (fields
-        (field (name "Reference") "U4")
+        (field (name "Reference") "U")
         (field (name "Value") "RP2040")
         (field (name "Footprint") "Pedalboard Library:RP2040-QFN-56")
         (field (name "Datasheet") "https://datasheets.raspberrypi.com/rp2040/rp2040-datasheet.pdf")
@@ -2692,8 +2690,8 @@
         (fp "PinHeader*2x20*P2.54mm*Vertical*")
         (fp "PinSocket*2x20*P2.54mm*Vertical*"))
       (fields
-        (field (name "Reference") "J25")
-        (field (name "Value") "HiFi Berry")
+        (field (name "Reference") "M")
+        (field (name "Value") "Sound Card")
         (field (name "Footprint") "Pedalboard Library:HiFi Berry DAC ADC+")
         (field (name "Datasheet") "https://www.hifiberry.com/docs/data-sheets/datasheet-dac-adc-pro/"))
       (pins
@@ -2753,7 +2751,7 @@
       (description " 3.5V to 28V Input, 3A, Step-Down Converter with Eco-mode(tm)")
       (docs "https://www.ti.com/lit/ds/symlink/tps54331.pdf?HQS=dis-dk-null-digikeymode-dsf-pf-null-wwe&ts=1697733027064")
       (fields
-        (field (name "Reference") "U6")
+        (field (name "Reference") "U")
         (field (name "Value") "TPS54331")
         (field (name "Footprint") "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm")
         (field (name "Datasheet") "https://www.ti.com/lit/ds/symlink/tps54331.pdf?HQS=dis-dk-null-digikeymode-dsf-pf-null-wwe&ts=1697733027064")
@@ -2775,7 +2773,7 @@
       (footprints
         (fp "USB*"))
       (fields
-        (field (name "Reference") "J10")
+        (field (name "Reference") "J")
         (field (name "Value") "USB_B_Micro")
         (field (name "Footprint") "Pedalboard Library:USB_Micro-B_Wuerth_614105150721_Vertical")
         (field (name "Datasheet") "https://www.we-online.com/components/products/datasheet/614105150721.pdf")
@@ -2793,7 +2791,7 @@
       (footprints
         (fp "SOIC*5.23x5.23mm*P1.27mm*"))
       (fields
-        (field (name "Reference") "U3")
+        (field (name "Reference") "U")
         (field (name "Value") "W25Q128JVS")
         (field (name "Footprint") "Pedalboard Library:SOIC-8_5.23x5.23mm_P1.27mm")
         (field (name "Datasheet") "https://www.winbond.com/resource-files/w25q128jv%20revf%2003272018%20plus.pdf")
