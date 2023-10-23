@@ -1,7 +1,7 @@
 (export (version "E")
   (design
     (source "/__w/pedalboard-hw/pedalboard-hw/pedalboard-hw.kicad_sch")
-    (date "Mon Oct 23 17:12:20 2023")
+    (date "Mon Oct 23 18:31:16 2023")
     (tool "Eeschema 7.0.8-7.0.8~ubuntu23.04.1")
     (sheet (number "1") (name "/") (tstamps "/")
       (title_block
@@ -1242,7 +1242,6 @@
     (comp (ref "J25")
       (value "HiFi Berry")
       (footprint "Pedalboard Library:HiFi Berry DAC ADC+")
-      (datasheet "https://www.hifiberry.com/docs/data-sheets/datasheet-dac-adc-pro/")
       (libsource (lib "pedalboard") (part "Raspberry_Sound_Card") (description "Sound Card (Based on HifiBerry DAC/ADC pro)"))
       (property (name "Supplier") (value ""))
       (property (name "Sheetname") (value "Audio"))
