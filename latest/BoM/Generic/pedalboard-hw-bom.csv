@@ -8,7 +8,7 @@ Row,Description,Part,References,Value,Footprint,Quantity Per PCB,Status,Datashee
 7,"Unpolarized capacitor, small symbol",C_Small,C2 C4 C19 C26 C27 C28 C31 C32,22u,C_0805_2012Metric,8, ,https://www.samsungsem.com/resources/file/global/support/product_catalog/MLCC.pdf,,,25V/20%,https://www.digikey.ch/de/products/detail/samsung-electro-mechanics/CL21A226MAYNNNE/10479857
 8,Polarized capacitor,C_Polarized,C3,270u,CP_Elec_10x10,1, ,https://connect.kemet.com:7667/gateway/IntelliData-ComponentDocumentation/1.0/download/datasheet/A768MS277M1GLAE022,,,,https://www.digikey.ch/de/products/detail/kemet/A768MS277M1GLAE022/12707654
 9,,CM4,CM1,CM4,Raspberry-Pi-4-Compute-Module,1, ,https://www.hirose.com/en/product/document?clcode=&productname=&series=DF40&documenttype=Catalog&lang=en&documentid=en_DF40_CAT,,,DF40C-100DS-0.4V(51),https://www.digikey.ch/de/products/detail/hirose-electric-co-ltd/DF40C-100DS-0-4V-51/1969476
-10,Light emitting diode,LED,D10,LED G,LED_0805_2012Metric,1, ,~,,,,
+10,Light emitting diode,LED,D10,LED R,LED_0805_2012Metric,1, ,~,,,,
 11,Light emitting diode,LED,D9,LED Y,LED_0805_2012Metric,1, ,~,,,,
 12,RGB LED with integrated controller,SK6812,D2 D3 D4 D7,SK6812,LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm,4, ,https://cdn-shop.adafruit.com/product-files/1138/SK6812+LED+datasheet+.pdf,,,,https://www.digikey.ch/de/products/detail/adafruit-industries-llc/1655/5154679
 13,"100V 0.15A standard switching diode, DO-35",1N4148,D1,SM4007,D_SOD-123F,1, ,https://www.mccsemi.com/pdf/Products/SM4001PL-SM4007PL(SOD-123FL).PDF,,,,https://www.digikey.ch/de/products/detail/micro-commercial-co/SM4007PL-TP/1793250
@@ -52,7 +52,7 @@ Schematic:,pedalboard-hw
 Variant:,default
 Revision:,3.0.2-RC
 Date:,2023-10-20
-KiCad Version:,7.0.8-7.0.8~ubuntu23.04.1
+KiCad Version:,7.0.9-7.0.9~ubuntu23.04.1
 Statistics:
 Component Groups:,48
 Component Count:,108 (80 SMD/ 26 THT)

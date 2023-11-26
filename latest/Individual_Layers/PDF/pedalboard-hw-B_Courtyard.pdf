@@ -1179,7 +1179,7 @@ endobj
    /Subtype /Link
    /Rect [123.695 399.649 145.261 410.614]
    /Border [16 16 0]
-   /A << /Type /Action /S /JavaScript /JS (var aParams = [ { cName: 'Reference designator = D10', cReturn: null }, { cName: 'Value = LED G', cReturn: null }, { cName: 'Sheetfile = audio.kicad_sch', cReturn: null }, { cName: 'Sheetname = Audio', cReturn: null }, { cName: 'ki_description = Light emitting diode', cReturn: null }, { cName: 'ki_keywords = LED diode', cReturn: null }, { cName: 'Footprint = LED_SMD:LED_0805_2012Metric', cReturn: null }, { cName: 'Description = LED SMD 0805 \\u00282012 Metric\\u0029, square \\u0028rectangular\\u0029 end terminal, IPC_7351 nominal, \\u0028Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing\\u0029, generated with kicad-footprint-generator', cReturn: 'https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing\\u0029, generated with kicad-footprint-generator' }, { cName: 'Keywords = LED', cReturn: null }, ]; var cChoice = app.popUpMenuEx.apply\( app, aParams \); if\( cChoice != null && cChoice.substring\( 0, 1 \) == '#' \)    this.pageNum = parseInt\( cChoice.slice\( 1 \) \); else if\( cChoice != null && cChoice.substring\( 0, 4 \) == 'http' \)    app.launchURL\( cChoice \);) >>
+   /A << /Type /Action /S /JavaScript /JS (var aParams = [ { cName: 'Reference designator = D10', cReturn: null }, { cName: 'Value = LED R', cReturn: null }, { cName: 'Sheetfile = audio.kicad_sch', cReturn: null }, { cName: 'Sheetname = Audio', cReturn: null }, { cName: 'ki_description = Light emitting diode', cReturn: null }, { cName: 'ki_keywords = LED diode', cReturn: null }, { cName: 'Footprint = LED_SMD:LED_0805_2012Metric', cReturn: null }, { cName: 'Description = LED SMD 0805 \\u00282012 Metric\\u0029, square \\u0028rectangular\\u0029 end terminal, IPC_7351 nominal, \\u0028Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing\\u0029, generated with kicad-footprint-generator', cReturn: 'https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing\\u0029, generated with kicad-footprint-generator' }, { cName: 'Keywords = LED', cReturn: null }, ]; var cChoice = app.popUpMenuEx.apply\( app, aParams \); if\( cChoice != null && cChoice.substring\( 0, 1 \) == '#' \)    this.pageNum = parseInt\( cChoice.slice\( 1 \) \); else if\( cChoice != null && cChoice.substring\( 0, 4 \) == 'http' \)    app.launchURL\( cChoice \);) >>
 >>
 endobj
 80 0 obj
@@ -1627,7 +1627,7 @@ endobj
 401 0 obj
 <<
 /Producer (KiCad PDF)
-/CreationDate (D:20231121153048)
+/CreationDate (D:20231126110701)
 /Creator (PCBNEW)
 /Title (pedalboard-hw-B_Courtyard.pdf)
 >>

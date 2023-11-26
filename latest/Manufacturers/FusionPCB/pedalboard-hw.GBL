@@ -1,12 +1,12 @@
-G04 #@! TF.GenerationSoftware,KiCad,Pcbnew,7.0.8-7.0.8~ubuntu23.04.1*
-G04 #@! TF.CreationDate,2023-11-21T15:27:58+00:00*
+G04 #@! TF.GenerationSoftware,KiCad,Pcbnew,7.0.9-7.0.9~ubuntu23.04.1*
+G04 #@! TF.CreationDate,2023-11-26T11:04:10+00:00*
 G04 #@! TF.ProjectId,pedalboard-hw,70656461-6c62-46f6-9172-642d68772e6b,3.0.2-RC*
 G04 #@! TF.SameCoordinates,Original*
 G04 #@! TF.FileFunction,Copper,L2,Bot*
 G04 #@! TF.FilePolarity,Positive*
 %FSLAX46Y46*%
 G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
-G04 Created by KiCad (PCBNEW 7.0.8-7.0.8~ubuntu23.04.1) date 2023-11-21 15:27:58*
+G04 Created by KiCad (PCBNEW 7.0.9-7.0.9~ubuntu23.04.1) date 2023-11-26 11:04:10*
 %MOMM*%
 %LPD*%
 G01*
@@ -625,7 +625,6 @@ X134894385Y88994385D03*
 X18994385Y8394385D03*
 X30094385Y68493785D03*
 X17794385Y61494385D03*
-X33194385Y62894385D03*
 X28394385Y104894385D03*
 X167794385Y61494385D03*
 X147594385Y95694385D03*

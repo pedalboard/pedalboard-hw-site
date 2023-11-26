@@ -1,12 +1,12 @@
 KiBot installation checker
 
 Core:
-Linux: 6.2.0.1016 (Linux f9e28a9b6e98 6.2.0-1016-azure #16~22.04.1-Ubuntu SMP Tue Oct 10 17:11:51 UTC 2023 x86_64 GNU/Linux)
+Linux: 6.2.0.1016 (Linux 6e362d3b4055 6.2.0-1016-azure #16~22.04.1-Ubuntu SMP Tue Oct 10 17:11:51 UTC 2023 x86_64 GNU/Linux)
   /usr/bin/uname
 Python: 3.11.2 (main, Mar 13 2023, 12:18:29) [GCC 12.2.0]
   /usr/lib/python3.11/os.py
   /usr/bin/python3
-KiCad: 7.0.8-7.0.8~ubuntu23.04.1
+KiCad: 7.0.9-7.0.9~ubuntu23.04.1
   /usr/lib/python3/dist-packages/pcbnew.py
   /usr/bin/kicad
 Kibot: 1.6.3
@@ -50,7 +50,7 @@ ImageMagick: 6.9.11.60 (Version: ImageMagick 6.9.11-60 Q16 x86_64 2021-01-25 htt
   /usr/bin/convert
 Interactive HTML BoM: 2.7.0 (v2.7.0)
   /usr/bin/python3
-KiBoM: 1.9.0 (KiBOM Version: 1.9.0)
+KiBoM: 1.9.1 (KiBOM Version: 1.9.1)
   /usr/bin/KiBOM_CLI.py
 KiCad Automation tools (kiauto): 2.2.8 (pcbnew_do 2.2.8 - Copyright 2018-2023, INTI/Productize SPRL - License: Apache)
   /usr/bin/pcbnew_do
@@ -141,7 +141,7 @@ Installed at: /usr/bin/pcbnew_do
 Using kiauto module from: /usr/lib/python3/dist-packages/kiauto
 Interpreted by Python: /usr/bin/python3 (v3.11.2 (main, Mar 13 2023, 12:18:29) [GCC 12.2.0])
 Tools:
-- kicad: /usr/bin/kicad (v7.0.8-7.0.8~ubuntu23.04.1)
+- kicad: /usr/bin/kicad (v7.0.9-7.0.9~ubuntu23.04.1)
 - xdotool: /usr/bin/xdotool
 - recordmydesktop: /usr/bin/recordmydesktop
 - xsltproc: /usr/bin/xsltproc

@@ -1,4 +1,4 @@
-### Module positions - created on Tue 21 Nov 2023 15:30:49  ###
+### Module positions - created on Sun 26 Nov 2023 11:07:02  ###
 ### Printed by KiBot
 ## Unit = mm, Angle = deg.
 ## Side : top
@@ -45,7 +45,7 @@ D6       SS34HF                    D_SMA                                        
 D7       SK6812                    LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm                                      124.4944   82.9944    0.0000     top   
 D8       SS34HF                    D_SMA                                                                  125.4244   74.0444    -90.0000   top   
 D9       LED Y                     LED_0805_2012Metric                                                    31.4944    60.9944    180.0000   top   
-D10      LED G                     LED_0805_2012Metric                                                    31.4944    62.9944    180.0000   top   
+D10      LED R                     LED_0805_2012Metric                                                    31.4944    62.9944    180.0000   top   
 F1       Polyfuse 1.8A             Fuse_1812_4532Metric                                                   148.0644   103.2844   180.0000   top   
 FID1     Fiducial                  Fiducial_1.5mm_Mask3mm                                                 6.9944     107.9944   0.0000     top   
 FID2     Fiducial                  Fiducial_1.5mm_Mask3mm                                                 166.9944   2.9944     0.0000     top   
