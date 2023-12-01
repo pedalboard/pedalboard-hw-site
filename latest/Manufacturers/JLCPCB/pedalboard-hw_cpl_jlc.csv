@@ -81,6 +81,7 @@ Designator,Val,Package,Mid X,Mid Y,Rotation,Layer
 "SW6","Tactile","SW_PUSH-12mm_Wuerth",11.9944,11.9944,0.0000,top
 "SW7","Tactile","SW_PUSH-12mm_Wuerth",86.9944,11.9944,0.0000,top
 "SW8","Tactile","SW_PUSH-12mm_Wuerth",161.9944,11.9944,0.0000,top
+"SW9","Tactile","SW_SPST_B3U-1000P",73.5044,77.3444,90.0000,top
 "U1","TLP2761","SO-6L_10x3.84mm_P1.27mm",33.3944,98.5944,0.0000,top
 "U2","74AHCT1G32SE-7","SOT-353_SC-70-5",55.1944,84.0444,0.0000,top
 "U3","W25Q128JVS","SOIC-8_5.23x5.23mm_P1.27mm",81.4944,78.5444,0.0000,top
