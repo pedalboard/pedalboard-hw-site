@@ -75,12 +75,12 @@ Designator,Val,Package,Mid X,Mid Y,Rotation,Layer
 "R15","20K","R_0805_2012Metric",140.6644,81.1944,-90.0000,top
 "R16","1K","R_0805_2012Metric",31.5444,59.0444,0.0000,top
 "R17","2K2","R_0805_2012Metric",31.4944,64.8944,0.0000,top
-"SW3","Tactile","SW_PUSH-12mm_Wuerth",11.9944,63.9944,0.0000,top
-"SW4","Tactile","SW_PUSH-12mm_Wuerth",86.9944,63.9944,0.0000,top
-"SW5","Tactile","SW_PUSH-12mm_Wuerth",161.9944,63.9944,0.0000,top
-"SW6","Tactile","SW_PUSH-12mm_Wuerth",11.9944,11.9944,0.0000,top
-"SW7","Tactile","SW_PUSH-12mm_Wuerth",86.9944,11.9944,0.0000,top
-"SW8","Tactile","SW_PUSH-12mm_Wuerth",161.9944,11.9944,0.0000,top
+"SW3","Tactile Button","SW_PUSH-12mm_Wuerth",11.9944,63.9944,0.0000,top
+"SW4","Tactile Button","SW_PUSH-12mm_Wuerth",86.9944,63.9944,0.0000,top
+"SW5","Tactile Button","SW_PUSH-12mm_Wuerth",161.9944,63.9944,0.0000,top
+"SW6","Tactile Button","SW_PUSH-12mm_Wuerth",11.9944,11.9944,0.0000,top
+"SW7","Tactile Button","SW_PUSH-12mm_Wuerth",86.9944,11.9944,0.0000,top
+"SW8","Tactile Button","SW_PUSH-12mm_Wuerth",161.9944,11.9944,0.0000,top
 "U1","TLP2761","SO-6L_10x3.84mm_P1.27mm",33.3944,98.5944,0.0000,top
 "U2","74AHCT1G32SE-7","SOT-353_SC-70-5",55.1944,84.0444,0.0000,top
 "U3","W25Q128JVS","SOIC-8_5.23x5.23mm_P1.27mm",81.4944,78.5444,0.0000,top

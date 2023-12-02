@@ -1,7 +1,7 @@
 (export (version "E")
   (design
     (source "/__w/pedalboard-hw/pedalboard-hw/pedalboard-hw.kicad_sch")
-    (date "Sat Dec  2 18:58:07 2023")
+    (date "Sat Dec  2 19:05:44 2023")
     (tool "Eeschema 7.0.9-7.0.9~ubuntu23.04.1")
     (sheet (number "1") (name "/") (tstamps "/")
       (title_block
@@ -931,7 +931,7 @@
       (sheetpath (names "/MIDI/") (tstamps "/d36964e5-9373-47ae-95a7-088f8df77199/"))
       (tstamps "bb5b798c-1834-4420-a1b7-233d6852de33"))
     (comp (ref "SW3")
-      (value "Tactile")
+      (value "Tactile Button")
       (footprint "Pedalboard Library:SW_PUSH-12mm_Wuerth")
       (datasheet "https://www.we-online.com/components/products/datasheet/430172043816.pdf")
       (fields
@@ -947,7 +947,7 @@
       (sheetpath (names "/MIDI/") (tstamps "/d36964e5-9373-47ae-95a7-088f8df77199/"))
       (tstamps "4e9fb43c-2c15-4cce-939a-cdea65d79332"))
     (comp (ref "SW4")
-      (value "Tactile")
+      (value "Tactile Button")
       (footprint "Pedalboard Library:SW_PUSH-12mm_Wuerth")
       (datasheet "https://www.we-online.com/components/products/datasheet/430172043816.pdf")
       (fields
@@ -963,7 +963,7 @@
       (sheetpath (names "/MIDI/") (tstamps "/d36964e5-9373-47ae-95a7-088f8df77199/"))
       (tstamps "716f6730-535b-4d35-a2f6-c669318ef25b"))
     (comp (ref "SW5")
-      (value "Tactile")
+      (value "Tactile Button")
       (footprint "Pedalboard Library:SW_PUSH-12mm_Wuerth")
       (datasheet "https://www.we-online.com/components/products/datasheet/430172043816.pdf")
       (fields
@@ -979,7 +979,7 @@
       (sheetpath (names "/MIDI/") (tstamps "/d36964e5-9373-47ae-95a7-088f8df77199/"))
       (tstamps "95ba0cce-bc42-409b-8e0b-3e41042db0ef"))
     (comp (ref "SW6")
-      (value "Tactile")
+      (value "Tactile Button")
       (footprint "Pedalboard Library:SW_PUSH-12mm_Wuerth")
       (datasheet "https://www.we-online.com/components/products/datasheet/430172043816.pdf")
       (fields
@@ -995,7 +995,7 @@
       (sheetpath (names "/MIDI/") (tstamps "/d36964e5-9373-47ae-95a7-088f8df77199/"))
       (tstamps "327fb511-7a13-4a6c-9e20-4a221c1a9432"))
     (comp (ref "SW7")
-      (value "Tactile")
+      (value "Tactile Button")
       (footprint "Pedalboard Library:SW_PUSH-12mm_Wuerth")
       (datasheet "https://www.we-online.com/components/products/datasheet/430172043816.pdf")
       (fields
@@ -1011,7 +1011,7 @@
       (sheetpath (names "/MIDI/") (tstamps "/d36964e5-9373-47ae-95a7-088f8df77199/"))
       (tstamps "44ede4b1-5ce6-41be-a910-4e3a731e938a"))
     (comp (ref "SW8")
-      (value "Tactile")
+      (value "Tactile Button")
       (footprint "Pedalboard Library:SW_PUSH-12mm_Wuerth")
       (datasheet "https://www.we-online.com/components/products/datasheet/430172043816.pdf")
       (fields
@@ -1027,7 +1027,7 @@
       (sheetpath (names "/MIDI/") (tstamps "/d36964e5-9373-47ae-95a7-088f8df77199/"))
       (tstamps "8a66db3c-d7b7-4caa-8ae7-0515d08d00f7"))
     (comp (ref "SW9")
-      (value "Tactile")
+      (value "Micro Button")
       (footprint "Button_Switch_SMD:SW_SPST_B3U-1000P")
       (datasheet "https://omronfs.omron.com/en_US/ecb/products/pdf/en-b3u.pdf")
       (fields
@@ -1044,7 +1044,7 @@
       (sheetpath (names "/MIDI/") (tstamps "/d36964e5-9373-47ae-95a7-088f8df77199/"))
       (tstamps "cdbc505b-d7c9-4a4d-82ac-db419ba415c3"))
     (comp (ref "SW10")
-      (value "Tactile")
+      (value "Micro Button")
       (footprint "Button_Switch_SMD:SW_SPST_B3U-1000P")
       (datasheet "https://omronfs.omron.com/en_US/ecb/products/pdf/en-b3u.pdf")
       (fields

@@ -2019,8 +2019,8 @@ LAYER TOP
 ROTATION 90
 SHAPE "Button_Switch_SMD:SW_SPST_B3U-1000P" 0 0
 TEXT 0.122835 -0.0503937 0.0393701 90 0 SILKSCREEN_TOP "SW10" 0 0 0.15748 0.0393701
-TEXT 0 -0.0984252 0.0393701 0 0 SILKSCREEN_TOP "Tactile" 0 0 0.275591 0.0393701
-SHEET "RefDes: SW10, Value: Tactile"
+TEXT 0 -0.0984252 0.0393701 0 0 SILKSCREEN_TOP "Micro Button" 0 0 0.472441 0.0393701
+SHEET "RefDes: SW10, Value: Micro Button"
 
 COMPONENT "R8"
 DEVICE "DEV_Resistor_SMD:R_0805_2012Metric"
@@ -2189,8 +2189,8 @@ LAYER TOP
 ROTATION 0
 SHAPE "Pedalboard Library:SW_PUSH-12mm_Wuerth" 0 0
 TEXT -0.192913 0.271654 0.0393701 0 0 SILKSCREEN_TOP "SW4" 0 0 0.11811 0.0393701
-TEXT 0 -0.29252 0.0393701 0 0 SILKSCREEN_TOP "Tactile" 0 0 0.275591 0.0393701
-SHEET "RefDes: SW4, Value: Tactile"
+TEXT 0 -0.29252 0.0393701 0 0 SILKSCREEN_TOP "Tactile Button" 0 0 0.551181 0.0393701
+SHEET "RefDes: SW4, Value: Tactile Button"
 
 COMPONENT "FID4"
 DEVICE "DEV_Fiducial:Fiducial_1.5mm_Mask3mm"
@@ -2259,8 +2259,8 @@ LAYER TOP
 ROTATION 90
 SHAPE "Button_Switch_SMD:SW_SPST_B3U-1000P" 0 0
 TEXT 0 0.0984252 0.0393701 0 0 SILKSCREEN_TOP "SW9" 0 0 0.11811 0.0393701
-TEXT 0 -0.0984252 0.0393701 0 0 SILKSCREEN_TOP "Tactile" 0 0 0.275591 0.0393701
-SHEET "RefDes: SW9, Value: Tactile"
+TEXT 0 -0.0984252 0.0393701 0 0 SILKSCREEN_TOP "Micro Button" 0 0 0.472441 0.0393701
+SHEET "RefDes: SW9, Value: Micro Button"
 
 COMPONENT "R12"
 DEVICE "DEV_Resistor_SMD:R_0805_2012Metric_0"
@@ -2559,8 +2559,8 @@ LAYER TOP
 ROTATION 0
 SHAPE "Pedalboard Library:SW_PUSH-12mm_Wuerth_0" 0 0
 TEXT -0.188976 0.271654 0.0393701 0 0 SILKSCREEN_TOP "SW3" 0 0 0.11811 0.0393701
-TEXT 0 -0.29252 0.0393701 0 0 SILKSCREEN_TOP "Tactile" 0 0 0.275591 0.0393701
-SHEET "RefDes: SW3, Value: Tactile"
+TEXT 0 -0.29252 0.0393701 0 0 SILKSCREEN_TOP "Tactile Button" 0 0 0.551181 0.0393701
+SHEET "RefDes: SW3, Value: Tactile Button"
 
 COMPONENT "U1"
 DEVICE "DEV_Package_SO:SO-6L_10x3.84mm_P1.27mm"
@@ -2809,8 +2809,8 @@ LAYER TOP
 ROTATION 0
 SHAPE "Pedalboard Library:SW_PUSH-12mm_Wuerth_1" 0 0
 TEXT -0.188976 -0.279528 0.0393701 0 0 SILKSCREEN_TOP "SW8" 0 0 0.11811 0.0393701
-TEXT 0 -0.29252 0.0393701 0 0 SILKSCREEN_TOP "Tactile" 0 0 0.275591 0.0393701
-SHEET "RefDes: SW8, Value: Tactile"
+TEXT 0 -0.29252 0.0393701 0 0 SILKSCREEN_TOP "Tactile Button" 0 0 0.551181 0.0393701
+SHEET "RefDes: SW8, Value: Tactile Button"
 
 COMPONENT "U3"
 DEVICE "DEV_Pedalboard Library:SOIC-8_5.23x5.23mm_P1.27mm"
@@ -2849,8 +2849,8 @@ LAYER TOP
 ROTATION 0
 SHAPE "Pedalboard Library:SW_PUSH-12mm_Wuerth_2" 0 0
 TEXT -0.188976 0.275591 0.0393701 0 0 SILKSCREEN_TOP "SW5" 0 0 0.11811 0.0393701
-TEXT 0 -0.29252 0.0393701 0 0 SILKSCREEN_TOP "Tactile" 0 0 0.275591 0.0393701
-SHEET "RefDes: SW5, Value: Tactile"
+TEXT 0 -0.29252 0.0393701 0 0 SILKSCREEN_TOP "Tactile Button" 0 0 0.551181 0.0393701
+SHEET "RefDes: SW5, Value: Tactile Button"
 
 COMPONENT "C7"
 DEVICE "DEV_Capacitor_SMD:C_0805_2012Metric_1"
@@ -2879,8 +2879,8 @@ LAYER TOP
 ROTATION 0
 SHAPE "Pedalboard Library:SW_PUSH-12mm_Wuerth_3" 0 0
 TEXT 0.137795 -0.275591 0.0393701 0 0 SILKSCREEN_TOP "SW6" 0 0 0.11811 0.0393701
-TEXT 0 -0.29252 0.0393701 0 0 SILKSCREEN_TOP "Tactile" 0 0 0.275591 0.0393701
-SHEET "RefDes: SW6, Value: Tactile"
+TEXT 0 -0.29252 0.0393701 0 0 SILKSCREEN_TOP "Tactile Button" 0 0 0.551181 0.0393701
+SHEET "RefDes: SW6, Value: Tactile Button"
 
 COMPONENT "C5"
 DEVICE "DEV_Capacitor_SMD:C_0805_2012Metric"
@@ -3009,8 +3009,8 @@ LAYER TOP
 ROTATION 0
 SHAPE "Pedalboard Library:SW_PUSH-12mm_Wuerth_3" 0 0
 TEXT -0.173228 -0.283465 0.0393701 0 0 SILKSCREEN_TOP "SW7" 0 0 0.11811 0.0393701
-TEXT 0 -0.29252 0.0393701 0 0 SILKSCREEN_TOP "Tactile" 0 0 0.275591 0.0393701
-SHEET "RefDes: SW7, Value: Tactile"
+TEXT 0 -0.29252 0.0393701 0 0 SILKSCREEN_TOP "Tactile Button" 0 0 0.551181 0.0393701
+SHEET "RefDes: SW7, Value: Tactile Button"
 
 COMPONENT "U7"
 DEVICE "DEV_Package_TO_SOT_SMD:SOT-353_SC-70-5_0"
@@ -3205,49 +3205,49 @@ $ENDCOMPONENTS
 
 $DEVICES
 
-DEVICE "DEV_Resistor_SMD:R_0805_2012Metric"
-PART "27R"
-PACKAGE "Resistor_SMD:R_0805_2012Metric"
-
-DEVICE "DEV_Pedalboard Library:Jack_6.35mm_Horizontal"
-PART "Jack 6.35mm"
-PACKAGE "Pedalboard Library:Jack_6.35mm_Horizontal"
+DEVICE "DEV_MountingHole:MountingHole_2.7mm_M2.5_DIN965"
+PART "MountingHole"
+PACKAGE "MountingHole:MountingHole_2.7mm_M2.5_DIN965"
 
 DEVICE "DEV_Pedalboard Library:Jack_3.5mm_CUI_SJ1-3525N_Horizontal"
 PART "Jack 3.5mm"
 PACKAGE "Pedalboard Library:Jack_3.5mm_CUI_SJ1-3525N_Horizontal"
 
-DEVICE "DEV_MountingHole:MountingHole_2.7mm_M2.5_DIN965"
-PART "MountingHole"
-PACKAGE "MountingHole:MountingHole_2.7mm_M2.5_DIN965"
-
-DEVICE "DEV_Capacitor_SMD:C_0805_2012Metric_0"
-PART "1n"
-PACKAGE "Capacitor_SMD:C_0805_2012Metric"
-
-DEVICE "DEV_Pedalboard Library:Jack_6.35mm_Horizontal_0"
-PART "Jack 6.35mm"
-PACKAGE "Pedalboard Library:Jack_6.35mm_Horizontal"
-
-DEVICE "DEV_TestPoint:TestPoint_Pad_2.0x2.0mm"
-PART "TestPoint"
-PACKAGE "TestPoint:TestPoint_Pad_2.0x2.0mm"
-
 DEVICE "DEV_Fiducial:Fiducial_1.5mm_Mask3mm"
 PART "Fiducial"
 PACKAGE "Fiducial:Fiducial_1.5mm_Mask3mm"
-
-DEVICE "DEV_Capacitor_SMD:C_0805_2012Metric"
-PART "100n"
-PACKAGE "Capacitor_SMD:C_0805_2012Metric"
 
 DEVICE "DEV_Diode_SMD:D_SMA"
 PART "SS34HF"
 PACKAGE "Diode_SMD:D_SMA"
 
+DEVICE "DEV_TestPoint:TestPoint_Pad_2.0x2.0mm"
+PART "TestPoint"
+PACKAGE "TestPoint:TestPoint_Pad_2.0x2.0mm"
+
 DEVICE "DEV_Pedalboard Library:BarrelJack_Wuerth_6941xx301002"
 PART "Barrel_Jack_MountingPin"
 PACKAGE "Pedalboard Library:BarrelJack_Wuerth_6941xx301002"
+
+DEVICE "DEV_Capacitor_SMD:C_0805_2012Metric_0"
+PART "100n"
+PACKAGE "Capacitor_SMD:C_0805_2012Metric"
+
+DEVICE "DEV_Resistor_SMD:R_0805_2012Metric"
+PART "27R"
+PACKAGE "Resistor_SMD:R_0805_2012Metric"
+
+DEVICE "DEV_Pedalboard Library:Jack_6.35mm_Horizontal_0"
+PART "Jack 6.35mm"
+PACKAGE "Pedalboard Library:Jack_6.35mm_Horizontal"
+
+DEVICE "DEV_Capacitor_SMD:C_0805_2012Metric"
+PART "100n"
+PACKAGE "Capacitor_SMD:C_0805_2012Metric"
+
+DEVICE "DEV_Pedalboard Library:Jack_6.35mm_Horizontal"
+PART "Jack 6.35mm"
+PACKAGE "Pedalboard Library:Jack_6.35mm_Horizontal"
 
 DEVICE "DEV_Package_TO_SOT_SMD:SOT-223-3_TabPin2"
 PART "NCP1117-3.3_SOT223"
@@ -3266,7 +3266,7 @@ PART "LED-Ring"
 PACKAGE "Pedalboard Library:Led-Ring"
 
 DEVICE "DEV_Button_Switch_SMD:SW_SPST_B3U-1000P"
-PART "Tactile"
+PART "Micro Button"
 PACKAGE "Button_Switch_SMD:SW_SPST_B3U-1000P"
 
 DEVICE "DEV_Jumper:SolderJumper-2_P1.3mm_Bridged_RoundedPad1.0x1.5mm"
@@ -3302,7 +3302,7 @@ PART "Midi Bites"
 PACKAGE "Pedalboard Library:MIDI bites"
 
 DEVICE "DEV_Pedalboard Library:SW_PUSH-12mm_Wuerth"
-PART "Tactile"
+PART "Tactile Button"
 PACKAGE "Pedalboard Library:SW_PUSH-12mm_Wuerth"
 
 DEVICE "DEV_Resistor_SMD:R_0805_2012Metric_1"
@@ -3346,7 +3346,7 @@ PART "SJP"
 PACKAGE "Jumper:SolderJumper-2_P1.3mm_Bridged_RoundedPad1.0x1.5mm"
 
 DEVICE "DEV_Pedalboard Library:SW_PUSH-12mm_Wuerth_0"
-PART "Tactile"
+PART "Tactile Button"
 PACKAGE "Pedalboard Library:SW_PUSH-12mm_Wuerth"
 
 DEVICE "DEV_Package_SO:SO-6L_10x3.84mm_P1.27mm"
@@ -3386,7 +3386,7 @@ PART "ABLS-12.000MHZ-B4-T"
 PACKAGE "Pedalboard Library:Crystal_SMD_HC49-US"
 
 DEVICE "DEV_Pedalboard Library:SW_PUSH-12mm_Wuerth_1"
-PART "Tactile"
+PART "Tactile Button"
 PACKAGE "Pedalboard Library:SW_PUSH-12mm_Wuerth"
 
 DEVICE "DEV_Pedalboard Library:SOIC-8_5.23x5.23mm_P1.27mm"
@@ -3398,11 +3398,11 @@ PART "CM4"
 PACKAGE "Pedalboard Library:Raspberry-Pi-4-Compute-Module"
 
 DEVICE "DEV_Pedalboard Library:SW_PUSH-12mm_Wuerth_2"
-PART "Tactile"
+PART "Tactile Button"
 PACKAGE "Pedalboard Library:SW_PUSH-12mm_Wuerth"
 
 DEVICE "DEV_Pedalboard Library:SW_PUSH-12mm_Wuerth_3"
-PART "Tactile"
+PART "Tactile Button"
 PACKAGE "Pedalboard Library:SW_PUSH-12mm_Wuerth"
 
 DEVICE "DEV_Inductor_SMD:L_0603_1608Metric_1"

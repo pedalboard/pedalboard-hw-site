@@ -98,14 +98,14 @@ Ref,Val,Package,PosX,PosY,Rot,Side
 "R17","2K2","R_0805_2012Metric",31.4944,64.8944,0.0000,top
 "SW1","Rotary","RotaryEncoder_Alps_EC11E-Switch_Vertical_H20mm_CircularMountingHoles",42.2444,99.4944,0.0000,top
 "SW2","Rotary","RotaryEncoder_Alps_EC11E-Switch_Vertical_H20mm_CircularMountingHoles",117.2444,99.4944,0.0000,top
-"SW3","Tactile","SW_PUSH-12mm_Wuerth",11.9944,63.9944,0.0000,top
-"SW4","Tactile","SW_PUSH-12mm_Wuerth",86.9944,63.9944,0.0000,top
-"SW5","Tactile","SW_PUSH-12mm_Wuerth",161.9944,63.9944,0.0000,top
-"SW6","Tactile","SW_PUSH-12mm_Wuerth",11.9944,11.9944,0.0000,top
-"SW7","Tactile","SW_PUSH-12mm_Wuerth",86.9944,11.9944,0.0000,top
-"SW8","Tactile","SW_PUSH-12mm_Wuerth",161.9944,11.9944,0.0000,top
-"SW9","Tactile","SW_SPST_B3U-1000P",73.5044,77.3444,90.0000,top
-"SW10","Tactile","SW_SPST_B3U-1000P",106.0044,86.1344,90.0000,top
+"SW3","Tactile Button","SW_PUSH-12mm_Wuerth",11.9944,63.9944,0.0000,top
+"SW4","Tactile Button","SW_PUSH-12mm_Wuerth",86.9944,63.9944,0.0000,top
+"SW5","Tactile Button","SW_PUSH-12mm_Wuerth",161.9944,63.9944,0.0000,top
+"SW6","Tactile Button","SW_PUSH-12mm_Wuerth",11.9944,11.9944,0.0000,top
+"SW7","Tactile Button","SW_PUSH-12mm_Wuerth",86.9944,11.9944,0.0000,top
+"SW8","Tactile Button","SW_PUSH-12mm_Wuerth",161.9944,11.9944,0.0000,top
+"SW9","Micro Button","SW_SPST_B3U-1000P",73.5044,77.3444,90.0000,top
+"SW10","Micro Button","SW_SPST_B3U-1000P",106.0044,86.1344,90.0000,top
 "U1","TLP2761","SO-6L_10x3.84mm_P1.27mm",33.3944,98.5944,0.0000,top
 "U2","74AHCT1G32SE-7","SOT-353_SC-70-5",55.1944,84.0444,180.0000,top
 "U3","W25Q128JVS","SOIC-8_5.23x5.23mm_P1.27mm",81.4944,78.5444,90.0000,top
