@@ -33,14 +33,13 @@ Row,Description,Part,References,Value,Footprint,Quantity Per PCB,Status,Datashee
 32,Resistor,R,R15,20K 1%,R_0805_2012Metric,1, ,https://fscdn.rohm.com/en/products/databook/datasheet/passive/resistor/chip_resistor/mcr-e.pdf,2331485,Farnell,RK73H1ETTP2002F,KOA EUROPE GMBH,Resistor 20K M1005 1% 63mW,,,,,
 33,"Rotary encoder, dual channel, incremental quadrate outputs, with switch",RotaryEncoder_Switch,SW1 SW2,Rotary,RotaryEncoder_Alps_EC11E-Switch_Vertical_H20mm_CircularMountingHoles,2, ,https://www.we-online.com/components/products/datasheet/482016514001.pdf,,,,,,,https://www.digikey.ch/de/products/detail/w%C3%BCrth-elektronik/482016514001/10056402,VOL GAIN,,
 34,Omron B3FS 6x6mm single pole normally-open tactile switch,SW_Omron_B3FS,SW3 SW4 SW5 SW6 SW7 SW8,Tactile,SW_PUSH-12mm_Wuerth,6, ,https://www.we-online.com/components/products/datasheet/430172043816.pdf,,,,,,,https://www.digikey.ch/de/products/detail/w%C3%BCrth-elektronik/430162043826/9950802,D E F A B C,,
-35,Omron B3FS 6x6mm single pole normally-open tactile switch,SW_Omron_B3FS,SW9,Tactile,SW_SPST_B3U-1000P,1, ,https://omronfs.omron.com/en_US/ecb/products/pdf/en-b3u.pdf,,,,,,,https://www.digikey.ch/en/products/detail/omron-electronics-inc-emc-div/B3U-1000P/1534338,Boot,,
-36,Single OR Gage,74AHCT1G32SE-7,U2 U7,74AHCT1G32SE-7,SOT-353_SC-70-5,2, ,https://www.diodes.com/assets/Datasheets/74AHCT1G32.pdf,,,,,,,https://www.digikey.ch/de/products/detail/diodes-incorporated/74AHCT1G32SE-7/2711987,,,
-37,,AP64351,U6,AP64501SP-13,SOIC-8-1EP_3.9x4.9mm_P1.27mm_EP2.95x4.9mm_Mask2.71x3.4mm_ThermalVias,1, ,https://www.diodes.com/assets/Datasheets/AP64501.pdf,31-AP64501SP-13CT-ND,Digikey,AP64501SP-13,Diodes,"Buck Switching Regulator IC Positive Adjustable 0.8V 1 Output 5A 8-SOIC (0.154"", 3.90mm Width) Exposed Pad",,,,,
-38,"1A Low drop-out regulator, Fixed Output 3.3V, SOT-223",NCP1117-3.3_SOT223,U5,NCP1117-3.3_SOT223,SOT-223-3_TabPin2,1, ,https://www.diodes.com/assets/Datasheets/AZ1117I.pdf,,,,,,,https://www.digikey.ch/de/products/detail/diodes-incorporated/AZ1117IH-3-3TRG1/5699672,,,
-39,A microcontroller by Raspberry Pi,RP2040,U4,RP2040,RP2040-QFN-56,1, ,https://datasheets.raspberrypi.com/rp2040/rp2040-datasheet.pdf,,,,,,,https://www.digikey.ch/de/products/detail/raspberry-pi/SC0914-13/14306010,,,
-40,"15-Mbps inverting photocouple,5 kVrms, 2.7 - 5.5 Vdd, push-pull output",TLP2761,U1,TLP2761,SO-6L_10x3.84mm_P1.27mm,1, ,https://toshiba.semicon-storage.com/info/docget.jsp?did=28819&prodName=TLP2761,,,,,,,https://www.digikey.ch/de/products/detail/toshiba-semiconductor-and-storage/TLP2761-TP-E/7809713,,,
-41,Flash Memory,W25Q128JVS-Memory_Flash,U3,W25Q128JVS,SOIC-8_5.23x5.23mm_P1.27mm,1, ,https://www.winbond.com/resource-files/w25q128jv%20revf%2003272018%20plus.pdf,,,,,,,https://www.digikey.ch/de/products/detail/winbond-electronics/W25Q128JVSIQ-TR/5803944,,,
-42,Two pin crystal,Crystal,Y1,ABLS-12.000MHZ-B4-T,Crystal_SMD_HC49-US,1, ,https://abracon.com/Resonators/ABLS.pdf,,,,,,,https://www.digikey.ch/de/products/detail/abracon-llc/ABLS-12-000MHZ-B4-T/2184161,,,
+35,Single OR Gage,74AHCT1G32SE-7,U2 U7,74AHCT1G32SE-7,SOT-353_SC-70-5,2, ,https://www.diodes.com/assets/Datasheets/74AHCT1G32.pdf,,,,,,,https://www.digikey.ch/de/products/detail/diodes-incorporated/74AHCT1G32SE-7/2711987,,,
+36,,AP64351,U6,AP64501SP-13,SOIC-8-1EP_3.9x4.9mm_P1.27mm_EP2.95x4.9mm_Mask2.71x3.4mm_ThermalVias,1, ,https://www.diodes.com/assets/Datasheets/AP64501.pdf,31-AP64501SP-13CT-ND,Digikey,AP64501SP-13,Diodes,"Buck Switching Regulator IC Positive Adjustable 0.8V 1 Output 5A 8-SOIC (0.154"", 3.90mm Width) Exposed Pad",,,,,
+37,"1A Low drop-out regulator, Fixed Output 3.3V, SOT-223",NCP1117-3.3_SOT223,U5,NCP1117-3.3_SOT223,SOT-223-3_TabPin2,1, ,https://www.diodes.com/assets/Datasheets/AZ1117I.pdf,,,,,,,https://www.digikey.ch/de/products/detail/diodes-incorporated/AZ1117IH-3-3TRG1/5699672,,,
+38,A microcontroller by Raspberry Pi,RP2040,U4,RP2040,RP2040-QFN-56,1, ,https://datasheets.raspberrypi.com/rp2040/rp2040-datasheet.pdf,,,,,,,https://www.digikey.ch/de/products/detail/raspberry-pi/SC0914-13/14306010,,,
+39,"15-Mbps inverting photocouple,5 kVrms, 2.7 - 5.5 Vdd, push-pull output",TLP2761,U1,TLP2761,SO-6L_10x3.84mm_P1.27mm,1, ,https://toshiba.semicon-storage.com/info/docget.jsp?did=28819&prodName=TLP2761,,,,,,,https://www.digikey.ch/de/products/detail/toshiba-semiconductor-and-storage/TLP2761-TP-E/7809713,,,
+40,Flash Memory,W25Q128JVS-Memory_Flash,U3,W25Q128JVS,SOIC-8_5.23x5.23mm_P1.27mm,1, ,https://www.winbond.com/resource-files/w25q128jv%20revf%2003272018%20plus.pdf,,,,,,,https://www.digikey.ch/de/products/detail/winbond-electronics/W25Q128JVSIQ-TR/5803944,,,
+41,Two pin crystal,Crystal,Y1,ABLS-12.000MHZ-B4-T,Crystal_SMD_HC49-US,1, ,https://abracon.com/Resonators/ABLS.pdf,,,,,,,https://www.digikey.ch/de/products/detail/abracon-llc/ABLS-12-000MHZ-B4-T/2184161,,,
 
 
 
@@ -54,7 +53,7 @@ Date:,2023-10-20
 KiCad Version:,7.0.9-7.0.9~ubuntu23.04.1
 Statistics:
 Component Groups:,47
-Component Count:,115 (88 SMD/ 25 THT)
-Fitted Components:,107 (87 SMD/ 20 THT)
+Component Count:,116 (89 SMD/ 25 THT)
+Fitted Components:,106 (86 SMD/ 20 THT)
 Number of PCBs:,1
-Total Components:,107
+Total Components:,106
