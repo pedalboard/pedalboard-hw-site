@@ -1041,7 +1041,7 @@ PIN "MP" PAD7 0.295276 -0.318898 TOP 0 0
 PIN "S1" PAD4 0.570866 -0.19685 TOP 0 0
 PIN "S2" PAD4 0.570866 0 TOP 0 0
 
-SHAPE "Package_SO:SOIC-8-1EP_3.9x4.9mm_P1.27mm_EP2.95x4.9mm_Mask2.71x3.4mm_ThermalVias"
+SHAPE "Pedalboard Library:SOIC-8-1EP_3.9x4.9mm_P1.27mm_EP2.95x4.9mm_Mask2.71x3.4mm_ThermalVias"
 INSERT SMD
 LINE -0.0673458 0.100787 -0.135827 0.100787
 LINE -0.0673458 -0.100787 -0.0767717 -0.100787
@@ -2383,13 +2383,13 @@ TEXT 0 -0.0661417 0.0393701 180 0 SILKSCREEN_TOP "100n" 0 0 0.15748 0.0393701
 SHEET "RefDes: C11, Value: 100n"
 
 COMPONENT "U6"
-DEVICE "DEV_Package_SO:SOIC-8-1EP_3.9x4.9mm_P1.27mm_EP2.95x4.9mm_Mask2.71x3.4mm_ThermalVias"
+DEVICE "DEV_Pedalboard Library:SOIC-8-1EP_3.9x4.9mm_P1.27mm_EP2.95x4.9mm_Mask2.71x3.4mm_ThermalVias"
 PLACE 6.28031 -1.66929
 LAYER TOP
 ROTATION -90
-SHAPE "Package_SO:SOIC-8-1EP_3.9x4.9mm_P1.27mm_EP2.95x4.9mm_Mask2.71x3.4mm_ThermalVias" 0 0
-TEXT 0.154331 0.145669 0.0314961 270 0 SILKSCREEN_TOP "U6" 0 0 0.0629921 0.0314961
-TEXT 0 -0.133858 0.0393701 180 0 SILKSCREEN_TOP "AP64501SP-13" 0 0 0.472441 0.0393701
+SHAPE "Pedalboard Library:SOIC-8-1EP_3.9x4.9mm_P1.27mm_EP2.95x4.9mm_Mask2.71x3.4mm_ThermalVias" 0 0
+TEXT 0 0.133858 0.0393701 0 0 SILKSCREEN_TOP "U6" 0 0 0.0787402 0.0393701
+TEXT 0 -0.133858 0.0393701 0 0 SILKSCREEN_TOP "AP64501SP-13" 0 0 0.472441 0.0393701
 SHEET "RefDes: U6, Value: AP64501SP-13"
 
 COMPONENT "D3"
@@ -3205,41 +3205,41 @@ $ENDCOMPONENTS
 
 $DEVICES
 
-DEVICE "DEV_Pedalboard Library:Jack_6.35mm_Horizontal_0"
-PART "Jack 6.35mm"
-PACKAGE "Pedalboard Library:Jack_6.35mm_Horizontal"
-
-DEVICE "DEV_Pedalboard Library:Jack_6.35mm_Horizontal"
-PART "Jack 6.35mm"
-PACKAGE "Pedalboard Library:Jack_6.35mm_Horizontal"
-
 DEVICE "DEV_Resistor_SMD:R_0805_2012Metric"
-PART "27R"
+PART "DNF"
 PACKAGE "Resistor_SMD:R_0805_2012Metric"
-
-DEVICE "DEV_TestPoint:TestPoint_Pad_2.0x2.0mm"
-PART "TestPoint"
-PACKAGE "TestPoint:TestPoint_Pad_2.0x2.0mm"
 
 DEVICE "DEV_Capacitor_SMD:C_0805_2012Metric"
 PART "100n"
-PACKAGE "Capacitor_SMD:C_0805_2012Metric"
-
-DEVICE "DEV_Capacitor_SMD:C_0805_2012Metric_0"
-PART "10u 35v"
 PACKAGE "Capacitor_SMD:C_0805_2012Metric"
 
 DEVICE "DEV_MountingHole:MountingHole_2.7mm_M2.5_DIN965"
 PART "MountingHole"
 PACKAGE "MountingHole:MountingHole_2.7mm_M2.5_DIN965"
 
-DEVICE "DEV_Pedalboard Library:Jack_3.5mm_CUI_SJ1-3525N_Horizontal"
-PART "Jack 3.5mm"
-PACKAGE "Pedalboard Library:Jack_3.5mm_CUI_SJ1-3525N_Horizontal"
+DEVICE "DEV_TestPoint:TestPoint_Pad_2.0x2.0mm"
+PART "TestPoint"
+PACKAGE "TestPoint:TestPoint_Pad_2.0x2.0mm"
 
 DEVICE "DEV_Fiducial:Fiducial_1.5mm_Mask3mm"
 PART "Fiducial"
 PACKAGE "Fiducial:Fiducial_1.5mm_Mask3mm"
+
+DEVICE "DEV_Pedalboard Library:Jack_6.35mm_Horizontal"
+PART "Jack 6.35mm"
+PACKAGE "Pedalboard Library:Jack_6.35mm_Horizontal"
+
+DEVICE "DEV_Pedalboard Library:Jack_6.35mm_Horizontal_0"
+PART "Jack 6.35mm"
+PACKAGE "Pedalboard Library:Jack_6.35mm_Horizontal"
+
+DEVICE "DEV_Capacitor_SMD:C_0805_2012Metric_0"
+PART "100n"
+PACKAGE "Capacitor_SMD:C_0805_2012Metric"
+
+DEVICE "DEV_Pedalboard Library:Jack_3.5mm_CUI_SJ1-3525N_Horizontal"
+PART "Jack 3.5mm"
+PACKAGE "Pedalboard Library:Jack_3.5mm_CUI_SJ1-3525N_Horizontal"
 
 DEVICE "DEV_Diode_SMD:D_SMA"
 PART "SS34HF"
@@ -3325,9 +3325,9 @@ DEVICE "DEV_Pedalboard Library:RotaryEncoder_Alps_EC11E-Switch_Vertical_H20mm_Ci
 PART "Rotary"
 PACKAGE "Pedalboard Library:RotaryEncoder_Alps_EC11E-Switch_Vertical_H20mm_CircularMountingHoles"
 
-DEVICE "DEV_Package_SO:SOIC-8-1EP_3.9x4.9mm_P1.27mm_EP2.95x4.9mm_Mask2.71x3.4mm_ThermalVias"
+DEVICE "DEV_Pedalboard Library:SOIC-8-1EP_3.9x4.9mm_P1.27mm_EP2.95x4.9mm_Mask2.71x3.4mm_ThermalVias"
 PART "AP64501SP-13"
-PACKAGE "Package_SO:SOIC-8-1EP_3.9x4.9mm_P1.27mm_EP2.95x4.9mm_Mask2.71x3.4mm_ThermalVias"
+PACKAGE "Pedalboard Library:SOIC-8-1EP_3.9x4.9mm_P1.27mm_EP2.95x4.9mm_Mask2.71x3.4mm_ThermalVias"
 
 DEVICE "DEV_Resistor_SMD:R_0805_2012Metric_2"
 PART "220R"
