@@ -90,7 +90,7 @@ endobj
 >>
 endobj
 180 0 obj
-<</S /GoTo /D [146 0 R /FitR 444 442 454 424]
+<</S /GoTo /D [146 0 R /FitR 441 449 451 431]
 >>
 endobj
 182 0 obj
@@ -134,7 +134,7 @@ endobj
 >>
 endobj
 202 0 obj
-<</S /GoTo /D [146 0 R /FitR 426 451 448 426]
+<</S /GoTo /D [146 0 R /FitR 423 451 445 426]
 >>
 endobj
 204 0 obj
@@ -194,7 +194,7 @@ endobj
 >>
 endobj
 232 0 obj
-<</S /GoTo /D [146 0 R /FitR 461 442 471 424]
+<</S /GoTo /D [146 0 R /FitR 476 447 486 429]
 >>
 endobj
 234 0 obj
@@ -222,7 +222,7 @@ endobj
 >>
 endobj
 246 0 obj
-<</S /GoTo /D [146 0 R /FitR 456 442 466 424]
+<</S /GoTo /D [146 0 R /FitR 452 449 462 431]
 >>
 endobj
 248 0 obj
@@ -322,7 +322,7 @@ endobj
 >>
 endobj
 296 0 obj
-<</S /GoTo /D [146 0 R /FitR 450 442 460 424]
+<</S /GoTo /D [146 0 R /FitR 446 449 456 431]
 >>
 endobj
 298 0 obj
@@ -748,7 +748,7 @@ endobj
 20 0 obj
 << /Type /Annot
    /Subtype /Link
-   /Rect [444.77 424.204 454.786 442.523]
+   /Rect [441.198 431.007 451.214 449.326]
    /Border [16 16 0]
    /A << /Type /Action /S /JavaScript /JS (var aParams = [ { cName: 'Reference designator = C38', cReturn: null }, { cName: 'Value = 10u', cReturn: null }, { cName: 'Notes = 10% or 20% 35V Ceramic Capacitor X6S 0805 \\u00282012 Metric\\u0029', cReturn: null }, { cName: 'Sheetfile = psu.kicad_sch', cReturn: null }, { cName: 'Sheetname = Power Supply', cReturn: null }, { cName: 'Supplier = https://www.digikey.ch/de/products/detail/samsung-electro-mechanics/CL21X106KAYNNNE/5961182', cReturn: 'https://www.digikey.ch/de/products/detail/samsung-electro-mechanics/CL21X106KAYNNNE/5961182' }, { cName: 'ki_description = Unpolarized capacitor', cReturn: null }, { cName: 'ki_keywords = cap capacitor', cReturn: null }, { cName: 'Footprint = Capacitor_SMD:C_0805_2012Metric', cReturn: null }, { cName: 'Description = Capacitor SMD 0805 \\u00282012 Metric\\u0029, square \\u0028rectangular\\u0029 end terminal, IPC_7351 nominal, \\u0028Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing\\u0029, generated with kicad-footprint-generator', cReturn: 'https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing\\u0029, generated with kicad-footprint-generator' }, { cName: 'Keywords = capacitor', cReturn: null }, ]; var cChoice = app.popUpMenuEx.apply\( app, aParams \); if\( cChoice != null && cChoice.substring\( 0, 1 \) == '#' \)    this.pageNum = parseInt\( cChoice.slice\( 1 \) \); else if\( cChoice != null && cChoice.substring\( 0, 4 \) == 'http' \)    app.launchURL\( cChoice \);) >>
 >>
@@ -836,7 +836,7 @@ endobj
 31 0 obj
 << /Type /Annot
    /Subtype /Link
-   /Rect [426.081 426.351 448.464 451.565]
+   /Rect [423.274 426.351 445.658 451.565]
    /Border [16 16 0]
    /A << /Type /Action /S /JavaScript /JS (var aParams = [ { cName: 'Reference designator = C37', cReturn: null }, { cName: 'Value = 100u', cReturn: null }, { cName: 'Notes = Capacitor, SP-Cap, 100u, 6.3V, 15mR ESR', cReturn: null }, { cName: 'Sheetfile = psu.kicad_sch', cReturn: null }, { cName: 'Sheetname = Power Supply', cReturn: null }, { cName: 'Supplier = https://www.digikey.ch/de/products/detail/panasonic-electronic-components/EEF-CX0J101R/816418', cReturn: 'https://www.digikey.ch/de/products/detail/panasonic-electronic-components/EEF-CX0J101R/816418' }, { cName: 'ki_description = Polarized capacitor', cReturn: null }, { cName: 'ki_keywords = cap capacitor', cReturn: null }, { cName: 'Footprint = Capacitor_Tantalum_SMD:CP_EIA-7343-31_Kemet-D', cReturn: null }, { cName: 'Description = Tantalum Capacitor SMD Kemet-D \\u00287343-31 Metric\\u0029, IPC_7351 nominal, \\u0028Body size from: http://www.kemet.com/Lists/ProductCatalog/Attachments/253/KEM_TC101_STD.pdf\\u0029, generated with kicad-footprint-generator', cReturn: 'http://www.kemet.com/Lists/ProductCatalog/Attachments/253/KEM_TC101_STD.pdf\\u0029, generated with kicad-footprint-generator' }, { cName: 'Keywords = capacitor tantalum', cReturn: null }, ]; var cChoice = app.popUpMenuEx.apply\( app, aParams \); if\( cChoice != null && cChoice.substring\( 0, 1 \) == '#' \)    this.pageNum = parseInt\( cChoice.slice\( 1 \) \); else if\( cChoice != null && cChoice.substring\( 0, 4 \) == 'http' \)    app.launchURL\( cChoice \);) >>
 >>
@@ -956,7 +956,7 @@ endobj
 46 0 obj
 << /Type /Annot
    /Subtype /Link
-   /Rect [461.665 424.318 471.68 442.523]
+   /Rect [476.575 429.675 486.59 447.88]
    /Border [16 16 0]
    /A << /Type /Action /S /JavaScript /JS (var aParams = [ { cName: 'Reference designator = C35', cReturn: null }, { cName: 'Value = 10u', cReturn: null }, { cName: 'Notes = 10% or 20% 35V Ceramic Capacitor X6S 0805 \\u00282012 Metric\\u0029', cReturn: null }, { cName: 'Sheetfile = psu.kicad_sch', cReturn: null }, { cName: 'Sheetname = Power Supply', cReturn: null }, { cName: 'Supplier = https://www.digikey.ch/de/products/detail/samsung-electro-mechanics/CL21X106KAYNNNE/5961182', cReturn: 'https://www.digikey.ch/de/products/detail/samsung-electro-mechanics/CL21X106KAYNNNE/5961182' }, { cName: 'ki_description = Unpolarized capacitor', cReturn: null }, { cName: 'ki_keywords = cap capacitor', cReturn: null }, { cName: 'Footprint = Capacitor_SMD:C_0805_2012Metric', cReturn: null }, { cName: 'Description = Capacitor SMD 0805 \\u00282012 Metric\\u0029, square \\u0028rectangular\\u0029 end terminal, IPC_7351 nominal, \\u0028Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing\\u0029, generated with kicad-footprint-generator', cReturn: 'https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing\\u0029, generated with kicad-footprint-generator' }, { cName: 'Keywords = capacitor', cReturn: null }, ]; var cChoice = app.popUpMenuEx.apply\( app, aParams \); if\( cChoice != null && cChoice.substring\( 0, 1 \) == '#' \)    this.pageNum = parseInt\( cChoice.slice\( 1 \) \); else if\( cChoice != null && cChoice.substring\( 0, 4 \) == 'http' \)    app.launchURL\( cChoice \);) >>
 >>
@@ -1012,7 +1012,7 @@ endobj
 53 0 obj
 << /Type /Annot
    /Subtype /Link
-   /Rect [456.052 424.318 466.067 442.523]
+   /Rect [452.452 431.121 462.467 449.326]
    /Border [16 16 0]
    /A << /Type /Action /S /JavaScript /JS (var aParams = [ { cName: 'Reference designator = C30', cReturn: null }, { cName: 'Value = 10u', cReturn: null }, { cName: 'Notes = 10% or 20% 35V Ceramic Capacitor X6S 0805 \\u00282012 Metric\\u0029', cReturn: null }, { cName: 'Sheetfile = psu.kicad_sch', cReturn: null }, { cName: 'Sheetname = Power Supply', cReturn: null }, { cName: 'Supplier = https://www.digikey.ch/de/products/detail/samsung-electro-mechanics/CL21X106KAYNNNE/5961182', cReturn: 'https://www.digikey.ch/de/products/detail/samsung-electro-mechanics/CL21X106KAYNNNE/5961182' }, { cName: 'ki_description = Unpolarized capacitor', cReturn: null }, { cName: 'ki_keywords = cap capacitor', cReturn: null }, { cName: 'Footprint = Capacitor_SMD:C_0805_2012Metric', cReturn: null }, { cName: 'Description = Capacitor SMD 0805 \\u00282012 Metric\\u0029, square \\u0028rectangular\\u0029 end terminal, IPC_7351 nominal, \\u0028Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing\\u0029, generated with kicad-footprint-generator', cReturn: 'https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing\\u0029, generated with kicad-footprint-generator' }, { cName: 'Keywords = capacitor', cReturn: null }, ]; var cChoice = app.popUpMenuEx.apply\( app, aParams \); if\( cChoice != null && cChoice.substring\( 0, 1 \) == '#' \)    this.pageNum = parseInt\( cChoice.slice\( 1 \) \); else if\( cChoice != null && cChoice.substring\( 0, 4 \) == 'http' \)    app.launchURL\( cChoice \);) >>
 >>
@@ -1213,7 +1213,7 @@ endobj
 78 0 obj
 << /Type /Annot
    /Subtype /Link
-   /Rect [450.468 424.516 460.483 442.579]
+   /Rect [446.811 431.234 456.827 449.298]
    /Border [16 16 0]
    /A << /Type /Action /S /JavaScript /JS (var aParams = [ { cName: 'Reference designator = C33', cReturn: null }, { cName: 'Value = 10u', cReturn: null }, { cName: 'Notes = 10% or 20% 35V Ceramic Capacitor X6S 0805 \\u00282012 Metric\\u0029', cReturn: null }, { cName: 'Sheetfile = psu.kicad_sch', cReturn: null }, { cName: 'Sheetname = Power Supply', cReturn: null }, { cName: 'Supplier = https://www.digikey.ch/de/products/detail/samsung-electro-mechanics/CL21X106KAYNNNE/5961182', cReturn: 'https://www.digikey.ch/de/products/detail/samsung-electro-mechanics/CL21X106KAYNNNE/5961182' }, { cName: 'ki_description = Unpolarized capacitor', cReturn: null }, { cName: 'ki_keywords = cap capacitor', cReturn: null }, { cName: 'Footprint = Capacitor_SMD:C_0805_2012Metric', cReturn: null }, { cName: 'Description = Capacitor SMD 0805 \\u00282012 Metric\\u0029, square \\u0028rectangular\\u0029 end terminal, IPC_7351 nominal, \\u0028Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing\\u0029, generated with kicad-footprint-generator', cReturn: 'https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing\\u0029, generated with kicad-footprint-generator' }, { cName: 'Keywords = capacitor', cReturn: null }, ]; var cChoice = app.popUpMenuEx.apply\( app, aParams \); if\( cChoice != null && cChoice.substring\( 0, 1 \) == '#' \)    this.pageNum = parseInt\( cChoice.slice\( 1 \) \); else if\( cChoice != null && cChoice.substring\( 0, 4 \) == 'http' \)    app.launchURL\( cChoice \);) >>
 >>
@@ -1759,7 +1759,7 @@ endobj
 434 0 obj
 <<
 /Producer (KiCad PDF)
-/CreationDate (D:20231202182117)
+/CreationDate (D:20231202190046)
 /Creator (PCBNEW)
 /Title (pedalboard-hw-B_Courtyard.pdf)
 >>
@@ -2940,32 +2940,32 @@ xref
 0000030430 00000 n 
 0000031933 00000 n 
 0000033448 00000 n 
-0000035352 00000 n 
-0000036855 00000 n 
-0000038097 00000 n 
-0000039924 00000 n 
-0000041843 00000 n 
-0000043066 00000 n 
-0000044508 00000 n 
-0000046089 00000 n 
-0000048069 00000 n 
-0000049163 00000 n 
-0000050553 00000 n 
-0000052178 00000 n 
-0000053761 00000 n 
-0000055278 00000 n 
-0000056794 00000 n 
-0000057938 00000 n 
-0000059788 00000 n 
-0000061177 00000 n 
-0000062234 00000 n 
-0000063871 00000 n 
-0000065096 00000 n 
-0000066048 00000 n 
-0000067273 00000 n 
-0000068674 00000 n 
-0000069686 00000 n 
-0000071590 00000 n 
+0000035353 00000 n 
+0000036856 00000 n 
+0000038098 00000 n 
+0000039925 00000 n 
+0000041844 00000 n 
+0000043067 00000 n 
+0000044509 00000 n 
+0000046090 00000 n 
+0000048070 00000 n 
+0000049164 00000 n 
+0000050554 00000 n 
+0000052179 00000 n 
+0000053762 00000 n 
+0000055279 00000 n 
+0000056795 00000 n 
+0000057939 00000 n 
+0000059789 00000 n 
+0000061178 00000 n 
+0000062235 00000 n 
+0000063872 00000 n 
+0000065097 00000 n 
+0000066049 00000 n 
+0000067274 00000 n 
+0000068675 00000 n 
+0000069687 00000 n 
+0000071591 00000 n 
 0000073494 00000 n 
 0000074719 00000 n 
 0000076301 00000 n 
