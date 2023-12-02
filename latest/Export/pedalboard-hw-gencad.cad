@@ -2899,8 +2899,8 @@ LAYER TOP
 ROTATION 0
 SHAPE "Resistor_SMD:R_0805_2012Metric" 0 0
 TEXT -0.114173 -0.00393701 0.0393701 0 0 SILKSCREEN_TOP "R17" 0 0 0.11811 0.0393701
-TEXT -0.0984252 -0.153543 0.0393701 0 0 SILKSCREEN_TOP "1K" 0 0 0.0787402 0.0393701
-SHEET "RefDes: R17, Value: 1K"
+TEXT -0.0984252 -0.153543 0.0393701 0 0 SILKSCREEN_TOP "2K2" 0 0 0.11811 0.0393701
+SHEET "RefDes: R17, Value: 2K2"
 
 COMPONENT "C16"
 DEVICE "DEV_Capacitor_SMD:C_0805_2012Metric_2"
@@ -3209,41 +3209,41 @@ DEVICE "DEV_Pedalboard Library:Jack_6.35mm_Horizontal_0"
 PART "Jack 6.35mm"
 PACKAGE "Pedalboard Library:Jack_6.35mm_Horizontal"
 
-DEVICE "DEV_Capacitor_SMD:C_0805_2012Metric"
-PART "100n"
-PACKAGE "Capacitor_SMD:C_0805_2012Metric"
-
-DEVICE "DEV_Fiducial:Fiducial_1.5mm_Mask3mm"
-PART "Fiducial"
-PACKAGE "Fiducial:Fiducial_1.5mm_Mask3mm"
+DEVICE "DEV_Pedalboard Library:Jack_6.35mm_Horizontal"
+PART "Jack 6.35mm"
+PACKAGE "Pedalboard Library:Jack_6.35mm_Horizontal"
 
 DEVICE "DEV_Resistor_SMD:R_0805_2012Metric"
 PART "27R"
 PACKAGE "Resistor_SMD:R_0805_2012Metric"
 
-DEVICE "DEV_Diode_SMD:D_SMA"
-PART "SS34HF"
-PACKAGE "Diode_SMD:D_SMA"
+DEVICE "DEV_TestPoint:TestPoint_Pad_2.0x2.0mm"
+PART "TestPoint"
+PACKAGE "TestPoint:TestPoint_Pad_2.0x2.0mm"
 
-DEVICE "DEV_Pedalboard Library:Jack_3.5mm_CUI_SJ1-3525N_Horizontal"
-PART "Jack 3.5mm"
-PACKAGE "Pedalboard Library:Jack_3.5mm_CUI_SJ1-3525N_Horizontal"
+DEVICE "DEV_Capacitor_SMD:C_0805_2012Metric"
+PART "100n"
+PACKAGE "Capacitor_SMD:C_0805_2012Metric"
 
-DEVICE "DEV_Pedalboard Library:Jack_6.35mm_Horizontal"
-PART "Jack 6.35mm"
-PACKAGE "Pedalboard Library:Jack_6.35mm_Horizontal"
+DEVICE "DEV_Capacitor_SMD:C_0805_2012Metric_0"
+PART "10u 35v"
+PACKAGE "Capacitor_SMD:C_0805_2012Metric"
 
 DEVICE "DEV_MountingHole:MountingHole_2.7mm_M2.5_DIN965"
 PART "MountingHole"
 PACKAGE "MountingHole:MountingHole_2.7mm_M2.5_DIN965"
 
-DEVICE "DEV_Capacitor_SMD:C_0805_2012Metric_0"
-PART "100n"
-PACKAGE "Capacitor_SMD:C_0805_2012Metric"
+DEVICE "DEV_Pedalboard Library:Jack_3.5mm_CUI_SJ1-3525N_Horizontal"
+PART "Jack 3.5mm"
+PACKAGE "Pedalboard Library:Jack_3.5mm_CUI_SJ1-3525N_Horizontal"
 
-DEVICE "DEV_TestPoint:TestPoint_Pad_2.0x2.0mm"
-PART "TestPoint"
-PACKAGE "TestPoint:TestPoint_Pad_2.0x2.0mm"
+DEVICE "DEV_Fiducial:Fiducial_1.5mm_Mask3mm"
+PART "Fiducial"
+PACKAGE "Fiducial:Fiducial_1.5mm_Mask3mm"
+
+DEVICE "DEV_Diode_SMD:D_SMA"
+PART "SS34HF"
+PACKAGE "Diode_SMD:D_SMA"
 
 DEVICE "DEV_Pedalboard Library:BarrelJack_Wuerth_6941xx301002"
 PART "Barrel_Jack_MountingPin"

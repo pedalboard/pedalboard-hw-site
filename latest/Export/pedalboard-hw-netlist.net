@@ -1,7 +1,7 @@
 (export (version "E")
   (design
     (source "/__w/pedalboard-hw/pedalboard-hw/pedalboard-hw.kicad_sch")
-    (date "Sat Dec  2 12:38:26 2023")
+    (date "Sat Dec  2 12:54:35 2023")
     (tool "Eeschema 7.0.9-7.0.9~ubuntu23.04.1")
     (sheet (number "1") (name "/") (tstamps "/")
       (title_block
@@ -1309,7 +1309,7 @@
       (sheetpath (names "/Audio/") (tstamps "/6bd0afd4-cd8b-4c1d-a236-891eed0b2d91/"))
       (tstamps "d9207788-0949-4cfb-b9a1-3cc22176409c"))
     (comp (ref "R17")
-      (value "1K")
+      (value "2K2")
       (footprint "Resistor_SMD:R_0805_2012Metric")
       (datasheet "https://www.seielect.com/catalog/sei-rncp.pdf")
       (fields

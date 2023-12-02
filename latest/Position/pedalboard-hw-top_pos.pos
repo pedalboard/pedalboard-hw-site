@@ -1,4 +1,4 @@
-### Module positions - created on Sat 02 Dec 2023 12:41:07  ###
+### Module positions - created on Sat 02 Dec 2023 12:57:16  ###
 ### Printed by KiBot
 ## Unit = mm, Angle = deg.
 ## Side : top
@@ -99,7 +99,7 @@ R13      12K 1%                    R_0805_2012Metric                            
 R14      2.2K 1%                   R_0805_2012Metric                                                      137.8244   87.2244    90.0000    top   
 R15      20K 1%                    R_0805_2012Metric                                                      140.6644   81.1944    -90.0000   top   
 R16      1K                        R_0805_2012Metric                                                      31.5444    59.0444    0.0000     top   
-R17      1K                        R_0805_2012Metric                                                      31.4944    64.8944    0.0000     top   
+R17      2K2                       R_0805_2012Metric                                                      31.4944    64.8944    0.0000     top   
 SW1      Rotary                    RotaryEncoder_Alps_EC11E-Switch_Vertical_H20mm_CircularMountingHoles   42.2444    99.4944    0.0000     top   
 SW2      Rotary                    RotaryEncoder_Alps_EC11E-Switch_Vertical_H20mm_CircularMountingHoles   117.2444   99.4944    0.0000     top   
 SW3      Tactile                   SW_PUSH-12mm_Wuerth                                                    11.9944    63.9944    0.0000     top   

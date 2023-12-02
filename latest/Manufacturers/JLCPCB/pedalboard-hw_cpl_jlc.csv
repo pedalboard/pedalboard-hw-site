@@ -74,7 +74,7 @@ Designator,Val,Package,Mid X,Mid Y,Rotation,Layer
 "R14","2.2K 1%","R_0805_2012Metric",137.8244,87.2244,90.0000,top
 "R15","20K 1%","R_0805_2012Metric",140.6644,81.1944,-90.0000,top
 "R16","1K","R_0805_2012Metric",31.5444,59.0444,0.0000,top
-"R17","1K","R_0805_2012Metric",31.4944,64.8944,0.0000,top
+"R17","2K2","R_0805_2012Metric",31.4944,64.8944,0.0000,top
 "SW3","Tactile","SW_PUSH-12mm_Wuerth",11.9944,63.9944,0.0000,top
 "SW4","Tactile","SW_PUSH-12mm_Wuerth",86.9944,63.9944,0.0000,top
 "SW5","Tactile","SW_PUSH-12mm_Wuerth",161.9944,63.9944,0.0000,top
