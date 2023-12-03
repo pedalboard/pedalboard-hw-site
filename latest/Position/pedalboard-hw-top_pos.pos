@@ -1,4 +1,4 @@
-### Module positions - created on Sun 03 Dec 2023 14:41:10  ###
+### Module positions - created on Sun 03 Dec 2023 19:22:55  ###
 ### Printed by KiBot
 ## Unit = mm, Angle = deg.
 ## Side : top
@@ -20,16 +20,16 @@ C15      1u                        C_0805_2012Metric                            
 C16      100n                      C_0805_2012Metric                                                      95.0444    83.2944    -90.0000   top   
 C17      1u                        C_0805_2012Metric                                                      82.7244    88.4644    180.0000   top   
 C18      100n                      C_0805_2012Metric                                                      77.1344    87.7444    90.0000    top   
-C19      100n                      C_0805_2012Metric                                                      90.4444    91.5544    0.0000     top   
+C19      100n                      C_0805_2012Metric                                                      90.7344    91.5344    0.0000     top   
 C20      100n                      C_0805_2012Metric                                                      85.4444    78.2944    -90.0000   top   
 C21      100n                      C_0805_2012Metric                                                      84.1844    92.4544    180.0000   top   
 C22      100n                      C_0805_2012Metric                                                      81.4344    91.1444    90.0000    top   
 C23      27p                       C_0805_2012Metric                                                      95.1944    78.4944    180.0000   top   
 C24      10u                       C_0805_2012Metric                                                      114.0844   78.7744    180.0000   top   
-C25      100n                      C_0805_2012Metric                                                      101.1444   86.7944    0.0000     top   
+C25      100n                      C_0805_2012Metric                                                      101.1444   86.7244    0.0000     top   
 C26      27p                       C_0805_2012Metric                                                      102.0944   78.4944    0.0000     top   
-C27      100n                      C_0805_2012Metric                                                      97.7444    86.7444    0.0000     top   
-C29      10u                       C_0805_2012Metric                                                      122.9944   78.5444    0.0000     top   
+C27      100n                      C_0805_2012Metric                                                      97.7444    86.7244    0.0000     top   
+C29      10u                       C_0805_2012Metric                                                      117.5044   78.7444    180.0000   top   
 C30      10u                       C_0805_2012Metric                                                      142.6144   77.7744    90.0000    top   
 C31      1.2n                      C_0805_2012Metric                                                      142.6644   81.1744    90.0000    top   
 C32      1n                        C_0805_2012Metric                                                      141.6344   83.8844    0.0000     top   
@@ -44,8 +44,8 @@ CM1      CM4                       Raspberry-Pi-4-Compute-Module                
 D1       SM4007                    D_SOD-123F                                                             65.7444    87.4544    180.0000   top   
 D3       SK6812                    LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm                                      74.4944    82.9944    0.0000     top   
 D4       SK6812                    LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm                                      99.4944    82.9944    0.0000     top   
-D5       SS34HF                    D_SMA                                                                  121.8944   74.0444    -90.0000   top   
-D7       SS34HF                    D_SMA                                                                  125.4244   74.0444    -90.0000   top   
+D5       SS34HF                    D_SMA                                                                  121.3244   73.8944    -90.0000   top   
+D7       SS34HF                    D_SMA                                                                  121.3344   81.0169    90.0000    top   
 D8       LED Y                     LED_0805_2012Metric                                                    31.4944    60.9944    180.0000   top   
 D9       LED R                     LED_0805_2012Metric                                                    31.4944    62.9944    180.0000   top   
 F1       Polyfuse 1.8A             Fuse_1812_4532Metric                                                   148.0644   103.2844   180.0000   top   
@@ -75,6 +75,7 @@ J20      Jack 6.35mm               Jack_6.35mm_Horizontal                       
 J21      LED-Ring                  Led-Ring                                                               12.9944    0.9944     180.0000   top   
 J22      LED-Ring                  Led-Ring                                                               162.9944   0.9944     180.0000   top   
 J27      LED-Ring                  Led-Ring                                                               125.4944   85.9944    180.0000   top   
+J28      stemma                    JST_PH_B4B-PH-SM4-TB_1x04-1MP_P2.00mm_Vertical                         127.8644   77.1844    90.0000    top   
 L1       120_100MHz                L_0603_1608Metric                                                      62.3844    79.3544    -90.0000   top   
 L2       120_100MHz                L_0603_1608Metric                                                      67.4844    89.3344    0.0000     top   
 L3       120_100MHz                L_0603_1608Metric                                                      60.9244    79.3544    -90.0000   top   
@@ -112,7 +113,7 @@ U1       TLP2761                   SO-6L_10x3.84mm_P1.27mm                      
 U2       74AHCT1G32SE-7            SOT-353_SC-70-5                                                        70.4544    78.6444    90.0000    top   
 U3       W25Q128JVS                SOIC-8_5.23x5.23mm_P1.27mm                                             81.4944    78.5444    90.0000    top   
 U4       RP2040                    RP2040-QFN-56                                                          89.3944    85.3944    90.0000    top   
-U5       NCP1117-3.3_SOT223        SOT-223-3_TabPin2                                                      115.6444   74.1444    180.0000   top   
+U5       NCP1117-3.3_SOT223        SOT-223-3_TabPin2                                                      115.1644   74.1444    180.0000   top   
 U6       AP64501SP-13              SOIC-8-1EP_3.9x4.9mm_P1.27mm_EP2.95x4.9mm_Mask2.71x3.4mm_ThermalVias   141.5144   88.5944    -90.0000   top   
 U7       74AHCT1G32SE-7            SOT-353_SC-70-5                                                        31.3944    67.4938    -90.0000   top   
 Y1       ABLS-12.000MHZ-B4-T       Crystal_SMD_HC49-US                                                    99.9944    74.8944    0.0000     top   
