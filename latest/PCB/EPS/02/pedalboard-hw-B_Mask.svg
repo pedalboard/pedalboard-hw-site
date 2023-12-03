@@ -551,11 +551,11 @@
 <circle cx="105.0000" cy="119.0000" r="3.0000"/> 
 </g>
 <g style="fill:#000000; fill-opacity:1.0000;  stroke:#000000; stroke-width:0.0000; stroke-opacity:1;  stroke-linecap:round; stroke-linejoin:round;">
-<path style="fill:#000000; fill-opacity:1.0000;  stroke:#000000; stroke-width:0.0000; stroke-opacity:1;  stroke-linecap:round; stroke-linejoin:round;fill-rule:evenodd;" d="M 69.7900,22.8850 69.8090,22.7893 69.8632,22.7082 69.9443,22.6540 70.0400,22.6350 71.2400,22.6350 71.3357,22.6540 71.4168,22.7082 71.4710,22.7893 71.4900,22.8850 71.4900,24.3350 71.4710,24.4307 71.4168,24.5118 71.3357,24.5660 71.2400,24.5850 70.0400,24.5850 69.9443,24.5660 69.8632,24.5118 69.8090,24.4307 69.7900,24.3350 Z"/> 
+<path style="fill:#000000; fill-opacity:1.0000;  stroke:#000000; stroke-width:0.0000; stroke-opacity:1;  stroke-linecap:round; stroke-linejoin:round;fill-rule:evenodd;" d="M 69.7900,22.8750 69.8090,22.7793 69.8632,22.6982 69.9443,22.6440 70.0400,22.6250 71.2400,22.6250 71.3357,22.6440 71.4168,22.6982 71.4710,22.7793 71.4900,22.8750 71.4900,24.3250 71.4710,24.4207 71.4168,24.5018 71.3357,24.5560 71.2400,24.5750 70.0400,24.5750 69.9443,24.5560 69.8632,24.5018 69.8090,24.4207 69.7900,24.3250 Z"/> 
 </g>
 <g style="fill:#000000; fill-opacity:0.0;  stroke:#000000; stroke-width:1.7000; stroke-opacity:1;  stroke-linecap:round; stroke-linejoin:round;">
-<path d="M73.1400 23.4850 L73.1400 23.7350 "/>
-<path d="M75.6400 23.4850 L75.6400 23.7350 "/>
+<path d="M73.1400 23.4750 L73.1400 23.7250 "/>
+<path d="M75.6400 23.4750 L75.6400 23.7250 "/>
 </g>
 <g style="fill:#000000; fill-opacity:1.0000;  stroke:#000000; stroke-width:0.0000; stroke-opacity:1;  stroke-linecap:round; stroke-linejoin:round;">
 <path style="fill:#000000; fill-opacity:1.0000;  stroke:#000000; stroke-width:0.0000; stroke-opacity:1;  stroke-linecap:round; stroke-linejoin:round;fill-rule:evenodd;" d="M 43.7500,127.8250 43.7310,127.9207 43.6768,128.0018 43.5957,128.0560 43.5000,128.0750 42.3000,128.0750 42.2043,128.0560 42.1232,128.0018 42.0690,127.9207 42.0500,127.8250 42.0500,126.3750 42.0690,126.2793 42.1232,126.1982 42.2043,126.1440 42.3000,126.1250 43.5000,126.1250 43.5957,126.1440 43.6768,126.1982 43.7310,126.2793 43.7500,126.3750 Z"/> 
