@@ -1,4 +1,4 @@
-### Module positions - created on Sun 03 Dec 2023 00:17:31  ###
+### Module positions - created on Sun 03 Dec 2023 01:15:45  ###
 ### Printed by KiBot
 ## Unit = mm, Angle = deg.
 ## Side : top
@@ -21,7 +21,7 @@ C15      1u                        C_0805_2012Metric                            
 C16      100n                      C_0805_2012Metric                                                      95.0444    83.2944    -90.0000   top   
 C17      1u                        C_0805_2012Metric                                                      82.7244    88.4644    180.0000   top   
 C18      100n                      C_0805_2012Metric                                                      77.1344    87.7444    90.0000    top   
-C19      100n                      C_0805_2012Metric                                                      90.4444    92.0444    0.0000     top   
+C19      100n                      C_0805_2012Metric                                                      90.4444    91.5544    0.0000     top   
 C20      100n                      C_0805_2012Metric                                                      85.4444    78.2944    -90.0000   top   
 C21      100n                      C_0805_2012Metric                                                      84.1844    92.4544    180.0000   top   
 C22      100n                      C_0805_2012Metric                                                      81.4344    91.1444    90.0000    top   
