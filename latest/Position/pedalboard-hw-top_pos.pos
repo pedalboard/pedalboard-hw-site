@@ -1,4 +1,4 @@
-### Module positions - created on Sun 03 Dec 2023 01:15:45  ###
+### Module positions - created on Sun 03 Dec 2023 10:58:23  ###
 ### Printed by KiBot
 ## Unit = mm, Angle = deg.
 ## Side : top
@@ -13,8 +13,7 @@ C7       10u                       C_0805_2012Metric                            
 C8       10u                       C_0805_2012Metric                                                      143.2244   97.2644    0.0000     top   
 C9       10u                       C_0805_2012Metric                                                      146.8244   100.2644   180.0000   top   
 C10      10u                       C_0805_2012Metric                                                      146.1644   106.9644   90.0000    top   
-C11      100n                      C_0805_2012Metric                                                      45.0444    84.0444    -90.0000   top   
-C12      100n                      C_0805_2012Metric                                                      69.9944    84.0444    -90.0000   top   
+C12      100n                      C_0805_2012Metric                                                      69.9944    82.3844    -90.0000   top   
 C13      100n                      C_0805_2012Metric                                                      90.6344    78.1944    -90.0000   top   
 C14      100n                      C_0805_2012Metric                                                      76.8819    77.1444    180.0000   top   
 C15      1u                        C_0805_2012Metric                                                      84.1944    90.4944    180.0000   top   
@@ -30,7 +29,6 @@ C24      10u                       C_0805_2012Metric                            
 C25      100n                      C_0805_2012Metric                                                      101.1444   86.7944    0.0000     top   
 C26      27p                       C_0805_2012Metric                                                      102.0944   78.4944    0.0000     top   
 C27      100n                      C_0805_2012Metric                                                      97.7444    86.7444    0.0000     top   
-C28      100n                      C_0805_2012Metric                                                      124.3944   86.7444    0.0000     top   
 C29      10u                       C_0805_2012Metric                                                      122.9944   78.5444    0.0000     top   
 C30      10u                       C_0805_2012Metric                                                      142.6144   77.7744    90.0000    top   
 C31      1.2n                      C_0805_2012Metric                                                      142.6644   81.1744    90.0000    top   
@@ -44,11 +42,9 @@ C38      10u                       C_0805_2012Metric                            
 C39      100n                      C_0805_2012Metric                                                      137.8344   90.6244    -90.0000   top   
 CM1      CM4                       Raspberry-Pi-4-Compute-Module                                          70.9944    67.4944    180.0000   top   
 D1       SM4007                    D_SOD-123F                                                             26.5944    98.5944    -90.0000   top   
-D2       SK6812                    LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm                                      49.4944    82.9944    0.0000     top   
 D3       SK6812                    LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm                                      74.4944    82.9944    0.0000     top   
 D4       SK6812                    LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm                                      99.4944    82.9944    0.0000     top   
 D5       SS34HF                    D_SMA                                                                  121.8944   74.0444    -90.0000   top   
-D6       SK6812                    LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm                                      124.4944   82.9944    0.0000     top   
 D7       SS34HF                    D_SMA                                                                  125.4244   74.0444    -90.0000   top   
 D8       LED Y                     LED_0805_2012Metric                                                    31.4944    60.9944    180.0000   top   
 D9       LED R                     LED_0805_2012Metric                                                    31.4944    62.9944    180.0000   top   
@@ -87,8 +83,8 @@ R1       220R                      R_0805_2012Metric                            
 R2       10R                       R_0805_2012Metric                                                      37.8944    93.4444    0.0000     top   
 R3       33R                       R_0805_2012Metric                                                      37.8944    95.3819    180.0000   top   
 R4       1K                        R_0805_2012Metric                                                      153.0944   100.1644   0.0000     top   
-R5       1K                        R_0805_2012Metric                                                      35.0544    91.1344    180.0000   top   
-R6       220R                      R_0805_2012Metric                                                      58.8194    83.3444    180.0000   top   
+R5       1K                        R_0805_2012Metric                                                      24.6944    83.5344    -90.0000   top   
+R6       220R                      R_0805_2012Metric                                                      70.9044    75.3644    90.0000    top   
 R7       DNF                       R_0805_2012Metric                                                      76.9319    75.1444    0.0000     top   
 R8       27R                       R_0805_2012Metric                                                      80.1344    84.6344    0.0000     top   
 R9       27R                       R_0805_2012Metric                                                      80.1344    86.5344    0.0000     top   
@@ -111,7 +107,7 @@ SW8      Tactile Button            SW_PUSH-12mm_Wuerth                          
 SW9      Micro Button              SW_SPST_B3U-1000P                                                      73.5044    77.3444    90.0000    top   
 SW10     Micro Button              SW_SPST_B3U-1000P                                                      106.0044   86.1344    90.0000    top   
 U1       TLP2761                   SO-6L_10x3.84mm_P1.27mm                                                33.3944    98.5944    0.0000     top   
-U2       74AHCT1G32SE-7            SOT-353_SC-70-5                                                        55.1944    84.0444    180.0000   top   
+U2       74AHCT1G32SE-7            SOT-353_SC-70-5                                                        70.4544    78.6444    90.0000    top   
 U3       W25Q128JVS                SOIC-8_5.23x5.23mm_P1.27mm                                             81.4944    78.5444    90.0000    top   
 U4       RP2040                    RP2040-QFN-56                                                          89.3944    85.3944    90.0000    top   
 U5       NCP1117-3.3_SOT223        SOT-223-3_TabPin2                                                      115.6444   74.1444    180.0000   top   
