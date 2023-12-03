@@ -58,7 +58,7 @@ Ref,Val,Package,PosX,PosY,Rot,Side
 "J8","LED-Ring","Led-Ring",10.9944,74.9944,0.0000,top
 "J9","Jack 6.35mm","Jack_6.35mm_Horizontal",16.3944,80.9944,180.0000,top
 "J10","USB_B_Micro","USB_Micro-B_Wuerth_614105150721_Vertical",63.5344,74.7044,180.0000,top
-"J11","LED-Ring","Led-Ring",50.4944,83.9944,180.0000,top
+"J11","LED-Ring","Led-Ring",50.4944,85.9944,180.0000,top
 "J12","Debug","PinHeader_1x03_P2.54mm_Vertical",111.3094,86.5444,90.0000,top
 "J13","LED-Ring","Led-Ring",160.9944,74.9944,0.0000,top
 "J14","LED-Ring","Led-Ring",87.9944,52.9944,180.0000,top
@@ -70,7 +70,7 @@ Ref,Val,Package,PosX,PosY,Rot,Side
 "J20","Jack 6.35mm","Jack_6.35mm_Horizontal",157.5944,35.9994,0.0000,top
 "J21","LED-Ring","Led-Ring",12.9944,0.9944,180.0000,top
 "J22","LED-Ring","Led-Ring",162.9944,0.9944,180.0000,top
-"J27","LED-Ring","Led-Ring",125.4944,83.9944,180.0000,top
+"J27","LED-Ring","Led-Ring",125.4944,85.9944,180.0000,top
 "L1","120_100MHz","L_0603_1608Metric",34.6944,95.3319,0.0000,top
 "L2","120_100MHz","L_0603_1608Metric",24.6944,102.4944,90.0000,top
 "L3","120_100MHz","L_0603_1608Metric",34.6944,93.4444,0.0000,top
