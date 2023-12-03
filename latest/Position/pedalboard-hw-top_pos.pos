@@ -1,4 +1,4 @@
-### Module positions - created on Sun 03 Dec 2023 10:58:23  ###
+### Module positions - created on Sun 03 Dec 2023 12:14:38  ###
 ### Printed by KiBot
 ## Unit = mm, Angle = deg.
 ## Side : top
@@ -62,6 +62,7 @@ J7       Barrel_Jack_MountingPin   BarrelJack_Wuerth_6941xx301002               
 J8       LED-Ring                  Led-Ring                                                               10.9944    74.9944    0.0000     top   
 J9       Jack 6.35mm               Jack_6.35mm_Horizontal                                                 16.3944    80.9944    180.0000   top   
 J10      USB_B_Micro               USB_Micro-B_Wuerth_614105150721_Vertical                               63.5344    74.7044    180.0000   top   
+J11      LED-Ring                  Led-Ring                                                               50.4944    83.9944    180.0000   top   
 J12      Debug                     PinHeader_1x03_P2.54mm_Vertical                                        111.3094   86.5444    90.0000    top   
 J13      LED-Ring                  Led-Ring                                                               160.9944   74.9944    0.0000     top   
 J14      LED-Ring                  Led-Ring                                                               87.9944    52.9944    180.0000   top   
