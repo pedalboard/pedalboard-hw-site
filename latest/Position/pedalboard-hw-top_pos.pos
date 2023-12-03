@@ -1,4 +1,4 @@
-### Module positions - created on Sun 03 Dec 2023 12:14:38  ###
+### Module positions - created on Sun 03 Dec 2023 12:28:29  ###
 ### Printed by KiBot
 ## Unit = mm, Angle = deg.
 ## Side : top
@@ -74,6 +74,7 @@ J19      LED-Ring                  Led-Ring                                     
 J20      Jack 6.35mm               Jack_6.35mm_Horizontal                                                 157.5944   35.9994    0.0000     top   
 J21      LED-Ring                  Led-Ring                                                               12.9944    0.9944     180.0000   top   
 J22      LED-Ring                  Led-Ring                                                               162.9944   0.9944     180.0000   top   
+J27      LED-Ring                  Led-Ring                                                               125.4944   83.9944    180.0000   top   
 L1       120_100MHz                L_0603_1608Metric                                                      34.6944    95.3319    0.0000     top   
 L2       120_100MHz                L_0603_1608Metric                                                      24.6944    102.4944   90.0000    top   
 L3       120_100MHz                L_0603_1608Metric                                                      34.6944    93.4444    0.0000     top   

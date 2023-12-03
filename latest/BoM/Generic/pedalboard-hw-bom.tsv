@@ -18,7 +18,7 @@ Row	Description	Part	References	Value	Footprint	Quantity Per PCB	Status	Datashee
 17	Generic connector, single row, 01x03, script generated	Conn_01x03_Pin	J26	JST XH 3	JST_XH_B3B-XH-A_1x03_P2.50mm_Vertical	1	 	https://app.adam-tech.com/products/download/data_sheet/240508/25sh-b-xx-ts-data-sheet.pdf	https://www.digikey.ch/de/products/detail/adam-tech/25SH-B-03-TS/9830417			
 18	Audio Jack, 3 Poles (Stereo / TRS), Switched TR Poles (Normalling)	AudioJack3_SwitchTR	J1 J3	Jack 3.5mm	Jack_3.5mm_CUI_SJ1-3525N_Horizontal	2	 	https://www.cuidevices.com/product/resource/sj1-352xng.pdf	https://www.digikey.ch/de/products/detail/cui-devices/SJ1-3525NG/738690	MIDI Out		
 19	M Series, 6.35mm (1/4in) stereo jack, switched, with chrome ferrule and straight PCB pins	NMJ6HCD2	J5 J9 J16 J17 J18 J20	Jack 6.35mm	Jack_6.35mm_Horizontal	6	 	https://www.schurter.com/en/datasheet/typ_4833.2320.pdf	https://www.digikey.ch/de/products/detail/schurter-inc/4833-2320/2644235	EXP1 EXP2 Audio IN Right Audio OUT Left Audio OUT Right Audio IN Left		
-20	Generic connector, double row, 02x02, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)	Conn_02x02_Odd_Even	J8 J11 J13 J14 J19 J21 J22	LED-Ring	Led-Ring	7	 	~				
+20	Generic connector, double row, 02x02, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)	Conn_02x02_Odd_Even	J8 J11 J13 J14 J19 J21 J22 J27	LED-Ring	Led-Ring	8	 	~				
 21	Vertical USB B Micro Connector	USB_B_Micro-Connector	J10	USB_B_Micro	USB_Micro-B_Wuerth_614105150721_Vertical	1	 	https://www.we-online.com/components/products/datasheet/614105150721.pdf	https://www.digikey.ch/de/products/detail/w%C3%BCrth-elektronik/614105150721/5047749			
 22	Inductor with ferrite core	L_Ferrite	L1 L2 L3 L4	120_100MHz	L_0603_1608Metric	4	 	https://www.murata.com/products/productdata/8796738650142/ENFA0003.pdf	https://www.digikey.ch/de/products/detail/murata-electronics/BLM18KG121TN1D/1982762			
 23	Inductor symbol for simulation only	INDUCTOR	L5	SRN6045TA-3R3Y	L_Bourns_SRN6045TA	1	 	https://www.bourns.com/docs/Product-Datasheets/SRN6045TA.pdf	https://www.digikey.ch/de/products/detail/bourns-inc/SRN6045TA-3R3Y/6155103	3.3µH Semi-Shielded Wirewound Inductor 7.8A 21mOhm Nonstandard		
@@ -53,7 +53,7 @@ Date:	2023-10-20
 KiCad Version:	7.0.9-7.0.9~ubuntu23.04.1
 Statistics:
 Component Groups:	47
-Component Count:	113 (85 SMD/ 26 THT)
-Fitted Components:	103 (82 SMD/ 21 THT)
+Component Count:	114 (85 SMD/ 27 THT)
+Fitted Components:	104 (82 SMD/ 22 THT)
 Number of PCBs:	1
-Total Components:	103
+Total Components:	104
