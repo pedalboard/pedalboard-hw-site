@@ -3282,41 +3282,33 @@ $ENDCOMPONENTS
 
 $DEVICES
 
-DEVICE "DEV_Package_TO_SOT_SMD:SOT-223-3_TabPin2"
-PART "NCP1117-3.3_SOT223"
-PACKAGE "Package_TO_SOT_SMD:SOT-223-3_TabPin2"
-
-DEVICE "DEV_Pedalboard Library:BarrelJack_Wuerth_6941xx301002"
-PART "Barrel_Jack_MountingPin"
-PACKAGE "Pedalboard Library:BarrelJack_Wuerth_6941xx301002"
-
-DEVICE "DEV_MountingHole:MountingHole_2.7mm_M2.5_DIN965"
-PART "MountingHole"
-PACKAGE "MountingHole:MountingHole_2.7mm_M2.5_DIN965"
-
-DEVICE "DEV_Diode_SMD:D_SMA"
-PART "SS34HF"
-PACKAGE "Diode_SMD:D_SMA"
-
 DEVICE "DEV_Capacitor_SMD:C_0805_2012Metric_0"
-PART "100n"
+PART "10u"
 PACKAGE "Capacitor_SMD:C_0805_2012Metric"
-
-DEVICE "DEV_Resistor_SMD:R_0805_2012Metric"
-PART "27R"
-PACKAGE "Resistor_SMD:R_0805_2012Metric"
 
 DEVICE "DEV_Pedalboard Library:Jack_6.35mm_Horizontal"
 PART "Jack 6.35mm"
 PACKAGE "Pedalboard Library:Jack_6.35mm_Horizontal"
 
-DEVICE "DEV_Capacitor_SMD:C_0805_2012Metric"
-PART "100n"
-PACKAGE "Capacitor_SMD:C_0805_2012Metric"
+DEVICE "DEV_Package_TO_SOT_SMD:SOT-223-3_TabPin2"
+PART "NCP1117-3.3_SOT223"
+PACKAGE "Package_TO_SOT_SMD:SOT-223-3_TabPin2"
 
 DEVICE "DEV_TestPoint:TestPoint_Pad_2.0x2.0mm"
 PART "TestPoint"
 PACKAGE "TestPoint:TestPoint_Pad_2.0x2.0mm"
+
+DEVICE "DEV_MountingHole:MountingHole_2.7mm_M2.5_DIN965"
+PART "MountingHole"
+PACKAGE "MountingHole:MountingHole_2.7mm_M2.5_DIN965"
+
+DEVICE "DEV_Capacitor_SMD:C_0805_2012Metric"
+PART "100n"
+PACKAGE "Capacitor_SMD:C_0805_2012Metric"
+
+DEVICE "DEV_Fiducial:Fiducial_1.5mm_Mask3mm"
+PART "Fiducial"
+PACKAGE "Fiducial:Fiducial_1.5mm_Mask3mm"
 
 DEVICE "DEV_Pedalboard Library:Jack_3.5mm_CUI_SJ1-3525N_Horizontal"
 PART "Jack 3.5mm"
@@ -3326,9 +3318,17 @@ DEVICE "DEV_Pedalboard Library:Jack_6.35mm_Horizontal_0"
 PART "Jack 6.35mm"
 PACKAGE "Pedalboard Library:Jack_6.35mm_Horizontal"
 
-DEVICE "DEV_Fiducial:Fiducial_1.5mm_Mask3mm"
-PART "Fiducial"
-PACKAGE "Fiducial:Fiducial_1.5mm_Mask3mm"
+DEVICE "DEV_Pedalboard Library:BarrelJack_Wuerth_6941xx301002"
+PART "Barrel_Jack_MountingPin"
+PACKAGE "Pedalboard Library:BarrelJack_Wuerth_6941xx301002"
+
+DEVICE "DEV_Diode_SMD:D_SMA"
+PART "SS34HF"
+PACKAGE "Diode_SMD:D_SMA"
+
+DEVICE "DEV_Resistor_SMD:R_0805_2012Metric"
+PART "27R"
+PACKAGE "Resistor_SMD:R_0805_2012Metric"
 
 DEVICE "DEV_TerminalBlock_Phoenix:TerminalBlock_Phoenix_MKDS-1,5-2_1x02_P5.00mm_Horizontal"
 PART "Screw_Terminal_01x02"
