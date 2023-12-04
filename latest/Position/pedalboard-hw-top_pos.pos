@@ -1,4 +1,4 @@
-### Module positions - created on Mon 04 Dec 2023 17:11:12  ###
+### Module positions - created on Mon 04 Dec 2023 17:54:12  ###
 ### Printed by KiBot
 ## Unit = mm, Angle = deg.
 ## Side : top
@@ -45,7 +45,7 @@ D1       SM4007                    D_SOD-123F                                   
 D3       SK6812                    LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm                                      74.4944    82.9944    0.0000     top   
 D4       SK6812                    LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm                                      99.4944    82.9944    0.0000     top   
 D5       SS34HF                    D_SMA                                                                  121.3244   73.8944    -90.0000   top   
-D7       SS34HF                    D_SMA                                                                  121.3344   81.0169    90.0000    top   
+D7       SS34HF                    D_SMA                                                                  121.3344   80.9669    90.0000    top   
 D8       LED Y                     LED_0805_2012Metric                                                    31.4944    60.9944    180.0000   top   
 D9       LED R                     LED_0805_2012Metric                                                    31.4944    62.9944    180.0000   top   
 F1       Polyfuse 1.8A             Fuse_1812_4532Metric                                                   148.0644   103.2844   180.0000   top   
@@ -75,7 +75,7 @@ J20      Jack 6.35mm               Jack_6.35mm_Horizontal                       
 J21      LED-Ring                  Led-Ring                                                               12.9944    0.9944     180.0000   top   
 J22      LED-Ring                  Led-Ring                                                               162.9944   0.9944     180.0000   top   
 J27      LED-Ring                  Led-Ring                                                               125.4944   85.9944    180.0000   top   
-J28      stemma                    JST_PH_B4B-PH-SM4-TB_1x04-1MP_P2.00mm_Vertical                         127.8644   77.1844    90.0000    top   
+J28      STEMMA I2C                JST_PH_B4B-PH-SM4-TB_1x04-1MP_P2.00mm_Vertical                         127.8644   77.1844    90.0000    top   
 L1       120_100MHz                L_0603_1608Metric                                                      62.3844    79.3544    -90.0000   top   
 L2       120_100MHz                L_0603_1608Metric                                                      67.4844    89.3344    0.0000     top   
 L3       120_100MHz                L_0603_1608Metric                                                      60.9244    79.3544    -90.0000   top   
