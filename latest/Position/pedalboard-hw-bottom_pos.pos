@@ -1,10 +1,10 @@
-### Module positions - created on Mon 04 Dec 2023 18:54:17  ###
+### Module positions - created on Mon 04 Dec 2023 19:09:55  ###
 ### Printed by KiBot
 ## Unit = mm, Angle = deg.
 ## Side : bottom
 # Ref    Val                       Package                                                                PosX       PosY       Rot        Side  
-J25      JST XH 3                  JST_PH_B3B-PH-K_1x03_P2.00mm_Vertical                                  54.9544    107.5044   0.0000     bottom
-J26      JST XH 3                  JST_PH_B3B-PH-K_1x03_P2.00mm_Vertical                                  46.0244    107.4944   0.0000     bottom
+J25      JST PH 3                  JST_PH_B3B-PH-K_1x03_P2.00mm_Vertical                                  54.9544    107.5044   0.0000     bottom
+J26      JST PH 3                  JST_PH_B3B-PH-K_1x03_P2.00mm_Vertical                                  46.0244    107.4944   0.0000     bottom
 J27      HiFi Berry                HiFi Berry DAC ADC+                                                    102.2444   62.6188    180.0000   bottom
-J28      STEMMA LED                JST_PH_B3B-PH-K_1x03_P2.00mm_Vertical                                  28.7544    3.1644     180.0000   bottom
+J28      JST PH 3                  JST_PH_B3B-PH-K_1x03_P2.00mm_Vertical                                  28.7544    3.1644     180.0000   bottom
 ## End

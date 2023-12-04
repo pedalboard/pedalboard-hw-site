@@ -61,7 +61,7 @@ Ref,Val,Package,PosX,PosY,Rot,Side
 "J11","USB_B_Micro","USB_Micro-B_Wuerth_614105150721_Vertical",53.7344,75.9644,90.0000,top
 "J12","Debug","PinHeader_1x03_P2.54mm_Vertical",111.3094,86.5444,90.0000,top
 "J13","LED-Ring","Led-Ring",125.4944,85.9944,180.0000,top
-"J14","STEMMA I2C","JST_PH_B4B-PH-SM4-TB_1x04-1MP_P2.00mm_Vertical",127.8644,77.1844,90.0000,top
+"J14","JST PH 4","JST_PH_B4B-PH-SM4-TB_1x04-1MP_P2.00mm_Vertical",127.8644,77.1844,90.0000,top
 "J15","LED-Ring","Led-Ring",160.9944,74.9944,0.0000,top
 "J16","Debug","PinHeader_1x03_P2.54mm_Vertical",89.2194,49.6944,-90.0000,top
 "J17","LED-Ring","Led-Ring",87.9944,52.9944,180.0000,top

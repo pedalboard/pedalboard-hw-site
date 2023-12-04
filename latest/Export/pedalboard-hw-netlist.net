@@ -1,7 +1,7 @@
 (export (version "E")
   (design
     (source "/__w/pedalboard-hw/pedalboard-hw/pedalboard-hw.kicad_sch")
-    (date "Mon Dec  4 18:51:32 2023")
+    (date "Mon Dec  4 19:07:14 2023")
     (tool "Eeschema 7.0.9-7.0.9~ubuntu23.04.1")
     (sheet (number "1") (name "/") (tstamps "/")
       (title_block
@@ -652,7 +652,7 @@
       (sheetpath (names "/MIDI/") (tstamps "/d36964e5-9373-47ae-95a7-088f8df77199/"))
       (tstamps "878151ca-c158-4e9e-9dc5-15d87a8fa21a"))
     (comp (ref "J14")
-      (value "STEMMA I2C")
+      (value "JST PH 4")
       (footprint "Connector_JST:JST_PH_B4B-PH-SM4-TB_1x04-1MP_P2.00mm_Vertical")
       (datasheet "https://www.jst-mfg.com/product/pdf/eng/ePH.pdf")
       (fields
@@ -666,7 +666,7 @@
       (sheetpath (names "/MIDI/") (tstamps "/d36964e5-9373-47ae-95a7-088f8df77199/"))
       (tstamps "6f5d31d9-39a7-48e3-aca4-2e69e44523cf"))
     (comp (ref "J25")
-      (value "JST XH 3")
+      (value "JST PH 3")
       (footprint "Connector_JST:JST_PH_B3B-PH-K_1x03_P2.00mm_Vertical")
       (datasheet "https://www.jst-mfg.com/product/pdf/eng/ePH.pdf")
       (fields
@@ -682,7 +682,7 @@
       (sheetpath (names "/MIDI/") (tstamps "/d36964e5-9373-47ae-95a7-088f8df77199/"))
       (tstamps "bf8413e9-c3d1-4980-932e-f6b98bb3d66e"))
     (comp (ref "J26")
-      (value "JST XH 3")
+      (value "JST PH 3")
       (footprint "Connector_JST:JST_PH_B3B-PH-K_1x03_P2.00mm_Vertical")
       (datasheet "https://www.jst-mfg.com/product/pdf/eng/ePH.pdf")
       (fields
@@ -2074,7 +2074,7 @@
       (sheetpath (names "/LEDs/") (tstamps "/539b926e-3ef4-477a-b921-49e2b2b26dfc/"))
       (tstamps "3cca75b9-674f-44cb-95c5-744a893d6659"))
     (comp (ref "J28")
-      (value "STEMMA LED")
+      (value "JST PH 3")
       (footprint "Connector_JST:JST_PH_B3B-PH-K_1x03_P2.00mm_Vertical")
       (datasheet "https://www.jst-mfg.com/product/pdf/eng/ePH.pdf")
       (fields
