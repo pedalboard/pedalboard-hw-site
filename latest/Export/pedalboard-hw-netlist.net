@@ -1,7 +1,7 @@
 (export (version "E")
   (design
     (source "/__w/pedalboard-hw/pedalboard-hw/pedalboard-hw.kicad_sch")
-    (date "Mon Dec  4 17:51:30 2023")
+    (date "Mon Dec  4 18:04:59 2023")
     (tool "Eeschema 7.0.9-7.0.9~ubuntu23.04.1")
     (sheet (number "1") (name "/") (tstamps "/")
       (title_block
@@ -653,7 +653,7 @@
       (tstamps "878151ca-c158-4e9e-9dc5-15d87a8fa21a"))
     (comp (ref "J23")
       (value "JST XH 3")
-      (footprint "Connector_JST:JST_XH_B3B-XH-A_1x03_P2.50mm_Vertical")
+      (footprint "Connector_JST:JST_PH_B3B-PH-K_1x03_P2.00mm_Vertical")
       (datasheet "https://app.adam-tech.com/products/download/data_sheet/240508/25sh-b-xx-ts-data-sheet.pdf")
       (fields
         (field (name "Supplier") "https://www.digikey.ch/de/products/detail/adam-tech/25SH-B-03-TS/9830417"))
@@ -669,7 +669,7 @@
       (tstamps "bf8413e9-c3d1-4980-932e-f6b98bb3d66e"))
     (comp (ref "J24")
       (value "JST XH 3")
-      (footprint "Connector_JST:JST_XH_B3B-XH-A_1x03_P2.50mm_Vertical")
+      (footprint "Connector_JST:JST_PH_B3B-PH-K_1x03_P2.00mm_Vertical")
       (datasheet "https://app.adam-tech.com/products/download/data_sheet/240508/25sh-b-xx-ts-data-sheet.pdf")
       (fields
         (field (name "Supplier") "https://www.digikey.ch/de/products/detail/adam-tech/25SH-B-03-TS/9830417"))
