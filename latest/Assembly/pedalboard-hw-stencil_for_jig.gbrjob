@@ -5,13 +5,13 @@
       "Application": "Pcbnew",
       "Version": "7.0.9-7.0.9~ubuntu23.04.1"
     },
-    "CreationDate": "2023-12-04T22:07:07+00:00"
+    "CreationDate": "2023-12-04T23:30:06+00:00"
   },
   "GeneralSpecs": {
     "ProjectId": {
       "Name": "stencil",
       "GUID": "7374656e-6369-46c2-9e6b-696361645f70",
-      "Revision": "3.1.0"
+      "Revision": "3.1.1-RC"
     },
     "Size": {
       "X": 174.1,
