@@ -54,7 +54,7 @@ PAD V800000.400000.80000001 ROUND 0.015748
 CIRCLE 0 0 0.015748
 PAD V1600000.800000.80000001 ROUND 0.0314961
 CIRCLE 0 0 0.0314961
-PAD P1 ROUND 0.00787402
+PAD P1 ROUND 0.011811
 CIRCLE 0 0 0.00984252
 PAD P2 ROUND 0.0137795
 CIRCLE 0 0 0.011811
@@ -386,7 +386,7 @@ PAD V800000.400000.80000001 TOP 0 0
 PADSTACK VIA1600000.800000.80000001 0.0314961
 PAD V1600000.800000.80000001 BOTTOM 0 0
 PAD V1600000.800000.80000001 TOP 0 0
-PADSTACK PAD1 0.00787402
+PADSTACK PAD1 0.011811
 PAD P1 BOTTOM 0 0
 PAD P1 TOP 0 0
 PADSTACK PAD2 0.0137795
@@ -3282,49 +3282,49 @@ $ENDCOMPONENTS
 
 $DEVICES
 
-DEVICE "DEV_Fiducial:Fiducial_1.5mm_Mask3mm"
-PART "Fiducial"
-PACKAGE "Fiducial:Fiducial_1.5mm_Mask3mm"
-
-DEVICE "DEV_Capacitor_SMD:C_0805_2012Metric_0"
-PART "1n"
-PACKAGE "Capacitor_SMD:C_0805_2012Metric"
-
-DEVICE "DEV_Resistor_SMD:R_0805_2012Metric"
-PART "27R"
-PACKAGE "Resistor_SMD:R_0805_2012Metric"
-
 DEVICE "DEV_MountingHole:MountingHole_2.7mm_M2.5_DIN965"
 PART "MountingHole"
 PACKAGE "MountingHole:MountingHole_2.7mm_M2.5_DIN965"
 
-DEVICE "DEV_Pedalboard Library:Jack_6.35mm_Horizontal"
-PART "Jack 6.35mm"
-PACKAGE "Pedalboard Library:Jack_6.35mm_Horizontal"
-
-DEVICE "DEV_Capacitor_SMD:C_0805_2012Metric"
-PART "100n"
+DEVICE "DEV_Capacitor_SMD:C_0805_2012Metric_0"
+PART "10u"
 PACKAGE "Capacitor_SMD:C_0805_2012Metric"
-
-DEVICE "DEV_Pedalboard Library:Jack_6.35mm_Horizontal_0"
-PART "Jack 6.35mm"
-PACKAGE "Pedalboard Library:Jack_6.35mm_Horizontal"
 
 DEVICE "DEV_TestPoint:TestPoint_Pad_2.0x2.0mm"
 PART "TestPoint"
 PACKAGE "TestPoint:TestPoint_Pad_2.0x2.0mm"
 
-DEVICE "DEV_Pedalboard Library:BarrelJack_Wuerth_6941xx301002"
-PART "Barrel_Jack_MountingPin"
-PACKAGE "Pedalboard Library:BarrelJack_Wuerth_6941xx301002"
+DEVICE "DEV_Fiducial:Fiducial_1.5mm_Mask3mm"
+PART "Fiducial"
+PACKAGE "Fiducial:Fiducial_1.5mm_Mask3mm"
 
 DEVICE "DEV_Pedalboard Library:Jack_3.5mm_CUI_SJ1-3525N_Horizontal"
 PART "Jack 3.5mm"
 PACKAGE "Pedalboard Library:Jack_3.5mm_CUI_SJ1-3525N_Horizontal"
 
+DEVICE "DEV_Resistor_SMD:R_0805_2012Metric"
+PART "DNF"
+PACKAGE "Resistor_SMD:R_0805_2012Metric"
+
+DEVICE "DEV_Capacitor_SMD:C_0805_2012Metric"
+PART "100n"
+PACKAGE "Capacitor_SMD:C_0805_2012Metric"
+
+DEVICE "DEV_Pedalboard Library:Jack_6.35mm_Horizontal"
+PART "Jack 6.35mm"
+PACKAGE "Pedalboard Library:Jack_6.35mm_Horizontal"
+
 DEVICE "DEV_Diode_SMD:D_SMA"
 PART "SS34HF"
 PACKAGE "Diode_SMD:D_SMA"
+
+DEVICE "DEV_Pedalboard Library:Jack_6.35mm_Horizontal_0"
+PART "Jack 6.35mm"
+PACKAGE "Pedalboard Library:Jack_6.35mm_Horizontal"
+
+DEVICE "DEV_Pedalboard Library:BarrelJack_Wuerth_6941xx301002"
+PART "Barrel_Jack_MountingPin"
+PACKAGE "Pedalboard Library:BarrelJack_Wuerth_6941xx301002"
 
 DEVICE "DEV_Package_TO_SOT_SMD:SOT-223-3_TabPin2"
 PART "NCP1117-3.3_SOT223"
