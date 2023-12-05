@@ -5,13 +5,13 @@
       "Application": "Pcbnew",
       "Version": "7.0.9-7.0.9~ubuntu23.04.1"
     },
-    "CreationDate": "2023-12-05T01:04:11+00:00"
+    "CreationDate": "2023-12-05T01:09:06+00:00"
   },
   "GeneralSpecs": {
     "ProjectId": {
       "Name": "pedalboard-hw",
       "GUID": "70656461-6c62-46f6-9172-642d68772e6b",
-      "Revision": "3.1.1-RC"
+      "Revision": "3.1.1"
     },
     "Size": {
       "X": 174.1,
