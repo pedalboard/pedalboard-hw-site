@@ -1,7 +1,7 @@
 KiBot installation checker
 
 Core:
-Linux: 6.2.0.1016 (Linux 74c5e30c624b 6.2.0-1016-azure #16~22.04.1-Ubuntu SMP Tue Oct 10 17:11:51 UTC 2023 x86_64 GNU/Linux)
+Linux: 6.2.0.1018 (Linux 01c70eafc823 6.2.0-1018-azure #18~22.04.1-Ubuntu SMP Tue Nov 21 19:25:02 UTC 2023 x86_64 GNU/Linux)
   /usr/bin/uname
 Python: 3.11.2 (main, Mar 13 2023, 12:18:29) [GCC 12.2.0]
   /usr/lib/python3.11/os.py
@@ -54,7 +54,7 @@ KiBoM: 1.9.1 (KiBOM Version: 1.9.1)
   /usr/bin/KiBOM_CLI.py
 KiCad Automation tools (kiauto): 2.2.8 (pcbnew_do 2.2.8 - Copyright 2018-2023, INTI/Productize SPRL - License: Apache)
   /usr/bin/pcbnew_do
-KiCad PCB/SCH Diff (kidiff): 2.4.7 (kicad-diff.py 2.4.7 - Copyright 2020-2023, INTI/Salvador E. Tropea - License:)
+KiCad PCB/SCH Diff (kidiff): 2.5.0 (kicad-diff.py 2.5.0 - Copyright 2020-2023, INTI/Salvador E. Tropea - License:)
   /usr/bin/kicad-diff.py
 KiCost: 1.1.18 (KiCost v1.1.18)
   /usr/bin/kicost
@@ -113,6 +113,7 @@ GITHUB_WORKSPACE
 HOME
 HOSTNAME
 INTERACTIVE_HTML_BOM_NO_DISPLAY
+KIBOT_ITERATION
 KICAD6_3RD_PARTY
 KICAD6_FOOTPRINT_DIR
 KICAD6_SYMBOL_DIR
@@ -121,6 +122,7 @@ KICAD7_3RD_PARTY
 KICAD7_FOOTPRINT_DIR
 KICAD7_SYMBOL_DIR
 KICAD7_TEMPLATE_DIR
+KICAD_AUTO_FULL
 KIPRJMOD
 KISYSMOD
 LC_CTYPE
