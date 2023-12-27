@@ -65,7 +65,7 @@ endobj
 >>
 endobj
 168 0 obj
-<</S /GoTo /D [146 0 R /FitR 132 471 191 449]
+<</S /GoTo /D [146 0 R /FitR 72 534 131 511]
 >>
 endobj
 170 0 obj
@@ -209,7 +209,7 @@ endobj
 >>
 endobj
 240 0 obj
-<</S /GoTo /D [146 0 R /FitR 459 475 470 465]
+<</S /GoTo /D [146 0 R /FitR 459 475 469 464]
 >>
 endobj
 242 0 obj
@@ -225,7 +225,7 @@ endobj
 >>
 endobj
 248 0 obj
-<</S /GoTo /D [146 0 R /FitR 459 486 470 474]
+<</S /GoTo /D [146 0 R /FitR 459 486 469 474]
 >>
 endobj
 250 0 obj
@@ -297,7 +297,7 @@ endobj
 >>
 endobj
 284 0 obj
-<</S /GoTo /D [146 0 R /FitR 452 503 466 492]
+<</S /GoTo /D [146 0 R /FitR 452 503 465 492]
 >>
 endobj
 286 0 obj
@@ -361,7 +361,7 @@ endobj
 >>
 endobj
 316 0 obj
-<</S /GoTo /D [146 0 R /FitR 452 498 466 486]
+<</S /GoTo /D [146 0 R /FitR 452 498 465 486]
 >>
 endobj
 318 0 obj
@@ -457,7 +457,7 @@ endobj
 >>
 endobj
 364 0 obj
-<</S /GoTo /D [146 0 R /FitR 452 491 466 481]
+<</S /GoTo /D [146 0 R /FitR 452 491 465 481]
 >>
 endobj
 366 0 obj
@@ -493,7 +493,7 @@ endobj
 >>
 endobj
 382 0 obj
-<</S /GoTo /D [146 0 R /FitR 118 465 128 455]
+<</S /GoTo /D [146 0 R /FitR 118 465 128 449]
 >>
 endobj
 384 0 obj
@@ -549,23 +549,23 @@ endobj
 >>
 endobj
 410 0 obj
-<</S /GoTo /D [146 0 R /FitR 67 267 94 242]
+<</S /GoTo /D [146 0 R /FitR 75 267 94 245]
 >>
 endobj
 412 0 obj
-<</S /GoTo /D [146 0 R /FitR 281 414 306 389]
+<</S /GoTo /D [146 0 R /FitR 288 414 306 392]
 >>
 endobj
 414 0 obj
-<</S /GoTo /D [146 0 R /FitR 67 414 94 388]
+<</S /GoTo /D [146 0 R /FitR 75 414 94 392]
 >>
 endobj
 416 0 obj
-<</S /GoTo /D [146 0 R /FitR 495 414 519 390]
+<</S /GoTo /D [146 0 R /FitR 501 414 519 392]
 >>
 endobj
 418 0 obj
-<</S /GoTo /D [146 0 R /FitR 281 267 306 242]
+<</S /GoTo /D [146 0 R /FitR 288 267 306 245]
 >>
 endobj
 420 0 obj
@@ -577,7 +577,7 @@ endobj
 >>
 endobj
 424 0 obj
-<</S /GoTo /D [146 0 R /FitR 492 267 519 242]
+<</S /GoTo /D [146 0 R /FitR 501 267 519 245]
 >>
 endobj
 426 0 obj
@@ -585,7 +585,7 @@ endobj
 >>
 endobj
 428 0 obj
-<</S /GoTo /D [146 0 R /FitR 174 542 199 518]
+<</S /GoTo /D [146 0 R /FitR 174 542 199 519]
 >>
 endobj
 430 0 obj
@@ -699,7 +699,7 @@ endobj
 14 0 obj
 << /Type /Annot
    /Subtype /Link
-   /Rect [132.112 449.242 191.403 471.989]
+   /Rect [72.2882 511.313 131.58 534.06]
    /Border [16 16 0]
    /A << /Type /Action /S /JavaScript /JS (var aParams = [ { cName: 'Reference designator = SYM1', cReturn: null }, { cName: 'Value = Logo_Open_Hardware_Small', cReturn: null }, { cName: 'Sheetfile = pedalboard-hw.kicad_sch', cReturn: null }, { cName: 'Sheetname = ', cReturn: null }, { cName: 'Sim.Enable = 0', cReturn: null }, { cName: 'exclude_from_bom = ', cReturn: null }, { cName: 'ki_description = Open Hardware logo, small', cReturn: null }, { cName: 'ki_keywords = Logo', cReturn: null }, { cName: 'Footprint = Symbol:OSHW-Logo_7.5x8mm_SilkScreen', cReturn: null }, { cName: 'Description = Open Source Hardware Logo', cReturn: null }, { cName: 'Keywords = Logo OSHW', cReturn: null }, ]; var cChoice = app.popUpMenuEx.apply\( app, aParams \); if\( cChoice != null && cChoice.substring\( 0, 1 \) == '#' \)    this.pageNum = parseInt\( cChoice.slice\( 1 \) \); else if\( cChoice != null && cChoice.substring\( 0, 4 \) == 'http' \)    app.launchURL\( cChoice \);) >>
 >>
@@ -987,7 +987,7 @@ endobj
 50 0 obj
 << /Type /Annot
    /Subtype /Link
-   /Rect [459.879 465.37 470.348 475.808]
+   /Rect [459.879 464.711 469.724 475.036]
    /Border [16 16 0]
    /A << /Type /Action /S /JavaScript /JS (var aParams = [ { cName: 'Reference designator = R13', cReturn: null }, { cName: 'Value = 10R', cReturn: null }, { cName: 'Notes = Resistor 10R 1% 63mW', cReturn: null }, { cName: 'Sheetfile = psu.kicad_sch', cReturn: null }, { cName: 'Sheetname = Power Supply', cReturn: null }, { cName: 'Supplier = https://www.digikey.ch/de/products/detail/stackpole-electronics-inc/RNCP0805FTD10R0/2240197', cReturn: 'https://www.digikey.ch/de/products/detail/stackpole-electronics-inc/RNCP0805FTD10R0/2240197' }, { cName: 'ki_description = Resistor, small symbol', cReturn: null }, { cName: 'ki_keywords = R resistor', cReturn: null }, { cName: 'Footprint = Resistor_SMD:R_0805_2012Metric', cReturn: null }, { cName: 'Description = Resistor SMD 0805 \\u00282012 Metric\\u0029, square \\u0028rectangular\\u0029 end terminal, IPC_7351 nominal, \\u0028Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf\\u0029, generated with kicad-footprint-generator', cReturn: 'https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf\\u0029, generated with kicad-footprint-generator' }, { cName: 'Keywords = resistor', cReturn: null }, ]; var cChoice = app.popUpMenuEx.apply\( app, aParams \); if\( cChoice != null && cChoice.substring\( 0, 1 \) == '#' \)    this.pageNum = parseInt\( cChoice.slice\( 1 \) \); else if\( cChoice != null && cChoice.substring\( 0, 4 \) == 'http' \)    app.launchURL\( cChoice \);) >>
 >>
@@ -1019,7 +1019,7 @@ endobj
 54 0 obj
 << /Type /Annot
    /Subtype /Link
-   /Rect [459.794 474.183 470.149 486.268]
+   /Rect [459.794 474.183 469.809 486.325]
    /Border [16 16 0]
    /A << /Type /Action /S /JavaScript /JS (var aParams = [ { cName: 'Reference designator = C30', cReturn: null }, { cName: 'Value = 100n', cReturn: null }, { cName: 'Digikey = 1276-1180-1-ND', cReturn: null }, { cName: 'Notes = 10% 16V Ceramic Capacitor X7R', cReturn: null }, { cName: 'Sheetfile = psu.kicad_sch', cReturn: null }, { cName: 'Sheetname = Power Supply', cReturn: null }, { cName: 'Supplier = https://www.digikey.ch/de/products/detail/samsung-electro-mechanics/CL21B104KBCNNNC/3886661', cReturn: 'https://www.digikey.ch/de/products/detail/samsung-electro-mechanics/CL21B104KBCNNNC/3886661' }, { cName: 'ki_description = Unpolarized capacitor, small symbol', cReturn: null }, { cName: 'ki_keywords = capacitor cap', cReturn: null }, { cName: 'Footprint = Capacitor_SMD:C_0805_2012Metric', cReturn: null }, { cName: 'Description = Capacitor SMD 0805 \\u00282012 Metric\\u0029, square \\u0028rectangular\\u0029 end terminal, IPC_7351 nominal, \\u0028Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing\\u0029, generated with kicad-footprint-generator', cReturn: 'https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing\\u0029, generated with kicad-footprint-generator' }, { cName: 'Keywords = capacitor', cReturn: null }, ]; var cChoice = app.popUpMenuEx.apply\( app, aParams \); if\( cChoice != null && cChoice.substring\( 0, 1 \) == '#' \)    this.pageNum = parseInt\( cChoice.slice\( 1 \) \); else if\( cChoice != null && cChoice.substring\( 0, 4 \) == 'http' \)    app.launchURL\( cChoice \);) >>
 >>
@@ -1164,7 +1164,7 @@ endobj
 72 0 obj
 << /Type /Annot
    /Subtype /Link
-   /Rect [452.14 492.517 466.663 503.145]
+   /Rect [452.14 492.517 465.699 503.514]
    /Border [16 16 0]
    /A << /Type /Action /S /JavaScript /JS (var aParams = [ { cName: 'Reference designator = C3', cReturn: null }, { cName: 'Value = 10u', cReturn: null }, { cName: 'Notes = 10% or 20% 35V Ceramic Capacitor X6S 0805 \\u00282012 Metric\\u0029', cReturn: null }, { cName: 'Sheetfile = psu.kicad_sch', cReturn: null }, { cName: 'Sheetname = Power Supply', cReturn: null }, { cName: 'Supplier = https://www.digikey.ch/de/products/detail/samsung-electro-mechanics/CL21X106KAYNNNE/5961182', cReturn: 'https://www.digikey.ch/de/products/detail/samsung-electro-mechanics/CL21X106KAYNNNE/5961182' }, { cName: 'ki_description = Unpolarized capacitor, small symbol', cReturn: null }, { cName: 'ki_keywords = capacitor cap', cReturn: null }, { cName: 'Footprint = Capacitor_SMD:C_0805_2012Metric', cReturn: null }, { cName: 'Description = Capacitor SMD 0805 \\u00282012 Metric\\u0029, square \\u0028rectangular\\u0029 end terminal, IPC_7351 nominal, \\u0028Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing\\u0029, generated with kicad-footprint-generator', cReturn: 'https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing\\u0029, generated with kicad-footprint-generator' }, { cName: 'Keywords = capacitor', cReturn: null }, ]; var cChoice = app.popUpMenuEx.apply\( app, aParams \); if\( cChoice != null && cChoice.substring\( 0, 1 \) == '#' \)    this.pageNum = parseInt\( cChoice.slice\( 1 \) \); else if\( cChoice != null && cChoice.substring\( 0, 4 \) == 'http' \)    app.launchURL\( cChoice \);) >>
 >>
@@ -1292,7 +1292,7 @@ endobj
 88 0 obj
 << /Type /Annot
    /Subtype /Link
-   /Rect [452.083 486.904 466.804 498.457]
+   /Rect [452.083 486.904 465.529 498.542]
    /Border [16 16 0]
    /A << /Type /Action /S /JavaScript /JS (var aParams = [ { cName: 'Reference designator = C10', cReturn: null }, { cName: 'Value = 10u', cReturn: null }, { cName: 'Notes = 10% or 20% 35V Ceramic Capacitor X6S 0805 \\u00282012 Metric\\u0029', cReturn: null }, { cName: 'Sheetfile = psu.kicad_sch', cReturn: null }, { cName: 'Sheetname = Power Supply', cReturn: null }, { cName: 'Supplier = https://www.digikey.ch/de/products/detail/samsung-electro-mechanics/CL21X106KAYNNNE/5961182', cReturn: 'https://www.digikey.ch/de/products/detail/samsung-electro-mechanics/CL21X106KAYNNNE/5961182' }, { cName: 'ki_description = Unpolarized capacitor, small symbol', cReturn: null }, { cName: 'ki_keywords = capacitor cap', cReturn: null }, { cName: 'Footprint = Capacitor_SMD:C_0805_2012Metric', cReturn: null }, { cName: 'Description = Capacitor SMD 0805 \\u00282012 Metric\\u0029, square \\u0028rectangular\\u0029 end terminal, IPC_7351 nominal, \\u0028Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing\\u0029, generated with kicad-footprint-generator', cReturn: 'https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing\\u0029, generated with kicad-footprint-generator' }, { cName: 'Keywords = capacitor', cReturn: null }, ]; var cChoice = app.popUpMenuEx.apply\( app, aParams \); if\( cChoice != null && cChoice.substring\( 0, 1 \) == '#' \)    this.pageNum = parseInt\( cChoice.slice\( 1 \) \); else if\( cChoice != null && cChoice.substring\( 0, 4 \) == 'http' \)    app.launchURL\( cChoice \);) >>
 >>
@@ -1484,7 +1484,7 @@ endobj
 112 0 obj
 << /Type /Annot
    /Subtype /Link
-   /Rect [452.055 481.32 466.351 491.551]
+   /Rect [452.055 481.32 465.727 491.335]
    /Border [16 16 0]
    /A << /Type /Action /S /JavaScript /JS (var aParams = [ { cName: 'Reference designator = C7', cReturn: null }, { cName: 'Value = 10u', cReturn: null }, { cName: 'Notes = 10% or 20% 35V Ceramic Capacitor X6S 0805 \\u00282012 Metric\\u0029', cReturn: null }, { cName: 'Sheetfile = psu.kicad_sch', cReturn: null }, { cName: 'Sheetname = Power Supply', cReturn: null }, { cName: 'Supplier = https://www.digikey.ch/de/products/detail/samsung-electro-mechanics/CL21X106KAYNNNE/5961182', cReturn: 'https://www.digikey.ch/de/products/detail/samsung-electro-mechanics/CL21X106KAYNNNE/5961182' }, { cName: 'ki_description = Unpolarized capacitor, small symbol', cReturn: null }, { cName: 'ki_keywords = capacitor cap', cReturn: null }, { cName: 'Footprint = Capacitor_SMD:C_0805_2012Metric', cReturn: null }, { cName: 'Description = Capacitor SMD 0805 \\u00282012 Metric\\u0029, square \\u0028rectangular\\u0029 end terminal, IPC_7351 nominal, \\u0028Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing\\u0029, generated with kicad-footprint-generator', cReturn: 'https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing\\u0029, generated with kicad-footprint-generator' }, { cName: 'Keywords = capacitor', cReturn: null }, ]; var cChoice = app.popUpMenuEx.apply\( app, aParams \); if\( cChoice != null && cChoice.substring\( 0, 1 \) == '#' \)    this.pageNum = parseInt\( cChoice.slice\( 1 \) \); else if\( cChoice != null && cChoice.substring\( 0, 4 \) == 'http' \)    app.launchURL\( cChoice \);) >>
 >>
@@ -1556,7 +1556,7 @@ endobj
 121 0 obj
 << /Type /Annot
    /Subtype /Link
-   /Rect [118.276 455.931 128.121 465.597]
+   /Rect [118.276 449.96 128.093 465.597]
    /Border [16 16 0]
    /A << /Type /Action /S /JavaScript /JS (var aParams = [ { cName: 'Reference designator = R2', cReturn: null }, { cName: 'Value = 1K', cReturn: null }, { cName: 'Sheetfile = pico.kicad_sch', cReturn: null }, { cName: 'Sheetname = MIDI', cReturn: null }, { cName: 'Supplier = https://www.digikey.ch/de/products/detail/stackpole-electronics-inc/RNCP0805FTD1K00/2240229', cReturn: 'https://www.digikey.ch/de/products/detail/stackpole-electronics-inc/RNCP0805FTD1K00/2240229' }, { cName: 'ki_description = Resistor, small symbol', cReturn: null }, { cName: 'ki_keywords = R resistor', cReturn: null }, { cName: 'Footprint = Resistor_SMD:R_0805_2012Metric', cReturn: null }, { cName: 'Description = Resistor SMD 0805 \\u00282012 Metric\\u0029, square \\u0028rectangular\\u0029 end terminal, IPC_7351 nominal, \\u0028Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf\\u0029, generated with kicad-footprint-generator', cReturn: 'https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf\\u0029, generated with kicad-footprint-generator' }, { cName: 'Keywords = resistor', cReturn: null }, ]; var cChoice = app.popUpMenuEx.apply\( app, aParams \); if\( cChoice != null && cChoice.substring\( 0, 1 \) == '#' \)    this.pageNum = parseInt\( cChoice.slice\( 1 \) \); else if\( cChoice != null && cChoice.substring\( 0, 4 \) == 'http' \)    app.launchURL\( cChoice \);) >>
 >>
@@ -1669,7 +1669,7 @@ endobj
 135 0 obj
 << /Type /Annot
    /Subtype /Link
-   /Rect [67.7447 242.813 94.1811 267.115]
+   /Rect [75.8976 245.08 94.1811 267.115]
    /Border [16 16 0]
    /A << /Type /Action /S /JavaScript /JS (var aParams = [ { cName: 'Reference designator = H13', cReturn: null }, { cName: 'Value = Spacer', cReturn: null }, { cName: 'Notes = MIDI In', cReturn: null }, { cName: 'Sheetfile = pico.kicad_sch', cReturn: null }, { cName: 'Sheetname = MIDI', cReturn: null }, { cName: 'Sim.Enable = 0', cReturn: null }, { cName: 'Supplier = https://www.digikey.ch/de/products/detail/w%C3%BCrth-elektronik/9774027151R/5320625', cReturn: 'https://www.digikey.ch/de/products/detail/w%C3%BCrth-elektronik/9774027151R/5320625' }, { cName: 'ki_description = Mounting Hole without connection', cReturn: null }, { cName: 'ki_keywords = mounting hole', cReturn: null }, { cName: 'Footprint = Pedalboard Library:WA-SMSI_M2.5', cReturn: null }, { cName: 'Description = Mounting Hole 2.7mm, no annular, M2.5', cReturn: null }, { cName: 'Keywords = mounting hole 2.7mm no annular m2.5', cReturn: null }, ]; var cChoice = app.popUpMenuEx.apply\( app, aParams \); if\( cChoice != null && cChoice.substring\( 0, 1 \) == '#' \)    this.pageNum = parseInt\( cChoice.slice\( 1 \) \); else if\( cChoice != null && cChoice.substring\( 0, 4 \) == 'http' \)    app.launchURL\( cChoice \);) >>
 >>
@@ -1677,7 +1677,7 @@ endobj
 136 0 obj
 << /Type /Annot
    /Subtype /Link
-   /Rect [281.693 389.931 306.78 414.516]
+   /Rect [288.496 392.482 306.78 414.516]
    /Border [16 16 0]
    /A << /Type /Action /S /JavaScript /JS (var aParams = [ { cName: 'Reference designator = H9', cReturn: null }, { cName: 'Value = Spacer', cReturn: null }, { cName: 'Notes = MIDI In', cReturn: null }, { cName: 'Sheetfile = pico.kicad_sch', cReturn: null }, { cName: 'Sheetname = MIDI', cReturn: null }, { cName: 'Sim.Enable = 0', cReturn: null }, { cName: 'Supplier = https://www.digikey.ch/de/products/detail/w%C3%BCrth-elektronik/9774027151R/5320625', cReturn: 'https://www.digikey.ch/de/products/detail/w%C3%BCrth-elektronik/9774027151R/5320625' }, { cName: 'ki_description = Mounting Hole without connection', cReturn: null }, { cName: 'ki_keywords = mounting hole', cReturn: null }, { cName: 'Footprint = Pedalboard Library:WA-SMSI_M2.5', cReturn: null }, { cName: 'Description = Mounting Hole 2.7mm, no annular, M2.5', cReturn: null }, { cName: 'Keywords = mounting hole 2.7mm no annular m2.5', cReturn: null }, ]; var cChoice = app.popUpMenuEx.apply\( app, aParams \); if\( cChoice != null && cChoice.substring\( 0, 1 \) == '#' \)    this.pageNum = parseInt\( cChoice.slice\( 1 \) \); else if\( cChoice != null && cChoice.substring\( 0, 4 \) == 'http' \)    app.launchURL\( cChoice \);) >>
 >>
@@ -1685,7 +1685,7 @@ endobj
 137 0 obj
 << /Type /Annot
    /Subtype /Link
-   /Rect [67.7447 388.797 94.1811 414.516]
+   /Rect [75.8976 392.482 94.1811 414.516]
    /Border [16 16 0]
    /A << /Type /Action /S /JavaScript /JS (var aParams = [ { cName: 'Reference designator = H10', cReturn: null }, { cName: 'Value = Spacer', cReturn: null }, { cName: 'Notes = MIDI In', cReturn: null }, { cName: 'Sheetfile = pico.kicad_sch', cReturn: null }, { cName: 'Sheetname = MIDI', cReturn: null }, { cName: 'Sim.Enable = 0', cReturn: null }, { cName: 'Supplier = https://www.digikey.ch/de/products/detail/w%C3%BCrth-elektronik/9774027151R/5320625', cReturn: 'https://www.digikey.ch/de/products/detail/w%C3%BCrth-elektronik/9774027151R/5320625' }, { cName: 'ki_description = Mounting Hole without connection', cReturn: null }, { cName: 'ki_keywords = mounting hole', cReturn: null }, { cName: 'Footprint = Pedalboard Library:WA-SMSI_M2.5', cReturn: null }, { cName: 'Description = Mounting Hole 2.7mm, no annular, M2.5', cReturn: null }, { cName: 'Keywords = mounting hole 2.7mm no annular m2.5', cReturn: null }, ]; var cChoice = app.popUpMenuEx.apply\( app, aParams \); if\( cChoice != null && cChoice.substring\( 0, 1 \) == '#' \)    this.pageNum = parseInt\( cChoice.slice\( 1 \) \); else if\( cChoice != null && cChoice.substring\( 0, 4 \) == 'http' \)    app.launchURL\( cChoice \);) >>
 >>
@@ -1693,7 +1693,7 @@ endobj
 138 0 obj
 << /Type /Annot
    /Subtype /Link
-   /Rect [495.709 390.214 519.378 414.516]
+   /Rect [501.094 392.482 519.378 414.516]
    /Border [16 16 0]
    /A << /Type /Action /S /JavaScript /JS (var aParams = [ { cName: 'Reference designator = H8', cReturn: null }, { cName: 'Value = Spacer', cReturn: null }, { cName: 'Notes = MIDI In', cReturn: null }, { cName: 'Sheetfile = pico.kicad_sch', cReturn: null }, { cName: 'Sheetname = MIDI', cReturn: null }, { cName: 'Sim.Enable = 0', cReturn: null }, { cName: 'Supplier = https://www.digikey.ch/de/products/detail/w%C3%BCrth-elektronik/9774027151R/5320625', cReturn: 'https://www.digikey.ch/de/products/detail/w%C3%BCrth-elektronik/9774027151R/5320625' }, { cName: 'ki_description = Mounting Hole without connection', cReturn: null }, { cName: 'ki_keywords = mounting hole', cReturn: null }, { cName: 'Footprint = Pedalboard Library:WA-SMSI_M2.5', cReturn: null }, { cName: 'Description = Mounting Hole 2.7mm, no annular, M2.5', cReturn: null }, { cName: 'Keywords = mounting hole 2.7mm no annular m2.5', cReturn: null }, ]; var cChoice = app.popUpMenuEx.apply\( app, aParams \); if\( cChoice != null && cChoice.substring\( 0, 1 \) == '#' \)    this.pageNum = parseInt\( cChoice.slice\( 1 \) \); else if\( cChoice != null && cChoice.substring\( 0, 4 \) == 'http' \)    app.launchURL\( cChoice \);) >>
 >>
@@ -1701,7 +1701,7 @@ endobj
 139 0 obj
 << /Type /Annot
    /Subtype /Link
-   /Rect [281.76 242.813 306.78 267.115]
+   /Rect [288.496 245.08 306.78 267.115]
    /Border [16 16 0]
    /A << /Type /Action /S /JavaScript /JS (var aParams = [ { cName: 'Reference designator = H12', cReturn: null }, { cName: 'Value = Spacer', cReturn: null }, { cName: 'Notes = MIDI In', cReturn: null }, { cName: 'Sheetfile = pico.kicad_sch', cReturn: null }, { cName: 'Sheetname = MIDI', cReturn: null }, { cName: 'Sim.Enable = 0', cReturn: null }, { cName: 'Supplier = https://www.digikey.ch/de/products/detail/w%C3%BCrth-elektronik/9774027151R/5320625', cReturn: 'https://www.digikey.ch/de/products/detail/w%C3%BCrth-elektronik/9774027151R/5320625' }, { cName: 'ki_description = Mounting Hole without connection', cReturn: null }, { cName: 'ki_keywords = mounting hole', cReturn: null }, { cName: 'Footprint = Pedalboard Library:WA-SMSI_M2.5', cReturn: null }, { cName: 'Description = Mounting Hole 2.7mm, no annular, M2.5', cReturn: null }, { cName: 'Keywords = mounting hole 2.7mm no annular m2.5', cReturn: null }, ]; var cChoice = app.popUpMenuEx.apply\( app, aParams \); if\( cChoice != null && cChoice.substring\( 0, 1 \) == '#' \)    this.pageNum = parseInt\( cChoice.slice\( 1 \) \); else if\( cChoice != null && cChoice.substring\( 0, 4 \) == 'http' \)    app.launchURL\( cChoice \);) >>
 >>
@@ -1709,7 +1709,7 @@ endobj
 140 0 obj
 << /Type /Annot
    /Subtype /Link
-   /Rect [199.8 518.085 225.17 542.453]
+   /Rect [199.8 518.992 225.17 542.453]
    /Border [16 16 0]
    /A << /Type /Action /S /JavaScript /JS (var aParams = [ { cName: 'Reference designator = J25', cReturn: null }, { cName: 'Value = JST PH 3', cReturn: null }, { cName: 'Notes = ', cReturn: null }, { cName: 'Sheetfile = pico.kicad_sch', cReturn: null }, { cName: 'Sheetname = MIDI', cReturn: null }, { cName: 'Supplier = https://www.digikey.com/en/products/detail/jst-sales-america-inc/B3B-PH-K-S/926612', cReturn: 'https://www.digikey.com/en/products/detail/jst-sales-america-inc/B3B-PH-K-S/926612' }, { cName: 'dnp = ', cReturn: null }, { cName: 'ki_description = Generic connector, single row, 01x03, script generated', cReturn: null }, { cName: 'ki_keywords = connector', cReturn: null }, { cName: 'Footprint = Connector_JST:JST_PH_B3B-PH-K_1x03_P2.00mm_Vertical', cReturn: null }, { cName: 'Description = JST PH series connector, B3B-PH-K \\u0028http://www.jst-mfg.com/product/pdf/eng/ePH.pdf\\u0029, generated with kicad-footprint-generator', cReturn: 'http://www.jst-mfg.com/product/pdf/eng/ePH.pdf\\u0029, generated with kicad-footprint-generator' }, { cName: 'Keywords = connector JST PH side entry', cReturn: null }, ]; var cChoice = app.popUpMenuEx.apply\( app, aParams \); if\( cChoice != null && cChoice.substring\( 0, 1 \) == '#' \)    this.pageNum = parseInt\( cChoice.slice\( 1 \) \); else if\( cChoice != null && cChoice.substring\( 0, 4 \) == 'http' \)    app.launchURL\( cChoice \);) >>
 >>
@@ -1725,7 +1725,7 @@ endobj
 142 0 obj
 << /Type /Annot
    /Subtype /Link
-   /Rect [492.942 242.813 519.378 267.115]
+   /Rect [501.094 245.08 519.378 267.115]
    /Border [16 16 0]
    /A << /Type /Action /S /JavaScript /JS (var aParams = [ { cName: 'Reference designator = H11', cReturn: null }, { cName: 'Value = Spacer', cReturn: null }, { cName: 'Notes = MIDI In', cReturn: null }, { cName: 'Sheetfile = pico.kicad_sch', cReturn: null }, { cName: 'Sheetname = MIDI', cReturn: null }, { cName: 'Sim.Enable = 0', cReturn: null }, { cName: 'Supplier = https://www.digikey.ch/de/products/detail/w%C3%BCrth-elektronik/9774027151R/5320625', cReturn: 'https://www.digikey.ch/de/products/detail/w%C3%BCrth-elektronik/9774027151R/5320625' }, { cName: 'ki_description = Mounting Hole without connection', cReturn: null }, { cName: 'ki_keywords = mounting hole', cReturn: null }, { cName: 'Footprint = Pedalboard Library:WA-SMSI_M2.5', cReturn: null }, { cName: 'Description = Mounting Hole 2.7mm, no annular, M2.5', cReturn: null }, { cName: 'Keywords = mounting hole 2.7mm no annular m2.5', cReturn: null }, ]; var cChoice = app.popUpMenuEx.apply\( app, aParams \); if\( cChoice != null && cChoice.substring\( 0, 1 \) == '#' \)    this.pageNum = parseInt\( cChoice.slice\( 1 \) \); else if\( cChoice != null && cChoice.substring\( 0, 4 \) == 'http' \)    app.launchURL\( cChoice \);) >>
 >>
@@ -1741,7 +1741,7 @@ endobj
 144 0 obj
 << /Type /Annot
    /Subtype /Link
-   /Rect [174.487 518.057 199.857 542.425]
+   /Rect [174.487 519.106 199.857 542.425]
    /Border [16 16 0]
    /A << /Type /Action /S /JavaScript /JS (var aParams = [ { cName: 'Reference designator = J26', cReturn: null }, { cName: 'Value = JST PH 3', cReturn: null }, { cName: 'Notes = ', cReturn: null }, { cName: 'Sheetfile = pico.kicad_sch', cReturn: null }, { cName: 'Sheetname = MIDI', cReturn: null }, { cName: 'Supplier = https://www.digikey.com/en/products/detail/jst-sales-america-inc/B3B-PH-K-S/926612', cReturn: 'https://www.digikey.com/en/products/detail/jst-sales-america-inc/B3B-PH-K-S/926612' }, { cName: 'dnp = ', cReturn: null }, { cName: 'ki_description = Generic connector, single row, 01x03, script generated', cReturn: null }, { cName: 'ki_keywords = connector', cReturn: null }, { cName: 'Footprint = Connector_JST:JST_PH_B3B-PH-K_1x03_P2.00mm_Vertical', cReturn: null }, { cName: 'Description = JST PH series connector, B3B-PH-K \\u0028http://www.jst-mfg.com/product/pdf/eng/ePH.pdf\\u0029, generated with kicad-footprint-generator', cReturn: 'http://www.jst-mfg.com/product/pdf/eng/ePH.pdf\\u0029, generated with kicad-footprint-generator' }, { cName: 'Keywords = connector JST PH side entry', cReturn: null }, ]; var cChoice = app.popUpMenuEx.apply\( app, aParams \); if\( cChoice != null && cChoice.substring\( 0, 1 \) == '#' \)    this.pageNum = parseInt\( cChoice.slice\( 1 \) \); else if\( cChoice != null && cChoice.substring\( 0, 4 \) == 'http' \)    app.launchURL\( cChoice \);) >>
 >>
@@ -1758,7 +1758,7 @@ endobj
 434 0 obj
 <<
 /Producer (KiCad PDF)
-/CreationDate (D:20231227202707)
+/CreationDate (D:20231227211721)
 /Creator (PCBNEW)
 /Title (pedalboard-hw-B_Courtyard.pdf)
 >>
@@ -2919,444 +2919,444 @@ endobj
 xref
 0 437
 0000000000 65535 f 
-0000223139 00000 n 
-0000011707 00000 n 
+0000223134 00000 n 
+0000011706 00000 n 
 0000000015 00000 n 
 0000000731 00000 n 
-0000011824 00000 n 
-0000012858 00000 n 
-0000014839 00000 n 
-0000015988 00000 n 
-0000017091 00000 n 
-0000018672 00000 n 
-0000020123 00000 n 
-0000022104 00000 n 
-0000023968 00000 n 
-0000025073 00000 n 
-0000026163 00000 n 
-0000027198 00000 n 
-0000028436 00000 n 
-0000029834 00000 n 
-0000031337 00000 n 
-0000032852 00000 n 
-0000034771 00000 n 
-0000036274 00000 n 
-0000037516 00000 n 
-0000039343 00000 n 
-0000041262 00000 n 
-0000042485 00000 n 
-0000043932 00000 n 
-0000045513 00000 n 
-0000047495 00000 n 
-0000048638 00000 n 
-0000050028 00000 n 
-0000051653 00000 n 
-0000053235 00000 n 
-0000054752 00000 n 
-0000056268 00000 n 
-0000057412 00000 n 
-0000059276 00000 n 
-0000060426 00000 n 
-0000062073 00000 n 
-0000063298 00000 n 
-0000064343 00000 n 
-0000065568 00000 n 
-0000066976 00000 n 
-0000068081 00000 n 
-0000069999 00000 n 
-0000071917 00000 n 
-0000073142 00000 n 
-0000074724 00000 n 
-0000076052 00000 n 
-0000077496 00000 n 
-0000079144 00000 n 
-0000080296 00000 n 
-0000082215 00000 n 
-0000083719 00000 n 
-0000085655 00000 n 
-0000086879 00000 n 
-0000088029 00000 n 
-0000089366 00000 n 
-0000091300 00000 n 
-0000092888 00000 n 
-0000094806 00000 n 
-0000096168 00000 n 
-0000097557 00000 n 
-0000098782 00000 n 
-0000100763 00000 n 
-0000101987 00000 n 
-0000103569 00000 n 
-0000105551 00000 n 
-0000107533 00000 n 
-0000108683 00000 n 
-0000110263 00000 n 
-0000112244 00000 n 
-0000114161 00000 n 
-0000115308 00000 n 
-0000117225 00000 n 
-0000118742 00000 n 
-0000120658 00000 n 
-0000122577 00000 n 
-0000123719 00000 n 
-0000125128 00000 n 
-0000126582 00000 n 
-0000128163 00000 n 
-0000129747 00000 n 
-0000130885 00000 n 
-0000132026 00000 n 
-0000133384 00000 n 
-0000134744 00000 n 
-0000136663 00000 n 
-0000138582 00000 n 
-0000139806 00000 n 
-0000141045 00000 n 
-0000142473 00000 n 
-0000144453 00000 n 
-0000146093 00000 n 
-0000147639 00000 n 
-0000148801 00000 n 
-0000150782 00000 n 
-0000152761 00000 n 
-0000154342 00000 n 
-0000155888 00000 n 
-0000157740 00000 n 
-0000159340 00000 n 
-0000160491 00000 n 
-0000161876 00000 n 
-0000163287 00000 n 
-0000164728 00000 n 
-0000165911 00000 n 
-0000167016 00000 n 
-0000168426 00000 n 
-0000170345 00000 n 
-0000172263 00000 n 
-0000173673 00000 n 
-0000175591 00000 n 
-0000177234 00000 n 
-0000179217 00000 n 
-0000180865 00000 n 
-0000182019 00000 n 
-0000183380 00000 n 
-0000185232 00000 n 
-0000186779 00000 n 
-0000187814 00000 n 
-0000189397 00000 n 
-0000190522 00000 n 
-0000192112 00000 n 
-0000193521 00000 n 
-0000194647 00000 n 
-0000196630 00000 n 
-0000198482 00000 n 
-0000200357 00000 n 
-0000201694 00000 n 
-0000203099 00000 n 
-0000204951 00000 n 
-0000206422 00000 n 
-0000207969 00000 n 
-0000209467 00000 n 
-0000210785 00000 n 
-0000212101 00000 n 
-0000213419 00000 n 
-0000214736 00000 n 
-0000216052 00000 n 
-0000217574 00000 n 
-0000219096 00000 n 
-0000220414 00000 n 
-0000221614 00000 n 
+0000011823 00000 n 
+0000012857 00000 n 
+0000014838 00000 n 
+0000015987 00000 n 
+0000017090 00000 n 
+0000018671 00000 n 
+0000020122 00000 n 
+0000022103 00000 n 
+0000023967 00000 n 
+0000025072 00000 n 
+0000026160 00000 n 
+0000027195 00000 n 
+0000028433 00000 n 
+0000029831 00000 n 
+0000031334 00000 n 
+0000032849 00000 n 
+0000034768 00000 n 
+0000036271 00000 n 
+0000037513 00000 n 
+0000039340 00000 n 
+0000041259 00000 n 
+0000042482 00000 n 
+0000043929 00000 n 
+0000045510 00000 n 
+0000047492 00000 n 
+0000048635 00000 n 
+0000050025 00000 n 
+0000051650 00000 n 
+0000053232 00000 n 
+0000054749 00000 n 
+0000056265 00000 n 
+0000057409 00000 n 
+0000059273 00000 n 
+0000060423 00000 n 
+0000062070 00000 n 
+0000063295 00000 n 
+0000064340 00000 n 
+0000065565 00000 n 
+0000066973 00000 n 
+0000068078 00000 n 
+0000069996 00000 n 
+0000071914 00000 n 
+0000073139 00000 n 
+0000074721 00000 n 
+0000076049 00000 n 
+0000077493 00000 n 
+0000079142 00000 n 
+0000080294 00000 n 
+0000082213 00000 n 
+0000083717 00000 n 
+0000085653 00000 n 
+0000086877 00000 n 
+0000088027 00000 n 
+0000089364 00000 n 
+0000091298 00000 n 
+0000092886 00000 n 
+0000094804 00000 n 
+0000096166 00000 n 
+0000097555 00000 n 
+0000098780 00000 n 
+0000100761 00000 n 
+0000101985 00000 n 
+0000103567 00000 n 
+0000105549 00000 n 
+0000107531 00000 n 
+0000108681 00000 n 
+0000110261 00000 n 
+0000112242 00000 n 
+0000114159 00000 n 
+0000115306 00000 n 
+0000117223 00000 n 
+0000118740 00000 n 
+0000120656 00000 n 
+0000122575 00000 n 
+0000123717 00000 n 
+0000125126 00000 n 
+0000126580 00000 n 
+0000128161 00000 n 
+0000129745 00000 n 
+0000130883 00000 n 
+0000132024 00000 n 
+0000133382 00000 n 
+0000134742 00000 n 
+0000136661 00000 n 
+0000138580 00000 n 
+0000139804 00000 n 
+0000141043 00000 n 
+0000142471 00000 n 
+0000144451 00000 n 
+0000146091 00000 n 
+0000147637 00000 n 
+0000148799 00000 n 
+0000150780 00000 n 
+0000152759 00000 n 
+0000154340 00000 n 
+0000155886 00000 n 
+0000157738 00000 n 
+0000159338 00000 n 
+0000160489 00000 n 
+0000161874 00000 n 
+0000163285 00000 n 
+0000164726 00000 n 
+0000165909 00000 n 
+0000167014 00000 n 
+0000168424 00000 n 
+0000170343 00000 n 
+0000172261 00000 n 
+0000173671 00000 n 
+0000175589 00000 n 
+0000177232 00000 n 
+0000179215 00000 n 
+0000180863 00000 n 
+0000182017 00000 n 
+0000183378 00000 n 
+0000185230 00000 n 
+0000186777 00000 n 
+0000187812 00000 n 
+0000189394 00000 n 
+0000190519 00000 n 
+0000192109 00000 n 
+0000193518 00000 n 
+0000194644 00000 n 
+0000196627 00000 n 
+0000198479 00000 n 
+0000200354 00000 n 
+0000201691 00000 n 
+0000203096 00000 n 
+0000204948 00000 n 
+0000206419 00000 n 
+0000207966 00000 n 
+0000209464 00000 n 
+0000210781 00000 n 
+0000212097 00000 n 
+0000213415 00000 n 
+0000214732 00000 n 
+0000216048 00000 n 
+0000217570 00000 n 
+0000219092 00000 n 
+0000220409 00000 n 
+0000221609 00000 n 
 0000000750 00000 n 
 0000001789 00000 n 
 0000001976 00000 n 
-0000237795 00000 n 
-0000237669 00000 n 
+0000237790 00000 n 
+0000237664 00000 n 
 0000002025 00000 n 
-0000236767 00000 n 
+0000236762 00000 n 
 0000002091 00000 n 
-0000224861 00000 n 
+0000224856 00000 n 
 0000002157 00000 n 
-0000229479 00000 n 
+0000229474 00000 n 
 0000002223 00000 n 
-0000228039 00000 n 
+0000228034 00000 n 
 0000002287 00000 n 
-0000233786 00000 n 
+0000233781 00000 n 
 0000002353 00000 n 
-0000231946 00000 n 
+0000231941 00000 n 
 0000002419 00000 n 
-0000224655 00000 n 
+0000224650 00000 n 
 0000002485 00000 n 
-0000225479 00000 n 
+0000225474 00000 n 
 0000002551 00000 n 
-0000228143 00000 n 
+0000228138 00000 n 
 0000002617 00000 n 
-0000236457 00000 n 
-0000002683 00000 n 
-0000236561 00000 n 
-0000002749 00000 n 
-0000227529 00000 n 
-0000002815 00000 n 
-0000235324 00000 n 
-0000002881 00000 n 
-0000232456 00000 n 
-0000002946 00000 n 
-0000230814 00000 n 
-0000003011 00000 n 
-0000225376 00000 n 
-0000003077 00000 n 
-0000232354 00000 n 
-0000003143 00000 n 
-0000237278 00000 n 
-0000003209 00000 n 
-0000232252 00000 n 
-0000003275 00000 n 
-0000224964 00000 n 
-0000003341 00000 n 
-0000232558 00000 n 
-0000003406 00000 n 
-0000235839 00000 n 
-0000003472 00000 n 
-0000235018 00000 n 
-0000003538 00000 n 
-0000223935 00000 n 
-0000003604 00000 n 
-0000232866 00000 n 
-0000003670 00000 n 
-0000227427 00000 n 
-0000003736 00000 n 
-0000225993 00000 n 
-0000003802 00000 n 
-0000235222 00000 n 
-0000003868 00000 n 
-0000231019 00000 n 
-0000003933 00000 n 
-0000231225 00000 n 
-0000003999 00000 n 
-0000230093 00000 n 
-0000004065 00000 n 
-0000226096 00000 n 
-0000004131 00000 n 
-0000229377 00000 n 
-0000004197 00000 n 
-0000234301 00000 n 
-0000004263 00000 n 
-0000231431 00000 n 
-0000004329 00000 n 
-0000228969 00000 n 
-0000004395 00000 n 
-0000231328 00000 n 
-0000004460 00000 n 
-0000236045 00000 n 
-0000004526 00000 n 
-0000228351 00000 n 
-0000004592 00000 n 
-0000226916 00000 n 
-0000004658 00000 n 
-0000226405 00000 n 
-0000004724 00000 n 
-0000230608 00000 n 
-0000004790 00000 n 
-0000235120 00000 n 
-0000004856 00000 n 
-0000229990 00000 n 
-0000004922 00000 n 
-0000235736 00000 n 
-0000004988 00000 n 
-0000234095 00000 n 
-0000005054 00000 n 
-0000228455 00000 n 
-0000005120 00000 n 
-0000225890 00000 n 
-0000005186 00000 n 
-0000232150 00000 n 
-0000005252 00000 n 
-0000225684 00000 n 
-0000005318 00000 n 
-0000230196 00000 n 
-0000005384 00000 n 
-0000229173 00000 n 
-0000005450 00000 n 
-0000232048 00000 n 
-0000005516 00000 n 
-0000226199 00000 n 
-0000005582 00000 n 
-0000235426 00000 n 
-0000005648 00000 n 
-0000227018 00000 n 
-0000005714 00000 n 
-0000237380 00000 n 
-0000005780 00000 n 
-0000227325 00000 n 
-0000005846 00000 n 
-0000230402 00000 n 
-0000005912 00000 n 
-0000224244 00000 n 
-0000005978 00000 n 
-0000229887 00000 n 
-0000006044 00000 n 
-0000234712 00000 n 
-0000006110 00000 n 
-0000223523 00000 n 
-0000006176 00000 n 
-0000224347 00000 n 
-0000006242 00000 n 
-0000233582 00000 n 
-0000006308 00000 n 
-0000233889 00000 n 
-0000006374 00000 n 
-0000223335 00000 n 
-0000006440 00000 n 
-0000225582 00000 n 
-0000006506 00000 n 
-0000230505 00000 n 
-0000006572 00000 n 
-0000224450 00000 n 
-0000006638 00000 n 
-0000230711 00000 n 
-0000006704 00000 n 
-0000226508 00000 n 
-0000006770 00000 n 
-0000226302 00000 n 
-0000006836 00000 n 
-0000232969 00000 n 
-0000006902 00000 n 
-0000235942 00000 n 
-0000006967 00000 n 
-0000236972 00000 n 
-0000007033 00000 n 
-0000234814 00000 n 
-0000007099 00000 n 
-0000234404 00000 n 
-0000007165 00000 n 
-0000232763 00000 n 
-0000007231 00000 n 
-0000232660 00000 n 
-0000007297 00000 n 
-0000237074 00000 n 
-0000007363 00000 n 
-0000227835 00000 n 
-0000007429 00000 n 
-0000225273 00000 n 
-0000007495 00000 n 
-0000223420 00000 n 
-0000007561 00000 n 
-0000231122 00000 n 
-0000007627 00000 n 
-0000227631 00000 n 
-0000007693 00000 n 
-0000233992 00000 n 
-0000007759 00000 n 
-0000223729 00000 n 
-0000007825 00000 n 
-0000234916 00000 n 
-0000007891 00000 n 
-0000233378 00000 n 
-0000007957 00000 n 
-0000227223 00000 n 
-0000008023 00000 n 
-0000225067 00000 n 
-0000008089 00000 n 
-0000224141 00000 n 
-0000008155 00000 n 
-0000233684 00000 n 
-0000008221 00000 n 
-0000233072 00000 n 
-0000008287 00000 n 
-0000224758 00000 n 
-0000008353 00000 n 
-0000227937 00000 n 
-0000008419 00000 n 
-0000229275 00000 n 
-0000008485 00000 n 
-0000237584 00000 n 
-0000008551 00000 n 
-0000235529 00000 n 
-0000008617 00000 n 
-0000237176 00000 n 
-0000008683 00000 n 
-0000227120 00000 n 
-0000008749 00000 n 
-0000228247 00000 n 
-0000008813 00000 n 
-0000236148 00000 n 
-0000008879 00000 n 
-0000226610 00000 n 
-0000008945 00000 n 
-0000226712 00000 n 
-0000009011 00000 n 
-0000236251 00000 n 
-0000009076 00000 n 
-0000226814 00000 n 
-0000009142 00000 n 
-0000234507 00000 n 
-0000009208 00000 n 
-0000224038 00000 n 
-0000009274 00000 n 
-0000234198 00000 n 
-0000009340 00000 n 
-0000229071 00000 n 
-0000009406 00000 n 
-0000227733 00000 n 
-0000009472 00000 n 
-0000223832 00000 n 
-0000009538 00000 n 
-0000233174 00000 n 
-0000009604 00000 n 
-0000236664 00000 n 
-0000009670 00000 n 
-0000234610 00000 n 
-0000009736 00000 n 
-0000236870 00000 n 
-0000009802 00000 n 
-0000235633 00000 n 
-0000009868 00000 n 
-0000236354 00000 n 
-0000009934 00000 n 
-0000237482 00000 n 
-0000010000 00000 n 
-0000224552 00000 n 
-0000010066 00000 n 
-0000225170 00000 n 
-0000010132 00000 n 
-0000225787 00000 n 
-0000010198 00000 n 
-0000230917 00000 n 
-0000010264 00000 n 
-0000233480 00000 n 
-0000010330 00000 n 
-0000223626 00000 n 
-0000010396 00000 n 
-0000230299 00000 n 
-0000010462 00000 n 
-0000233276 00000 n 
-0000010528 00000 n 
-0000229785 00000 n 
-0000010594 00000 n 
-0000228866 00000 n 
-0000010658 00000 n 
-0000229683 00000 n 
-0000010724 00000 n 
-0000228557 00000 n 
-0000010788 00000 n 
-0000229581 00000 n 
-0000010854 00000 n 
-0000228763 00000 n 
-0000010920 00000 n 
-0000231534 00000 n 
-0000010986 00000 n 
-0000231843 00000 n 
-0000011052 00000 n 
-0000228660 00000 n 
-0000011118 00000 n 
-0000231740 00000 n 
-0000011184 00000 n 
-0000231637 00000 n 
-0000011250 00000 n 
-0000011358 00000 n 
-0000011474 00000 n 
-0000011587 00000 n 
-0000223200 00000 n 
-0000237915 00000 n 
-0000238003 00000 n 
+0000236452 00000 n 
+0000002682 00000 n 
+0000236556 00000 n 
+0000002748 00000 n 
+0000227524 00000 n 
+0000002814 00000 n 
+0000235319 00000 n 
+0000002880 00000 n 
+0000232451 00000 n 
+0000002945 00000 n 
+0000230809 00000 n 
+0000003010 00000 n 
+0000225371 00000 n 
+0000003076 00000 n 
+0000232349 00000 n 
+0000003142 00000 n 
+0000237273 00000 n 
+0000003208 00000 n 
+0000232247 00000 n 
+0000003274 00000 n 
+0000224959 00000 n 
+0000003340 00000 n 
+0000232553 00000 n 
+0000003405 00000 n 
+0000235834 00000 n 
+0000003471 00000 n 
+0000235013 00000 n 
+0000003537 00000 n 
+0000223930 00000 n 
+0000003603 00000 n 
+0000232861 00000 n 
+0000003669 00000 n 
+0000227422 00000 n 
+0000003735 00000 n 
+0000225988 00000 n 
+0000003801 00000 n 
+0000235217 00000 n 
+0000003867 00000 n 
+0000231014 00000 n 
+0000003932 00000 n 
+0000231220 00000 n 
+0000003998 00000 n 
+0000230088 00000 n 
+0000004064 00000 n 
+0000226091 00000 n 
+0000004130 00000 n 
+0000229372 00000 n 
+0000004196 00000 n 
+0000234296 00000 n 
+0000004262 00000 n 
+0000231426 00000 n 
+0000004328 00000 n 
+0000228964 00000 n 
+0000004394 00000 n 
+0000231323 00000 n 
+0000004459 00000 n 
+0000236040 00000 n 
+0000004525 00000 n 
+0000228346 00000 n 
+0000004591 00000 n 
+0000226911 00000 n 
+0000004657 00000 n 
+0000226400 00000 n 
+0000004723 00000 n 
+0000230603 00000 n 
+0000004789 00000 n 
+0000235115 00000 n 
+0000004855 00000 n 
+0000229985 00000 n 
+0000004921 00000 n 
+0000235731 00000 n 
+0000004987 00000 n 
+0000234090 00000 n 
+0000005053 00000 n 
+0000228450 00000 n 
+0000005119 00000 n 
+0000225885 00000 n 
+0000005185 00000 n 
+0000232145 00000 n 
+0000005251 00000 n 
+0000225679 00000 n 
+0000005317 00000 n 
+0000230191 00000 n 
+0000005383 00000 n 
+0000229168 00000 n 
+0000005449 00000 n 
+0000232043 00000 n 
+0000005515 00000 n 
+0000226194 00000 n 
+0000005581 00000 n 
+0000235421 00000 n 
+0000005647 00000 n 
+0000227013 00000 n 
+0000005713 00000 n 
+0000237375 00000 n 
+0000005779 00000 n 
+0000227320 00000 n 
+0000005845 00000 n 
+0000230397 00000 n 
+0000005911 00000 n 
+0000224239 00000 n 
+0000005977 00000 n 
+0000229882 00000 n 
+0000006043 00000 n 
+0000234707 00000 n 
+0000006109 00000 n 
+0000223518 00000 n 
+0000006175 00000 n 
+0000224342 00000 n 
+0000006241 00000 n 
+0000233577 00000 n 
+0000006307 00000 n 
+0000233884 00000 n 
+0000006373 00000 n 
+0000223330 00000 n 
+0000006439 00000 n 
+0000225577 00000 n 
+0000006505 00000 n 
+0000230500 00000 n 
+0000006571 00000 n 
+0000224445 00000 n 
+0000006637 00000 n 
+0000230706 00000 n 
+0000006703 00000 n 
+0000226503 00000 n 
+0000006769 00000 n 
+0000226297 00000 n 
+0000006835 00000 n 
+0000232964 00000 n 
+0000006901 00000 n 
+0000235937 00000 n 
+0000006966 00000 n 
+0000236967 00000 n 
+0000007032 00000 n 
+0000234809 00000 n 
+0000007098 00000 n 
+0000234399 00000 n 
+0000007164 00000 n 
+0000232758 00000 n 
+0000007230 00000 n 
+0000232655 00000 n 
+0000007296 00000 n 
+0000237069 00000 n 
+0000007362 00000 n 
+0000227830 00000 n 
+0000007428 00000 n 
+0000225268 00000 n 
+0000007494 00000 n 
+0000223415 00000 n 
+0000007560 00000 n 
+0000231117 00000 n 
+0000007626 00000 n 
+0000227626 00000 n 
+0000007692 00000 n 
+0000233987 00000 n 
+0000007758 00000 n 
+0000223724 00000 n 
+0000007824 00000 n 
+0000234911 00000 n 
+0000007890 00000 n 
+0000233373 00000 n 
+0000007956 00000 n 
+0000227218 00000 n 
+0000008022 00000 n 
+0000225062 00000 n 
+0000008088 00000 n 
+0000224136 00000 n 
+0000008154 00000 n 
+0000233679 00000 n 
+0000008220 00000 n 
+0000233067 00000 n 
+0000008286 00000 n 
+0000224753 00000 n 
+0000008352 00000 n 
+0000227932 00000 n 
+0000008418 00000 n 
+0000229270 00000 n 
+0000008484 00000 n 
+0000237579 00000 n 
+0000008550 00000 n 
+0000235524 00000 n 
+0000008616 00000 n 
+0000237171 00000 n 
+0000008682 00000 n 
+0000227115 00000 n 
+0000008748 00000 n 
+0000228242 00000 n 
+0000008812 00000 n 
+0000236143 00000 n 
+0000008878 00000 n 
+0000226605 00000 n 
+0000008944 00000 n 
+0000226707 00000 n 
+0000009010 00000 n 
+0000236246 00000 n 
+0000009075 00000 n 
+0000226809 00000 n 
+0000009141 00000 n 
+0000234502 00000 n 
+0000009207 00000 n 
+0000224033 00000 n 
+0000009273 00000 n 
+0000234193 00000 n 
+0000009339 00000 n 
+0000229066 00000 n 
+0000009405 00000 n 
+0000227728 00000 n 
+0000009471 00000 n 
+0000223827 00000 n 
+0000009537 00000 n 
+0000233169 00000 n 
+0000009603 00000 n 
+0000236659 00000 n 
+0000009669 00000 n 
+0000234605 00000 n 
+0000009735 00000 n 
+0000236865 00000 n 
+0000009801 00000 n 
+0000235628 00000 n 
+0000009867 00000 n 
+0000236349 00000 n 
+0000009933 00000 n 
+0000237477 00000 n 
+0000009999 00000 n 
+0000224547 00000 n 
+0000010065 00000 n 
+0000225165 00000 n 
+0000010131 00000 n 
+0000225782 00000 n 
+0000010197 00000 n 
+0000230912 00000 n 
+0000010263 00000 n 
+0000233475 00000 n 
+0000010329 00000 n 
+0000223621 00000 n 
+0000010395 00000 n 
+0000230294 00000 n 
+0000010461 00000 n 
+0000233271 00000 n 
+0000010527 00000 n 
+0000229780 00000 n 
+0000010593 00000 n 
+0000228861 00000 n 
+0000010657 00000 n 
+0000229678 00000 n 
+0000010723 00000 n 
+0000228552 00000 n 
+0000010787 00000 n 
+0000229576 00000 n 
+0000010853 00000 n 
+0000228758 00000 n 
+0000010919 00000 n 
+0000231529 00000 n 
+0000010985 00000 n 
+0000231838 00000 n 
+0000011051 00000 n 
+0000228655 00000 n 
+0000011117 00000 n 
+0000231735 00000 n 
+0000011183 00000 n 
+0000231632 00000 n 
+0000011249 00000 n 
+0000011357 00000 n 
+0000011473 00000 n 
+0000011586 00000 n 
+0000223195 00000 n 
+0000237910 00000 n 
+0000237998 00000 n 
 trailer
 << /Size 437 /Root 436 0 R /Info 434 0 R >>
 startxref
-238133
+238128
 %%EOF
