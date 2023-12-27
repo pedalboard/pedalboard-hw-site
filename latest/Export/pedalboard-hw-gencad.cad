@@ -2,7 +2,7 @@ $HEADER
 GENCAD 1.4
 USER "pcbnew 7.0.9-7.0.9~ubuntu23.04.1"
 DRAWING "/__w/pedalboard-hw/pedalboard-hw/pedalboard-hw.kicad_pcb"
-REVISION "3.1.1 2023-12-05"
+REVISION "3.2.0-RC1 2023-12-05"
 UNITS INCH
 ORIGIN 0 0
 INTERTRACK 0
@@ -605,6 +605,9 @@ LINE -0.0102855 0.028937 0.0102855 0.028937
 LINE -0.0102855 -0.028937 0.0102855 -0.028937
 PIN "1" PAD49 -0.0374016 0 TOP 0 0
 PIN "2" PAD49 0.0374016 0 TOP 0 0
+
+SHAPE "Symbol:OSHW-Logo_7.5x8mm_SilkScreen"
+INSERT SMD
 
 SHAPE "Diode_SMD:D_SMA"
 INSERT SMD
@@ -1979,6 +1982,16 @@ TEXT -0.0393701 0.0984252 0.0314961 180 0 SILKSCREEN_TOP "FID2" 0 0 0.125984 0.0
 TEXT 0 -0.1025 0.0393701 0 0 SILKSCREEN_TOP "Fiducial" 0 0 0.314961 0.0393701
 SHEET "RefDes: FID2, Value: Fiducial"
 
+COMPONENT "SYM1"
+DEVICE "DEV_Symbol:OSHW-Logo_7.5x8mm_SilkScreen"
+PLACE 2.2171 -1.87036
+LAYER TOP
+ROTATION 0
+SHAPE "Symbol:OSHW-Logo_7.5x8mm_SilkScreen" 0 0
+TEXT 0 0 0.0393701 0 0 SILKSCREEN_TOP "SYM1" 0 0 0.15748 0.0393701
+TEXT 0.0295276 0 0.0393701 0 0 SILKSCREEN_TOP "Logo_Open_Hardware_Small" 0 0 0.944882 0.0393701
+SHEET "RefDes: SYM1, Value: Logo_Open_Hardware_Small"
+
 COMPONENT "TP1"
 DEVICE "DEV_TestPoint:TestPoint_Pad_2.0x2.0mm"
 PLACE 6.03228 -1.29646
@@ -3282,43 +3295,19 @@ $ENDCOMPONENTS
 
 $DEVICES
 
-DEVICE "DEV_Fiducial:Fiducial_1.5mm_Mask3mm"
-PART "Fiducial"
-PACKAGE "Fiducial:Fiducial_1.5mm_Mask3mm"
+DEVICE "DEV_Resistor_SMD:R_0805_2012Metric"
+PART "DNF"
+PACKAGE "Resistor_SMD:R_0805_2012Metric"
 
-DEVICE "DEV_Pedalboard Library:BarrelJack_Wuerth_6941xx301002"
-PART "Barrel_Jack_MountingPin"
-PACKAGE "Pedalboard Library:BarrelJack_Wuerth_6941xx301002"
-
-DEVICE "DEV_Pedalboard Library:Jack_6.35mm_Horizontal_0"
-PART "Jack 6.35mm"
-PACKAGE "Pedalboard Library:Jack_6.35mm_Horizontal"
-
-DEVICE "DEV_Package_TO_SOT_SMD:SOT-223-3_TabPin2"
-PART "NCP1117-3.3_SOT223"
-PACKAGE "Package_TO_SOT_SMD:SOT-223-3_TabPin2"
-
-DEVICE "DEV_Diode_SMD:D_SMA"
-PART "SS34HF"
-PACKAGE "Diode_SMD:D_SMA"
+DEVICE "DEV_TestPoint:TestPoint_Pad_2.0x2.0mm"
+PART "TestPoint"
+PACKAGE "TestPoint:TestPoint_Pad_2.0x2.0mm"
 
 DEVICE "DEV_Pedalboard Library:Jack_6.35mm_Horizontal"
 PART "Jack 6.35mm"
 PACKAGE "Pedalboard Library:Jack_6.35mm_Horizontal"
 
 DEVICE "DEV_Capacitor_SMD:C_0805_2012Metric_0"
-PART "1n"
-PACKAGE "Capacitor_SMD:C_0805_2012Metric"
-
-DEVICE "DEV_MountingHole:MountingHole_2.7mm_M2.5_DIN965"
-PART "MountingHole"
-PACKAGE "MountingHole:MountingHole_2.7mm_M2.5_DIN965"
-
-DEVICE "DEV_Resistor_SMD:R_0805_2012Metric"
-PART "DNF"
-PACKAGE "Resistor_SMD:R_0805_2012Metric"
-
-DEVICE "DEV_Capacitor_SMD:C_0805_2012Metric"
 PART "100n"
 PACKAGE "Capacitor_SMD:C_0805_2012Metric"
 
@@ -3326,9 +3315,37 @@ DEVICE "DEV_Pedalboard Library:Jack_3.5mm_CUI_SJ1-3525N_Horizontal"
 PART "Jack 3.5mm"
 PACKAGE "Pedalboard Library:Jack_3.5mm_CUI_SJ1-3525N_Horizontal"
 
-DEVICE "DEV_TestPoint:TestPoint_Pad_2.0x2.0mm"
-PART "TestPoint"
-PACKAGE "TestPoint:TestPoint_Pad_2.0x2.0mm"
+DEVICE "DEV_Fiducial:Fiducial_1.5mm_Mask3mm"
+PART "Fiducial"
+PACKAGE "Fiducial:Fiducial_1.5mm_Mask3mm"
+
+DEVICE "DEV_Symbol:OSHW-Logo_7.5x8mm_SilkScreen"
+PART "Logo_Open_Hardware_Small"
+PACKAGE "Symbol:OSHW-Logo_7.5x8mm_SilkScreen"
+
+DEVICE "DEV_MountingHole:MountingHole_2.7mm_M2.5_DIN965"
+PART "MountingHole"
+PACKAGE "MountingHole:MountingHole_2.7mm_M2.5_DIN965"
+
+DEVICE "DEV_Diode_SMD:D_SMA"
+PART "SS34HF"
+PACKAGE "Diode_SMD:D_SMA"
+
+DEVICE "DEV_Capacitor_SMD:C_0805_2012Metric"
+PART "100n"
+PACKAGE "Capacitor_SMD:C_0805_2012Metric"
+
+DEVICE "DEV_Pedalboard Library:Jack_6.35mm_Horizontal_0"
+PART "Jack 6.35mm"
+PACKAGE "Pedalboard Library:Jack_6.35mm_Horizontal"
+
+DEVICE "DEV_Pedalboard Library:BarrelJack_Wuerth_6941xx301002"
+PART "Barrel_Jack_MountingPin"
+PACKAGE "Pedalboard Library:BarrelJack_Wuerth_6941xx301002"
+
+DEVICE "DEV_Package_TO_SOT_SMD:SOT-223-3_TabPin2"
+PART "NCP1117-3.3_SOT223"
+PACKAGE "Package_TO_SOT_SMD:SOT-223-3_TabPin2"
 
 DEVICE "DEV_TerminalBlock_Phoenix:TerminalBlock_Phoenix_MKDS-1,5-2_1x02_P5.00mm_Horizontal"
 PART "Screw_Terminal_01x02"
