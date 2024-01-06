@@ -77,7 +77,7 @@ endobj
 >>
 endobj
 174 0 obj
-<</S /GoTo /D [146 0 R /FitR 264 439 273 429]
+<</S /GoTo /D [146 0 R /FitR 264 443 280 429]
 >>
 endobj
 176 0 obj
@@ -121,7 +121,7 @@ endobj
 >>
 endobj
 196 0 obj
-<</S /GoTo /D [146 0 R /FitR 263 449 274 435]
+<</S /GoTo /D [146 0 R /FitR 263 449 283 439]
 >>
 endobj
 198 0 obj
@@ -129,7 +129,7 @@ endobj
 >>
 endobj
 200 0 obj
-<</S /GoTo /D [146 0 R /FitR 322 467 348 450]
+<</S /GoTo /D [146 0 R /FitR 322 473 347 450]
 >>
 endobj
 202 0 obj
@@ -137,7 +137,7 @@ endobj
 >>
 endobj
 204 0 obj
-<</S /GoTo /D [146 0 R /FitR 259 453 273 441]
+<</S /GoTo /D [146 0 R /FitR 264 452 280 441]
 >>
 endobj
 206 0 obj
@@ -197,7 +197,7 @@ endobj
 >>
 endobj
 234 0 obj
-<</S /GoTo /D [146 0 R /FitR 249 442 255 424]
+<</S /GoTo /D [146 0 R /FitR 245 442 254 424]
 >>
 endobj
 236 0 obj
@@ -723,7 +723,7 @@ endobj
 17 0 obj
 << /Type /Annot
    /Subtype /Link
-   /Rect [264.281 429.786 273.947 439.745]
+   /Rect [264.281 429.899 280.888 443.042]
    /Border [16 16 0]
    /A << /Type /Action /S /JavaScript /JS (var aParams = [ { cName: 'Reference designator = R9', cReturn: null }, { cName: 'Value = DNF', cReturn: null }, { cName: 'Sheetfile = pico.kicad_sch', cReturn: null }, { cName: 'Sheetname = MIDI', cReturn: null }, { cName: 'dnp = ', cReturn: null }, { cName: 'ki_description = Resistor, small symbol', cReturn: null }, { cName: 'ki_keywords = R resistor', cReturn: null }, { cName: 'Footprint = Resistor_SMD:R_0805_2012Metric', cReturn: null }, { cName: 'Description = Resistor SMD 0805 \\u00282012 Metric\\u0029, square \\u0028rectangular\\u0029 end terminal, IPC_7351 nominal, \\u0028Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf\\u0029, generated with kicad-footprint-generator', cReturn: 'https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf\\u0029, generated with kicad-footprint-generator' }, { cName: 'Keywords = resistor', cReturn: null }, ]; var cChoice = app.popUpMenuEx.apply\( app, aParams \); if\( cChoice != null && cChoice.substring\( 0, 1 \) == '#' \)    this.pageNum = parseInt\( cChoice.slice\( 1 \) \); else if\( cChoice != null && cChoice.substring\( 0, 4 \) == 'http' \)    app.launchURL\( cChoice \);) >>
 >>
@@ -811,7 +811,7 @@ endobj
 28 0 obj
 << /Type /Annot
    /Subtype /Link
-   /Rect [263.286 435.514 274.729 449.817]
+   /Rect [263.286 439.802 283.684 449.817]
    /Border [16 16 0]
    /A << /Type /Action /S /JavaScript /JS (var aParams = [ { cName: 'Reference designator = C15', cReturn: null }, { cName: 'Value = 100n', cReturn: null }, { cName: 'Digikey = 1276-1180-1-ND', cReturn: null }, { cName: 'Mouser = 581-08055C104K', cReturn: null }, { cName: 'Notes = 10% 16V Ceramic Capacitor X7R', cReturn: null }, { cName: 'Sheetfile = pico.kicad_sch', cReturn: null }, { cName: 'Sheetname = MIDI', cReturn: null }, { cName: 'Supplier = https://www.digikey.ch/de/products/detail/samsung-electro-mechanics/CL21B104KBCNNNC/3886661', cReturn: 'https://www.digikey.ch/de/products/detail/samsung-electro-mechanics/CL21B104KBCNNNC/3886661' }, { cName: 'ki_description = Unpolarized capacitor, small symbol', cReturn: null }, { cName: 'ki_keywords = capacitor cap', cReturn: null }, { cName: 'Footprint = Capacitor_SMD:C_0805_2012Metric', cReturn: null }, { cName: 'Description = Capacitor SMD 0805 \\u00282012 Metric\\u0029, square \\u0028rectangular\\u0029 end terminal, IPC_7351 nominal, \\u0028Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing\\u0029, generated with kicad-footprint-generator', cReturn: 'https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing\\u0029, generated with kicad-footprint-generator' }, { cName: 'Keywords = capacitor', cReturn: null }, ]; var cChoice = app.popUpMenuEx.apply\( app, aParams \); if\( cChoice != null && cChoice.substring\( 0, 1 \) == '#' \)    this.pageNum = parseInt\( cChoice.slice\( 1 \) \); else if\( cChoice != null && cChoice.substring\( 0, 4 \) == 'http' \)    app.launchURL\( cChoice \);) >>
 >>
@@ -827,7 +827,7 @@ endobj
 30 0 obj
 << /Type /Annot
    /Subtype /Link
-   /Rect [322.554 450.712 348.807 467.754]
+   /Rect [322.554 450.712 347.041 473.863]
    /Border [16 16 0]
    /A << /Type /Action /S /JavaScript /JS (var aParams = [ { cName: 'Reference designator = D3', cReturn: null }, { cName: 'Value = SK6812', cReturn: null }, { cName: 'Sheetfile = leds.kicad_sch', cReturn: null }, { cName: 'Sheetname = LEDs', cReturn: null }, { cName: 'Supplier = https://www.digikey.ch/de/products/detail/adafruit-industries-llc/1655/5154679', cReturn: 'https://www.digikey.ch/de/products/detail/adafruit-industries-llc/1655/5154679' }, { cName: 'ki_description = RGB LED with integrated controller', cReturn: null }, { cName: 'ki_keywords = RGB LED NeoPixel addressable', cReturn: null }, { cName: 'Footprint = LED_SMD:LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm', cReturn: null }, { cName: 'Description = 5.0mm x 5.0mm Addressable RGB LED NeoPixel, https://cdn-shop.adafruit.com/product-files/1138/SK6812+LED+datasheet+.pdf', cReturn: 'https://cdn-shop.adafruit.com/product-files/1138/SK6812+LED+datasheet+.pdf' }, { cName: 'Keywords = LED RGB NeoPixel PLCC-4 5050', cReturn: null }, ]; var cChoice = app.popUpMenuEx.apply\( app, aParams \); if\( cChoice != null && cChoice.substring\( 0, 1 \) == '#' \)    this.pageNum = parseInt\( cChoice.slice\( 1 \) \); else if\( cChoice != null && cChoice.substring\( 0, 4 \) == 'http' \)    app.launchURL\( cChoice \);) >>
 >>
@@ -843,7 +843,7 @@ endobj
 32 0 obj
 << /Type /Annot
    /Subtype /Link
-   /Rect [259.083 441.238 273.947 453.842]
+   /Rect [264.281 441.238 280.548 452.198]
    /Border [16 16 0]
    /A << /Type /Action /S /JavaScript /JS (var aParams = [ { cName: 'Reference designator = R8', cReturn: null }, { cName: 'Value = 1K', cReturn: null }, { cName: 'Sheetfile = pico.kicad_sch', cReturn: null }, { cName: 'Sheetname = MIDI', cReturn: null }, { cName: 'Supplier = https://www.digikey.ch/de/products/detail/stackpole-electronics-inc/RNCP0805FTD1K00/2240229', cReturn: 'https://www.digikey.ch/de/products/detail/stackpole-electronics-inc/RNCP0805FTD1K00/2240229' }, { cName: 'ki_description = Resistor, small symbol', cReturn: null }, { cName: 'ki_keywords = R resistor', cReturn: null }, { cName: 'Footprint = Resistor_SMD:R_0805_2012Metric', cReturn: null }, { cName: 'Description = Resistor SMD 0805 \\u00282012 Metric\\u0029, square \\u0028rectangular\\u0029 end terminal, IPC_7351 nominal, \\u0028Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf\\u0029, generated with kicad-footprint-generator', cReturn: 'https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf\\u0029, generated with kicad-footprint-generator' }, { cName: 'Keywords = resistor', cReturn: null }, ]; var cChoice = app.popUpMenuEx.apply\( app, aParams \); if\( cChoice != null && cChoice.substring\( 0, 1 \) == '#' \)    this.pageNum = parseInt\( cChoice.slice\( 1 \) \); else if\( cChoice != null && cChoice.substring\( 0, 4 \) == 'http' \)    app.launchURL\( cChoice \);) >>
 >>
@@ -963,7 +963,7 @@ endobj
 47 0 obj
 << /Type /Annot
    /Subtype /Link
-   /Rect [249.219 424.201 255.462 442.438]
+   /Rect [245.344 424.201 254.858 442.438]
    /Border [16 16 0]
    /A << /Type /Action /S /JavaScript /JS (var aParams = [ { cName: 'Reference designator = R7', cReturn: null }, { cName: 'Value = 220R', cReturn: null }, { cName: 'Sheetfile = leds.kicad_sch', cReturn: null }, { cName: 'Sheetname = LEDs', cReturn: null }, { cName: 'Supplier = https://www.digikey.ch/de/products/detail/stackpole-electronics-inc/RMCF0805FT220R/1760238', cReturn: 'https://www.digikey.ch/de/products/detail/stackpole-electronics-inc/RMCF0805FT220R/1760238' }, { cName: 'ki_description = Resistor, small symbol', cReturn: null }, { cName: 'ki_keywords = R resistor', cReturn: null }, { cName: 'Footprint = Resistor_SMD:R_0805_2012Metric', cReturn: null }, { cName: 'Description = Resistor SMD 0805 \\u00282012 Metric\\u0029, square \\u0028rectangular\\u0029 end terminal, IPC_7351 nominal, \\u0028Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf\\u0029, generated with kicad-footprint-generator', cReturn: 'https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf\\u0029, generated with kicad-footprint-generator' }, { cName: 'Keywords = resistor', cReturn: null }, ]; var cChoice = app.popUpMenuEx.apply\( app, aParams \); if\( cChoice != null && cChoice.substring\( 0, 1 \) == '#' \)    this.pageNum = parseInt\( cChoice.slice\( 1 \) \); else if\( cChoice != null && cChoice.substring\( 0, 4 \) == 'http' \)    app.launchURL\( cChoice \);) >>
 >>
@@ -1758,7 +1758,7 @@ endobj
 434 0 obj
 <<
 /Producer (KiCad PDF)
-/CreationDate (D:20231227211721)
+/CreationDate (D:20240106183132)
 /Creator (PCBNEW)
 /Title (pedalboard-hw-B_Courtyard.pdf)
 >>
