@@ -1,4 +1,4 @@
-### Module positions - created on Sun 07 Jan 2024 18:50:05  ###
+### Module positions - created on Sun 07 Jan 2024 21:07:50  ###
 ### Printed by KiBot
 ## Unit = mm, Angle = deg.
 ## Side : bottom
@@ -6,5 +6,5 @@
 J25      JST PH 3                  JST_PH_B3B-PH-K_1x03_P2.00mm_Vertical                                  54.9544    107.5044   0.0000     bottom
 J26      JST PH 3                  JST_PH_B3B-PH-K_1x03_P2.00mm_Vertical                                  46.0244    107.4944   0.0000     bottom
 J27      Pedalboard Soundcard      Pedalboard_Soundcard                                                   102.2444   62.6188    180.0000   bottom
-J28      JST PH 3                  JST_PH_B3B-PH-K_1x03_P2.00mm_Vertical                                  28.7544    3.1644     180.0000   bottom
+J28      JST PH 3                  JST_PH_B3B-PH-K_1x03_P2.00mm_Vertical                                  20.1444    3.0144     180.0000   bottom
 ## End
