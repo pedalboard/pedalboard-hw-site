@@ -1795,7 +1795,7 @@ PIN "1" PAD44 0 0 TOP 0 0
 PIN "2" PAD37 0.0787402 0 TOP 0 0
 PIN "3" PAD37 0.15748 0 TOP 0 0
 
-SHAPE "Pedalboard Library:HiFi Berry DAC ADC+"
+SHAPE "Pedalboard Library:Pedalboard_Soundcard"
 INSERT TH
 LINE -2.01693 0.191732 -2.01693 -2.09173
 LINE -1.86929 -2.22953 -1.87913 -2.22953
@@ -3293,14 +3293,14 @@ TEXT 0 -0.145669 0.0393701 360 MIRRORX SILKSCREEN_BOTTOM "Spacer" 0 0 0.23622 0.
 SHEET "RefDes: H11, Value: Spacer"
 
 COMPONENT "J27"
-DEVICE "DEV_Pedalboard Library:HiFi Berry DAC ADC+"
+DEVICE "DEV_Pedalboard Library:Pedalboard_Soundcard"
 PLACE 4.73425 -2.69195
 LAYER BOTTOM
 ROTATION 180
-SHAPE "Pedalboard Library:HiFi Berry DAC ADC+" MIRRORX FLIP
-TEXT -0.120079 -0.00489764 0.0393701 360 MIRRORX SILKSCREEN_BOTTOM "J27" 0 0 0.11811 0.0393701
-TEXT -0.135827 -1 0.0393701 270 MIRRORX SILKSCREEN_BOTTOM "HiFi Berry" 0 0 0.393701 0.0393701
-SHEET "RefDes: J27, Value: HiFi Berry"
+SHAPE "Pedalboard Library:Pedalboard_Soundcard" MIRRORX FLIP
+TEXT -0.00431496 -1.87328 0.0393701 360 MIRRORX SILKSCREEN_BOTTOM "J27" 0 0 0.11811 0.0393701
+TEXT -0.135827 -1 0.0393701 270 MIRRORX SILKSCREEN_BOTTOM "Pedalboard Soundcard" 0 0 0.787402 0.0393701
+SHEET "RefDes: J27, Value: Pedalboard Soundcard"
 
 COMPONENT "J26"
 DEVICE "DEV_Connector_JST:JST_PH_B3B-PH-K_1x03_P2.00mm_Vertical"
@@ -3315,7 +3315,39 @@ $ENDCOMPONENTS
 
 $DEVICES
 
+DEVICE "DEV_Fiducial:Fiducial_1.5mm_Mask3mm"
+PART "Fiducial"
+PACKAGE "Fiducial:Fiducial_1.5mm_Mask3mm"
+
+DEVICE "DEV_Resistor_SMD:R_0805_2012Metric"
+PART "3K9"
+PACKAGE "Resistor_SMD:R_0805_2012Metric"
+
 DEVICE "DEV_Capacitor_SMD:C_0805_2012Metric"
+PART "100n"
+PACKAGE "Capacitor_SMD:C_0805_2012Metric"
+
+DEVICE "DEV_TestPoint:TestPoint_Pad_2.0x2.0mm"
+PART "TestPoint"
+PACKAGE "TestPoint:TestPoint_Pad_2.0x2.0mm"
+
+DEVICE "DEV_Pedalboard Library:Jack_6.35mm_Horizontal"
+PART "Jack 6.35mm"
+PACKAGE "Pedalboard Library:Jack_6.35mm_Horizontal"
+
+DEVICE "DEV_Resistor_SMD:R_0805_2012Metric_0"
+PART "27R"
+PACKAGE "Resistor_SMD:R_0805_2012Metric"
+
+DEVICE "DEV_Symbol:OSHW-Logo_7.5x8mm_SilkScreen"
+PART "Logo_Open_Hardware_Small"
+PACKAGE "Symbol:OSHW-Logo_7.5x8mm_SilkScreen"
+
+DEVICE "DEV_Pedalboard Library:Jack_3.5mm_CUI_SJ1-3525N_Horizontal"
+PART "Jack 3.5mm"
+PACKAGE "Pedalboard Library:Jack_3.5mm_CUI_SJ1-3525N_Horizontal"
+
+DEVICE "DEV_Capacitor_SMD:C_0805_2012Metric_0"
 PART "100n"
 PACKAGE "Capacitor_SMD:C_0805_2012Metric"
 
@@ -3323,41 +3355,9 @@ DEVICE "DEV_MountingHole:MountingHole_2.7mm_M2.5_DIN965"
 PART "MountingHole"
 PACKAGE "MountingHole:MountingHole_2.7mm_M2.5_DIN965"
 
-DEVICE "DEV_TestPoint:TestPoint_Pad_2.0x2.0mm"
-PART "TestPoint"
-PACKAGE "TestPoint:TestPoint_Pad_2.0x2.0mm"
-
-DEVICE "DEV_Resistor_SMD:R_0805_2012Metric_0"
-PART "DNF"
-PACKAGE "Resistor_SMD:R_0805_2012Metric"
-
-DEVICE "DEV_Fiducial:Fiducial_1.5mm_Mask3mm"
-PART "Fiducial"
-PACKAGE "Fiducial:Fiducial_1.5mm_Mask3mm"
-
 DEVICE "DEV_Diode_SMD:D_SMA"
 PART "SS34HF"
 PACKAGE "Diode_SMD:D_SMA"
-
-DEVICE "DEV_Pedalboard Library:Jack_3.5mm_CUI_SJ1-3525N_Horizontal"
-PART "Jack 3.5mm"
-PACKAGE "Pedalboard Library:Jack_3.5mm_CUI_SJ1-3525N_Horizontal"
-
-DEVICE "DEV_Capacitor_SMD:C_0805_2012Metric_0"
-PART "1n"
-PACKAGE "Capacitor_SMD:C_0805_2012Metric"
-
-DEVICE "DEV_Pedalboard Library:Jack_6.35mm_Horizontal"
-PART "Jack 6.35mm"
-PACKAGE "Pedalboard Library:Jack_6.35mm_Horizontal"
-
-DEVICE "DEV_Symbol:OSHW-Logo_7.5x8mm_SilkScreen"
-PART "Logo_Open_Hardware_Small"
-PACKAGE "Symbol:OSHW-Logo_7.5x8mm_SilkScreen"
-
-DEVICE "DEV_Resistor_SMD:R_0805_2012Metric"
-PART "3K9"
-PACKAGE "Resistor_SMD:R_0805_2012Metric"
 
 DEVICE "DEV_Pedalboard Library:Jack_6.35mm_Horizontal_0"
 PART "Jack 6.35mm"
@@ -3559,9 +3559,9 @@ DEVICE "DEV_Connector_JST:JST_PH_B3B-PH-K_1x03_P2.00mm_Vertical_0"
 PART "JST PH 3"
 PACKAGE "Connector_JST:JST_PH_B3B-PH-K_1x03_P2.00mm_Vertical"
 
-DEVICE "DEV_Pedalboard Library:HiFi Berry DAC ADC+"
-PART "HiFi Berry"
-PACKAGE "Pedalboard Library:HiFi Berry DAC ADC+"
+DEVICE "DEV_Pedalboard Library:Pedalboard_Soundcard"
+PART "Pedalboard Soundcard"
+PACKAGE "Pedalboard Library:Pedalboard_Soundcard"
 $ENDDEVICES
 
 $SIGNALS
