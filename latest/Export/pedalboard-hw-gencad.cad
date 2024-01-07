@@ -2898,7 +2898,7 @@ PLACE 4.64567 -2.20866
 LAYER TOP
 ROTATION 0
 SHAPE "Pedalboard Library:Crystal_SMD_HC49-US" 0 0
-TEXT -0.179528 -0.130709 0.0393701 0 0 SILKSCREEN_TOP "Y1" 0 0 0.0787402 0.0393701
+TEXT 0.304724 -0.122047 0.0393701 0 0 SILKSCREEN_TOP "Y1" 0 0 0.0787402 0.0393701
 TEXT 0 -0.139764 0.0393701 0 0 SILKSCREEN_TOP "ABLS-12.000MHZ-B4-T" 0 0 0.748031 0.0393701
 SHEET "RefDes: Y1, Value: ABLS-12.000MHZ-B4-T"
 
@@ -3315,25 +3315,9 @@ $ENDCOMPONENTS
 
 $DEVICES
 
-DEVICE "DEV_Diode_SMD:D_SMA"
-PART "SS34HF"
-PACKAGE "Diode_SMD:D_SMA"
-
-DEVICE "DEV_Pedalboard Library:Jack_3.5mm_CUI_SJ1-3525N_Horizontal"
-PART "Jack 3.5mm"
-PACKAGE "Pedalboard Library:Jack_3.5mm_CUI_SJ1-3525N_Horizontal"
-
-DEVICE "DEV_Resistor_SMD:R_0805_2012Metric_0"
-PART "27R"
-PACKAGE "Resistor_SMD:R_0805_2012Metric"
-
-DEVICE "DEV_Resistor_SMD:R_0805_2012Metric"
-PART "3K9"
-PACKAGE "Resistor_SMD:R_0805_2012Metric"
-
-DEVICE "DEV_Symbol:OSHW-Logo_7.5x8mm_SilkScreen"
-PART "Logo_Open_Hardware_Small"
-PACKAGE "Symbol:OSHW-Logo_7.5x8mm_SilkScreen"
+DEVICE "DEV_Capacitor_SMD:C_0805_2012Metric"
+PART "100n"
+PACKAGE "Capacitor_SMD:C_0805_2012Metric"
 
 DEVICE "DEV_MountingHole:MountingHole_2.7mm_M2.5_DIN965"
 PART "MountingHole"
@@ -3343,21 +3327,37 @@ DEVICE "DEV_TestPoint:TestPoint_Pad_2.0x2.0mm"
 PART "TestPoint"
 PACKAGE "TestPoint:TestPoint_Pad_2.0x2.0mm"
 
+DEVICE "DEV_Resistor_SMD:R_0805_2012Metric_0"
+PART "DNF"
+PACKAGE "Resistor_SMD:R_0805_2012Metric"
+
 DEVICE "DEV_Fiducial:Fiducial_1.5mm_Mask3mm"
 PART "Fiducial"
 PACKAGE "Fiducial:Fiducial_1.5mm_Mask3mm"
+
+DEVICE "DEV_Diode_SMD:D_SMA"
+PART "SS34HF"
+PACKAGE "Diode_SMD:D_SMA"
+
+DEVICE "DEV_Pedalboard Library:Jack_3.5mm_CUI_SJ1-3525N_Horizontal"
+PART "Jack 3.5mm"
+PACKAGE "Pedalboard Library:Jack_3.5mm_CUI_SJ1-3525N_Horizontal"
 
 DEVICE "DEV_Capacitor_SMD:C_0805_2012Metric_0"
 PART "1n"
 PACKAGE "Capacitor_SMD:C_0805_2012Metric"
 
-DEVICE "DEV_Capacitor_SMD:C_0805_2012Metric"
-PART "100n"
-PACKAGE "Capacitor_SMD:C_0805_2012Metric"
-
 DEVICE "DEV_Pedalboard Library:Jack_6.35mm_Horizontal"
 PART "Jack 6.35mm"
 PACKAGE "Pedalboard Library:Jack_6.35mm_Horizontal"
+
+DEVICE "DEV_Symbol:OSHW-Logo_7.5x8mm_SilkScreen"
+PART "Logo_Open_Hardware_Small"
+PACKAGE "Symbol:OSHW-Logo_7.5x8mm_SilkScreen"
+
+DEVICE "DEV_Resistor_SMD:R_0805_2012Metric"
+PART "3K9"
+PACKAGE "Resistor_SMD:R_0805_2012Metric"
 
 DEVICE "DEV_Pedalboard Library:Jack_6.35mm_Horizontal_0"
 PART "Jack 6.35mm"
