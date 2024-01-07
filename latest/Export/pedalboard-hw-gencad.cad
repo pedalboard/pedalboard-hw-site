@@ -1704,7 +1704,7 @@ LINE 0.122047 -0.122047 0.122047 -0.104331
 PIN "1" PAD31 -0.0816929 0 TOP 0 0
 PIN "2" PAD31 0.0816929 0 TOP 0 0
 
-SHAPE "Connector_JST:JST_PH_B4B-PH-SM4-TB_1x04-1MP_P2.00mm_Vertical"
+SHAPE "Pedalboard Library:JST_PH_B4B-PH-SM4-TB_1x04-1MP_P2.00mm_Vertical"
 INSERT SMD
 LINE -0.239567 0.171654 0.239567 0.171654
 LINE -0.239567 0.138189 -0.239567 0.171654
@@ -3203,12 +3203,12 @@ TEXT -0.0893701 -0.0011811 0.0393701 -180 0 SILKSCREEN_TOP "1u" 0 0 0.0787402 0.
 SHEET "RefDes: C12, Value: 1u"
 
 COMPONENT "J14"
-DEVICE "DEV_Connector_JST:JST_PH_B4B-PH-SM4-TB_1x04-1MP_P2.00mm_Vertical"
+DEVICE "DEV_Pedalboard Library:JST_PH_B4B-PH-SM4-TB_1x04-1MP_P2.00mm_Vertical"
 PLACE 5.74291 -2.1185
 LAYER TOP
 ROTATION 90
-SHAPE "Connector_JST:JST_PH_B4B-PH-SM4-TB_1x04-1MP_P2.00mm_Vertical" 0 0
-TEXT -0.296457 0.0122047 0.0393701 90 0 SILKSCREEN_TOP "J14" 0 0 0.11811 0.0393701
+SHAPE "Pedalboard Library:JST_PH_B4B-PH-SM4-TB_1x04-1MP_P2.00mm_Vertical" 0 0
+TEXT 0 0.214567 0.0393701 0 0 SILKSCREEN_TOP "J14" 0 0 0.11811 0.0393701
 TEXT 0 -0.175197 0.0393701 0 0 SILKSCREEN_TOP "JST PH 4" 0 0 0.314961 0.0393701
 SHEET "RefDes: J14, Value: JST PH 4"
 
@@ -3335,49 +3335,49 @@ $ENDCOMPONENTS
 
 $DEVICES
 
-DEVICE "DEV_Pedalboard Library:Jack_6.35mm_Horizontal"
-PART "Jack 6.35mm"
-PACKAGE "Pedalboard Library:Jack_6.35mm_Horizontal"
+DEVICE "DEV_Resistor_SMD:R_0805_2012Metric_0"
+PART "27R"
+PACKAGE "Resistor_SMD:R_0805_2012Metric"
+
+DEVICE "DEV_MountingHole:MountingHole_2.7mm_M2.5_DIN965"
+PART "MountingHole"
+PACKAGE "MountingHole:MountingHole_2.7mm_M2.5_DIN965"
+
+DEVICE "DEV_Fiducial:Fiducial_1.5mm_Mask3mm"
+PART "Fiducial"
+PACKAGE "Fiducial:Fiducial_1.5mm_Mask3mm"
 
 DEVICE "DEV_Capacitor_SMD:C_0805_2012Metric_0"
 PART "1n"
 PACKAGE "Capacitor_SMD:C_0805_2012Metric"
 
-DEVICE "DEV_TestPoint:TestPoint_Pad_2.0x2.0mm"
-PART "TestPoint"
-PACKAGE "TestPoint:TestPoint_Pad_2.0x2.0mm"
-
-DEVICE "DEV_Resistor_SMD:R_0805_2012Metric_0"
-PART "DNF"
+DEVICE "DEV_Resistor_SMD:R_0805_2012Metric"
+PART "3K9"
 PACKAGE "Resistor_SMD:R_0805_2012Metric"
 
 DEVICE "DEV_Pedalboard Library:Jack_3.5mm_CUI_SJ1-3525N_Horizontal"
 PART "Jack 3.5mm"
 PACKAGE "Pedalboard Library:Jack_3.5mm_CUI_SJ1-3525N_Horizontal"
 
-DEVICE "DEV_MountingHole:MountingHole_2.7mm_M2.5_DIN965"
-PART "MountingHole"
-PACKAGE "MountingHole:MountingHole_2.7mm_M2.5_DIN965"
+DEVICE "DEV_Pedalboard Library:Jack_6.35mm_Horizontal"
+PART "Jack 6.35mm"
+PACKAGE "Pedalboard Library:Jack_6.35mm_Horizontal"
+
+DEVICE "DEV_TestPoint:TestPoint_Pad_2.0x2.0mm"
+PART "TestPoint"
+PACKAGE "TestPoint:TestPoint_Pad_2.0x2.0mm"
 
 DEVICE "DEV_Symbol:OSHW-Logo_7.5x8mm_SilkScreen"
 PART "Logo_Open_Hardware_Small"
 PACKAGE "Symbol:OSHW-Logo_7.5x8mm_SilkScreen"
 
-DEVICE "DEV_Diode_SMD:D_SMA"
-PART "SS34HF"
-PACKAGE "Diode_SMD:D_SMA"
-
-DEVICE "DEV_Fiducial:Fiducial_1.5mm_Mask3mm"
-PART "Fiducial"
-PACKAGE "Fiducial:Fiducial_1.5mm_Mask3mm"
-
-DEVICE "DEV_Resistor_SMD:R_0805_2012Metric"
-PART "3K9"
-PACKAGE "Resistor_SMD:R_0805_2012Metric"
-
 DEVICE "DEV_Capacitor_SMD:C_0805_2012Metric"
 PART "100n"
 PACKAGE "Capacitor_SMD:C_0805_2012Metric"
+
+DEVICE "DEV_Diode_SMD:D_SMA"
+PART "SS34HF"
+PACKAGE "Diode_SMD:D_SMA"
 
 DEVICE "DEV_Pedalboard Library:Jack_6.35mm_Horizontal_0"
 PART "Jack 6.35mm"
@@ -3563,9 +3563,9 @@ DEVICE "DEV_Inductor_SMD:L_Bourns_SRN6045TA"
 PART "SRN6045TA-3R3Y"
 PACKAGE "Inductor_SMD:L_Bourns_SRN6045TA"
 
-DEVICE "DEV_Connector_JST:JST_PH_B4B-PH-SM4-TB_1x04-1MP_P2.00mm_Vertical"
+DEVICE "DEV_Pedalboard Library:JST_PH_B4B-PH-SM4-TB_1x04-1MP_P2.00mm_Vertical"
 PART "JST PH 4"
-PACKAGE "Connector_JST:JST_PH_B4B-PH-SM4-TB_1x04-1MP_P2.00mm_Vertical"
+PACKAGE "Pedalboard Library:JST_PH_B4B-PH-SM4-TB_1x04-1MP_P2.00mm_Vertical"
 
 DEVICE "DEV_Pedalboard Library:WA-SMSI_M2.5"
 PART "Spacer"
