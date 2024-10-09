@@ -3,15 +3,15 @@
     "GenerationSoftware": {
       "Vendor": "KiCad",
       "Application": "Pcbnew",
-      "Version": "7.0.9-7.0.9~ubuntu23.04.1"
+      "Version": "8.0.4+1"
     },
-    "CreationDate": "2024-01-07T22:17:37+00:00"
+    "CreationDate": "2024-10-09T21:37:37+00:00"
   },
   "GeneralSpecs": {
     "ProjectId": {
       "Name": "pedalboard-hw",
       "GUID": "70656461-6c62-46f6-9172-642d68772e6b",
-      "Revision": "3.2.0-RC1"
+      "Revision": "4.0.0-RC1"
     },
     "Size": {
       "X": 174.1,
@@ -24,8 +24,8 @@
   "DesignRules": [
     {
       "Layers": "Outer",
-      "PadToPad": 0.0,
-      "PadToTrack": 0.0,
+      "PadToPad": 0.1542,
+      "PadToTrack": 0.1542,
       "TrackToTrack": 0.1542,
       "MinLineWidth": 0.2,
       "TrackToRegion": 0.2,
