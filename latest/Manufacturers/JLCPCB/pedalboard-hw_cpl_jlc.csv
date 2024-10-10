@@ -73,7 +73,7 @@ Designator,Val,Package,Mid X,Mid Y,Rotation,Layer
 "R18","3K9","R_0805_2012Metric",130.7344,86.1844,180.0000,top
 "R19","3K9","R_0805_2012Metric",129.9744,88.1044,180.0000,top
 "R20","220R","R_0805_2012Metric",66.6694,89.2694,90.0000,top
-"R21","27R","R_0805_2012Metric",93.8844,76.1844,0.0000,top
+"R21","1K","R_0805_2012Metric",93.8844,76.1844,0.0000,top
 "SW5","Tactile Button","SW_PUSH-12mm_Wuerth",11.9944,63.9944,0.0000,top
 "SW6","Tactile Button","SW_PUSH-12mm_Wuerth",86.9944,63.9944,0.0000,top
 "SW7","Tactile Button","SW_PUSH-12mm_Wuerth",161.9944,63.9944,0.0000,top
