@@ -1,4 +1,4 @@
-### Module positions - created on Sun 13 Oct 2024 18:47:56  ###
+### Module positions - created on Sun 13 Oct 2024 21:09:17  ###
 ### Printed by KiBot
 ## Unit = mm, Angle = deg.
 ## Side : top
@@ -20,7 +20,7 @@ C14      1u                        C_0805_2012Metric                            
 C15      100n                      C_0805_2012Metric                                                      76.8819    77.1444    180.0000   top   
 C16      100n                      C_0805_2012Metric                                                      95.1944    83.2944    -90.0000   top   
 C17      100n                      C_0805_2012Metric                                                      84.1844    92.4544    180.0000   top   
-C18      100n                      C_0805_2012Metric                                                      76.8444    81.1944    180.0000   top   
+C18      100n                      C_0805_2012Metric                                                      76.9056    81.0986    180.0000   top   
 C19      100n                      C_0805_2012Metric                                                      85.3444    78.2944    -90.0000   top   
 C20      100n                      C_0805_2012Metric                                                      90.6344    78.1944    -90.0000   top   
 C21      100n                      C_0805_2012Metric                                                      81.4344    91.1444    90.0000    top   
@@ -58,21 +58,21 @@ D2       LED Y                     LED_0805_2012Metric                          
 D6       LED Y                     LED_0805_2012Metric                                                    89.0844    53.2419    -90.0000   top   
 D7       LED R                     LED_0805_2012Metric                                                    87.0844    53.2419    -90.0000   top   
 F1       Polyfuse 1.8A             Fuse_1812_4532Metric                                                   148.0644   103.2844   180.0000   top   
-FID1     Fiducial                  Fiducial_1.5mm_Mask3mm                                                 2.0544     102.5044   0.0000     top   
-FID2     Fiducial                  Fiducial_1.5mm_Mask3mm                                                 171.9944   101.9944   0.0000     top   
-FID3     Fiducial                  Fiducial_1.5mm_Mask3mm                                                 6.4944     2.4944     0.0000     top   
-FID4     Fiducial                  Fiducial_1.5mm_Mask3mm                                                 166.9944   2.9944     0.0000     top   
+FID1     Fiducial                  Fiducial_1.5mm_Mask3mm                                                 1.9944     102.9944   0.0000     top   
+FID2     Fiducial                  Fiducial_1.5mm_Mask3mm                                                 172.0000   103.0000   0.0000     top   
+FID3     Fiducial                  Fiducial_1.5mm_Mask3mm                                                 2.0000     8.0000     0.0000     top   
+FID4     Fiducial                  Fiducial_1.5mm_Mask3mm                                                 172.0000   8.0000     0.0000     top   
 H2       Midi Bites                MIDI bites                                                             87.0944    110.9194   0.0000     top   
 J2       DIN5                      CP-2350                                                                71.9944    108.9944   180.0000   top   
 J4       DIN5                      CP-2350                                                                101.9944   108.9944   180.0000   top   
 J5       Jack 6.35mm               Jack_6.35mm_Horizontal                                                 157.6094   97.1944    0.0000     top   
-J6       Screw_Terminal_01x02      TerminalBlock_Phoenix_MKDS-1,5-2_1x02_P5.00mm_Horizontal               160.4944   102.7844   90.0000    top   
-J7       Barrel_Jack_MountingPin   BarrelJack_Wuerth_6941xx301002                                         161.3944   100.5944   180.0000   top   
+J6       Screw_Terminal_01x02      TerminalBlock_Phoenix_MKDS-1,5-2_1x02_P5.00mm_Horizontal               157.6316   102.7958   90.0000    top   
+J7       Barrel_Jack_MountingPin   BarrelJack_Wuerth_6941xx301002                                         158.5316   100.6058   180.0000   top   
 J8       Jack 6.35mm               Jack_6.35mm_Horizontal                                                 16.3944    80.9944    180.0000   top   
 J9       USB_OTG                   USB_Micro-B_Amphenol_10103594-0001LF_Horizontal                        2.6644     74.4944    -90.0000   top   
 J10      USB_A                     USB_A_Molex_67643_Horizontal                                           35.0744    99.2444    180.0000   top   
 J12      Debug                     PinHeader_1x03_P2.54mm_Vertical                                        111.3094   86.5444    90.0000    top   
-J14      JST PH 4                  JST_PH_B4B-PH-SM4-TB_1x04-1MP_P2.00mm_Vertical                         127.8644   77.1844    90.0000    top   
+J14      JST PH 4                  JST_PH_B4B-PH-SM4-TB_1x04-1MP_P2.00mm_Vertical                         128.2310   78.0252    90.0000    top   
 J16      Debug                     PinHeader_1x03_P2.54mm_Vertical                                        89.2194    49.6944    -90.0000   top   
 J18      Jack 6.35mm               Jack_6.35mm_Horizontal                                                 157.5944   56.2144    0.0000     top   
 J19      Jack 6.35mm               Jack_6.35mm_Horizontal                                                 16.3944    19.7944    180.0000   top   
@@ -85,7 +85,7 @@ L3       120_100MHz                L_0603_1608Metric                            
 L4       120_100MHz                L_0603_1608Metric                                                      61.8160    89.7980    -90.0000   top   
 L5       SRN6045TA-3R3Y            L_Bourns_SRN6045TA                                                     146.8944   80.8544    -90.0000   top   
 Q1       FDS4435BZ                 SO08-E3                                                                141.8544   102.8344   0.0000     top   
-R1       1K                        R_0805_2012Metric                                                      153.0944   100.1644   0.0000     top   
+R1       1K                        R_0805_2012Metric                                                      133.1920   107.2606   90.0000    top   
 R2       1K                        R_0805_2012Metric                                                      24.6944    83.5344    -90.0000   top   
 R3       220R                      R_0805_2012Metric                                                      63.5410    89.9980    90.0000    top   
 R4       33R                       R_0805_2012Metric                                                      75.2034    88.6030    180.0000   top   
@@ -106,8 +106,8 @@ R18      3K9                       R_0805_2012Metric                            
 R19      3K9                       R_0805_2012Metric                                                      129.9744   88.1044    180.0000   top   
 R20      220R                      R_0805_2012Metric                                                      121.7620   84.8578    180.0000   top   
 R21      1K                        R_0805_2012Metric                                                      93.8844    76.1844    0.0000     top   
-R22      2K2                       R_0805_2012Metric                                                      24.8610    70.7608    180.0000   top   
-R23      2K2                       R_0805_2012Metric                                                      27.5026    69.8464    -90.0000   top   
+R22      2K2                       R_0805_2012Metric                                                      24.8610    71.7768    180.0000   top   
+R23      2K2                       R_0805_2012Metric                                                      27.5026    70.8624    -90.0000   top   
 R24      12K                       R_0805_2012Metric                                                      42.9644    86.3744    90.0000    top   
 R25      36K                       R_0805_2012Metric                                                      32.3744    78.3300    -90.0000   top   
 R26      36K                       R_0805_2012Metric                                                      30.4744    78.3300    -90.0000   top   
