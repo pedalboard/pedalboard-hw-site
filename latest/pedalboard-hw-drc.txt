@@ -1,33 +1,33 @@
 ** Drc report for pedalboard-hw.kicad_pcb **
-** Created on 2024-10-10T18:10:50+0000 **
+** Created on 2024-10-13T10:07:37+0000 **
 
 ** Found 7 DRC violations **
 [courtyards_overlap]: Courtyards overlap
-    ; error (excluded)
+    ; warning (excluded)
     @(34.4 mm, 111.2 mm): Footprint J19
     @(34.4 mm, 91.0 mm): Footprint J20
 [courtyards_overlap]: Courtyards overlap
-    ; error (excluded)
+    ; warning (excluded)
     @(34.4 mm, 111.2 mm): Footprint J19
     @(30.0 mm, 119.0 mm): Footprint SW8
 [courtyards_overlap]: Courtyards overlap
-    ; error (excluded)
+    ; warning (excluded)
     @(179.4 mm, 30.4 mm): Footprint J7
     @(178.5 mm, 28.21 mm): Footprint J6
 [courtyards_overlap]: Courtyards overlap
-    ; error (excluded)
+    ; warning (excluded)
     @(34.4 mm, 91.0 mm): Footprint J20
     @(30.0 mm, 67.0 mm): Footprint SW5
 [courtyards_overlap]: Courtyards overlap
-    ; error (excluded)
+    ; warning (excluded)
     @(175.6 mm, 94.995 mm): Footprint J22
     @(175.6 mm, 74.78 mm): Footprint J18
 [courtyards_overlap]: Courtyards overlap
-    ; error (excluded)
+    ; warning (excluded)
     @(175.6 mm, 94.995 mm): Footprint J22
     @(180.0 mm, 119.0 mm): Footprint SW10
 [courtyards_overlap]: Courtyards overlap
-    ; error (excluded)
+    ; warning (excluded)
     @(175.6 mm, 74.78 mm): Footprint J18
     @(180.0 mm, 67.0 mm): Footprint SW7
 

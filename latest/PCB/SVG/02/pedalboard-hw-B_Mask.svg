@@ -332,26 +332,9 @@
 </g>
 <g style="fill:#000000; fill-opacity:1.0000; stroke:none;">
 <circle cx="130.1000" cy="36.0750" r="0.3000"/> 
-<path style="fill:#000000; fill-opacity:1.0000; stroke:none;fill-rule:evenodd;" d="M 72.1600,55.4500 71.3200,55.4500 71.3200,54.6100 72.1600,54.6100 Z"/> 
 </g>
 <g style="fill:#000000; fill-opacity:1.0000; stroke:none;">
-<circle cx="72.7400" cy="54.3800" r="0.4200"/> 
-</g>
-<g style="fill:#000000; fill-opacity:1.0000; stroke:none;">
-<circle cx="71.7400" cy="53.7300" r="0.4200"/> 
-</g>
-<g style="fill:#000000; fill-opacity:1.0000; stroke:none;">
-<circle cx="72.7400" cy="53.0800" r="0.4200"/> 
-</g>
-<g style="fill:#000000; fill-opacity:1.0000; stroke:none;">
-<circle cx="71.7400" cy="52.4300" r="0.4200"/> 
-</g>
-<g style="fill:none;  stroke:#000000; stroke-width:0.8500; stroke-opacity:1;  stroke-linecap:round; stroke-linejoin:round;">
-<path d="M71.4600 57.3050 L72.4600 57.3050 "/>
-<path d="M71.4600 50.1550 L72.4600 50.1550 "/>
-</g>
-<g style="fill:#000000; fill-opacity:1.0000; stroke:none;">
-<circle cx="42.0000" cy="23.0000" r="1.3500"/> 
+<circle cx="25.0000" cy="23.0000" r="1.3500"/> 
 </g>
 <g style="fill:#000000; fill-opacity:1.0000; stroke:none;">
 <circle cx="181.9650" cy="33.8000" r="1.5000"/> 
@@ -382,6 +365,9 @@
 <path style="fill:#000000; fill-opacity:1.0000; stroke:none;fill-rule:evenodd;" d="M 125.9508,23.0000 125.9469,23.0194 125.9359,23.0359 125.9194,23.0469 125.9000,23.0508 124.1000,23.0508 124.0806,23.0469 124.0641,23.0359 124.0531,23.0194 124.0492,23.0000 124.0492,21.0000 124.0531,20.9806 124.0641,20.9641 124.0806,20.9531 124.1000,20.9492 125.9000,20.9492 125.9194,20.9531 125.9359,20.9641 125.9469,20.9806 125.9508,21.0000 Z"/> 
 <path style="fill:#000000; fill-opacity:1.0000; stroke:none;fill-rule:evenodd;" d="M 115.9508,23.0000 115.9469,23.0194 115.9359,23.0359 115.9194,23.0469 115.9000,23.0508 114.1000,23.0508 114.0806,23.0469 114.0641,23.0359 114.0531,23.0194 114.0492,23.0000 114.0492,21.0000 114.0531,20.9806 114.0641,20.9641 114.0806,20.9531 114.1000,20.9492 115.9000,20.9492 115.9194,20.9531 115.9359,20.9641 115.9469,20.9806 115.9508,21.0000 Z"/> 
 <path style="fill:#000000; fill-opacity:1.0000; stroke:none;fill-rule:evenodd;" d="M 116.5641,23.0359 116.5492,23.0000 116.5492,21.0000 116.5641,20.9641 116.6000,20.9492 117.5000,20.9492 117.5359,20.9641 118.4359,21.8641 118.4508,21.9000 118.4508,23.0000 118.4359,23.0359 118.4000,23.0508 116.6000,23.0508 Z"/> 
+</g>
+<g style="fill:#000000; fill-opacity:1.0000; stroke:none;">
+<circle cx="119.0000" cy="63.5000" r="1.3500"/> 
 <path style="fill:#000000; fill-opacity:1.0000; stroke:none;fill-rule:evenodd;" d="M 59.2500,32.5000 59.2500,30.5000 61.2500,30.5000 61.2500,32.5000 Z"/> 
 </g>
 <g style="fill:#000000; fill-opacity:1.0000; stroke:none;">
@@ -426,8 +412,31 @@
 <g style="fill:#000000; fill-opacity:1.0000; stroke:none;">
 <circle cx="175.6000" cy="91.0100" r="1.5000"/> 
 </g>
+<g style="fill:none;  stroke:#000000; stroke-width:1.3500; stroke-opacity:1;  stroke-linecap:round; stroke-linejoin:round;">
+<path d="M19.3800 53.7450 L19.7300 53.7450 "/>
+</g>
+<g style="fill:none;  stroke:#000000; stroke-width:1.1000; stroke-opacity:1;  stroke-linecap:round; stroke-linejoin:round;">
+<path d="M22.3550 54.0550 L22.7550 54.0550 "/>
+<path d="M22.3550 58.8950 L22.7550 58.8950 "/>
+</g>
+<g style="fill:none;  stroke:#000000; stroke-width:1.3500; stroke-opacity:1;  stroke-linecap:round; stroke-linejoin:round;">
+<path d="M19.3800 59.2050 L19.7300 59.2050 "/>
+<path style="fill:#000000; fill-opacity:1.0000; stroke:none;fill-rule:evenodd;" d="M 53.8800,31.0000 53.8800,32.5000 52.2800,32.5000 52.2800,31.0000 Z"/> 
+</g>
 <g style="fill:#000000; fill-opacity:1.0000; stroke:none;">
-<circle cx="118.9000" cy="63.5656" r="1.3500"/> 
+<circle cx="50.5800" cy="31.7500" r="0.8000"/> 
+</g>
+<g style="fill:#000000; fill-opacity:1.0000; stroke:none;">
+<circle cx="48.5800" cy="31.7500" r="0.8000"/> 
+</g>
+<g style="fill:#000000; fill-opacity:1.0000; stroke:none;">
+<circle cx="46.0800" cy="31.7500" r="0.8000"/> 
+</g>
+<g style="fill:#000000; fill-opacity:1.0000; stroke:none;">
+<circle cx="56.1500" cy="29.0400" r="1.5000"/> 
+</g>
+<g style="fill:#000000; fill-opacity:1.0000; stroke:none;">
+<circle cx="43.0100" cy="29.0400" r="1.5000"/> 
 </g>
 <g style="fill:#000000; fill-opacity:1.0000; stroke:none;">
 <circle cx="89.0000" cy="111.5000" r="3.0500"/> 
