@@ -1,4 +1,4 @@
-### Module positions - created on Sun 13 Oct 2024 11:01:51  ###
+### Module positions - created on Sun 13 Oct 2024 17:34:42  ###
 ### Printed by KiBot
 ## Unit = mm, Angle = deg.
 ## Side : top
@@ -35,17 +35,17 @@ C29      1n                        C_0805_2012Metric                            
 C30      100n                      C_0805_2012Metric                                                      145.2044   90.2744    90.0000    top   
 C31      1.2n                      C_0805_2012Metric                                                      142.6644   81.1744    90.0000    top   
 C32      10u                       C_0805_2012Metric                                                      142.6144   77.7744    90.0000    top   
-C33      100u                      CP_EIA-7343-31_Kemet-D                                                 135.2644   75.8644    90.0000    top   
+C33      100u                      CP_EIA-7343-31_Kemet-D                                                 136.7734   73.5802    180.0000   top   
 C34      1n                        C_0805_2012Metric                                                      141.6344   83.8844    0.0000     top   
 C35      100n                      C_0805_2012Metric                                                      137.8344   90.6244    -90.0000   top   
 C36      10u                       C_0805_2012Metric                                                      140.6244   77.7644    90.0000    top   
 C37      10u                       C_0805_2012Metric                                                      151.1244   77.2644    90.0000    top   
-C38      10u                       C_0805_2012Metric                                                      14.1544    101.8044   -90.0000   top   
-C39      10u                       C_0805_2012Metric                                                      11.6544    108.7544   90.0000    top   
-C40      10u                       C_0805_2012Metric                                                      13.6144    108.7544   90.0000    top   
-C41      10u                       C_0805_2012Metric                                                      15.5744    108.7544   90.0000    top   
-C42      10u                       C_0805_2012Metric                                                      17.5344    108.7544   90.0000    top   
-C43      100u                      CP_EIA-7343-31_Kemet-D                                                 8.3944     102.4944   180.0000   top   
+C38      10u                       C_0805_2012Metric                                                      51.6326    78.0506    180.0000   top   
+C39      10u                       C_0805_2012Metric                                                      37.7642    93.4896    180.0000   top   
+C40      10u                       C_0805_2012Metric                                                      37.7642    95.4496    180.0000   top   
+C41      10u                       C_0805_2012Metric                                                      21.5590    106.0668   90.0000    top   
+C42      10u                       C_0805_2012Metric                                                      23.5190    106.0668   90.0000    top   
+C43      100u                      CP_EIA-7343-31_Kemet-D                                                 18.4094    101.9520   180.0000   top   
 C44      10u                       C_0805_2012Metric                                                      31.9744    90.7344    90.0000    top   
 C45      10u                       C_0805_2012Metric                                                      40.2344    87.0044    0.0000     top   
 C46      100n                      C_0805_2012Metric                                                      33.5144    70.6944    180.0000   top   
@@ -53,7 +53,7 @@ C47      100n                      C_0805_2012Metric                            
 C48      100n                      C_0805_2012Metric                                                      29.0044    88.0344    90.0000    top   
 C49      100n                      C_0805_2012Metric                                                      29.0044    83.2544    -90.0000   top   
 CM1      CM4                       Raspberry-Pi-4-Compute-Module                                          70.9944    67.4944    180.0000   top   
-D1       SM4007                    D_SOD-123F                                                             63.0944    87.4544    180.0000   top   
+D1       SM4007                    D_SOD-123F                                                             65.6560    89.0730    -90.0000   top   
 D2       LED Y                     LED_0805_2012Metric                                                    98.6944    73.3144    180.0000   top   
 D6       LED Y                     LED_0805_2012Metric                                                    89.0844    53.2419    -90.0000   top   
 D7       LED R                     LED_0805_2012Metric                                                    87.0844    53.2419    -90.0000   top   
@@ -79,17 +79,17 @@ J19      Jack 6.35mm               Jack_6.35mm_Horizontal                       
 J20      Jack 6.35mm               Jack_6.35mm_Horizontal                                                 16.3944    39.9944    180.0000   top   
 J22      Jack 6.35mm               Jack_6.35mm_Horizontal                                                 157.5944   35.9994    0.0000     top   
 J28      JST PH 3                  JST_PH_B3B-PH-SM4-TB_1x03-1MP_P2.00mm_Vertical                         119.2944   78.1944    90.0000    top   
-L1       120_100MHz                L_0603_1608Metric                                                      61.5944    90.0944    -90.0000   top   
-L2       120_100MHz                L_0603_1608Metric                                                      60.9244    79.3544    -90.0000   top   
-L3       120_100MHz                L_0603_1608Metric                                                      62.3844    79.3544    -90.0000   top   
-L4       120_100MHz                L_0603_1608Metric                                                      63.8194    91.2944    180.0000   top   
+L1       120_100MHz                L_0603_1608Metric                                                      63.0160    87.5730    0.0000     top   
+L2       120_100MHz                L_0603_1608Metric                                                      72.0034    87.3470    0.0000     top   
+L3       120_100MHz                L_0603_1608Metric                                                      72.0034    88.8202    0.0000     top   
+L4       120_100MHz                L_0603_1608Metric                                                      61.8160    89.7980    -90.0000   top   
 L5       SRN6045TA-3R3Y            L_Bourns_SRN6045TA                                                     146.8944   80.8544    -90.0000   top   
 Q1       FDS4435BZ                 SO08-E3                                                                141.8544   102.8344   0.0000     top   
 R1       1K                        R_0805_2012Metric                                                      153.0944   100.1644   0.0000     top   
 R2       1K                        R_0805_2012Metric                                                      24.6944    83.5344    -90.0000   top   
-R3       220R                      R_0805_2012Metric                                                      64.0194    89.5694    0.0000     top   
-R4       33R                       R_0805_2012Metric                                                      62.6244    76.1544    90.0000    top   
-R5       10R                       R_0805_2012Metric                                                      60.7244    76.1544    -90.0000   top   
+R3       220R                      R_0805_2012Metric                                                      63.5410    89.9980    90.0000    top   
+R4       33R                       R_0805_2012Metric                                                      75.2034    88.6030    180.0000   top   
+R5       10R                       R_0805_2012Metric                                                      75.2034    86.7030    0.0000     top   
 R6       27R                       R_0805_2012Metric                                                      81.3944    84.6344    0.0000     top   
 R7       220R                      R_0805_2012Metric                                                      119.1144   87.2044    90.0000    top   
 R8       1K                        R_0805_2012Metric                                                      76.9319    79.1444    0.0000     top   
@@ -106,14 +106,14 @@ R18      3K9                       R_0805_2012Metric                            
 R19      3K9                       R_0805_2012Metric                                                      129.9744   88.1044    180.0000   top   
 R20      220R                      R_0805_2012Metric                                                      121.7620   84.8578    180.0000   top   
 R21      1K                        R_0805_2012Metric                                                      93.8844    76.1844    0.0000     top   
-R22      2K2                       R_0805_2012Metric                                                      27.2944    70.7144    0.0000     top   
-R23      2K2                       R_0805_2012Metric                                                      24.6544    71.5544    90.0000    top   
+R22      2K2                       R_0805_2012Metric                                                      24.8610    70.7608    180.0000   top   
+R23      2K2                       R_0805_2012Metric                                                      27.5026    69.8464    -90.0000   top   
 R24      12K                       R_0805_2012Metric                                                      42.9644    86.3744    90.0000    top   
-R25      36K                       R_0805_2012Metric                                                      31.7744    78.3244    -90.0000   top   
-R26      36K                       R_0805_2012Metric                                                      29.8744    78.3244    -90.0000   top   
+R25      36K                       R_0805_2012Metric                                                      32.3744    78.3300    -90.0000   top   
+R26      36K                       R_0805_2012Metric                                                      30.4744    78.3300    -90.0000   top   
 R27      36K                       R_0805_2012Metric                                                      42.6944    83.0144    0.0000     top   
-R28      36K                       R_0805_2012Metric                                                      33.6744    78.3144    -90.0000   top   
-R29      36K                       R_0805_2012Metric                                                      20.7944    105.2744   180.0000   top   
+R28      36K                       R_0805_2012Metric                                                      34.2744    78.3200    -90.0000   top   
+R29      36K                       R_0805_2012Metric                                                      54.9854    82.8766    -90.0000   top   
 SW1      Rotary                    RotaryEncoder_Alps_EC11E-Switch_Vertical_H20mm_CircularMountingHoles   42.2444    99.4944    0.0000     top   
 SW2      Rotary                    RotaryEncoder_Alps_EC11E-Switch_Vertical_H20mm_CircularMountingHoles   117.2444   99.4944    0.0000     top   
 SW3      Micro Button              SW_SPST_B3U-1000P                                                      73.5044    77.3444    90.0000    top   
@@ -125,7 +125,7 @@ SW8      Tactile Button            SW_PUSH-12mm_Wuerth                          
 SW9      Tactile Button            SW_PUSH-12mm_Wuerth                                                    86.9944    11.9944    0.0000     top   
 SW10     Tactile Button            SW_PUSH-12mm_Wuerth                                                    161.9944   11.9944    0.0000     top   
 U1       74AHCT1G32SE-7            SOT-353_SC-70-5                                                        121.7444   87.4944    0.0000     top   
-U2       TLP2761                   SO-6L_10x3.84mm_P1.27mm                                                65.7444    80.6544    -90.0000   top   
+U2       TLP2761                   SO-6L_10x3.84mm_P1.27mm                                                72.4560    91.7230    0.0000     top   
 U3       RP2040                    RP2040-QFN-56                                                          89.3944    85.3944    90.0000    top   
 U4       W25Q128JVS                SOIC-8_5.23x5.23mm_P1.27mm                                             81.4944    78.5444    90.0000    top   
 U5       NCP1117-3.3_SOT223        SOT-223-3_TabPin2                                                      104.8844   76.9444    180.0000   top   
@@ -133,7 +133,7 @@ U6       AP64501SP-13              SOIC-8-1EP_3.9x4.9mm_P1.27mm_EP2.95x4.9mm_Mas
 U7       74AHCT1G32SE-7            SOT-353_SC-70-5                                                        82.5850    53.1419    0.0000     top   
 U8       FSUSB42MUX                TSSOP-10_3x3mm_P0.5mm                                                  38.1144    73.8844    180.0000   top   
 U9       USB2514B_Bi               QFN-36-1EP_6x6mm_P0.5mm_EP3.7x3.7mm                                    34.1844    85.0344    -90.0000   top   
-U10      AP2553W6                  SOT-23-6                                                               17.0944    103.9744   90.0000    top   
+U10      AP2553W6                  SOT-23-6                                                               55.0870    79.1174    90.0000    top   
 X1       ABM8-272-T3               ABM8-272-T3_ABR                                                        97.9944    76.9067    90.0000    top   
 Y1       Crystal_Small             Crystal_SMD_5032-2Pin_5.0x3.2mm                                        48.8344    82.8744    -90.0000   top   
 ## End
