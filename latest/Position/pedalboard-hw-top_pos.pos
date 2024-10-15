@@ -1,4 +1,4 @@
-### Module positions - created on Tue 15 Oct 2024 18:13:19  ###
+### Module positions - created on Tue 15 Oct 2024 18:28:10  ###
 ### Printed by KiBot
 ## Unit = mm, Angle = deg.
 ## Side : top
@@ -139,6 +139,6 @@ U9       USB2514B_Bi               QFN-36-1EP_6x6mm_P0.5mm_EP3.7x3.7mm          
 U10      AP2553W6                  SOT-23-6                                                               55.0870    79.1174    90.0000    top   
 U11      TPD4EUSB30                USON-10_2.5x1.0mm_P0.5mm                                               7.0444     74.0444    180.0000   top   
 U12      AT24CS01-STUM             SOT-23-5                                                               127.9944   86.4944    180.0000   top   
-X1       ABM8-272-T3               ABM8-272-T3_ABR                                                        97.9944    76.9067    90.0000    top   
 Y1       Crystal_Small             Crystal_SMD_5032-2Pin_5.0x3.2mm                                        48.8344    82.8744    -90.0000   top   
+Y2       ABM8-272-T3               ABM8-272-T3_ABR                                                        97.9944    76.9067    90.0000    top   
 ## End
