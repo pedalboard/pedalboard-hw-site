@@ -507,7 +507,7 @@ NETS: 291
 256 Net-(U9-HS_IND{slash}CFG_SEL1)
 257 Net-(U10-ILIM)
 258 /Audio/nEXTRST
-259 /Connectivity/nOSC1
+259 /Connectivity/nOCS1
 260 unconnected-(U9-TEST-Pad11)
 261 Net-(U10-EN)
 262 unconnected-(U9-PLLFILT-Pad34)
