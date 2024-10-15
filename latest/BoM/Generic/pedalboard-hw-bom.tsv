@@ -18,8 +18,8 @@ Row	Description	Part	References	Value	Footprint	Quantity Per PCB	Status	Datashee
 17		NMJ6HCD2	J5 J8 J18 J19 J20 J22	Jack 6.35mm	Jack_6.35mm_Horizontal	6	 	https://www.schurter.com/en/datasheet/typ_4833.2320.pdf	https://www.digikey.ch/de/products/detail/schurter-inc/4833-2320/2644235	EXP1 EXP2 Audio IN Right Audio OUT Left Audio OUT Right Audio IN Left				
 18		Raspberry_Sound_Card	J27	Pedalboard Soundcard	Pedalboard_Soundcard	1	 							
 19		Screw_Terminal_01x02	J6	Screw_Terminal_01x02	TerminalBlock_Phoenix_MKDS-1,5-2_1x02_P5.00mm_Horizontal	1	 	~	https://www.digikey.ch/de/products/detail/phoenix-contact/1715022/260626					
-20	USB Type A connector	USB_A	J10	USB_A	USB_A_Molex_67643_Horizontal	1	 	~						
-21	USB mini/micro connector	USB_OTG	J9	USB_OTG	USB_Micro-B_Amphenol_10103594-0001LF_Horizontal	1	 	~						
+20	USB Type A connector	USB_A	J10	USB_A	USB_A_Molex_67643_Horizontal	1	 	https://www.molex.com/en-us/products/part-detail/676433910?display=pdf	https://www.digikey.ch/de/products/detail/molex/0676433910/3598521					
+21	USB mini/micro connector	USB_OTG	J9	USB_OTG	USB_Micro-B_Amphenol_10103594-0001LF_Horizontal	1	 	https://cdn.amphenol-cs.com/media/wysiwyg/files/documentation/datasheet/inputoutput/io_usb_micro.pdf	https://www.digikey.ch/de/products/detail/amphenol-cs-fci/10103594-0001LF/2350351					
 22		L_Ferrite	L1 L2 L3 L4	120_100MHz	L_0603_1608Metric	4	 	https://www.murata.com/products/productdata/8796738650142/ENFA0003.pdf	https://www.digikey.ch/de/products/detail/murata-electronics/BLM18KG121TN1D/1982762					
 23		INDUCTOR	L5	SRN6045TA-3R3Y	L_Bourns_SRN6045TA	1	 	https://www.bourns.com/docs/Product-Datasheets/SRN6045TA.pdf	https://www.digikey.ch/de/products/detail/bourns-inc/SRN6045TA-3R3Y/6155103	3.3µH Semi-Shielded Wirewound Inductor 7.8A 21mOhm Nonstandard 				
 24		FDS4435BZ	Q1	FDS4435BZ	SO08-E3	1	 	https://www.onsemi.com/pdf/datasheet/fds4435bz_f085-d.pdf	https://www.digikey.ch/de/products/detail/onsemi/FDS4435BZ/1305763					
@@ -38,15 +38,15 @@ Row	Description	Part	References	Value	Footprint	Quantity Per PCB	Status	Datashee
 37		74AHCT1G32SE-7	U1 U7	74AHCT1G32SE-7	SOT-353_SC-70-5	2	 	https://www.diodes.com/assets/Datasheets/74AHCT1G32.pdf	https://www.digikey.ch/de/products/detail/diodes-incorporated/74AHCT1G32SE-7/2711987					
 38		AP2553W6	U10	AP2553W6	SOT-23-6	1	 	https://www.diodes.com/assets/Datasheets/AP255x.pdf					Digikey	AP2553W6-7DICT-ND
 39		AP64351	U6	AP64501SP-13	SOIC-8-1EP_3.9x4.9mm_P1.27mm_EP2.95x4.9mm_Mask2.71x3.4mm_ThermalVias	1	 	https://www.diodes.com/assets/Datasheets/AP64501.pdf	https://www.digikey.ch/de/products/detail/diodes-incorporated/AP64501SP-13/10419715					
-40	I2C Serial EEPROM, 1Kb (128x8) with Unique Serial Number, SOT-23-5	AT24CS01-STUM	U12	AT24CS01-STUM	SOT-23-5	1	 	http://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-8815-SEEPROM-AT24CS01-02-Datasheet.pdf						
-41	Low-Power, Two-Port, High-Speed, USB2.0 (480Mbps) or UART Switch, MSOP-10	FSUSB42MUX	U8	FSUSB42MUX	TSSOP-10_3x3mm_P0.5mm	1	 	https://www.onsemi.com/pub/Collateral/FSUSB42-D.PDF						
+40	I2C Serial EEPROM, 1Kb (128x8) with Unique Serial Number, SOT-23-5	AT24CS01-STUM	U12	AT24CS01-STUM	SOT-23-5	1	 	http://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-8815-SEEPROM-AT24CS01-02-Datasheet.pdf	https://www.digikey.ch/de/products/detail/microchip-technology/AT24CS01-STUM-T/3973063					
+41	Low-Power, Two-Port, High-Speed, USB2.0 (480Mbps) or UART Switch, MSOP-10	FSUSB42MUX	U8	FSUSB42MUX	TSSOP-10_3x3mm_P0.5mm	1	 	https://www.onsemi.com/pub/Collateral/FSUSB42-D.PDF	https://www.digikey.ch/de/products/detail/onsemi/FSUSB42MUX/2036916					
 42		NCP1117-3.3_SOT223	U5	NCP1117-3.3_SOT223	SOT-223-3_TabPin2	1	 	https://www.diodes.com/assets/Datasheets/AZ1117I.pdf	https://www.digikey.ch/de/products/detail/diodes-incorporated/AZ1117IH-3-3TRG1/5699672					
 43		RP2040	U3	RP2040	RP2040-QFN-56	1	 	https://datasheets.raspberrypi.com/rp2040/rp2040-datasheet.pdf	https://www.digikey.ch/de/products/detail/raspberry-pi/SC0914-13/14306010					
 44		TLP2761	U2	TLP2761	SO-6L_10x3.84mm_P1.27mm	1	 	https://toshiba.semicon-storage.com/info/docget.jsp?did=28819&prodName=TLP2761	https://www.digikey.ch/de/products/detail/toshiba-semiconductor-and-storage/TLP2761-TP-E/7809713					
-45	4-Channel ESD Protection for Super-Speed USB 3.0 Interface, USON-10	TPD4EUSB30	U11	TPD4EUSB30	USON-10_2.5x1.0mm_P0.5mm	1	 	http://www.ti.com/lit/ds/symlink/tpd2eusb30a.pdf						
-46	USB 2.0 Hi-Speed Hub Controller	USB2514B_Bi	U9	USB2514B_Bi	QFN-36-1EP_6x6mm_P0.5mm_EP3.7x3.7mm	1	 	http://ww1.microchip.com/downloads/en/DeviceDoc/00001692C.pdf						
+45	4-Channel ESD Protection for Super-Speed USB 3.0 Interface, USON-10	TPD4EUSB30	U11	TPD4EUSB30	USON-10_2.5x1.0mm_P0.5mm	1	 	http://www.ti.com/lit/ds/symlink/tpd2eusb30a.pdf	https://www.digikey.ch/de/products/detail/texas-instruments/TPD4EUSB30DQAR/2503665					
+46	USB 2.0 Hi-Speed Hub Controller	USB2514B_Bi	U9	USB2514B_Bi	QFN-36-1EP_6x6mm_P0.5mm_EP3.7x3.7mm	1	 	http://ww1.microchip.com/downloads/en/DeviceDoc/00001692C.pdf	https://www.digikey.ch/de/products/detail/microchip-technology/USB2514B-I-M2/5639468					
 47		W25Q128JVS-Memory_Flash	U4	W25Q128JVS	SOIC-8_5.23x5.23mm_P1.27mm	1	 	https://www.winbond.com/resource-files/w25q128jv%20revf%2003272018%20plus.pdf	https://www.digikey.ch/de/products/detail/winbond-electronics/W25Q128JVSIQ-TR/5803944					
-48		ABM8-272-T3	X1	ABM8-272-T3	ABM8-272-T3_ABR	1	 	https://mm.digikey.com/Volume0/opasdata/d220001/medias/docus/6387/ABM8_272_T3-3392615-pages.pdf						
+48		ABM8-272-T3	X1	ABM8-272-T3	ABM8-272-T3_ABR	1	 	https://abracon.com/datasheets/ABM8-272-T3.pdf	https://www.digikey.ch/de/products/detail/abracon-llc/ABM8-272-T3/22472366					
 49	Two pin crystal, small symbol	Crystal_Small	Y1	Crystal_Small	Crystal_SMD_5032-2Pin_5.0x3.2mm	1	 	~						
 
 
