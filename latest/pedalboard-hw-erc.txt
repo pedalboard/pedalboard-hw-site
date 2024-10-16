@@ -1,14 +1,10 @@
-ERC report (2024-10-16T14:38:21+0000, Encoding UTF8)
+ERC report (2024-10-16T14:46:30+0000, Encoding UTF8)
 
 ***** Sheet /
 
 ***** Sheet /MIDI/
 
 ***** Sheet /Audio/
-[multiple_net_names]: Both CM4_3V3 and CM4_3V are attached to the same items; CM4_3V3 will be used in the netlist
-    ; warning
-    @(2.3749 mm, 0.4826 mm): Label 'CM4_3V3'
-    @(1.7145 mm, 0.3683 mm): Hierarchical Label 'CM4_3V'
 
 ***** Sheet /Power Supply/
 
@@ -23,4 +19,4 @@ ERC report (2024-10-16T14:38:21+0000, Encoding UTF8)
     ; error (excluded)
     @(2.1336 mm, 0.9271 mm): Symbol U9 Pin 13 [OCS_N1, Input, Line]
 
- ** ERC messages: 2  Errors 0  Warnings 2
+ ** ERC messages: 1  Errors 0  Warnings 1

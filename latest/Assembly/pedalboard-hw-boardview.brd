@@ -343,7 +343,7 @@ NETS: 289
 92 unconnected-(CM1A-AnalogIP1-Pad94)
 93 unconnected-(CM1A-AnalogIP0-Pad96)
 94 unconnected-(CM1A-Camera_GPIO-Pad97)
-95 /Audio/CM4_3V3
+95 /Connectivity/CM4_3V3
 96 /Audio/CM4_GPIO6
 97 /Audio/CM4_GPIO12
 98 /Audio/CM4_GPIO5
