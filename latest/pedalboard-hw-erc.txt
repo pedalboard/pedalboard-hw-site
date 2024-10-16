@@ -1,4 +1,4 @@
-ERC report (2024-10-16T14:13:37+0000, Encoding UTF8)
+ERC report (2024-10-16T14:19:30+0000, Encoding UTF8)
 
 ***** Sheet /
 
@@ -14,9 +14,6 @@ ERC report (2024-10-16T14:13:37+0000, Encoding UTF8)
 [lib_symbol_issues]: The current configuration does not include the library 'CM4IO'
     ; warning
     @(1.3589 mm, 1.2319 mm): Symbol U6 [AP64351]
-[lib_symbol_issues]: The current configuration does not include the library 'pspice'
-    ; warning
-    @(1.6383 mm, 1.0922 mm): Symbol L5 [INDUCTOR]
 
 ***** Sheet /LEDs/
 
@@ -37,4 +34,4 @@ ERC report (2024-10-16T14:13:37+0000, Encoding UTF8)
     ; error (excluded)
     @(2.1336 mm, 0.9271 mm): Symbol U9 Pin 13 [OCS_N1, Input, Line]
 
- ** ERC messages: 6  Errors 0  Warnings 6
+ ** ERC messages: 5  Errors 0  Warnings 5
