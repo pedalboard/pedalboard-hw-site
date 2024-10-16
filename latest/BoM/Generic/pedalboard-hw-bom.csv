@@ -56,8 +56,8 @@ Row,Description,Part,References,Value,Footprint,Quantity Per PCB,Status,Datashee
 Project info:
 Schematic:,pedalboard-hw
 Variant:,default
-Revision:,4.0.0-RC1
-Date:,2023-12-05
+Revision:,4.0.0
+Date:,2024-10-16
 KiCad Version:,8.0.4+1
 Statistics:
 Component Groups:,55

@@ -5,13 +5,13 @@
       "Application": "Pcbnew",
       "Version": "8.0.4+1"
     },
-    "CreationDate": "2024-10-16T16:01:39+00:00"
+    "CreationDate": "2024-10-16T16:29:43+00:00"
   },
   "GeneralSpecs": {
     "ProjectId": {
       "Name": "stencil",
       "GUID": "7374656e-6369-46c2-9e6b-696361645f70",
-      "Revision": "4.0.0-RC1"
+      "Revision": "4.0.0"
     },
     "Size": {
       "X": 174.1,
