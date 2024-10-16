@@ -1,4 +1,4 @@
-ERC report (2024-10-16T14:19:30+0000, Encoding UTF8)
+ERC report (2024-10-16T14:28:38+0000, Encoding UTF8)
 
 ***** Sheet /
 
@@ -11,9 +11,6 @@ ERC report (2024-10-16T14:19:30+0000, Encoding UTF8)
     @(1.7145 mm, 0.3683 mm): Hierarchical Label 'CM4_3V'
 
 ***** Sheet /Power Supply/
-[lib_symbol_issues]: The current configuration does not include the library 'CM4IO'
-    ; warning
-    @(1.3589 mm, 1.2319 mm): Symbol U6 [AP64351]
 
 ***** Sheet /LEDs/
 
@@ -34,4 +31,4 @@ ERC report (2024-10-16T14:19:30+0000, Encoding UTF8)
     ; error (excluded)
     @(2.1336 mm, 0.9271 mm): Symbol U9 Pin 13 [OCS_N1, Input, Line]
 
- ** ERC messages: 5  Errors 0  Warnings 5
+ ** ERC messages: 4  Errors 0  Warnings 4
