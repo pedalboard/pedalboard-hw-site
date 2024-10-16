@@ -359,9 +359,9 @@ NETS: 289
 108 /Audio/CM4_GPIO22
 109 /Audio/CM4_GPIO23
 110 /Audio/CM4_GPIO17
-111 /Audio/CM4_GPIO15
+111 /Audio/INT_MIDI_RX
 112 /Audio/CM4_GPIO4
-113 /Audio/CM4_GPIO14
+113 /Audio/INT_MIDI_TX
 114 unconnected-(CM1A-Global_EN-Pad99)
 115 unconnected-(CM1B-PCIe_CLK_nREQ-Pad102)
 116 unconnected-(CM1B-Reserved-Pad104)
