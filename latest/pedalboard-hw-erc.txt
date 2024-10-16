@@ -1,4 +1,4 @@
-ERC report (2024-10-16T14:46:30+0000, Encoding UTF8)
+ERC report (2024-10-16T14:52:09+0000, Encoding UTF8)
 
 ***** Sheet /
 
@@ -11,12 +11,8 @@ ERC report (2024-10-16T14:46:30+0000, Encoding UTF8)
 ***** Sheet /LEDs/
 
 ***** Sheet /Connectivity/
-[multiple_net_names]: Both CM4_3V3 and CM4_3V are attached to the same items; CM4_3V3 will be used in the netlist
-    ; warning
-    @(2.4511 mm, 0.1778 mm): Label 'CM4_3V3'
-    @(2.5908 mm, 0.1778 mm): Hierarchical Label 'CM4_3V'
 [pin_not_driven]: Input pin not driven by any Output pins
     ; error (excluded)
     @(2.1336 mm, 0.9271 mm): Symbol U9 Pin 13 [OCS_N1, Input, Line]
 
- ** ERC messages: 1  Errors 0  Warnings 1
+ ** ERC messages: 0  Errors 0  Warnings 0
