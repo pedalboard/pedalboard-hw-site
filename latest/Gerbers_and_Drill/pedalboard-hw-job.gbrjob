@@ -5,13 +5,13 @@
       "Application": "Pcbnew",
       "Version": "8.0.4+1"
     },
-    "CreationDate": "2024-10-16T16:42:29+00:00"
+    "CreationDate": "2024-10-16T19:45:57+00:00"
   },
   "GeneralSpecs": {
     "ProjectId": {
       "Name": "pedalboard-hw",
       "GUID": "70656461-6c62-46f6-9172-642d68772e6b",
-      "Revision": "4.0.0"
+      "Revision": "4.0.1-RC"
     },
     "Size": {
       "X": 174.1,
