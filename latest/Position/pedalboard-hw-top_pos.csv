@@ -113,8 +113,8 @@ Ref,Val,Package,PosX,PosY,Rot,Side
 "R27","36K","R_0805_2012Metric",42.6944,83.0144,0.0000,top
 "R28","36K","R_0805_2012Metric",34.2744,78.3200,-90.0000,top
 "R29","36K","R_0805_2012Metric",54.9854,82.8766,-90.0000,top
-"SW1","Rotary","RotaryEncoder_Alps_EC11E-Switch_Vertical_H20mm_CircularMountingHoles",42.2444,99.4944,0.0000,top
-"SW2","Rotary","RotaryEncoder_Alps_EC11E-Switch_Vertical_H20mm_CircularMountingHoles",117.2444,99.4944,0.0000,top
+"SW1","24P/R 24mm","RotaryEncoder_Alps_EC11E-Switch_Vertical_H20mm_CircularMountingHoles",42.2444,99.4944,0.0000,top
+"SW2","24P/R 24mm","RotaryEncoder_Alps_EC11E-Switch_Vertical_H20mm_CircularMountingHoles",117.2444,99.4944,0.0000,top
 "SW3","Micro Button","SW_SPST_B3U-1000P",73.5044,77.3444,90.0000,top
 "SW4","Micro Button","SW_SPST_B3U-1000P",106.0044,86.1344,90.0000,top
 "SW5","Tactile Button","SW_PUSH-12mm_Wuerth",11.9944,63.9944,0.0000,top

@@ -1,0 +1,18 @@
+ERC report (2024-12-15T21:56:22+0000, Encoding UTF8)
+
+***** Sheet /
+
+***** Sheet /MIDI/
+
+***** Sheet /Audio/
+
+***** Sheet /Power Supply/
+
+***** Sheet /LEDs/
+
+***** Sheet /Connectivity/
+[pin_not_driven]: Input pin not driven by any Output pins
+    ; error (excluded)
+    @(2.1336 mm, 0.9271 mm): Symbol U9 Pin 13 [OCS_N1, Input, Line]
+
+ ** ERC messages: 0  Errors 0  Warnings 0

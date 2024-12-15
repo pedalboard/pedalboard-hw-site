@@ -3560,8 +3560,8 @@ LAYER TOP
 ROTATION 0
 SHAPE "Pedalboard Library:RotaryEncoder_Alps_EC11E-Switch_Vertical_H20mm_CircularMountingHoles" 0 0
 TEXT 0.110236 0.169291 0.0393701 0 0 SILKSCREEN_TOP "SW1" 0 0 0.129828 0.0667913
-TEXT 0.147638 0.177165 0.0393701 0 0 SILKSCREEN_TOP "Rotary" 0 0 0.197319 0.0667913
-SHEET "RefDes: SW1, Value: Rotary"
+TEXT 0.147638 0.177165 0.0393701 0 0 SILKSCREEN_TOP "24P/R 24mm" 0 0 0.414792 0.0667913
+SHEET "RefDes: SW1, Value: 24P/R 24mm"
 
 COMPONENT "C9"
 DEVICE "DEV_Capacitor_SMD:C_0805_2012Metric_15"
@@ -4320,8 +4320,8 @@ LAYER TOP
 ROTATION 0
 SHAPE "Pedalboard Library:RotaryEncoder_Alps_EC11E-Switch_Vertical_H20mm_CircularMountingHoles_0" 0 0
 TEXT 0.110236 0.185039 0.0393701 0 0 SILKSCREEN_TOP "SW2" 0 0 0.129828 0.0667913
-TEXT 0.295276 -0.409449 0.0393701 0 0 SILKSCREEN_TOP "Rotary" 0 0 0.197319 0.0667913
-SHEET "RefDes: SW2, Value: Rotary"
+TEXT 0.295276 -0.409449 0.0393701 0 0 SILKSCREEN_TOP "24P/R 24mm" 0 0 0.414792 0.0667913
+SHEET "RefDes: SW2, Value: 24P/R 24mm"
 
 COMPONENT "H16"
 DEVICE "DEV_MountingHole:MountingHole_2.7mm_M2.5_DIN965"
@@ -4959,11 +4959,11 @@ PART "CM4"
 PACKAGE "Pedalboard Library:Raspberry-Pi-4-Compute-Module"
 
 DEVICE "DEV_Pedalboard Library:RotaryEncoder_Alps_EC11E-Switch_Vertical_H20mm_CircularMountingHoles"
-PART "Rotary"
+PART "24P/R 24mm"
 PACKAGE "Pedalboard Library:RotaryEncoder_Alps_EC11E-Switch_Vertical_H20mm_CircularMountingHoles"
 
 DEVICE "DEV_Pedalboard Library:RotaryEncoder_Alps_EC11E-Switch_Vertical_H20mm_CircularMountingHoles_0"
-PART "Rotary"
+PART "24P/R 24mm"
 PACKAGE "Pedalboard Library:RotaryEncoder_Alps_EC11E-Switch_Vertical_H20mm_CircularMountingHoles"
 
 DEVICE "DEV_Pedalboard Library:SO08-E3"
